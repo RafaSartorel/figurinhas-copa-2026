@@ -137,6 +137,7 @@ COL20,COL,Colômbia,20,True
 CPV03,CPV,Cabo Verde,3,True
 CPV06,CPV,Cabo Verde,6,True
 CPV07,CPV,Cabo Verde,7,True
+CPV08,CPV,Cabo Verde,8,True
 CPV09,CPV,Cabo Verde,9,True
 CPV11,CPV,Cabo Verde,11,True
 CPV12,CPV,Cabo Verde,12,True
@@ -285,6 +286,7 @@ IRQ08,IRQ,Iraque,8,True
 IRQ10,IRQ,Iraque,10,True
 IRQ11,IRQ,Iraque,11,True
 IRQ14,IRQ,Iraque,14,True
+IRQ15,IRQ,Iraque,15,True
 IRQ17,IRQ,Iraque,17,True
 IRQ18,IRQ,Iraque,18,True
 IRQ19,IRQ,Iraque,19,True
@@ -329,6 +331,7 @@ KSA05,KSA,Arábia Saudita,5,True
 KSA06,KSA,Arábia Saudita,6,True
 KSA07,KSA,Arábia Saudita,7,True
 KSA09,KSA,Arábia Saudita,9,True
+KSA10,KSA,Arábia Saudita,10,True
 KSA11,KSA,Arábia Saudita,11,True
 KSA12,KSA,Arábia Saudita,12,True
 KSA13,KSA,Arábia Saudita,13,True
@@ -357,6 +360,7 @@ MAR18,MAR,Marrocos,18,True
 MAR19,MAR,Marrocos,19,True
 MAR20,MAR,Marrocos,20,True
 MEX03,MEX,México,3,True
+MEX04,MEX,México,4,True
 MEX05,MEX,México,5,True
 MEX06,MEX,México,6,True
 MEX07,MEX,México,7,True
@@ -390,6 +394,7 @@ NOR11,NOR,Noruega,11,True
 NOR13,NOR,Noruega,13,True
 NOR14,NOR,Noruega,14,True
 NOR18,NOR,Noruega,18,True
+NOR19,NOR,Noruega,19,True
 NOR20,NOR,Noruega,20,True
 NZL02,NZL,Nova Zelândia,2,True
 NZL05,NZL,Nova Zelândia,5,True
@@ -400,7 +405,9 @@ NZL10,NZL,Nova Zelândia,10,True
 NZL11,NZL,Nova Zelândia,11,True
 NZL12,NZL,Nova Zelândia,12,True
 NZL13,NZL,Nova Zelândia,13,True
+NZL14,NZL,Nova Zelândia,14,True
 NZL15,NZL,Nova Zelândia,15,True
+NZL18,NZL,Nova Zelândia,18,True
 NZL19,NZL,Nova Zelândia,19,True
 PAN02,PAN,Panamá,2,True
 PAN03,PAN,Panamá,3,True
@@ -513,6 +520,7 @@ SUI12,SUI,Suíça,12,True
 SUI13,SUI,Suíça,13,True
 SUI14,SUI,Suíça,14,True
 SUI16,SUI,Suíça,16,True
+SUI17,SUI,Suíça,17,True
 SUI18,SUI,Suíça,18,True
 SUI19,SUI,Suíça,19,True
 SUI20,SUI,Suíça,20,True

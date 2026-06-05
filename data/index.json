@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-05T22:05:53Z",
+  "last_updated": "2026-06-05T22:08:45Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -1369,7 +1369,7 @@
       "team_code": "CPV",
       "country": "Cabo Verde",
       "sticker_number": 8,
-      "owned": false
+      "owned": true
     },
     "CPV09": {
       "team_code": "CPV",
@@ -2971,7 +2971,7 @@
       "team_code": "IRQ",
       "country": "Iraque",
       "sticker_number": 15,
-      "owned": false
+      "owned": true
     },
     "IRQ16": {
       "team_code": "IRQ",
@@ -3421,7 +3421,7 @@
       "team_code": "KSA",
       "country": "Arábia Saudita",
       "sticker_number": 10,
-      "owned": false
+      "owned": true
     },
     "KSA11": {
       "team_code": "KSA",
@@ -3625,7 +3625,7 @@
       "team_code": "MEX",
       "country": "México",
       "sticker_number": 4,
-      "owned": false
+      "owned": true
     },
     "MEX05": {
       "team_code": "MEX",
@@ -3955,7 +3955,7 @@
       "team_code": "NOR",
       "country": "Noruega",
       "sticker_number": 19,
-      "owned": false
+      "owned": true
     },
     "NOR20": {
       "team_code": "NOR",
@@ -4045,7 +4045,7 @@
       "team_code": "NZL",
       "country": "Nova Zelândia",
       "sticker_number": 14,
-      "owned": false
+      "owned": true
     },
     "NZL15": {
       "team_code": "NZL",
@@ -4069,7 +4069,7 @@
       "team_code": "NZL",
       "country": "Nova Zelândia",
       "sticker_number": 18,
-      "owned": false
+      "owned": true
     },
     "NZL19": {
       "team_code": "NZL",
@@ -5023,7 +5023,7 @@
       "team_code": "SUI",
       "country": "Suíça",
       "sticker_number": 17,
-      "owned": false
+      "owned": true
     },
     "SUI18": {
       "team_code": "SUI",

@@ -1598,7 +1598,7 @@
       "country": "Cabo Verde",
       "sticker_number": 8,
       "sticker_id": "CPV08",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CPV",
@@ -3467,7 +3467,7 @@
       "country": "Iraque",
       "sticker_number": 15,
       "sticker_id": "IRQ15",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "IRQ",
@@ -3992,7 +3992,7 @@
       "country": "Arábia Saudita",
       "sticker_number": 10,
       "sticker_id": "KSA10",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "KSA",
@@ -4230,7 +4230,7 @@
       "country": "México",
       "sticker_number": 4,
       "sticker_id": "MEX04",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "MEX",
@@ -4615,7 +4615,7 @@
       "country": "Noruega",
       "sticker_number": 19,
       "sticker_id": "NOR19",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "NOR",
@@ -4720,7 +4720,7 @@
       "country": "Nova Zelândia",
       "sticker_number": 14,
       "sticker_id": "NZL14",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "NZL",
@@ -4748,7 +4748,7 @@
       "country": "Nova Zelândia",
       "sticker_number": 18,
       "sticker_id": "NZL18",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "NZL",
@@ -5861,7 +5861,7 @@
       "country": "Suíça",
       "sticker_number": 17,
       "sticker_id": "SUI17",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "SUI",
@@ -6725,11 +6725,17 @@
       "owned": false
     }
   ],
-  "last_updated": "2026-06-05T22:05:53Z",
+  "last_updated": "2026-06-05T22:08:45Z",
   "missing_count": 391,
   "last_update_source": "gpt_image_confirmed",
   "last_added": [
-    "CUW07",
-    "KOR08"
+    "CPV08",
+    "IRQ15",
+    "KSA10",
+    "MEX04",
+    "NOR19",
+    "NZL14",
+    "NZL18",
+    "SUI17"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-05T22:05:53Z",
+  "last_updated": "2026-06-05T22:08:45Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -348,12 +348,13 @@
       "team_code": "CPV",
       "country": "Cabo Verde",
       "stickers_total": 20,
-      "owned_total": 12,
-      "missing_total": 8,
+      "owned_total": 13,
+      "missing_total": 7,
       "owned": [
         "CPV03",
         "CPV06",
         "CPV07",
+        "CPV08",
         "CPV09",
         "CPV11",
         "CPV12",
@@ -369,7 +370,6 @@
         "CPV02",
         "CPV04",
         "CPV05",
-        "CPV08",
         "CPV10",
         "CPV15",
         "CPV19"
@@ -751,8 +751,8 @@
       "team_code": "IRQ",
       "country": "Iraque",
       "stickers_total": 20,
-      "owned_total": 10,
-      "missing_total": 10,
+      "owned_total": 11,
+      "missing_total": 9,
       "owned": [
         "IRQ04",
         "IRQ06",
@@ -760,6 +760,7 @@
         "IRQ10",
         "IRQ11",
         "IRQ14",
+        "IRQ15",
         "IRQ17",
         "IRQ18",
         "IRQ19",
@@ -774,7 +775,6 @@
         "IRQ09",
         "IRQ12",
         "IRQ13",
-        "IRQ15",
         "IRQ16"
       ]
     },
@@ -875,14 +875,15 @@
       "team_code": "KSA",
       "country": "Arábia Saudita",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
         "KSA04",
         "KSA05",
         "KSA06",
         "KSA07",
         "KSA09",
+        "KSA10",
         "KSA11",
         "KSA12",
         "KSA13",
@@ -898,8 +899,7 @@
         "KSA01",
         "KSA02",
         "KSA03",
-        "KSA08",
-        "KSA10"
+        "KSA08"
       ]
     },
     {
@@ -937,10 +937,11 @@
       "team_code": "MEX",
       "country": "México",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
         "MEX03",
+        "MEX04",
         "MEX05",
         "MEX06",
         "MEX07",
@@ -959,7 +960,6 @@
       "missing": [
         "MEX01",
         "MEX02",
-        "MEX04",
         "MEX18",
         "MEX19"
       ]
@@ -999,8 +999,8 @@
       "team_code": "NOR",
       "country": "Noruega",
       "stickers_total": 20,
-      "owned_total": 8,
-      "missing_total": 12,
+      "owned_total": 9,
+      "missing_total": 11,
       "owned": [
         "NOR05",
         "NOR08",
@@ -1009,6 +1009,7 @@
         "NOR13",
         "NOR14",
         "NOR18",
+        "NOR19",
         "NOR20"
       ],
       "missing": [
@@ -1022,16 +1023,15 @@
         "NOR12",
         "NOR15",
         "NOR16",
-        "NOR17",
-        "NOR19"
+        "NOR17"
       ]
     },
     {
       "team_code": "NZL",
       "country": "Nova Zelândia",
       "stickers_total": 20,
-      "owned_total": 11,
-      "missing_total": 9,
+      "owned_total": 13,
+      "missing_total": 7,
       "owned": [
         "NZL02",
         "NZL05",
@@ -1042,7 +1042,9 @@
         "NZL11",
         "NZL12",
         "NZL13",
+        "NZL14",
         "NZL15",
+        "NZL18",
         "NZL19"
       ],
       "missing": [
@@ -1050,10 +1052,8 @@
         "NZL03",
         "NZL04",
         "NZL08",
-        "NZL14",
         "NZL16",
         "NZL17",
-        "NZL18",
         "NZL20"
       ]
     },
@@ -1278,8 +1278,8 @@
       "team_code": "SUI",
       "country": "Suíça",
       "stickers_total": 20,
-      "owned_total": 12,
-      "missing_total": 8,
+      "owned_total": 13,
+      "missing_total": 7,
       "owned": [
         "SUI01",
         "SUI02",
@@ -1290,6 +1290,7 @@
         "SUI13",
         "SUI14",
         "SUI16",
+        "SUI17",
         "SUI18",
         "SUI19",
         "SUI20"
@@ -1301,8 +1302,7 @@
         "SUI07",
         "SUI09",
         "SUI10",
-        "SUI15",
-        "SUI17"
+        "SUI15"
       ]
     },
     {

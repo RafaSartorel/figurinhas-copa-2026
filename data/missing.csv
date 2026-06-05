@@ -88,7 +88,6 @@ CPV01,CPV,Cabo Verde,1,False
 CPV02,CPV,Cabo Verde,2,False
 CPV04,CPV,Cabo Verde,4,False
 CPV05,CPV,Cabo Verde,5,False
-CPV08,CPV,Cabo Verde,8,False
 CPV10,CPV,Cabo Verde,10,False
 CPV15,CPV,Cabo Verde,15,False
 CPV19,CPV,Cabo Verde,19,False
@@ -207,7 +206,6 @@ IRQ07,IRQ,Iraque,7,False
 IRQ09,IRQ,Iraque,9,False
 IRQ12,IRQ,Iraque,12,False
 IRQ13,IRQ,Iraque,13,False
-IRQ15,IRQ,Iraque,15,False
 IRQ16,IRQ,Iraque,16,False
 JOR02,JOR,Jordânia,2,False
 JOR03,JOR,Jordânia,3,False
@@ -238,13 +236,11 @@ KSA01,KSA,Arábia Saudita,1,False
 KSA02,KSA,Arábia Saudita,2,False
 KSA03,KSA,Arábia Saudita,3,False
 KSA08,KSA,Arábia Saudita,8,False
-KSA10,KSA,Arábia Saudita,10,False
 MAR05,MAR,Marrocos,5,False
 MAR12,MAR,Marrocos,12,False
 MAR13,MAR,Marrocos,13,False
 MEX01,MEX,México,1,False
 MEX02,MEX,México,2,False
-MEX04,MEX,México,4,False
 MEX18,MEX,México,18,False
 MEX19,MEX,México,19,False
 NED07,NED,Holanda,7,False
@@ -266,15 +262,12 @@ NOR12,NOR,Noruega,12,False
 NOR15,NOR,Noruega,15,False
 NOR16,NOR,Noruega,16,False
 NOR17,NOR,Noruega,17,False
-NOR19,NOR,Noruega,19,False
 NZL01,NZL,Nova Zelândia,1,False
 NZL03,NZL,Nova Zelândia,3,False
 NZL04,NZL,Nova Zelândia,4,False
 NZL08,NZL,Nova Zelândia,8,False
-NZL14,NZL,Nova Zelândia,14,False
 NZL16,NZL,Nova Zelândia,16,False
 NZL17,NZL,Nova Zelândia,17,False
-NZL18,NZL,Nova Zelândia,18,False
 NZL20,NZL,Nova Zelândia,20,False
 PAN01,PAN,Panamá,1,False
 PAN04,PAN,Panamá,4,False
@@ -321,7 +314,6 @@ SUI07,SUI,Suíça,7,False
 SUI09,SUI,Suíça,9,False
 SUI10,SUI,Suíça,10,False
 SUI15,SUI,Suíça,15,False
-SUI17,SUI,Suíça,17,False
 SWE08,SWE,Suécia,8,False
 SWE13,SWE,Suécia,13,False
 SWE16,SWE,Suécia,16,False
