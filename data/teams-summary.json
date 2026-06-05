@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-05T20:16:31Z",
+  "last_updated": "2026-06-05T20:31:25Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -720,14 +720,15 @@
       "team_code": "IRN",
       "country": "Irã",
       "stickers_total": 20,
-      "owned_total": 10,
-      "missing_total": 10,
+      "owned_total": 11,
+      "missing_total": 9,
       "owned": [
         "IRN02",
         "IRN04",
         "IRN05",
         "IRN08",
         "IRN09",
+        "IRN10",
         "IRN12",
         "IRN13",
         "IRN14",
@@ -739,7 +740,6 @@
         "IRN03",
         "IRN06",
         "IRN07",
-        "IRN10",
         "IRN11",
         "IRN15",
         "IRN16",

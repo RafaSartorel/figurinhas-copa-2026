@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-05T20:16:31Z",
+  "last_updated": "2026-06-05T20:31:25Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -2821,7 +2821,7 @@
       "team_code": "IRN",
       "country": "Irã",
       "sticker_number": 10,
-      "owned": false
+      "owned": true
     },
     "IRN11": {
       "team_code": "IRN",

@@ -1,20 +1,20 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-05T20:16:31Z",
-  "last_update_source": "gpt_text",
+  "last_updated": "2026-06-05T20:31:25Z",
+  "last_update_source": "gpt_image_confirmed",
   "totals": {
     "stickers_total": 960,
-    "owned_total": 570,
-    "missing_total": 390,
-    "progress_percent": 59.38
+    "owned_total": 571,
+    "missing_total": 389,
+    "progress_percent": 59.48
   },
   "last_update_result": {
     "requested": [
-      "BEL09"
+      "IRN10"
     ],
     "added": [
-      "BEL09"
+      "IRN10"
     ],
     "already_owned": [],
     "not_found": []

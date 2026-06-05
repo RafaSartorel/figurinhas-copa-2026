@@ -3292,7 +3292,7 @@
       "country": "Irã",
       "sticker_number": 10,
       "sticker_id": "IRN10",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "IRN",
@@ -6725,10 +6725,10 @@
       "owned": false
     }
   ],
-  "last_updated": "2026-06-05T20:16:31Z",
+  "last_updated": "2026-06-05T20:31:25Z",
   "missing_count": 391,
-  "last_update_source": "gpt_text",
+  "last_update_source": "gpt_image_confirmed",
   "last_added": [
-    "BEL09"
+    "IRN10"
   ]
 }
