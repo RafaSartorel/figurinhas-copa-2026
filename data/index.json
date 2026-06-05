@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-05T22:03:02Z",
+  "last_updated": "2026-06-05T22:05:53Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -1603,7 +1603,7 @@
       "team_code": "CUW",
       "country": "Curaçao",
       "sticker_number": 7,
-      "owned": false
+      "owned": true
     },
     "CUW08": {
       "team_code": "CUW",
@@ -3289,7 +3289,7 @@
       "team_code": "KOR",
       "country": "Coreia do Sul",
       "sticker_number": 8,
-      "owned": false
+      "owned": true
     },
     "KOR09": {
       "team_code": "KOR",

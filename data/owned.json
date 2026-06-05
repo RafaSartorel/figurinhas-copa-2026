@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-05T22:03:02Z",
+  "last_updated": "2026-06-05T22:05:53Z",
   "stickers": [
     "ALG02",
     "ALG03",
@@ -161,6 +161,7 @@
     "CUW03",
     "CUW04",
     "CUW06",
+    "CUW07",
     "CUW08",
     "CUW12",
     "CUW14",
@@ -318,6 +319,7 @@
     "JPN19",
     "KOR03",
     "KOR07",
+    "KOR08",
     "KOR10",
     "KOR11",
     "KOR12",
