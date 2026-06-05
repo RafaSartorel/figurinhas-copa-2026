@@ -1,20 +1,22 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-05T20:31:25Z",
+  "last_updated": "2026-06-05T20:33:34Z",
   "last_update_source": "gpt_image_confirmed",
   "totals": {
     "stickers_total": 960,
-    "owned_total": 571,
-    "missing_total": 389,
-    "progress_percent": 59.48
+    "owned_total": 573,
+    "missing_total": 387,
+    "progress_percent": 59.69
   },
   "last_update_result": {
     "requested": [
-      "IRN10"
+      "FRA15",
+      "SWE11"
     ],
     "added": [
-      "IRN10"
+      "FRA15",
+      "SWE11"
     ],
     "already_owned": [],
     "not_found": []

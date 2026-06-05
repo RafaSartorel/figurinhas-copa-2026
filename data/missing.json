@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-05T20:31:25Z",
+  "last_updated": "2026-06-05T20:33:34Z",
   "stickers": [
     "ALG01",
     "ALG05",
@@ -172,7 +172,6 @@
     "FRA10",
     "FRA12",
     "FRA13",
-    "FRA15",
     "FRA19",
     "GER01",
     "GER03",
@@ -345,7 +344,6 @@
     "SUI17",
     "SUI19",
     "SWE08",
-    "SWE11",
     "SWE12",
     "SWE13",
     "SWE16",

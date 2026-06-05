@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-05T20:31:25Z",
+  "last_updated": "2026-06-05T20:33:34Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -2371,7 +2371,7 @@
       "team_code": "FRA",
       "country": "França",
       "sticker_number": 15,
-      "owned": false
+      "owned": true
     },
     "FRA16": {
       "team_code": "FRA",
@@ -5107,7 +5107,7 @@
       "team_code": "SWE",
       "country": "Suécia",
       "sticker_number": 11,
-      "owned": false
+      "owned": true
     },
     "SWE12": {
       "team_code": "SWE",

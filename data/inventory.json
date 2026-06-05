@@ -2767,7 +2767,7 @@
       "country": "França",
       "sticker_number": 15,
       "sticker_id": "FRA15",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "FRA",
@@ -5959,7 +5959,7 @@
       "country": "Suécia",
       "sticker_number": 11,
       "sticker_id": "SWE11",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "SWE",
@@ -6725,10 +6725,11 @@
       "owned": false
     }
   ],
-  "last_updated": "2026-06-05T20:31:25Z",
+  "last_updated": "2026-06-05T20:33:34Z",
   "missing_count": 391,
   "last_update_source": "gpt_image_confirmed",
   "last_added": [
-    "IRN10"
+    "FRA15",
+    "SWE11"
   ]
 }
