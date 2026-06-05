@@ -1,0 +1,344 @@
+{
+  "schema_version": "1.0",
+  "source": "github",
+  "inventory_url": "https://raw.githubusercontent.com/RafaSartorel/figurinhas-copa-2026/main/data/inventory.json",
+  "last_updated": "2026-06-05",
+  "teams": [
+    {
+      "team_code": "ALG",
+      "country": "Argélia",
+      "total": 20,
+      "owned": 10,
+      "missing": 10
+    },
+    {
+      "team_code": "ARG",
+      "country": "Argentina",
+      "total": 20,
+      "owned": 15,
+      "missing": 5
+    },
+    {
+      "team_code": "AUS",
+      "country": "Austrália",
+      "total": 20,
+      "owned": 13,
+      "missing": 7
+    },
+    {
+      "team_code": "AUT",
+      "country": "Áustria",
+      "total": 20,
+      "owned": 17,
+      "missing": 3
+    },
+    {
+      "team_code": "BEL",
+      "country": "Bélgica",
+      "total": 20,
+      "owned": 13,
+      "missing": 7
+    },
+    {
+      "team_code": "BIH",
+      "country": "Bósnia",
+      "total": 20,
+      "owned": 14,
+      "missing": 6
+    },
+    {
+      "team_code": "BRA",
+      "country": "Brasil",
+      "total": 20,
+      "owned": 12,
+      "missing": 8
+    },
+    {
+      "team_code": "CAN",
+      "country": "Canadá",
+      "total": 20,
+      "owned": 13,
+      "missing": 7
+    },
+    {
+      "team_code": "CIV",
+      "country": "Costa do Marfim",
+      "total": 20,
+      "owned": 5,
+      "missing": 15
+    },
+    {
+      "team_code": "COD",
+      "country": "Congo",
+      "total": 20,
+      "owned": 10,
+      "missing": 10
+    },
+    {
+      "team_code": "COL",
+      "country": "Colômbia",
+      "total": 20,
+      "owned": 12,
+      "missing": 8
+    },
+    {
+      "team_code": "CPV",
+      "country": "Cabo Verde",
+      "total": 20,
+      "owned": 12,
+      "missing": 8
+    },
+    {
+      "team_code": "CRO",
+      "country": "Croácia",
+      "total": 20,
+      "owned": 8,
+      "missing": 12
+    },
+    {
+      "team_code": "CUW",
+      "country": "Curaçao",
+      "total": 20,
+      "owned": 9,
+      "missing": 11
+    },
+    {
+      "team_code": "CZE",
+      "country": "Rep. Tcheca",
+      "total": 20,
+      "owned": 13,
+      "missing": 7
+    },
+    {
+      "team_code": "ECU",
+      "country": "Equador",
+      "total": 20,
+      "owned": 10,
+      "missing": 10
+    },
+    {
+      "team_code": "EGY",
+      "country": "Egito",
+      "total": 20,
+      "owned": 11,
+      "missing": 9
+    },
+    {
+      "team_code": "ENG",
+      "country": "Inglaterra",
+      "total": 20,
+      "owned": 12,
+      "missing": 8
+    },
+    {
+      "team_code": "ESP",
+      "country": "Espanha",
+      "total": 20,
+      "owned": 8,
+      "missing": 12
+    },
+    {
+      "team_code": "FRA",
+      "country": "França",
+      "total": 20,
+      "owned": 11,
+      "missing": 9
+    },
+    {
+      "team_code": "GER",
+      "country": "Alemanha",
+      "total": 20,
+      "owned": 14,
+      "missing": 6
+    },
+    {
+      "team_code": "GHA",
+      "country": "Gana",
+      "total": 20,
+      "owned": 9,
+      "missing": 11
+    },
+    {
+      "team_code": "HAI",
+      "country": "Haiti",
+      "total": 20,
+      "owned": 12,
+      "missing": 8
+    },
+    {
+      "team_code": "IRN",
+      "country": "Irã",
+      "total": 20,
+      "owned": 10,
+      "missing": 10
+    },
+    {
+      "team_code": "IRQ",
+      "country": "Iraque",
+      "total": 20,
+      "owned": 10,
+      "missing": 10
+    },
+    {
+      "team_code": "JOR",
+      "country": "Jordânia",
+      "total": 20,
+      "owned": 17,
+      "missing": 3
+    },
+    {
+      "team_code": "JPN",
+      "country": "Japão",
+      "total": 20,
+      "owned": 7,
+      "missing": 13
+    },
+    {
+      "team_code": "KOR",
+      "country": "Coreia do Sul",
+      "total": 20,
+      "owned": 9,
+      "missing": 11
+    },
+    {
+      "team_code": "KSA",
+      "country": "Arábia Saudita",
+      "total": 20,
+      "owned": 14,
+      "missing": 6
+    },
+    {
+      "team_code": "MAR",
+      "country": "Marrocos",
+      "total": 20,
+      "owned": 17,
+      "missing": 3
+    },
+    {
+      "team_code": "MEX",
+      "country": "México",
+      "total": 20,
+      "owned": 15,
+      "missing": 5
+    },
+    {
+      "team_code": "NED",
+      "country": "Holanda",
+      "total": 20,
+      "owned": 12,
+      "missing": 8
+    },
+    {
+      "team_code": "NOR",
+      "country": "Noruega",
+      "total": 20,
+      "owned": 7,
+      "missing": 13
+    },
+    {
+      "team_code": "NZL",
+      "country": "Nova Zelândia",
+      "total": 20,
+      "owned": 9,
+      "missing": 11
+    },
+    {
+      "team_code": "PAN",
+      "country": "Panamá",
+      "total": 20,
+      "owned": 11,
+      "missing": 9
+    },
+    {
+      "team_code": "PAR",
+      "country": "Paraguai",
+      "total": 20,
+      "owned": 9,
+      "missing": 11
+    },
+    {
+      "team_code": "POR",
+      "country": "Portugal",
+      "total": 20,
+      "owned": 13,
+      "missing": 7
+    },
+    {
+      "team_code": "QAT",
+      "country": "Catar",
+      "total": 20,
+      "owned": 16,
+      "missing": 4
+    },
+    {
+      "team_code": "RSA",
+      "country": "África do Sul",
+      "total": 20,
+      "owned": 15,
+      "missing": 5
+    },
+    {
+      "team_code": "SCO",
+      "country": "Escócia",
+      "total": 20,
+      "owned": 16,
+      "missing": 4
+    },
+    {
+      "team_code": "SEN",
+      "country": "Senegal",
+      "total": 20,
+      "owned": 16,
+      "missing": 4
+    },
+    {
+      "team_code": "SUI",
+      "country": "Suíça",
+      "total": 20,
+      "owned": 11,
+      "missing": 9
+    },
+    {
+      "team_code": "SWE",
+      "country": "Suécia",
+      "total": 20,
+      "owned": 13,
+      "missing": 7
+    },
+    {
+      "team_code": "TUN",
+      "country": "Tunísia",
+      "total": 20,
+      "owned": 14,
+      "missing": 6
+    },
+    {
+      "team_code": "TUR",
+      "country": "Turquia",
+      "total": 20,
+      "owned": 11,
+      "missing": 9
+    },
+    {
+      "team_code": "URU",
+      "country": "Uruguai",
+      "total": 20,
+      "owned": 17,
+      "missing": 3
+    },
+    {
+      "team_code": "USA",
+      "country": "Estados Unidos",
+      "total": 20,
+      "owned": 6,
+      "missing": 14
+    },
+    {
+      "team_code": "UZB",
+      "country": "Uzbequistão",
+      "total": 20,
+      "owned": 11,
+      "missing": 9
+    }
+  ]
+}

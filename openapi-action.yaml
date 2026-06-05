@@ -1,0 +1,63 @@
+openapi: 3.1.0
+info:
+  title: Figurinhas Copa 2026 API
+  description: Consulta arquivos oficiais da coleção de figurinhas da Copa 2026 no GitHub.
+  version: 1.2.0
+servers:
+  - url: https://raw.githubusercontent.com
+paths:
+  /RafaSartorel/figurinhas-copa-2026/main/data/summary.json:
+    get:
+      operationId: getCollectionSummary
+      summary: Obter resumo da coleção
+      responses:
+        "200":
+          description: Resumo retornado com sucesso.
+          content:
+            application/json:
+              schema:
+                type: object
+  /RafaSartorel/figurinhas-copa-2026/main/data/owned.json:
+    get:
+      operationId: getOwnedStickers
+      summary: Obter figurinhas que já tenho
+      responses:
+        "200":
+          description: Lista retornada com sucesso.
+          content:
+            application/json:
+              schema:
+                type: object
+  /RafaSartorel/figurinhas-copa-2026/main/data/missing.json:
+    get:
+      operationId: getMissingStickers
+      summary: Obter figurinhas que faltam
+      responses:
+        "200":
+          description: Lista retornada com sucesso.
+          content:
+            application/json:
+              schema:
+                type: object
+  /RafaSartorel/figurinhas-copa-2026/main/data/index.json:
+    get:
+      operationId: getStickerIndex
+      summary: Obter índice completo por sticker_id
+      responses:
+        "200":
+          description: Índice retornado com sucesso.
+          content:
+            application/json:
+              schema:
+                type: object
+  /RafaSartorel/figurinhas-copa-2026/main/data/teams-summary.json:
+    get:
+      operationId: getTeamsSummary
+      summary: Obter resumo por seleção
+      responses:
+        "200":
+          description: Resumo por seleção retornado com sucesso.
+          content:
+            application/json:
+              schema:
+                type: object
