@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-05T20:34:33Z",
+  "last_updated": "2026-06-05T20:39:52Z",
   "last_update_source": "gpt_image_confirmed",
   "totals": {
     "stickers_total": 960,
@@ -17,13 +17,12 @@
       "POR13",
       "SWE11"
     ],
-    "added": [
-      "IRN06",
-      "IRN15",
-      "POR13"
-    ],
+    "added": [],
     "already_owned": [
+      "IRN06",
       "IRN10",
+      "IRN15",
+      "POR13",
       "SWE11"
     ],
     "not_found": []
