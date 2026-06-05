@@ -112,7 +112,6 @@ CUW09,CUW,Curaçao,9,False
 CUW10,CUW,Curaçao,10,False
 CUW11,CUW,Curaçao,11,False
 CUW13,CUW,Curaçao,13,False
-CUW14,CUW,Curaçao,14,False
 CUW16,CUW,Curaçao,16,False
 CUW20,CUW,Curaçao,20,False
 CZE03,CZE,Rep. Tcheca,3,False
@@ -292,7 +291,6 @@ PAN11,PAN,Panamá,11,False
 PAN12,PAN,Panamá,12,False
 PAN15,PAN,Panamá,15,False
 PAN17,PAN,Panamá,17,False
-PAN19,PAN,Panamá,19,False
 PAR01,PAR,Paraguai,1,False
 PAR02,PAR,Paraguai,2,False
 PAR04,PAR,Paraguai,4,False
@@ -310,10 +308,7 @@ POR04,POR,Portugal,4,False
 POR05,POR,Portugal,5,False
 POR08,POR,Portugal,8,False
 POR17,POR,Portugal,17,False
-QAT04,QAT,Catar,4,False
-QAT15,QAT,Catar,15,False
 QAT17,QAT,Catar,17,False
-QAT19,QAT,Catar,19,False
 RSA07,RSA,África do Sul,7,False
 RSA12,RSA,África do Sul,12,False
 RSA15,RSA,África do Sul,15,False
@@ -335,7 +330,6 @@ SUI09,SUI,Suíça,9,False
 SUI10,SUI,Suíça,10,False
 SUI15,SUI,Suíça,15,False
 SUI17,SUI,Suíça,17,False
-SUI19,SUI,Suíça,19,False
 SWE08,SWE,Suécia,8,False
 SWE12,SWE,Suécia,12,False
 SWE13,SWE,Suécia,13,False
@@ -369,7 +363,6 @@ USA07,USA,Estados Unidos,7,False
 USA08,USA,Estados Unidos,8,False
 USA09,USA,Estados Unidos,9,False
 USA11,USA,Estados Unidos,11,False
-USA12,USA,Estados Unidos,12,False
 USA14,USA,Estados Unidos,14,False
 USA15,USA,Estados Unidos,15,False
 USA19,USA,Estados Unidos,19,False

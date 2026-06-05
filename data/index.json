@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-05T20:39:52Z",
+  "last_updated": "2026-06-05T21:57:26Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -1645,7 +1645,7 @@
       "team_code": "CUW",
       "country": "Curaçao",
       "sticker_number": 14,
-      "owned": false
+      "owned": true
     },
     "CUW15": {
       "team_code": "CUW",
@@ -4195,7 +4195,7 @@
       "team_code": "PAN",
       "country": "Panamá",
       "sticker_number": 19,
-      "owned": false
+      "owned": true
     },
     "PAN20": {
       "team_code": "PAN",
@@ -4465,7 +4465,7 @@
       "team_code": "QAT",
       "country": "Catar",
       "sticker_number": 4,
-      "owned": false
+      "owned": true
     },
     "QAT05": {
       "team_code": "QAT",
@@ -4531,7 +4531,7 @@
       "team_code": "QAT",
       "country": "Catar",
       "sticker_number": 15,
-      "owned": false
+      "owned": true
     },
     "QAT16": {
       "team_code": "QAT",
@@ -4555,7 +4555,7 @@
       "team_code": "QAT",
       "country": "Catar",
       "sticker_number": 19,
-      "owned": false
+      "owned": true
     },
     "QAT20": {
       "team_code": "QAT",
@@ -5035,7 +5035,7 @@
       "team_code": "SUI",
       "country": "Suíça",
       "sticker_number": 19,
-      "owned": false
+      "owned": true
     },
     "SUI20": {
       "team_code": "SUI",
@@ -5593,7 +5593,7 @@
       "team_code": "USA",
       "country": "Estados Unidos",
       "sticker_number": 12,
-      "owned": false
+      "owned": true
     },
     "USA13": {
       "team_code": "USA",

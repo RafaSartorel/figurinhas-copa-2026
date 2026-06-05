@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-05T20:39:52Z",
+  "last_updated": "2026-06-05T21:57:26Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -410,14 +410,15 @@
       "team_code": "CUW",
       "country": "Curaçao",
       "stickers_total": 20,
-      "owned_total": 9,
-      "missing_total": 11,
+      "owned_total": 10,
+      "missing_total": 10,
       "owned": [
         "CUW03",
         "CUW04",
         "CUW06",
         "CUW08",
         "CUW12",
+        "CUW14",
         "CUW15",
         "CUW17",
         "CUW18",
@@ -432,7 +433,6 @@
         "CUW10",
         "CUW11",
         "CUW13",
-        "CUW14",
         "CUW16",
         "CUW20"
       ]
@@ -1061,8 +1061,8 @@
       "team_code": "PAN",
       "country": "Panamá",
       "stickers_total": 20,
-      "owned_total": 11,
-      "missing_total": 9,
+      "owned_total": 12,
+      "missing_total": 8,
       "owned": [
         "PAN02",
         "PAN03",
@@ -1074,6 +1074,7 @@
         "PAN14",
         "PAN16",
         "PAN18",
+        "PAN19",
         "PAN20"
       ],
       "missing": [
@@ -1084,8 +1085,7 @@
         "PAN11",
         "PAN12",
         "PAN15",
-        "PAN17",
-        "PAN19"
+        "PAN17"
       ]
     },
     {
@@ -1154,12 +1154,13 @@
       "team_code": "QAT",
       "country": "Catar",
       "stickers_total": 20,
-      "owned_total": 16,
-      "missing_total": 4,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "QAT01",
         "QAT02",
         "QAT03",
+        "QAT04",
         "QAT05",
         "QAT06",
         "QAT07",
@@ -1170,15 +1171,14 @@
         "QAT12",
         "QAT13",
         "QAT14",
+        "QAT15",
         "QAT16",
         "QAT18",
+        "QAT19",
         "QAT20"
       ],
       "missing": [
-        "QAT04",
-        "QAT15",
-        "QAT17",
-        "QAT19"
+        "QAT17"
       ]
     },
     {
@@ -1278,8 +1278,8 @@
       "team_code": "SUI",
       "country": "Suíça",
       "stickers_total": 20,
-      "owned_total": 11,
-      "missing_total": 9,
+      "owned_total": 12,
+      "missing_total": 8,
       "owned": [
         "SUI01",
         "SUI02",
@@ -1291,6 +1291,7 @@
         "SUI14",
         "SUI16",
         "SUI18",
+        "SUI19",
         "SUI20"
       ],
       "missing": [
@@ -1301,8 +1302,7 @@
         "SUI09",
         "SUI10",
         "SUI15",
-        "SUI17",
-        "SUI19"
+        "SUI17"
       ]
     },
     {
@@ -1433,11 +1433,12 @@
       "team_code": "USA",
       "country": "Estados Unidos",
       "stickers_total": 20,
-      "owned_total": 6,
-      "missing_total": 14,
+      "owned_total": 7,
+      "missing_total": 13,
       "owned": [
         "USA06",
         "USA10",
+        "USA12",
         "USA13",
         "USA16",
         "USA17",
@@ -1453,7 +1454,6 @@
         "USA08",
         "USA09",
         "USA11",
-        "USA12",
         "USA14",
         "USA15",
         "USA19",

@@ -159,6 +159,7 @@ CUW04,CUW,Curaçao,4,True
 CUW06,CUW,Curaçao,6,True
 CUW08,CUW,Curaçao,8,True
 CUW12,CUW,Curaçao,12,True
+CUW14,CUW,Curaçao,14,True
 CUW15,CUW,Curaçao,15,True
 CUW17,CUW,Curaçao,17,True
 CUW18,CUW,Curaçao,18,True
@@ -404,6 +405,7 @@ PAN13,PAN,Panamá,13,True
 PAN14,PAN,Panamá,14,True
 PAN16,PAN,Panamá,16,True
 PAN18,PAN,Panamá,18,True
+PAN19,PAN,Panamá,19,True
 PAN20,PAN,Panamá,20,True
 PAR03,PAR,Paraguai,3,True
 PAR05,PAR,Paraguai,5,True
@@ -431,6 +433,7 @@ POR20,POR,Portugal,20,True
 QAT01,QAT,Catar,1,True
 QAT02,QAT,Catar,2,True
 QAT03,QAT,Catar,3,True
+QAT04,QAT,Catar,4,True
 QAT05,QAT,Catar,5,True
 QAT06,QAT,Catar,6,True
 QAT07,QAT,Catar,7,True
@@ -441,8 +444,10 @@ QAT11,QAT,Catar,11,True
 QAT12,QAT,Catar,12,True
 QAT13,QAT,Catar,13,True
 QAT14,QAT,Catar,14,True
+QAT15,QAT,Catar,15,True
 QAT16,QAT,Catar,16,True
 QAT18,QAT,Catar,18,True
+QAT19,QAT,Catar,19,True
 QAT20,QAT,Catar,20,True
 RSA01,RSA,África do Sul,1,True
 RSA02,RSA,África do Sul,2,True
@@ -501,6 +506,7 @@ SUI13,SUI,Suíça,13,True
 SUI14,SUI,Suíça,14,True
 SUI16,SUI,Suíça,16,True
 SUI18,SUI,Suíça,18,True
+SUI19,SUI,Suíça,19,True
 SUI20,SUI,Suíça,20,True
 SWE01,SWE,Suécia,1,True
 SWE02,SWE,Suécia,2,True
@@ -560,6 +566,7 @@ URU19,URU,Uruguai,19,True
 URU20,URU,Uruguai,20,True
 USA06,USA,Estados Unidos,6,True
 USA10,USA,Estados Unidos,10,True
+USA12,USA,Estados Unidos,12,True
 USA13,USA,Estados Unidos,13,True
 USA16,USA,Estados Unidos,16,True
 USA17,USA,Estados Unidos,17,True
