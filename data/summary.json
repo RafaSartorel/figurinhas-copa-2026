@@ -1,32 +1,32 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-05T21:57:26Z",
+  "last_updated": "2026-06-05T22:03:02Z",
   "last_update_source": "gpt_image_confirmed",
   "totals": {
     "stickers_total": 960,
-    "owned_total": 583,
-    "missing_total": 377,
-    "progress_percent": 60.73
+    "owned_total": 590,
+    "missing_total": 370,
+    "progress_percent": 61.46
   },
   "last_update_result": {
     "requested": [
-      "CUW14",
-      "PAN19",
-      "QAT04",
-      "QAT15",
-      "QAT19",
-      "SUI19",
-      "USA12"
+      "KOR12",
+      "KSA06",
+      "NOR20",
+      "NZL09",
+      "NZL12",
+      "PAN15",
+      "SWE12"
     ],
     "added": [
-      "CUW14",
-      "PAN19",
-      "QAT04",
-      "QAT15",
-      "QAT19",
-      "SUI19",
-      "USA12"
+      "KOR12",
+      "KSA06",
+      "NOR20",
+      "NZL09",
+      "NZL12",
+      "PAN15",
+      "SWE12"
     ],
     "already_owned": [],
     "not_found": []

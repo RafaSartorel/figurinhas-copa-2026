@@ -3866,7 +3866,7 @@
       "country": "Coreia do Sul",
       "sticker_number": 12,
       "sticker_id": "KOR12",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "KOR",
@@ -3964,7 +3964,7 @@
       "country": "Arábia Saudita",
       "sticker_number": 6,
       "sticker_id": "KSA06",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "KSA",
@@ -4622,7 +4622,7 @@
       "country": "Noruega",
       "sticker_number": 20,
       "sticker_id": "NOR20",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "NZL",
@@ -4685,7 +4685,7 @@
       "country": "Nova Zelândia",
       "sticker_number": 9,
       "sticker_id": "NZL09",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "NZL",
@@ -4706,7 +4706,7 @@
       "country": "Nova Zelândia",
       "sticker_number": 12,
       "sticker_id": "NZL12",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "NZL",
@@ -4867,7 +4867,7 @@
       "country": "Panamá",
       "sticker_number": 15,
       "sticker_id": "PAN15",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "PAN",
@@ -5966,7 +5966,7 @@
       "country": "Suécia",
       "sticker_number": 12,
       "sticker_id": "SWE12",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "SWE",
@@ -6725,16 +6725,16 @@
       "owned": false
     }
   ],
-  "last_updated": "2026-06-05T21:57:26Z",
+  "last_updated": "2026-06-05T22:03:02Z",
   "missing_count": 391,
   "last_update_source": "gpt_image_confirmed",
   "last_added": [
-    "CUW14",
-    "PAN19",
-    "QAT04",
-    "QAT15",
-    "QAT19",
-    "SUI19",
-    "USA12"
+    "KOR12",
+    "KSA06",
+    "NOR20",
+    "NZL09",
+    "NZL12",
+    "PAN15",
+    "SWE12"
   ]
 }

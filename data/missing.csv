@@ -233,14 +233,12 @@ KOR05,KOR,Coreia do Sul,5,False
 KOR06,KOR,Coreia do Sul,6,False
 KOR08,KOR,Coreia do Sul,8,False
 KOR09,KOR,Coreia do Sul,9,False
-KOR12,KOR,Coreia do Sul,12,False
 KOR14,KOR,Coreia do Sul,14,False
 KOR17,KOR,Coreia do Sul,17,False
 KOR18,KOR,Coreia do Sul,18,False
 KSA01,KSA,Arábia Saudita,1,False
 KSA02,KSA,Arábia Saudita,2,False
 KSA03,KSA,Arábia Saudita,3,False
-KSA06,KSA,Arábia Saudita,6,False
 KSA08,KSA,Arábia Saudita,8,False
 KSA10,KSA,Arábia Saudita,10,False
 MAR05,MAR,Marrocos,5,False
@@ -271,13 +269,10 @@ NOR15,NOR,Noruega,15,False
 NOR16,NOR,Noruega,16,False
 NOR17,NOR,Noruega,17,False
 NOR19,NOR,Noruega,19,False
-NOR20,NOR,Noruega,20,False
 NZL01,NZL,Nova Zelândia,1,False
 NZL03,NZL,Nova Zelândia,3,False
 NZL04,NZL,Nova Zelândia,4,False
 NZL08,NZL,Nova Zelândia,8,False
-NZL09,NZL,Nova Zelândia,9,False
-NZL12,NZL,Nova Zelândia,12,False
 NZL14,NZL,Nova Zelândia,14,False
 NZL16,NZL,Nova Zelândia,16,False
 NZL17,NZL,Nova Zelândia,17,False
@@ -289,7 +284,6 @@ PAN07,PAN,Panamá,7,False
 PAN08,PAN,Panamá,8,False
 PAN11,PAN,Panamá,11,False
 PAN12,PAN,Panamá,12,False
-PAN15,PAN,Panamá,15,False
 PAN17,PAN,Panamá,17,False
 PAR01,PAR,Paraguai,1,False
 PAR02,PAR,Paraguai,2,False
@@ -331,7 +325,6 @@ SUI10,SUI,Suíça,10,False
 SUI15,SUI,Suíça,15,False
 SUI17,SUI,Suíça,17,False
 SWE08,SWE,Suécia,8,False
-SWE12,SWE,Suécia,12,False
 SWE13,SWE,Suécia,13,False
 SWE16,SWE,Suécia,16,False
 SWE18,SWE,Suécia,18,False

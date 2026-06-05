@@ -316,6 +316,7 @@ KOR03,KOR,Coreia do Sul,3,True
 KOR07,KOR,Coreia do Sul,7,True
 KOR10,KOR,Coreia do Sul,10,True
 KOR11,KOR,Coreia do Sul,11,True
+KOR12,KOR,Coreia do Sul,12,True
 KOR13,KOR,Coreia do Sul,13,True
 KOR15,KOR,Coreia do Sul,15,True
 KOR16,KOR,Coreia do Sul,16,True
@@ -323,6 +324,7 @@ KOR19,KOR,Coreia do Sul,19,True
 KOR20,KOR,Coreia do Sul,20,True
 KSA04,KSA,Arábia Saudita,4,True
 KSA05,KSA,Arábia Saudita,5,True
+KSA06,KSA,Arábia Saudita,6,True
 KSA07,KSA,Arábia Saudita,7,True
 KSA09,KSA,Arábia Saudita,9,True
 KSA11,KSA,Arábia Saudita,11,True
@@ -386,12 +388,15 @@ NOR11,NOR,Noruega,11,True
 NOR13,NOR,Noruega,13,True
 NOR14,NOR,Noruega,14,True
 NOR18,NOR,Noruega,18,True
+NOR20,NOR,Noruega,20,True
 NZL02,NZL,Nova Zelândia,2,True
 NZL05,NZL,Nova Zelândia,5,True
 NZL06,NZL,Nova Zelândia,6,True
 NZL07,NZL,Nova Zelândia,7,True
+NZL09,NZL,Nova Zelândia,9,True
 NZL10,NZL,Nova Zelândia,10,True
 NZL11,NZL,Nova Zelândia,11,True
+NZL12,NZL,Nova Zelândia,12,True
 NZL13,NZL,Nova Zelândia,13,True
 NZL15,NZL,Nova Zelândia,15,True
 NZL19,NZL,Nova Zelândia,19,True
@@ -403,6 +408,7 @@ PAN09,PAN,Panamá,9,True
 PAN10,PAN,Panamá,10,True
 PAN13,PAN,Panamá,13,True
 PAN14,PAN,Panamá,14,True
+PAN15,PAN,Panamá,15,True
 PAN16,PAN,Panamá,16,True
 PAN18,PAN,Panamá,18,True
 PAN19,PAN,Panamá,19,True
@@ -518,6 +524,7 @@ SWE07,SWE,Suécia,7,True
 SWE09,SWE,Suécia,9,True
 SWE10,SWE,Suécia,10,True
 SWE11,SWE,Suécia,11,True
+SWE12,SWE,Suécia,12,True
 SWE14,SWE,Suécia,14,True
 SWE15,SWE,Suécia,15,True
 SWE17,SWE,Suécia,17,True

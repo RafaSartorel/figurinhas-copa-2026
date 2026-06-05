@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-05T21:57:26Z",
+  "last_updated": "2026-06-05T22:03:02Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -844,13 +844,14 @@
       "team_code": "KOR",
       "country": "Coreia do Sul",
       "stickers_total": 20,
-      "owned_total": 9,
-      "missing_total": 11,
+      "owned_total": 10,
+      "missing_total": 10,
       "owned": [
         "KOR03",
         "KOR07",
         "KOR10",
         "KOR11",
+        "KOR12",
         "KOR13",
         "KOR15",
         "KOR16",
@@ -865,7 +866,6 @@
         "KOR06",
         "KOR08",
         "KOR09",
-        "KOR12",
         "KOR14",
         "KOR17",
         "KOR18"
@@ -875,11 +875,12 @@
       "team_code": "KSA",
       "country": "Arábia Saudita",
       "stickers_total": 20,
-      "owned_total": 14,
-      "missing_total": 6,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
         "KSA04",
         "KSA05",
+        "KSA06",
         "KSA07",
         "KSA09",
         "KSA11",
@@ -897,7 +898,6 @@
         "KSA01",
         "KSA02",
         "KSA03",
-        "KSA06",
         "KSA08",
         "KSA10"
       ]
@@ -999,8 +999,8 @@
       "team_code": "NOR",
       "country": "Noruega",
       "stickers_total": 20,
-      "owned_total": 7,
-      "missing_total": 13,
+      "owned_total": 8,
+      "missing_total": 12,
       "owned": [
         "NOR05",
         "NOR08",
@@ -1008,7 +1008,8 @@
         "NOR11",
         "NOR13",
         "NOR14",
-        "NOR18"
+        "NOR18",
+        "NOR20"
       ],
       "missing": [
         "NOR01",
@@ -1022,23 +1023,24 @@
         "NOR15",
         "NOR16",
         "NOR17",
-        "NOR19",
-        "NOR20"
+        "NOR19"
       ]
     },
     {
       "team_code": "NZL",
       "country": "Nova Zelândia",
       "stickers_total": 20,
-      "owned_total": 9,
-      "missing_total": 11,
+      "owned_total": 11,
+      "missing_total": 9,
       "owned": [
         "NZL02",
         "NZL05",
         "NZL06",
         "NZL07",
+        "NZL09",
         "NZL10",
         "NZL11",
+        "NZL12",
         "NZL13",
         "NZL15",
         "NZL19"
@@ -1048,8 +1050,6 @@
         "NZL03",
         "NZL04",
         "NZL08",
-        "NZL09",
-        "NZL12",
         "NZL14",
         "NZL16",
         "NZL17",
@@ -1061,8 +1061,8 @@
       "team_code": "PAN",
       "country": "Panamá",
       "stickers_total": 20,
-      "owned_total": 12,
-      "missing_total": 8,
+      "owned_total": 13,
+      "missing_total": 7,
       "owned": [
         "PAN02",
         "PAN03",
@@ -1072,6 +1072,7 @@
         "PAN10",
         "PAN13",
         "PAN14",
+        "PAN15",
         "PAN16",
         "PAN18",
         "PAN19",
@@ -1084,7 +1085,6 @@
         "PAN08",
         "PAN11",
         "PAN12",
-        "PAN15",
         "PAN17"
       ]
     },
@@ -1309,8 +1309,8 @@
       "team_code": "SWE",
       "country": "Suécia",
       "stickers_total": 20,
-      "owned_total": 14,
-      "missing_total": 6,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
         "SWE01",
         "SWE02",
@@ -1322,6 +1322,7 @@
         "SWE09",
         "SWE10",
         "SWE11",
+        "SWE12",
         "SWE14",
         "SWE15",
         "SWE17",
@@ -1329,7 +1330,6 @@
       ],
       "missing": [
         "SWE08",
-        "SWE12",
         "SWE13",
         "SWE16",
         "SWE18",

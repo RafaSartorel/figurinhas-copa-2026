@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-05T21:57:26Z",
+  "last_updated": "2026-06-05T22:03:02Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -3313,7 +3313,7 @@
       "team_code": "KOR",
       "country": "Coreia do Sul",
       "sticker_number": 12,
-      "owned": false
+      "owned": true
     },
     "KOR13": {
       "team_code": "KOR",
@@ -3397,7 +3397,7 @@
       "team_code": "KSA",
       "country": "Arábia Saudita",
       "sticker_number": 6,
-      "owned": false
+      "owned": true
     },
     "KSA07": {
       "team_code": "KSA",
@@ -3961,7 +3961,7 @@
       "team_code": "NOR",
       "country": "Noruega",
       "sticker_number": 20,
-      "owned": false
+      "owned": true
     },
     "NZL01": {
       "team_code": "NZL",
@@ -4015,7 +4015,7 @@
       "team_code": "NZL",
       "country": "Nova Zelândia",
       "sticker_number": 9,
-      "owned": false
+      "owned": true
     },
     "NZL10": {
       "team_code": "NZL",
@@ -4033,7 +4033,7 @@
       "team_code": "NZL",
       "country": "Nova Zelândia",
       "sticker_number": 12,
-      "owned": false
+      "owned": true
     },
     "NZL13": {
       "team_code": "NZL",
@@ -4171,7 +4171,7 @@
       "team_code": "PAN",
       "country": "Panamá",
       "sticker_number": 15,
-      "owned": false
+      "owned": true
     },
     "PAN16": {
       "team_code": "PAN",
@@ -5113,7 +5113,7 @@
       "team_code": "SWE",
       "country": "Suécia",
       "sticker_number": 12,
-      "owned": false
+      "owned": true
     },
     "SWE13": {
       "team_code": "SWE",
