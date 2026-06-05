@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Sticker Inventory",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "id_format",
+    "stickers"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string"
+    },
+    "id_format": {
+      "type": "string"
+    },
+    "total_stickers": {
+      "type": "integer"
+    },
+    "owned_count": {
+      "type": "integer"
+    },
+    "stickers": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "sticker_id",
+          "team_code",
+          "country",
+          "sticker_number",
+          "owned"
+        ],
+        "properties": {
+          "sticker_id": {
+            "type": "string"
+          },
+          "team_code": {
+            "type": "string"
+          },
+          "country": {
+            "type": "string"
+          },
+          "sticker_number": {
+            "type": "integer"
+          },
+          "owned": {
+            "type": "boolean"
+          }
+        }
+      }
+    }
+  }
+}
