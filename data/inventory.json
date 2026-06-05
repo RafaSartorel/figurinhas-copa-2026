@@ -3264,7 +3264,7 @@
       "country": "Irã",
       "sticker_number": 6,
       "sticker_id": "IRN06",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "IRN",
@@ -3327,7 +3327,7 @@
       "country": "Irã",
       "sticker_number": 15,
       "sticker_id": "IRN15",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "IRN",
@@ -5133,7 +5133,7 @@
       "country": "Portugal",
       "sticker_number": 13,
       "sticker_id": "POR13",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "POR",
@@ -6725,11 +6725,12 @@
       "owned": false
     }
   ],
-  "last_updated": "2026-06-05T20:33:34Z",
+  "last_updated": "2026-06-05T20:34:33Z",
   "missing_count": 391,
   "last_update_source": "gpt_image_confirmed",
   "last_added": [
-    "FRA15",
-    "SWE11"
+    "IRN06",
+    "IRN15",
+    "POR13"
   ]
 }

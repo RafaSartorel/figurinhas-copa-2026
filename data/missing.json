@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-05T20:33:34Z",
+  "last_updated": "2026-06-05T20:34:33Z",
   "stickers": [
     "ALG01",
     "ALG05",
@@ -200,10 +200,8 @@
     "HAI18",
     "IRN01",
     "IRN03",
-    "IRN06",
     "IRN07",
     "IRN11",
-    "IRN15",
     "IRN16",
     "IRN19",
     "IRN20",
@@ -315,7 +313,6 @@
     "POR04",
     "POR05",
     "POR08",
-    "POR13",
     "POR17",
     "QAT04",
     "QAT15",

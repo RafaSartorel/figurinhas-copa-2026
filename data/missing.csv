@@ -196,10 +196,8 @@ HAI17,HAI,Haiti,17,False
 HAI18,HAI,Haiti,18,False
 IRN01,IRN,Irã,1,False
 IRN03,IRN,Irã,3,False
-IRN06,IRN,Irã,6,False
 IRN07,IRN,Irã,7,False
 IRN11,IRN,Irã,11,False
-IRN15,IRN,Irã,15,False
 IRN16,IRN,Irã,16,False
 IRN19,IRN,Irã,19,False
 IRN20,IRN,Irã,20,False
@@ -311,7 +309,6 @@ POR03,POR,Portugal,3,False
 POR04,POR,Portugal,4,False
 POR05,POR,Portugal,5,False
 POR08,POR,Portugal,8,False
-POR13,POR,Portugal,13,False
 POR17,POR,Portugal,17,False
 QAT04,QAT,Catar,4,False
 QAT15,QAT,Catar,15,False

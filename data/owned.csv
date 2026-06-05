@@ -267,12 +267,14 @@ HAI20,HAI,Haiti,20,True
 IRN02,IRN,Irã,2,True
 IRN04,IRN,Irã,4,True
 IRN05,IRN,Irã,5,True
+IRN06,IRN,Irã,6,True
 IRN08,IRN,Irã,8,True
 IRN09,IRN,Irã,9,True
 IRN10,IRN,Irã,10,True
 IRN12,IRN,Irã,12,True
 IRN13,IRN,Irã,13,True
 IRN14,IRN,Irã,14,True
+IRN15,IRN,Irã,15,True
 IRN17,IRN,Irã,17,True
 IRN18,IRN,Irã,18,True
 IRQ04,IRQ,Iraque,4,True
@@ -419,6 +421,7 @@ POR09,POR,Portugal,9,True
 POR10,POR,Portugal,10,True
 POR11,POR,Portugal,11,True
 POR12,POR,Portugal,12,True
+POR13,POR,Portugal,13,True
 POR14,POR,Portugal,14,True
 POR15,POR,Portugal,15,True
 POR16,POR,Portugal,16,True

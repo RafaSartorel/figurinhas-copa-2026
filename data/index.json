@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-05T20:33:34Z",
+  "last_updated": "2026-06-05T20:34:33Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -2797,7 +2797,7 @@
       "team_code": "IRN",
       "country": "Irã",
       "sticker_number": 6,
-      "owned": false
+      "owned": true
     },
     "IRN07": {
       "team_code": "IRN",
@@ -2851,7 +2851,7 @@
       "team_code": "IRN",
       "country": "Irã",
       "sticker_number": 15,
-      "owned": false
+      "owned": true
     },
     "IRN16": {
       "team_code": "IRN",
@@ -4399,7 +4399,7 @@
       "team_code": "POR",
       "country": "Portugal",
       "sticker_number": 13,
-      "owned": false
+      "owned": true
     },
     "POR14": {
       "team_code": "POR",

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-05T20:33:34Z",
+  "last_updated": "2026-06-05T20:34:33Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -720,28 +720,28 @@
       "team_code": "IRN",
       "country": "Irã",
       "stickers_total": 20,
-      "owned_total": 11,
-      "missing_total": 9,
+      "owned_total": 13,
+      "missing_total": 7,
       "owned": [
         "IRN02",
         "IRN04",
         "IRN05",
+        "IRN06",
         "IRN08",
         "IRN09",
         "IRN10",
         "IRN12",
         "IRN13",
         "IRN14",
+        "IRN15",
         "IRN17",
         "IRN18"
       ],
       "missing": [
         "IRN01",
         "IRN03",
-        "IRN06",
         "IRN07",
         "IRN11",
-        "IRN15",
         "IRN16",
         "IRN19",
         "IRN20"
@@ -1123,8 +1123,8 @@
       "team_code": "POR",
       "country": "Portugal",
       "stickers_total": 20,
-      "owned_total": 13,
-      "missing_total": 7,
+      "owned_total": 14,
+      "missing_total": 6,
       "owned": [
         "POR01",
         "POR06",
@@ -1133,6 +1133,7 @@
         "POR10",
         "POR11",
         "POR12",
+        "POR13",
         "POR14",
         "POR15",
         "POR16",
@@ -1146,7 +1147,6 @@
         "POR04",
         "POR05",
         "POR08",
-        "POR13",
         "POR17"
       ]
     },
