@@ -1,392 +1,391 @@
-sticker_id
-ALG01
-ALG05
-ALG06
-ALG08
-ALG09
-ALG12
-ALG14
-ALG17
-ALG18
-ALG19
-ARG04
-ARG07
-ARG11
-ARG18
-ARG20
-AUS06
-AUS09
-AUS10
-AUS15
-AUS16
-AUS19
-AUS20
-AUT04
-AUT07
-AUT20
-BEL01
-BEL04
-BEL09
-BEL13
-BEL15
-BEL19
-BEL20
-BIH01
-BIH04
-BIH06
-BIH09
-BIH13
-BIH20
-BRA01
-BRA04
-BRA08
-BRA12
-BRA13
-BRA16
-BRA17
-BRA20
-CAN02
-CAN05
-CAN09
-CAN14
-CAN15
-CAN18
-CAN20
-CIV01
-CIV02
-CIV03
-CIV04
-CIV07
-CIV08
-CIV09
-CIV10
-CIV11
-CIV12
-CIV14
-CIV16
-CIV17
-CIV18
-CIV20
-COD01
-COD03
-COD08
-COD09
-COD10
-COD13
-COD14
-COD15
-COD19
-COD20
-COL01
-COL02
-COL03
-COL05
-COL11
-COL16
-COL18
-COL19
-CPV01
-CPV02
-CPV04
-CPV05
-CPV08
-CPV10
-CPV15
-CPV19
-CRO01
-CRO02
-CRO03
-CRO05
-CRO06
-CRO07
-CRO10
-CRO11
-CRO13
-CRO14
-CRO16
-CRO20
-CUW01
-CUW02
-CUW05
-CUW07
-CUW09
-CUW10
-CUW11
-CUW13
-CUW14
-CUW16
-CUW20
-CZE03
-CZE06
-CZE11
-CZE12
-CZE15
-CZE16
-CZE20
-ECU06
-ECU07
-ECU09
-ECU10
-ECU11
-ECU12
-ECU14
-ECU15
-ECU18
-ECU19
-EGY01
-EGY02
-EGY06
-EGY08
-EGY09
-EGY12
-EGY13
-EGY14
-EGY17
-ENG01
-ENG02
-ENG06
-ENG12
-ENG13
-ENG17
-ENG19
-ENG20
-ESP01
-ESP03
-ESP04
-ESP06
-ESP08
-ESP10
-ESP13
-ESP14
-ESP16
-ESP18
-ESP19
-ESP20
-FRA02
-FRA03
-FRA06
-FRA08
-FRA10
-FRA12
-FRA13
-FRA15
-FRA19
-GER01
-GER03
-GER09
-GER13
-GER14
-GER17
-GHA01
-GHA02
-GHA08
-GHA09
-GHA10
-GHA11
-GHA13
-GHA14
-GHA15
-GHA16
-GHA18
-HAI01
-HAI04
-HAI07
-HAI08
-HAI13
-HAI16
-HAI17
-HAI18
-IRN01
-IRN03
-IRN06
-IRN07
-IRN10
-IRN11
-IRN15
-IRN16
-IRN19
-IRN20
-IRQ01
-IRQ02
-IRQ03
-IRQ05
-IRQ07
-IRQ09
-IRQ12
-IRQ13
-IRQ15
-IRQ16
-JOR02
-JOR03
-JOR04
-JPN01
-JPN02
-JPN04
-JPN06
-JPN07
-JPN08
-JPN10
-JPN11
-JPN12
-JPN13
-JPN16
-JPN17
-JPN20
-KOR01
-KOR02
-KOR04
-KOR05
-KOR06
-KOR08
-KOR09
-KOR12
-KOR14
-KOR17
-KOR18
-KSA01
-KSA02
-KSA03
-KSA06
-KSA08
-KSA10
-MAR05
-MAR12
-MAR13
-MEX01
-MEX02
-MEX04
-MEX18
-MEX19
-NED07
-NED11
-NED12
-NED13
-NED16
-NED17
-NED18
-NED19
-NOR01
-NOR02
-NOR03
-NOR04
-NOR06
-NOR07
-NOR10
-NOR12
-NOR15
-NOR16
-NOR17
-NOR19
-NOR20
-NZL01
-NZL03
-NZL04
-NZL08
-NZL09
-NZL12
-NZL14
-NZL16
-NZL17
-NZL18
-NZL20
-PAN01
-PAN04
-PAN07
-PAN08
-PAN11
-PAN12
-PAN15
-PAN17
-PAN19
-PAR01
-PAR02
-PAR04
-PAR08
-PAR09
-PAR12
-PAR14
-PAR16
-PAR17
-PAR18
-PAR20
-POR02
-POR03
-POR04
-POR05
-POR08
-POR13
-POR17
-QAT04
-QAT15
-QAT17
-QAT19
-RSA07
-RSA12
-RSA15
-RSA16
-RSA17
-SCO01
-SCO08
-SCO12
-SCO17
-SEN01
-SEN10
-SEN11
-SEN14
-SUI03
-SUI04
-SUI05
-SUI07
-SUI09
-SUI10
-SUI15
-SUI17
-SUI19
-SWE08
-SWE11
-SWE12
-SWE13
-SWE16
-SWE18
-SWE19
-TUN02
-TUN04
-TUN06
-TUN07
-TUN08
-TUN20
-TUR01
-TUR02
-TUR03
-TUR04
-TUR05
-TUR07
-TUR09
-TUR19
-TUR20
-URU05
-URU14
-URU17
-USA01
-USA02
-USA03
-USA04
-USA05
-USA07
-USA08
-USA09
-USA11
-USA12
-USA14
-USA15
-USA19
-USA20
-UZB01
-UZB05
-UZB07
-UZB09
-UZB11
-UZB13
-UZB14
-UZB16
-UZB20
+sticker_id,team_code,country,sticker_number,owned
+ALG01,ALG,Argélia,1,False
+ALG05,ALG,Argélia,5,False
+ALG06,ALG,Argélia,6,False
+ALG08,ALG,Argélia,8,False
+ALG09,ALG,Argélia,9,False
+ALG12,ALG,Argélia,12,False
+ALG14,ALG,Argélia,14,False
+ALG17,ALG,Argélia,17,False
+ALG18,ALG,Argélia,18,False
+ALG19,ALG,Argélia,19,False
+ARG04,ARG,Argentina,4,False
+ARG07,ARG,Argentina,7,False
+ARG11,ARG,Argentina,11,False
+ARG18,ARG,Argentina,18,False
+ARG20,ARG,Argentina,20,False
+AUS06,AUS,Austrália,6,False
+AUS09,AUS,Austrália,9,False
+AUS10,AUS,Austrália,10,False
+AUS15,AUS,Austrália,15,False
+AUS16,AUS,Austrália,16,False
+AUS19,AUS,Austrália,19,False
+AUS20,AUS,Austrália,20,False
+AUT04,AUT,Áustria,4,False
+AUT07,AUT,Áustria,7,False
+AUT20,AUT,Áustria,20,False
+BEL01,BEL,Bélgica,1,False
+BEL04,BEL,Bélgica,4,False
+BEL13,BEL,Bélgica,13,False
+BEL15,BEL,Bélgica,15,False
+BEL19,BEL,Bélgica,19,False
+BEL20,BEL,Bélgica,20,False
+BIH01,BIH,Bósnia,1,False
+BIH04,BIH,Bósnia,4,False
+BIH06,BIH,Bósnia,6,False
+BIH09,BIH,Bósnia,9,False
+BIH13,BIH,Bósnia,13,False
+BIH20,BIH,Bósnia,20,False
+BRA01,BRA,Brasil,1,False
+BRA04,BRA,Brasil,4,False
+BRA08,BRA,Brasil,8,False
+BRA12,BRA,Brasil,12,False
+BRA13,BRA,Brasil,13,False
+BRA16,BRA,Brasil,16,False
+BRA17,BRA,Brasil,17,False
+BRA20,BRA,Brasil,20,False
+CAN02,CAN,Canadá,2,False
+CAN05,CAN,Canadá,5,False
+CAN09,CAN,Canadá,9,False
+CAN14,CAN,Canadá,14,False
+CAN15,CAN,Canadá,15,False
+CAN18,CAN,Canadá,18,False
+CAN20,CAN,Canadá,20,False
+CIV01,CIV,Costa do Marfim,1,False
+CIV02,CIV,Costa do Marfim,2,False
+CIV03,CIV,Costa do Marfim,3,False
+CIV04,CIV,Costa do Marfim,4,False
+CIV07,CIV,Costa do Marfim,7,False
+CIV08,CIV,Costa do Marfim,8,False
+CIV09,CIV,Costa do Marfim,9,False
+CIV10,CIV,Costa do Marfim,10,False
+CIV11,CIV,Costa do Marfim,11,False
+CIV12,CIV,Costa do Marfim,12,False
+CIV14,CIV,Costa do Marfim,14,False
+CIV16,CIV,Costa do Marfim,16,False
+CIV17,CIV,Costa do Marfim,17,False
+CIV18,CIV,Costa do Marfim,18,False
+CIV20,CIV,Costa do Marfim,20,False
+COD01,COD,Congo,1,False
+COD03,COD,Congo,3,False
+COD08,COD,Congo,8,False
+COD09,COD,Congo,9,False
+COD10,COD,Congo,10,False
+COD13,COD,Congo,13,False
+COD14,COD,Congo,14,False
+COD15,COD,Congo,15,False
+COD19,COD,Congo,19,False
+COD20,COD,Congo,20,False
+COL01,COL,Colômbia,1,False
+COL02,COL,Colômbia,2,False
+COL03,COL,Colômbia,3,False
+COL05,COL,Colômbia,5,False
+COL11,COL,Colômbia,11,False
+COL16,COL,Colômbia,16,False
+COL18,COL,Colômbia,18,False
+COL19,COL,Colômbia,19,False
+CPV01,CPV,Cabo Verde,1,False
+CPV02,CPV,Cabo Verde,2,False
+CPV04,CPV,Cabo Verde,4,False
+CPV05,CPV,Cabo Verde,5,False
+CPV08,CPV,Cabo Verde,8,False
+CPV10,CPV,Cabo Verde,10,False
+CPV15,CPV,Cabo Verde,15,False
+CPV19,CPV,Cabo Verde,19,False
+CRO01,CRO,Croácia,1,False
+CRO02,CRO,Croácia,2,False
+CRO03,CRO,Croácia,3,False
+CRO05,CRO,Croácia,5,False
+CRO06,CRO,Croácia,6,False
+CRO07,CRO,Croácia,7,False
+CRO10,CRO,Croácia,10,False
+CRO11,CRO,Croácia,11,False
+CRO13,CRO,Croácia,13,False
+CRO14,CRO,Croácia,14,False
+CRO16,CRO,Croácia,16,False
+CRO20,CRO,Croácia,20,False
+CUW01,CUW,Curaçao,1,False
+CUW02,CUW,Curaçao,2,False
+CUW05,CUW,Curaçao,5,False
+CUW07,CUW,Curaçao,7,False
+CUW09,CUW,Curaçao,9,False
+CUW10,CUW,Curaçao,10,False
+CUW11,CUW,Curaçao,11,False
+CUW13,CUW,Curaçao,13,False
+CUW14,CUW,Curaçao,14,False
+CUW16,CUW,Curaçao,16,False
+CUW20,CUW,Curaçao,20,False
+CZE03,CZE,Rep. Tcheca,3,False
+CZE06,CZE,Rep. Tcheca,6,False
+CZE11,CZE,Rep. Tcheca,11,False
+CZE12,CZE,Rep. Tcheca,12,False
+CZE15,CZE,Rep. Tcheca,15,False
+CZE16,CZE,Rep. Tcheca,16,False
+CZE20,CZE,Rep. Tcheca,20,False
+ECU06,ECU,Equador,6,False
+ECU07,ECU,Equador,7,False
+ECU09,ECU,Equador,9,False
+ECU10,ECU,Equador,10,False
+ECU11,ECU,Equador,11,False
+ECU12,ECU,Equador,12,False
+ECU14,ECU,Equador,14,False
+ECU15,ECU,Equador,15,False
+ECU18,ECU,Equador,18,False
+ECU19,ECU,Equador,19,False
+EGY01,EGY,Egito,1,False
+EGY02,EGY,Egito,2,False
+EGY06,EGY,Egito,6,False
+EGY08,EGY,Egito,8,False
+EGY09,EGY,Egito,9,False
+EGY12,EGY,Egito,12,False
+EGY13,EGY,Egito,13,False
+EGY14,EGY,Egito,14,False
+EGY17,EGY,Egito,17,False
+ENG01,ENG,Inglaterra,1,False
+ENG02,ENG,Inglaterra,2,False
+ENG06,ENG,Inglaterra,6,False
+ENG12,ENG,Inglaterra,12,False
+ENG13,ENG,Inglaterra,13,False
+ENG17,ENG,Inglaterra,17,False
+ENG19,ENG,Inglaterra,19,False
+ENG20,ENG,Inglaterra,20,False
+ESP01,ESP,Espanha,1,False
+ESP03,ESP,Espanha,3,False
+ESP04,ESP,Espanha,4,False
+ESP06,ESP,Espanha,6,False
+ESP08,ESP,Espanha,8,False
+ESP10,ESP,Espanha,10,False
+ESP13,ESP,Espanha,13,False
+ESP14,ESP,Espanha,14,False
+ESP16,ESP,Espanha,16,False
+ESP18,ESP,Espanha,18,False
+ESP19,ESP,Espanha,19,False
+ESP20,ESP,Espanha,20,False
+FRA02,FRA,França,2,False
+FRA03,FRA,França,3,False
+FRA06,FRA,França,6,False
+FRA08,FRA,França,8,False
+FRA10,FRA,França,10,False
+FRA12,FRA,França,12,False
+FRA13,FRA,França,13,False
+FRA15,FRA,França,15,False
+FRA19,FRA,França,19,False
+GER01,GER,Alemanha,1,False
+GER03,GER,Alemanha,3,False
+GER09,GER,Alemanha,9,False
+GER13,GER,Alemanha,13,False
+GER14,GER,Alemanha,14,False
+GER17,GER,Alemanha,17,False
+GHA01,GHA,Gana,1,False
+GHA02,GHA,Gana,2,False
+GHA08,GHA,Gana,8,False
+GHA09,GHA,Gana,9,False
+GHA10,GHA,Gana,10,False
+GHA11,GHA,Gana,11,False
+GHA13,GHA,Gana,13,False
+GHA14,GHA,Gana,14,False
+GHA15,GHA,Gana,15,False
+GHA16,GHA,Gana,16,False
+GHA18,GHA,Gana,18,False
+HAI01,HAI,Haiti,1,False
+HAI04,HAI,Haiti,4,False
+HAI07,HAI,Haiti,7,False
+HAI08,HAI,Haiti,8,False
+HAI13,HAI,Haiti,13,False
+HAI16,HAI,Haiti,16,False
+HAI17,HAI,Haiti,17,False
+HAI18,HAI,Haiti,18,False
+IRN01,IRN,Irã,1,False
+IRN03,IRN,Irã,3,False
+IRN06,IRN,Irã,6,False
+IRN07,IRN,Irã,7,False
+IRN10,IRN,Irã,10,False
+IRN11,IRN,Irã,11,False
+IRN15,IRN,Irã,15,False
+IRN16,IRN,Irã,16,False
+IRN19,IRN,Irã,19,False
+IRN20,IRN,Irã,20,False
+IRQ01,IRQ,Iraque,1,False
+IRQ02,IRQ,Iraque,2,False
+IRQ03,IRQ,Iraque,3,False
+IRQ05,IRQ,Iraque,5,False
+IRQ07,IRQ,Iraque,7,False
+IRQ09,IRQ,Iraque,9,False
+IRQ12,IRQ,Iraque,12,False
+IRQ13,IRQ,Iraque,13,False
+IRQ15,IRQ,Iraque,15,False
+IRQ16,IRQ,Iraque,16,False
+JOR02,JOR,Jordânia,2,False
+JOR03,JOR,Jordânia,3,False
+JOR04,JOR,Jordânia,4,False
+JPN01,JPN,Japão,1,False
+JPN02,JPN,Japão,2,False
+JPN04,JPN,Japão,4,False
+JPN06,JPN,Japão,6,False
+JPN07,JPN,Japão,7,False
+JPN08,JPN,Japão,8,False
+JPN10,JPN,Japão,10,False
+JPN11,JPN,Japão,11,False
+JPN12,JPN,Japão,12,False
+JPN13,JPN,Japão,13,False
+JPN16,JPN,Japão,16,False
+JPN17,JPN,Japão,17,False
+JPN20,JPN,Japão,20,False
+KOR01,KOR,Coreia do Sul,1,False
+KOR02,KOR,Coreia do Sul,2,False
+KOR04,KOR,Coreia do Sul,4,False
+KOR05,KOR,Coreia do Sul,5,False
+KOR06,KOR,Coreia do Sul,6,False
+KOR08,KOR,Coreia do Sul,8,False
+KOR09,KOR,Coreia do Sul,9,False
+KOR12,KOR,Coreia do Sul,12,False
+KOR14,KOR,Coreia do Sul,14,False
+KOR17,KOR,Coreia do Sul,17,False
+KOR18,KOR,Coreia do Sul,18,False
+KSA01,KSA,Arábia Saudita,1,False
+KSA02,KSA,Arábia Saudita,2,False
+KSA03,KSA,Arábia Saudita,3,False
+KSA06,KSA,Arábia Saudita,6,False
+KSA08,KSA,Arábia Saudita,8,False
+KSA10,KSA,Arábia Saudita,10,False
+MAR05,MAR,Marrocos,5,False
+MAR12,MAR,Marrocos,12,False
+MAR13,MAR,Marrocos,13,False
+MEX01,MEX,México,1,False
+MEX02,MEX,México,2,False
+MEX04,MEX,México,4,False
+MEX18,MEX,México,18,False
+MEX19,MEX,México,19,False
+NED07,NED,Holanda,7,False
+NED11,NED,Holanda,11,False
+NED12,NED,Holanda,12,False
+NED13,NED,Holanda,13,False
+NED16,NED,Holanda,16,False
+NED17,NED,Holanda,17,False
+NED18,NED,Holanda,18,False
+NED19,NED,Holanda,19,False
+NOR01,NOR,Noruega,1,False
+NOR02,NOR,Noruega,2,False
+NOR03,NOR,Noruega,3,False
+NOR04,NOR,Noruega,4,False
+NOR06,NOR,Noruega,6,False
+NOR07,NOR,Noruega,7,False
+NOR10,NOR,Noruega,10,False
+NOR12,NOR,Noruega,12,False
+NOR15,NOR,Noruega,15,False
+NOR16,NOR,Noruega,16,False
+NOR17,NOR,Noruega,17,False
+NOR19,NOR,Noruega,19,False
+NOR20,NOR,Noruega,20,False
+NZL01,NZL,Nova Zelândia,1,False
+NZL03,NZL,Nova Zelândia,3,False
+NZL04,NZL,Nova Zelândia,4,False
+NZL08,NZL,Nova Zelândia,8,False
+NZL09,NZL,Nova Zelândia,9,False
+NZL12,NZL,Nova Zelândia,12,False
+NZL14,NZL,Nova Zelândia,14,False
+NZL16,NZL,Nova Zelândia,16,False
+NZL17,NZL,Nova Zelândia,17,False
+NZL18,NZL,Nova Zelândia,18,False
+NZL20,NZL,Nova Zelândia,20,False
+PAN01,PAN,Panamá,1,False
+PAN04,PAN,Panamá,4,False
+PAN07,PAN,Panamá,7,False
+PAN08,PAN,Panamá,8,False
+PAN11,PAN,Panamá,11,False
+PAN12,PAN,Panamá,12,False
+PAN15,PAN,Panamá,15,False
+PAN17,PAN,Panamá,17,False
+PAN19,PAN,Panamá,19,False
+PAR01,PAR,Paraguai,1,False
+PAR02,PAR,Paraguai,2,False
+PAR04,PAR,Paraguai,4,False
+PAR08,PAR,Paraguai,8,False
+PAR09,PAR,Paraguai,9,False
+PAR12,PAR,Paraguai,12,False
+PAR14,PAR,Paraguai,14,False
+PAR16,PAR,Paraguai,16,False
+PAR17,PAR,Paraguai,17,False
+PAR18,PAR,Paraguai,18,False
+PAR20,PAR,Paraguai,20,False
+POR02,POR,Portugal,2,False
+POR03,POR,Portugal,3,False
+POR04,POR,Portugal,4,False
+POR05,POR,Portugal,5,False
+POR08,POR,Portugal,8,False
+POR13,POR,Portugal,13,False
+POR17,POR,Portugal,17,False
+QAT04,QAT,Catar,4,False
+QAT15,QAT,Catar,15,False
+QAT17,QAT,Catar,17,False
+QAT19,QAT,Catar,19,False
+RSA07,RSA,África do Sul,7,False
+RSA12,RSA,África do Sul,12,False
+RSA15,RSA,África do Sul,15,False
+RSA16,RSA,África do Sul,16,False
+RSA17,RSA,África do Sul,17,False
+SCO01,SCO,Escócia,1,False
+SCO08,SCO,Escócia,8,False
+SCO12,SCO,Escócia,12,False
+SCO17,SCO,Escócia,17,False
+SEN01,SEN,Senegal,1,False
+SEN10,SEN,Senegal,10,False
+SEN11,SEN,Senegal,11,False
+SEN14,SEN,Senegal,14,False
+SUI03,SUI,Suíça,3,False
+SUI04,SUI,Suíça,4,False
+SUI05,SUI,Suíça,5,False
+SUI07,SUI,Suíça,7,False
+SUI09,SUI,Suíça,9,False
+SUI10,SUI,Suíça,10,False
+SUI15,SUI,Suíça,15,False
+SUI17,SUI,Suíça,17,False
+SUI19,SUI,Suíça,19,False
+SWE08,SWE,Suécia,8,False
+SWE11,SWE,Suécia,11,False
+SWE12,SWE,Suécia,12,False
+SWE13,SWE,Suécia,13,False
+SWE16,SWE,Suécia,16,False
+SWE18,SWE,Suécia,18,False
+SWE19,SWE,Suécia,19,False
+TUN02,TUN,Tunísia,2,False
+TUN04,TUN,Tunísia,4,False
+TUN06,TUN,Tunísia,6,False
+TUN07,TUN,Tunísia,7,False
+TUN08,TUN,Tunísia,8,False
+TUN20,TUN,Tunísia,20,False
+TUR01,TUR,Turquia,1,False
+TUR02,TUR,Turquia,2,False
+TUR03,TUR,Turquia,3,False
+TUR04,TUR,Turquia,4,False
+TUR05,TUR,Turquia,5,False
+TUR07,TUR,Turquia,7,False
+TUR09,TUR,Turquia,9,False
+TUR19,TUR,Turquia,19,False
+TUR20,TUR,Turquia,20,False
+URU05,URU,Uruguai,5,False
+URU14,URU,Uruguai,14,False
+URU17,URU,Uruguai,17,False
+USA01,USA,Estados Unidos,1,False
+USA02,USA,Estados Unidos,2,False
+USA03,USA,Estados Unidos,3,False
+USA04,USA,Estados Unidos,4,False
+USA05,USA,Estados Unidos,5,False
+USA07,USA,Estados Unidos,7,False
+USA08,USA,Estados Unidos,8,False
+USA09,USA,Estados Unidos,9,False
+USA11,USA,Estados Unidos,11,False
+USA12,USA,Estados Unidos,12,False
+USA14,USA,Estados Unidos,14,False
+USA15,USA,Estados Unidos,15,False
+USA19,USA,Estados Unidos,19,False
+USA20,USA,Estados Unidos,20,False
+UZB01,UZB,Uzbequistão,1,False
+UZB05,UZB,Uzbequistão,5,False
+UZB07,UZB,Uzbequistão,7,False
+UZB09,UZB,Uzbequistão,9,False
+UZB11,UZB,Uzbequistão,11,False
+UZB13,UZB,Uzbequistão,13,False
+UZB14,UZB,Uzbequistão,14,False
+UZB16,UZB,Uzbequistão,16,False
+UZB20,UZB,Uzbequistão,20,False

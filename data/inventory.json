@@ -625,7 +625,7 @@
       "country": "Bélgica",
       "sticker_number": 9,
       "sticker_id": "BEL09",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "BEL",
@@ -6725,6 +6725,10 @@
       "owned": false
     }
   ],
-  "last_updated": "2026-06-05",
-  "missing_count": 391
+  "last_updated": "2026-06-05T20:16:31Z",
+  "missing_count": 391,
+  "last_update_source": "gpt_text",
+  "last_added": [
+    "BEL09"
+  ]
 }

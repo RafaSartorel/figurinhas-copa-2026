@@ -1,9 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "inventory_url": "https://raw.githubusercontent.com/RafaSartorel/figurinhas-copa-2026/main/data/inventory.json",
-  "last_updated": "2026-06-05",
-  "count": 391,
+  "last_updated": "2026-06-05T20:16:31Z",
   "stickers": [
     "ALG01",
     "ALG05",
@@ -32,7 +30,6 @@
     "AUT20",
     "BEL01",
     "BEL04",
-    "BEL09",
     "BEL13",
     "BEL15",
     "BEL19",

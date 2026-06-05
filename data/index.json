@@ -1,8 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "inventory_url": "https://raw.githubusercontent.com/RafaSartorel/figurinhas-copa-2026/main/data/inventory.json",
-  "last_updated": "2026-06-05",
+  "last_updated": "2026-06-05T20:16:31Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -536,7 +535,7 @@
       "team_code": "BEL",
       "country": "Bélgica",
       "sticker_number": 9,
-      "owned": false
+      "owned": true
     },
     "BEL10": {
       "team_code": "BEL",
