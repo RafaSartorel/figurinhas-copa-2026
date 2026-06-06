@@ -1,63 +1,65 @@
 openapi: 3.1.0
 info:
-  title: Figurinhas Copa 2026 API
-  description: Consulta arquivos oficiais da coleção de figurinhas da Copa 2026 no GitHub.
-  version: 1.2.0
+  title: Figurinhas Copa 2026 GitHub Workflow API
+  description: Dispara workflows no GitHub para adicionar ou remover figurinhas da coleção.
+  version: 1.1.0
+
 servers:
-  - url: https://raw.githubusercontent.com
+  - url: https://api.github.com
+
 paths:
-  /RafaSartorel/figurinhas-copa-2026/main/data/summary.json:
-    get:
-      operationId: getCollectionSummary
-      summary: Obter resumo da coleção
+  /repos/RafaSartorel/figurinhas-copa-2026/actions/workflows/add-owned-stickers.yml/dispatches:
+    post:
+      operationId: dispatchAddOwnedStickersWorkflow
+      summary: Adicionar figurinhas à coleção
+      description: Dispara o workflow add-owned-stickers.yml para marcar figurinhas como tenho.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/WorkflowDispatchRequest"
       responses:
-        "200":
-          description: Resumo retornado com sucesso.
-          content:
-            application/json:
-              schema:
-                type: object
-  /RafaSartorel/figurinhas-copa-2026/main/data/owned.json:
-    get:
-      operationId: getOwnedStickers
-      summary: Obter figurinhas que já tenho
+        "204":
+          description: Workflow de adição disparado com sucesso.
+
+  /repos/RafaSartorel/figurinhas-copa-2026/actions/workflows/remove-owned-stickers.yml/dispatches:
+    post:
+      operationId: dispatchRemoveOwnedStickersWorkflow
+      summary: Remover figurinhas da coleção
+      description: Dispara o workflow remove-owned-stickers.yml para marcar figurinhas como não tenho.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/WorkflowDispatchRequest"
       responses:
-        "200":
-          description: Lista retornada com sucesso.
-          content:
-            application/json:
-              schema:
-                type: object
-  /RafaSartorel/figurinhas-copa-2026/main/data/missing.json:
-    get:
-      operationId: getMissingStickers
-      summary: Obter figurinhas que faltam
-      responses:
-        "200":
-          description: Lista retornada com sucesso.
-          content:
-            application/json:
-              schema:
-                type: object
-  /RafaSartorel/figurinhas-copa-2026/main/data/index.json:
-    get:
-      operationId: getStickerIndex
-      summary: Obter índice completo por sticker_id
-      responses:
-        "200":
-          description: Índice retornado com sucesso.
-          content:
-            application/json:
-              schema:
-                type: object
-  /RafaSartorel/figurinhas-copa-2026/main/data/teams-summary.json:
-    get:
-      operationId: getTeamsSummary
-      summary: Obter resumo por seleção
-      responses:
-        "200":
-          description: Resumo por seleção retornado com sucesso.
-          content:
-            application/json:
-              schema:
-                type: object
+        "204":
+          description: Workflow de remoção disparado com sucesso.
+
+components:
+  schemas:
+    WorkflowDispatchRequest:
+      type: object
+      required:
+        - ref
+        - inputs
+      properties:
+        ref:
+          type: string
+          description: Branch ou ref onde o workflow será executado.
+          example: main
+        inputs:
+          type: object
+          required:
+            - stickers
+          properties:
+            stickers:
+              type: string
+              description: Lista JSON, em string, com os IDs das figurinhas.
+              example: "[\"BEL12\",\"SCO10\"]"
+            source:
+              type: string
+              description: Origem da atualização.
+              example: gpt_text

@@ -1,0 +1,180 @@
+Você está trabalhando no repositório GitHub:
+
+RafaSartorel/figurinhas-copa-2026
+
+Objetivo:
+Editar a base oficial da coleção de figurinhas da Copa 2026, atualizando quais figurinhas eu tenho e quais eu não tenho.
+
+A base oficial fica na pasta:
+
+data/
+
+Arquivos que devem ser mantidos sincronizados:
+- data/inventory.json
+- data/summary.json
+- data/owned.json
+- data/missing.json
+- data/index.json
+- data/teams-summary.json
+- data/owned.csv
+- data/missing.csv
+
+Nunca atualize apenas um arquivo isolado.
+Sempre que alterar a posse de figurinhas, regenere todos os arquivos derivados para manter a base consistente.
+
+Conceito principal:
+- Quando uma figurinha está marcada como owned=true em inventory.json, significa que eu tenho essa figurinha.
+- Quando uma figurinha está marcada como owned=false, ausente, null ou qualquer valor diferente de true, significa que eu não tenho essa figurinha.
+- Para comunicação comigo, use linguagem natural: “tenho” e “não tenho”.
+- Não use “owned=true” ou “owned=false” nas mensagens finais, exceto se estiver explicando alteração técnica no código.
+
+Formato do ID da figurinha:
+Sempre normalize os códigos para o padrão:
+
+AAA00
+
+Onde:
+- AAA = sigla da seleção/país com 3 letras maiúsculas.
+- 00 = número da figurinha com dois dígitos.
+
+Exemplos:
+- BRA 2 → BRA02
+- bra2 → BRA02
+- BRA-2 → BRA02
+- BEL12 → BEL12
+- SCO 5 → SCO05
+
+Tarefas possíveis:
+
+1. Adicionar figurinhas que eu tenho
+
+Quando eu pedir algo como:
+- “Adicionar BEL12”
+- “Marcar como tenho BEL12, SCO10”
+- “Incluir BRA 2, USA 6 e MEX 12”
+- “Tenho agora ARG 1, ARG 2 e ARG 3”
+
+Faça:
+1. Normalize todos os códigos.
+2. Abra data/inventory.json.
+3. Localize cada sticker_id.
+4. Para cada figurinha encontrada, marque como tenho.
+5. Ignore figurinhas que eu já tenho.
+6. Liste separadamente qualquer figurinha que não exista na base.
+7. Regere todos os arquivos derivados da pasta data/.
+8. Faça commit com uma mensagem clara.
+
+Mensagem de commit sugerida:
+Atualiza coleção: adiciona figurinhas
+
+2. Remover figurinhas que eu possuo
+
+Quando eu pedir algo como:
+- “Remover BEL12”
+- “Marcar como não tenho SCO10”
+- “Retirar BRA 2 da minha coleção”
+- “Remova USA06 e MEX12”
+
+Faça:
+1. Normalize todos os códigos.
+2. Abra data/inventory.json.
+3. Localize cada sticker_id.
+4. Para cada figurinha encontrada, marque como não tenho.
+5. Ignore figurinhas que eu já não tenho.
+6. Liste separadamente qualquer figurinha que não exista na base.
+7. Regere todos os arquivos derivados da pasta data/.
+8. Faça commit com uma mensagem clara.
+
+Mensagem de commit sugerida:
+Atualiza coleção: remove figurinhas
+
+Regras de consistência:
+
+Após qualquer alteração em inventory.json:
+
+1. data/owned.json deve conter somente os sticker_id das figurinhas que eu tenho.
+2. data/missing.json deve conter somente os sticker_id das figurinhas que eu não tenho.
+3. data/summary.json deve conter:
+   - total de figurinhas;
+   - total que tenho;
+   - total que não tenho;
+   - percentual de progresso.
+4. data/index.json deve ser um índice por sticker_id com os dados principais de cada figurinha.
+5. data/teams-summary.json deve conter o resumo por seleção/país:
+   - total;
+   - tenho;
+   - não tenho;
+   - lista das que tenho;
+   - lista das que não tenho.
+6. data/owned.csv deve conter somente as figurinhas que eu tenho.
+7. data/missing.csv deve conter somente as figurinhas que eu não tenho.
+
+Validações obrigatórias:
+
+Antes de salvar:
+- Verifique se todos os sticker_id informados foram normalizados corretamente.
+- Verifique se todos existem em data/inventory.json.
+- Não crie figurinhas novas automaticamente.
+- Não altere country, team_code ou sticker_number sem pedido explícito.
+- Não remova registros do inventory.json.
+- Apenas altere o status de posse da figurinha.
+- Mantenha JSON válido e formatado.
+- Mantenha CSV válido com cabeçalho.
+
+Se houver código inválido:
+- Não tente adivinhar.
+- Informe que o código é inválido.
+- Não aplique alteração nesse item.
+
+Se houver figurinha não encontrada:
+- Não crie automaticamente.
+- Liste como “não encontrada na base”.
+- Continue aplicando as demais alterações válidas.
+
+Preferência de execução:
+
+Se existir o script:
+
+scripts/update_stickers.py
+
+use esse script para adicionar figurinhas, se ele suportar a operação necessária.
+
+Se for necessário remover figurinhas e o script ainda não suportar remoção:
+1. Atualize o script para aceitar operações de adicionar e remover.
+2. Sugestão de interface:
+   python scripts/update_stickers.py add '["BEL12","SCO10"]' 'codex'
+   python scripts/update_stickers.py remove '["BEL12","SCO10"]' 'codex'
+3. Garanta que o script regenere todos os arquivos derivados.
+4. Depois use o script para aplicar a alteração.
+
+Comportamento esperado do script:
+
+Para adicionar:
+- marcar os sticker_id informados como tenho;
+- não duplicar nada;
+- ignorar os que eu já tenho;
+- reportar adicionados, já existentes e não encontrados.
+
+Para remover:
+- marcar os sticker_id informados como não tenho;
+- ignorar os que eu já não tenho;
+- reportar removidos, já ausentes e não encontrados.
+
+Saída esperada ao final:
+
+Após a alteração, responda com um resumo em português:
+
+Resumo da atualização:
+- Figurinhas solicitadas:
+- Adicionadas à coleção:
+- Removidas da coleção:
+- Já estavam como tenho:
+- Já estavam como não tenho:
+- Não encontradas na base:
+- Total atual que tenho:
+- Total atual que não tenho:
+- Progresso atual:
+
+Importante:
+Não diga que algo foi atualizado se não houve commit.
+Se houver erro no script, YAML, JSON ou CSV, corrija antes de finalizar.
