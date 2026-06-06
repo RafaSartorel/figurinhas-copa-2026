@@ -1,27 +1,27 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-06T21:45:33Z",
+  "last_updated": "2026-06-06T21:49:08Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 609,
-    "missing_total": 371,
-    "progress_percent": 62.14
+    "owned_total": 613,
+    "missing_total": 367,
+    "progress_percent": 62.55
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "ALG14",
-      "ALG18",
-      "IRQ01",
-      "IRQ13"
+      "CPV02",
+      "ESP03",
+      "IRN20",
+      "NZL03"
     ],
     "added": [
-      "ALG14",
-      "ALG18",
-      "IRQ01",
-      "IRQ13"
+      "CPV02",
+      "ESP03",
+      "IRN20",
+      "NZL03"
     ],
     "removed": [],
     "already_owned": [],

@@ -83,7 +83,6 @@ COL16,COL,Colômbia,16,False
 COL18,COL,Colômbia,18,False
 COL19,COL,Colômbia,19,False
 CPV01,CPV,Cabo Verde,1,False
-CPV02,CPV,Cabo Verde,2,False
 CPV04,CPV,Cabo Verde,4,False
 CPV05,CPV,Cabo Verde,5,False
 CPV10,CPV,Cabo Verde,10,False
@@ -145,7 +144,6 @@ ENG17,ENG,Inglaterra,17,False
 ENG19,ENG,Inglaterra,19,False
 ENG20,ENG,Inglaterra,20,False
 ESP01,ESP,Espanha,1,False
-ESP03,ESP,Espanha,3,False
 ESP04,ESP,Espanha,4,False
 ESP06,ESP,Espanha,6,False
 ESP08,ESP,Espanha,8,False
@@ -211,7 +209,6 @@ IRN07,IRN,Irã,7,False
 IRN11,IRN,Irã,11,False
 IRN16,IRN,Irã,16,False
 IRN19,IRN,Irã,19,False
-IRN20,IRN,Irã,20,False
 IRQ02,IRQ,Iraque,2,False
 IRQ03,IRQ,Iraque,3,False
 IRQ05,IRQ,Iraque,5,False
@@ -274,7 +271,6 @@ NOR15,NOR,Noruega,15,False
 NOR16,NOR,Noruega,16,False
 NOR17,NOR,Noruega,17,False
 NZL01,NZL,Nova Zelândia,1,False
-NZL03,NZL,Nova Zelândia,3,False
 NZL04,NZL,Nova Zelândia,4,False
 NZL08,NZL,Nova Zelândia,8,False
 NZL16,NZL,Nova Zelândia,16,False

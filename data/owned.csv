@@ -136,6 +136,7 @@ COL14,COL,Colômbia,14,True
 COL15,COL,Colômbia,15,True
 COL17,COL,Colômbia,17,True
 COL20,COL,Colômbia,20,True
+CPV02,CPV,Cabo Verde,2,True
 CPV03,CPV,Cabo Verde,3,True
 CPV06,CPV,Cabo Verde,6,True
 CPV07,CPV,Cabo Verde,7,True
@@ -215,6 +216,7 @@ ENG15,ENG,Inglaterra,15,True
 ENG16,ENG,Inglaterra,16,True
 ENG18,ENG,Inglaterra,18,True
 ESP02,ESP,Espanha,2,True
+ESP03,ESP,Espanha,3,True
 ESP05,ESP,Espanha,5,True
 ESP07,ESP,Espanha,7,True
 ESP09,ESP,Espanha,9,True
@@ -286,6 +288,7 @@ IRN14,IRN,Irã,14,True
 IRN15,IRN,Irã,15,True
 IRN17,IRN,Irã,17,True
 IRN18,IRN,Irã,18,True
+IRN20,IRN,Irã,20,True
 IRQ01,IRQ,Iraque,1,True
 IRQ04,IRQ,Iraque,4,True
 IRQ06,IRQ,Iraque,6,True
@@ -406,6 +409,7 @@ NOR18,NOR,Noruega,18,True
 NOR19,NOR,Noruega,19,True
 NOR20,NOR,Noruega,20,True
 NZL02,NZL,Nova Zelândia,2,True
+NZL03,NZL,Nova Zelândia,3,True
 NZL05,NZL,Nova Zelândia,5,True
 NZL06,NZL,Nova Zelândia,6,True
 NZL07,NZL,Nova Zelândia,7,True

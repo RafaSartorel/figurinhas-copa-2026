@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-06T21:45:33Z",
+  "last_updated": "2026-06-06T21:49:08Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -348,9 +348,10 @@
       "team_code": "CPV",
       "country": "Cabo Verde",
       "stickers_total": 20,
-      "owned_total": 13,
-      "missing_total": 7,
+      "owned_total": 14,
+      "missing_total": 6,
       "owned": [
+        "CPV02",
         "CPV03",
         "CPV06",
         "CPV07",
@@ -367,7 +368,6 @@
       ],
       "missing": [
         "CPV01",
-        "CPV02",
         "CPV04",
         "CPV05",
         "CPV10",
@@ -565,10 +565,11 @@
       "team_code": "ESP",
       "country": "Espanha",
       "stickers_total": 20,
-      "owned_total": 8,
-      "missing_total": 12,
+      "owned_total": 9,
+      "missing_total": 11,
       "owned": [
         "ESP02",
+        "ESP03",
         "ESP05",
         "ESP07",
         "ESP09",
@@ -579,7 +580,6 @@
       ],
       "missing": [
         "ESP01",
-        "ESP03",
         "ESP04",
         "ESP06",
         "ESP08",
@@ -751,8 +751,8 @@
       "team_code": "IRN",
       "country": "Irã",
       "stickers_total": 20,
-      "owned_total": 13,
-      "missing_total": 7,
+      "owned_total": 14,
+      "missing_total": 6,
       "owned": [
         "IRN02",
         "IRN04",
@@ -766,7 +766,8 @@
         "IRN14",
         "IRN15",
         "IRN17",
-        "IRN18"
+        "IRN18",
+        "IRN20"
       ],
       "missing": [
         "IRN01",
@@ -774,8 +775,7 @@
         "IRN07",
         "IRN11",
         "IRN16",
-        "IRN19",
-        "IRN20"
+        "IRN19"
       ]
     },
     {
@@ -1061,10 +1061,11 @@
       "team_code": "NZL",
       "country": "Nova Zelândia",
       "stickers_total": 20,
-      "owned_total": 12,
-      "missing_total": 8,
+      "owned_total": 13,
+      "missing_total": 7,
       "owned": [
         "NZL02",
+        "NZL03",
         "NZL05",
         "NZL06",
         "NZL07",
@@ -1079,7 +1080,6 @@
       ],
       "missing": [
         "NZL01",
-        "NZL03",
         "NZL04",
         "NZL08",
         "NZL16",
