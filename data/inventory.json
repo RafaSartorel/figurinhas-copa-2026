@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 634,
+  "owned_count": 633,
   "stickers": [
     {
       "team_code": "ALG",
@@ -5427,7 +5427,7 @@
       "country": "Catar",
       "sticker_number": 15,
       "sticker_id": "QAT15",
-      "owned": true
+      "owned": false
     },
     {
       "team_code": "QAT",
@@ -6865,12 +6865,11 @@
       "owned": false
     }
   ],
-  "last_updated": "2026-06-06T22:04:53Z",
-  "missing_count": 346,
+  "last_updated": "2026-06-06T22:27:33Z",
+  "missing_count": 347,
   "last_update_source": "chatgpt",
-  "last_added": [
-    "FWC13",
-    "FWC14"
-  ],
-  "last_removed": []
+  "last_added": [],
+  "last_removed": [
+    "QAT15"
+  ]
 }
