@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-06T00:59:22Z",
+  "last_updated": "2026-06-06T01:06:07Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -2461,7 +2461,7 @@
       "team_code": "FWC",
       "country": "FIFA World Cup",
       "sticker_number": 9,
-      "owned": false
+      "owned": true
     },
     "FWC10": {
       "team_code": "FWC",
@@ -2479,7 +2479,7 @@
       "team_code": "FWC",
       "country": "FIFA World Cup",
       "sticker_number": 12,
-      "owned": false
+      "owned": true
     },
     "FWC13": {
       "team_code": "FWC",
@@ -5317,7 +5317,7 @@
       "team_code": "TUN",
       "country": "Tunísia",
       "sticker_number": 6,
-      "owned": false
+      "owned": true
     },
     "TUN07": {
       "team_code": "TUN",

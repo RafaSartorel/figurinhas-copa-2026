@@ -175,10 +175,8 @@ FWC05,FWC,FIFA World Cup,5,False
 FWC06,FWC,FIFA World Cup,6,False
 FWC07,FWC,FIFA World Cup,7,False
 FWC08,FWC,FIFA World Cup,8,False
-FWC09,FWC,FIFA World Cup,9,False
 FWC10,FWC,FIFA World Cup,10,False
 FWC11,FWC,FIFA World Cup,11,False
-FWC12,FWC,FIFA World Cup,12,False
 FWC13,FWC,FIFA World Cup,13,False
 FWC14,FWC,FIFA World Cup,14,False
 FWC15,FWC,FIFA World Cup,15,False
@@ -342,7 +340,6 @@ SWE18,SWE,Suécia,18,False
 SWE19,SWE,Suécia,19,False
 TUN02,TUN,Tunísia,2,False
 TUN04,TUN,Tunísia,4,False
-TUN06,TUN,Tunísia,6,False
 TUN07,TUN,Tunísia,7,False
 TUN08,TUN,Tunísia,8,False
 TUN20,TUN,Tunísia,20,False

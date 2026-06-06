@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-06T00:59:22Z",
+  "last_updated": "2026-06-06T01:06:07Z",
   "stickers": [
     "ALG01",
     "ALG05",
@@ -179,10 +179,8 @@
     "FWC06",
     "FWC07",
     "FWC08",
-    "FWC09",
     "FWC10",
     "FWC11",
-    "FWC12",
     "FWC13",
     "FWC14",
     "FWC15",
@@ -346,7 +344,6 @@
     "SWE19",
     "TUN02",
     "TUN04",
-    "TUN06",
     "TUN07",
     "TUN08",
     "TUN20",
