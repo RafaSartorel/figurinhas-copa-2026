@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 613,
+  "owned_count": 619,
   "stickers": [
     {
       "team_code": "ALG",
@@ -653,7 +653,7 @@
       "country": "Bélgica",
       "sticker_number": 13,
       "sticker_id": "BEL13",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "BEL",
@@ -3838,7 +3838,7 @@
       "country": "Japão",
       "sticker_number": 8,
       "sticker_id": "JPN08",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "JPN",
@@ -3894,7 +3894,7 @@
       "country": "Japão",
       "sticker_number": 16,
       "sticker_id": "JPN16",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "JPN",
@@ -4566,7 +4566,7 @@
       "country": "Holanda",
       "sticker_number": 12,
       "sticker_id": "NED12",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "NED",
@@ -4608,7 +4608,7 @@
       "country": "Holanda",
       "sticker_number": 18,
       "sticker_id": "NED18",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "NED",
@@ -6218,7 +6218,7 @@
       "country": "Tunísia",
       "sticker_number": 8,
       "sticker_id": "TUN08",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "TUN",
@@ -6865,14 +6865,16 @@
       "owned": false
     }
   ],
-  "last_updated": "2026-06-06T21:49:08Z",
-  "missing_count": 367,
+  "last_updated": "2026-06-06T21:53:19Z",
+  "missing_count": 361,
   "last_update_source": "chatgpt",
   "last_added": [
-    "CPV02",
-    "ESP03",
-    "IRN20",
-    "NZL03"
+    "BEL13",
+    "JPN08",
+    "JPN16",
+    "NED12",
+    "NED18",
+    "TUN08"
   ],
   "last_removed": []
 }

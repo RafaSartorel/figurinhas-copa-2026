@@ -24,7 +24,6 @@ AUT07,AUT,Áustria,7,False
 AUT20,AUT,Áustria,20,False
 BEL01,BEL,Bélgica,1,False
 BEL04,BEL,Bélgica,4,False
-BEL13,BEL,Bélgica,13,False
 BEL15,BEL,Bélgica,15,False
 BEL19,BEL,Bélgica,19,False
 BEL20,BEL,Bélgica,20,False
@@ -223,12 +222,10 @@ JPN02,JPN,Japão,2,False
 JPN04,JPN,Japão,4,False
 JPN06,JPN,Japão,6,False
 JPN07,JPN,Japão,7,False
-JPN08,JPN,Japão,8,False
 JPN10,JPN,Japão,10,False
 JPN11,JPN,Japão,11,False
 JPN12,JPN,Japão,12,False
 JPN13,JPN,Japão,13,False
-JPN16,JPN,Japão,16,False
 JPN17,JPN,Japão,17,False
 JPN20,JPN,Japão,20,False
 KOR01,KOR,Coreia do Sul,1,False
@@ -253,11 +250,9 @@ MEX18,MEX,México,18,False
 MEX19,MEX,México,19,False
 NED07,NED,Holanda,7,False
 NED11,NED,Holanda,11,False
-NED12,NED,Holanda,12,False
 NED13,NED,Holanda,13,False
 NED16,NED,Holanda,16,False
 NED17,NED,Holanda,17,False
-NED18,NED,Holanda,18,False
 NED19,NED,Holanda,19,False
 NOR01,NOR,Noruega,1,False
 NOR02,NOR,Noruega,2,False
@@ -330,7 +325,6 @@ SWE19,SWE,Suécia,19,False
 TUN02,TUN,Tunísia,2,False
 TUN04,TUN,Tunísia,4,False
 TUN07,TUN,Tunísia,7,False
-TUN08,TUN,Tunísia,8,False
 TUN20,TUN,Tunísia,20,False
 TUR01,TUR,Turquia,1,False
 TUR02,TUR,Turquia,2,False

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-06T21:49:08Z",
+  "last_updated": "2026-06-06T21:53:19Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -131,8 +131,8 @@
       "team_code": "BEL",
       "country": "Bélgica",
       "stickers_total": 20,
-      "owned_total": 14,
-      "missing_total": 6,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
         "BEL02",
         "BEL03",
@@ -144,6 +144,7 @@
         "BEL10",
         "BEL11",
         "BEL12",
+        "BEL13",
         "BEL14",
         "BEL16",
         "BEL17",
@@ -152,7 +153,6 @@
       "missing": [
         "BEL01",
         "BEL04",
-        "BEL13",
         "BEL15",
         "BEL19",
         "BEL20"
@@ -844,14 +844,16 @@
       "team_code": "JPN",
       "country": "Japão",
       "stickers_total": 20,
-      "owned_total": 7,
-      "missing_total": 13,
+      "owned_total": 9,
+      "missing_total": 11,
       "owned": [
         "JPN03",
         "JPN05",
+        "JPN08",
         "JPN09",
         "JPN14",
         "JPN15",
+        "JPN16",
         "JPN18",
         "JPN19"
       ],
@@ -861,12 +863,10 @@
         "JPN04",
         "JPN06",
         "JPN07",
-        "JPN08",
         "JPN10",
         "JPN11",
         "JPN12",
         "JPN13",
-        "JPN16",
         "JPN17",
         "JPN20"
       ]
@@ -999,8 +999,8 @@
       "team_code": "NED",
       "country": "Holanda",
       "stickers_total": 20,
-      "owned_total": 12,
-      "missing_total": 8,
+      "owned_total": 14,
+      "missing_total": 6,
       "owned": [
         "NED01",
         "NED02",
@@ -1011,18 +1011,18 @@
         "NED08",
         "NED09",
         "NED10",
+        "NED12",
         "NED14",
         "NED15",
+        "NED18",
         "NED20"
       ],
       "missing": [
         "NED07",
         "NED11",
-        "NED12",
         "NED13",
         "NED16",
         "NED17",
-        "NED18",
         "NED19"
       ]
     },
@@ -1371,13 +1371,14 @@
       "team_code": "TUN",
       "country": "Tunísia",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
         "TUN01",
         "TUN03",
         "TUN05",
         "TUN06",
+        "TUN08",
         "TUN09",
         "TUN10",
         "TUN11",
@@ -1394,7 +1395,6 @@
         "TUN02",
         "TUN04",
         "TUN07",
-        "TUN08",
         "TUN20"
       ]
     },

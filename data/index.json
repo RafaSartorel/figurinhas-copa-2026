@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-06T21:49:08Z",
+  "last_updated": "2026-06-06T21:53:19Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -559,7 +559,7 @@
       "team_code": "BEL",
       "country": "Bélgica",
       "sticker_number": 13,
-      "owned": false
+      "owned": true
     },
     "BEL14": {
       "team_code": "BEL",
@@ -3289,7 +3289,7 @@
       "team_code": "JPN",
       "country": "Japão",
       "sticker_number": 8,
-      "owned": false
+      "owned": true
     },
     "JPN09": {
       "team_code": "JPN",
@@ -3337,7 +3337,7 @@
       "team_code": "JPN",
       "country": "Japão",
       "sticker_number": 16,
-      "owned": false
+      "owned": true
     },
     "JPN17": {
       "team_code": "JPN",
@@ -3913,7 +3913,7 @@
       "team_code": "NED",
       "country": "Holanda",
       "sticker_number": 12,
-      "owned": false
+      "owned": true
     },
     "NED13": {
       "team_code": "NED",
@@ -3949,7 +3949,7 @@
       "team_code": "NED",
       "country": "Holanda",
       "sticker_number": 18,
-      "owned": false
+      "owned": true
     },
     "NED19": {
       "team_code": "NED",
@@ -5329,7 +5329,7 @@
       "team_code": "TUN",
       "country": "Tunísia",
       "sticker_number": 8,
-      "owned": false
+      "owned": true
     },
     "TUN09": {
       "team_code": "TUN",

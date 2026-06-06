@@ -66,6 +66,7 @@ BEL09,BEL,Bélgica,9,True
 BEL10,BEL,Bélgica,10,True
 BEL11,BEL,Bélgica,11,True
 BEL12,BEL,Bélgica,12,True
+BEL13,BEL,Bélgica,13,True
 BEL14,BEL,Bélgica,14,True
 BEL16,BEL,Bélgica,16,True
 BEL17,BEL,Bélgica,17,True
@@ -322,9 +323,11 @@ JOR19,JOR,Jordânia,19,True
 JOR20,JOR,Jordânia,20,True
 JPN03,JPN,Japão,3,True
 JPN05,JPN,Japão,5,True
+JPN08,JPN,Japão,8,True
 JPN09,JPN,Japão,9,True
 JPN14,JPN,Japão,14,True
 JPN15,JPN,Japão,15,True
+JPN16,JPN,Japão,16,True
 JPN18,JPN,Japão,18,True
 JPN19,JPN,Japão,19,True
 KOR03,KOR,Coreia do Sul,3,True
@@ -396,8 +399,10 @@ NED06,NED,Holanda,6,True
 NED08,NED,Holanda,8,True
 NED09,NED,Holanda,9,True
 NED10,NED,Holanda,10,True
+NED12,NED,Holanda,12,True
 NED14,NED,Holanda,14,True
 NED15,NED,Holanda,15,True
+NED18,NED,Holanda,18,True
 NED20,NED,Holanda,20,True
 NOR05,NOR,Noruega,5,True
 NOR08,NOR,Noruega,8,True
@@ -555,6 +560,7 @@ TUN01,TUN,Tunísia,1,True
 TUN03,TUN,Tunísia,3,True
 TUN05,TUN,Tunísia,5,True
 TUN06,TUN,Tunísia,6,True
+TUN08,TUN,Tunísia,8,True
 TUN09,TUN,Tunísia,9,True
 TUN10,TUN,Tunísia,10,True
 TUN11,TUN,Tunísia,11,True
