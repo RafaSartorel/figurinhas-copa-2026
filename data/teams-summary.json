@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-06T22:27:33Z",
+  "last_updated": "2026-06-06T23:50:16Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -1185,8 +1185,8 @@
       "team_code": "QAT",
       "country": "Catar",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "QAT01",
         "QAT02",
@@ -1202,13 +1202,13 @@
         "QAT12",
         "QAT13",
         "QAT14",
+        "QAT15",
         "QAT16",
         "QAT18",
         "QAT19",
         "QAT20"
       ],
       "missing": [
-        "QAT15",
         "QAT17"
       ]
     },

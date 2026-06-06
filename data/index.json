@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-06T22:27:33Z",
+  "last_updated": "2026-06-06T23:50:16Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -4651,7 +4651,7 @@
       "team_code": "QAT",
       "country": "Catar",
       "sticker_number": 15,
-      "owned": false
+      "owned": true
     },
     "QAT16": {
       "team_code": "QAT",
