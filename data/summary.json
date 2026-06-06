@@ -1,63 +1,29 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-06T00:59:22Z",
-  "last_update_source": "codex_base_update",
+  "last_updated": "2026-06-06T01:06:07Z",
+  "last_update_source": "gpt_image_confirmed",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 599,
-    "missing_total": 381,
-    "progress_percent": 61.12
+    "owned_total": 602,
+    "missing_total": 378,
+    "progress_percent": 61.43
   },
   "last_update_result": {
-    "operation": "add_special_set",
+    "operation": "add",
     "requested": [
-      "FWC00",
-      "FWC01",
-      "FWC02",
-      "FWC03",
-      "FWC04",
-      "FWC05",
-      "FWC06",
-      "FWC07",
-      "FWC08",
       "FWC09",
-      "FWC10",
-      "FWC11",
       "FWC12",
-      "FWC13",
-      "FWC14",
-      "FWC15",
-      "FWC16",
-      "FWC17",
-      "FWC18",
-      "FWC19"
+      "TUN06"
     ],
-    "added": [],
+    "added": [
+      "FWC09",
+      "FWC12",
+      "TUN06"
+    ],
     "removed": [],
     "already_owned": [],
-    "already_missing": [
-      "FWC00",
-      "FWC01",
-      "FWC02",
-      "FWC03",
-      "FWC04",
-      "FWC05",
-      "FWC06",
-      "FWC07",
-      "FWC08",
-      "FWC09",
-      "FWC10",
-      "FWC11",
-      "FWC12",
-      "FWC13",
-      "FWC14",
-      "FWC15",
-      "FWC16",
-      "FWC17",
-      "FWC18",
-      "FWC19"
-    ],
+    "already_missing": [],
     "not_found": [],
     "invalid": []
   }

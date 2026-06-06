@@ -232,6 +232,8 @@ FRA16,FRA,França,16,True
 FRA17,FRA,França,17,True
 FRA18,FRA,França,18,True
 FRA20,FRA,França,20,True
+FWC09,FWC,FIFA World Cup,9,True
+FWC12,FWC,FIFA World Cup,12,True
 GER02,GER,Alemanha,2,True
 GER04,GER,Alemanha,4,True
 GER05,GER,Alemanha,5,True
@@ -541,6 +543,7 @@ SWE20,SWE,Suécia,20,True
 TUN01,TUN,Tunísia,1,True
 TUN03,TUN,Tunísia,3,True
 TUN05,TUN,Tunísia,5,True
+TUN06,TUN,Tunísia,6,True
 TUN09,TUN,Tunísia,9,True
 TUN10,TUN,Tunísia,10,True
 TUN11,TUN,Tunísia,11,True
