@@ -13,10 +13,14 @@ Este pacote foi gerado a partir da base oficial `inventory.json`.
 
 ## Totais desta versão
 
-- Total de figurinhas: 960
-- Já tenho: 569
-- Faltam: 391
-- Progresso: 59.27%
+- Total de figurinhas: 980
+- Já tenho: 599
+- Faltam: 381
+- Progresso: 61.12%
+
+## Conjuntos especiais
+
+- `FWC00` a `FWC19`: figurinhas especiais FIFA World Cup.
 
 ## URLs esperadas depois de subir no GitHub
 

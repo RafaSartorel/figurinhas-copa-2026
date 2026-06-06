@@ -57,8 +57,8 @@ components:
           properties:
             stickers:
               type: string
-              description: Lista JSON, em string, com os IDs das figurinhas.
-              example: "[\"BEL12\",\"SCO10\"]"
+              description: Lista JSON, em string, com os IDs das figurinhas, incluindo especiais FWC00 a FWC19.
+              example: "[\"BEL12\",\"SCO10\",\"FWC00\"]"
             source:
               type: string
               description: Origem da atualização.

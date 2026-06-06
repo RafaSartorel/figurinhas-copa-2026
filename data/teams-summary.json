@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-06T00:43:22Z",
+  "last_updated": "2026-06-06T00:59:22Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -621,6 +621,36 @@
         "FRA12",
         "FRA13",
         "FRA19"
+      ]
+    },
+    {
+      "team_code": "FWC",
+      "country": "FIFA World Cup",
+      "stickers_total": 20,
+      "owned_total": 0,
+      "missing_total": 20,
+      "owned": [],
+      "missing": [
+        "FWC00",
+        "FWC01",
+        "FWC02",
+        "FWC03",
+        "FWC04",
+        "FWC05",
+        "FWC06",
+        "FWC07",
+        "FWC08",
+        "FWC09",
+        "FWC10",
+        "FWC11",
+        "FWC12",
+        "FWC13",
+        "FWC14",
+        "FWC15",
+        "FWC16",
+        "FWC17",
+        "FWC18",
+        "FWC19"
       ]
     },
     {

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-06T00:43:22Z",
+  "last_updated": "2026-06-06T00:59:22Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -2402,6 +2402,126 @@
       "country": "França",
       "sticker_number": 20,
       "owned": true
+    },
+    "FWC00": {
+      "team_code": "FWC",
+      "country": "FIFA World Cup",
+      "sticker_number": 0,
+      "owned": false
+    },
+    "FWC01": {
+      "team_code": "FWC",
+      "country": "FIFA World Cup",
+      "sticker_number": 1,
+      "owned": false
+    },
+    "FWC02": {
+      "team_code": "FWC",
+      "country": "FIFA World Cup",
+      "sticker_number": 2,
+      "owned": false
+    },
+    "FWC03": {
+      "team_code": "FWC",
+      "country": "FIFA World Cup",
+      "sticker_number": 3,
+      "owned": false
+    },
+    "FWC04": {
+      "team_code": "FWC",
+      "country": "FIFA World Cup",
+      "sticker_number": 4,
+      "owned": false
+    },
+    "FWC05": {
+      "team_code": "FWC",
+      "country": "FIFA World Cup",
+      "sticker_number": 5,
+      "owned": false
+    },
+    "FWC06": {
+      "team_code": "FWC",
+      "country": "FIFA World Cup",
+      "sticker_number": 6,
+      "owned": false
+    },
+    "FWC07": {
+      "team_code": "FWC",
+      "country": "FIFA World Cup",
+      "sticker_number": 7,
+      "owned": false
+    },
+    "FWC08": {
+      "team_code": "FWC",
+      "country": "FIFA World Cup",
+      "sticker_number": 8,
+      "owned": false
+    },
+    "FWC09": {
+      "team_code": "FWC",
+      "country": "FIFA World Cup",
+      "sticker_number": 9,
+      "owned": false
+    },
+    "FWC10": {
+      "team_code": "FWC",
+      "country": "FIFA World Cup",
+      "sticker_number": 10,
+      "owned": false
+    },
+    "FWC11": {
+      "team_code": "FWC",
+      "country": "FIFA World Cup",
+      "sticker_number": 11,
+      "owned": false
+    },
+    "FWC12": {
+      "team_code": "FWC",
+      "country": "FIFA World Cup",
+      "sticker_number": 12,
+      "owned": false
+    },
+    "FWC13": {
+      "team_code": "FWC",
+      "country": "FIFA World Cup",
+      "sticker_number": 13,
+      "owned": false
+    },
+    "FWC14": {
+      "team_code": "FWC",
+      "country": "FIFA World Cup",
+      "sticker_number": 14,
+      "owned": false
+    },
+    "FWC15": {
+      "team_code": "FWC",
+      "country": "FIFA World Cup",
+      "sticker_number": 15,
+      "owned": false
+    },
+    "FWC16": {
+      "team_code": "FWC",
+      "country": "FIFA World Cup",
+      "sticker_number": 16,
+      "owned": false
+    },
+    "FWC17": {
+      "team_code": "FWC",
+      "country": "FIFA World Cup",
+      "sticker_number": 17,
+      "owned": false
+    },
+    "FWC18": {
+      "team_code": "FWC",
+      "country": "FIFA World Cup",
+      "sticker_number": 18,
+      "owned": false
+    },
+    "FWC19": {
+      "team_code": "FWC",
+      "country": "FIFA World Cup",
+      "sticker_number": 19,
+      "owned": false
     },
     "GER01": {
       "team_code": "GER",
