@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-06T21:56:56Z",
+  "last_updated": "2026-06-06T22:00:53Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -1247,9 +1247,10 @@
       "team_code": "SCO",
       "country": "Escócia",
       "stickers_total": 20,
-      "owned_total": 16,
-      "missing_total": 4,
+      "owned_total": 17,
+      "missing_total": 3,
       "owned": [
+        "SCO01",
         "SCO02",
         "SCO03",
         "SCO04",
@@ -1268,7 +1269,6 @@
         "SCO20"
       ],
       "missing": [
-        "SCO01",
         "SCO08",
         "SCO12",
         "SCO17"
