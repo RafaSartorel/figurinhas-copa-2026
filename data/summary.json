@@ -1,36 +1,26 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-05T22:08:45Z",
-  "last_update_source": "gpt_image_confirmed",
+  "last_updated": "2026-06-06T00:43:22Z",
+  "last_update_source": "gpt_text",
   "totals": {
     "stickers_total": 960,
-    "owned_total": 600,
-    "missing_total": 360,
-    "progress_percent": 62.5
+    "owned_total": 599,
+    "missing_total": 361,
+    "progress_percent": 62.4
   },
   "last_update_result": {
+    "operation": "remove",
     "requested": [
-      "CPV08",
-      "IRQ15",
-      "KSA10",
-      "MEX04",
-      "NOR19",
-      "NZL14",
-      "NZL18",
-      "SUI17"
+      "NZL18"
     ],
-    "added": [
-      "CPV08",
-      "IRQ15",
-      "KSA10",
-      "MEX04",
-      "NOR19",
-      "NZL14",
-      "NZL18",
-      "SUI17"
+    "added": [],
+    "removed": [
+      "NZL18"
     ],
     "already_owned": [],
-    "not_found": []
+    "already_missing": [],
+    "not_found": [],
+    "invalid": []
   }
 }
