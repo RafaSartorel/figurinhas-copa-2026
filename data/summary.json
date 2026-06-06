@@ -1,27 +1,32 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-06T22:00:53Z",
+  "last_updated": "2026-06-06T22:02:23Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 627,
-    "missing_total": 353,
-    "progress_percent": 63.98
+    "owned_total": 632,
+    "missing_total": 348,
+    "progress_percent": 64.49
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "QAT13",
-      "SCO01"
+      "CAN05",
+      "CAN14",
+      "KOR01",
+      "RSA12",
+      "RSA17"
     ],
     "added": [
-      "SCO01"
+      "CAN05",
+      "CAN14",
+      "KOR01",
+      "RSA12",
+      "RSA17"
     ],
     "removed": [],
-    "already_owned": [
-      "QAT13"
-    ],
+    "already_owned": [],
     "already_missing": [],
     "not_found": [],
     "invalid": []

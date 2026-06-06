@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 627,
+  "owned_count": 632,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1017,7 +1017,7 @@
       "country": "Canadá",
       "sticker_number": 5,
       "sticker_id": "CAN05",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CAN",
@@ -1080,7 +1080,7 @@
       "country": "Canadá",
       "sticker_number": 14,
       "sticker_id": "CAN14",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CAN",
@@ -3929,7 +3929,7 @@
       "country": "Coreia do Sul",
       "sticker_number": 1,
       "sticker_id": "KOR01",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "KOR",
@@ -5546,7 +5546,7 @@
       "country": "África do Sul",
       "sticker_number": 12,
       "sticker_id": "RSA12",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "RSA",
@@ -5581,7 +5581,7 @@
       "country": "África do Sul",
       "sticker_number": 17,
       "sticker_id": "RSA17",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "RSA",
@@ -6865,11 +6865,15 @@
       "owned": false
     }
   ],
-  "last_updated": "2026-06-06T22:00:53Z",
-  "missing_count": 353,
+  "last_updated": "2026-06-06T22:02:23Z",
+  "missing_count": 348,
   "last_update_source": "chatgpt",
   "last_added": [
-    "SCO01"
+    "CAN05",
+    "CAN14",
+    "KOR01",
+    "RSA12",
+    "RSA17"
   ],
   "last_removed": []
 }

@@ -100,6 +100,7 @@ BRA19,BRA,Brasil,19,True
 CAN01,CAN,Canadá,1,True
 CAN03,CAN,Canadá,3,True
 CAN04,CAN,Canadá,4,True
+CAN05,CAN,Canadá,5,True
 CAN06,CAN,Canadá,6,True
 CAN07,CAN,Canadá,7,True
 CAN08,CAN,Canadá,8,True
@@ -107,6 +108,7 @@ CAN10,CAN,Canadá,10,True
 CAN11,CAN,Canadá,11,True
 CAN12,CAN,Canadá,12,True
 CAN13,CAN,Canadá,13,True
+CAN14,CAN,Canadá,14,True
 CAN16,CAN,Canadá,16,True
 CAN17,CAN,Canadá,17,True
 CAN19,CAN,Canadá,19,True
@@ -335,6 +337,7 @@ JPN15,JPN,Japão,15,True
 JPN16,JPN,Japão,16,True
 JPN18,JPN,Japão,18,True
 JPN19,JPN,Japão,19,True
+KOR01,KOR,Coreia do Sul,1,True
 KOR03,KOR,Coreia do Sul,3,True
 KOR07,KOR,Coreia do Sul,7,True
 KOR08,KOR,Coreia do Sul,8,True
@@ -497,8 +500,10 @@ RSA08,RSA,África do Sul,8,True
 RSA09,RSA,África do Sul,9,True
 RSA10,RSA,África do Sul,10,True
 RSA11,RSA,África do Sul,11,True
+RSA12,RSA,África do Sul,12,True
 RSA13,RSA,África do Sul,13,True
 RSA14,RSA,África do Sul,14,True
+RSA17,RSA,África do Sul,17,True
 RSA18,RSA,África do Sul,18,True
 RSA19,RSA,África do Sul,19,True
 RSA20,RSA,África do Sul,20,True

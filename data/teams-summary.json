@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-06T22:00:53Z",
+  "last_updated": "2026-06-06T22:02:23Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -224,12 +224,13 @@
       "team_code": "CAN",
       "country": "Canadá",
       "stickers_total": 20,
-      "owned_total": 13,
-      "missing_total": 7,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
         "CAN01",
         "CAN03",
         "CAN04",
+        "CAN05",
         "CAN06",
         "CAN07",
         "CAN08",
@@ -237,15 +238,14 @@
         "CAN11",
         "CAN12",
         "CAN13",
+        "CAN14",
         "CAN16",
         "CAN17",
         "CAN19"
       ],
       "missing": [
         "CAN02",
-        "CAN05",
         "CAN09",
-        "CAN14",
         "CAN15",
         "CAN18",
         "CAN20"
@@ -875,9 +875,10 @@
       "team_code": "KOR",
       "country": "Coreia do Sul",
       "stickers_total": 20,
-      "owned_total": 11,
-      "missing_total": 9,
+      "owned_total": 12,
+      "missing_total": 8,
       "owned": [
+        "KOR01",
         "KOR03",
         "KOR07",
         "KOR08",
@@ -891,7 +892,6 @@
         "KOR20"
       ],
       "missing": [
-        "KOR01",
         "KOR02",
         "KOR04",
         "KOR05",
@@ -1216,8 +1216,8 @@
       "team_code": "RSA",
       "country": "África do Sul",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 17,
+      "missing_total": 3,
       "owned": [
         "RSA01",
         "RSA02",
@@ -1229,18 +1229,18 @@
         "RSA09",
         "RSA10",
         "RSA11",
+        "RSA12",
         "RSA13",
         "RSA14",
+        "RSA17",
         "RSA18",
         "RSA19",
         "RSA20"
       ],
       "missing": [
         "RSA07",
-        "RSA12",
         "RSA15",
-        "RSA16",
-        "RSA17"
+        "RSA16"
       ]
     },
     {

@@ -42,9 +42,7 @@ BRA16,BRA,Brasil,16,False
 BRA17,BRA,Brasil,17,False
 BRA20,BRA,Brasil,20,False
 CAN02,CAN,Canadá,2,False
-CAN05,CAN,Canadá,5,False
 CAN09,CAN,Canadá,9,False
-CAN14,CAN,Canadá,14,False
 CAN15,CAN,Canadá,15,False
 CAN18,CAN,Canadá,18,False
 CAN20,CAN,Canadá,20,False
@@ -223,7 +221,6 @@ JPN12,JPN,Japão,12,False
 JPN13,JPN,Japão,13,False
 JPN17,JPN,Japão,17,False
 JPN20,JPN,Japão,20,False
-KOR01,KOR,Coreia do Sul,1,False
 KOR02,KOR,Coreia do Sul,2,False
 KOR04,KOR,Coreia do Sul,4,False
 KOR05,KOR,Coreia do Sul,5,False
@@ -292,10 +289,8 @@ POR08,POR,Portugal,8,False
 POR17,POR,Portugal,17,False
 QAT17,QAT,Catar,17,False
 RSA07,RSA,África do Sul,7,False
-RSA12,RSA,África do Sul,12,False
 RSA15,RSA,África do Sul,15,False
 RSA16,RSA,África do Sul,16,False
-RSA17,RSA,África do Sul,17,False
 SCO08,SCO,Escócia,8,False
 SCO12,SCO,Escócia,12,False
 SCO17,SCO,Escócia,17,False
