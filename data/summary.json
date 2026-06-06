@@ -1,23 +1,21 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-06T19:40:31Z",
+  "last_updated": "2026-06-06T21:44:26Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 604,
-    "missing_total": 376,
-    "progress_percent": 61.63
+    "owned_total": 605,
+    "missing_total": 375,
+    "progress_percent": 61.73
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "GHA14",
-      "GHA18"
+      "JOR04"
     ],
     "added": [
-      "GHA14",
-      "GHA18"
+      "JOR04"
     ],
     "removed": [],
     "already_owned": [],

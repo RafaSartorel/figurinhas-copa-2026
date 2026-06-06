@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 604,
+  "owned_count": 605,
   "stickers": [
     {
       "team_code": "ALG",
@@ -3670,7 +3670,7 @@
       "country": "Jordânia",
       "sticker_number": 4,
       "sticker_id": "JOR04",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "JOR",
@@ -6865,12 +6865,11 @@
       "owned": false
     }
   ],
-  "last_updated": "2026-06-06T19:40:31Z",
-  "missing_count": 376,
+  "last_updated": "2026-06-06T21:44:26Z",
+  "missing_count": 375,
   "last_update_source": "chatgpt",
   "last_added": [
-    "GHA14",
-    "GHA18"
+    "JOR04"
   ],
   "last_removed": []
 }
