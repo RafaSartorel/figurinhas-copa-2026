@@ -1,32 +1,29 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-06T22:02:23Z",
+  "last_updated": "2026-06-06T22:04:53Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 632,
-    "missing_total": 348,
-    "progress_percent": 64.49
+    "owned_total": 634,
+    "missing_total": 346,
+    "progress_percent": 64.69
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "CAN05",
-      "CAN14",
-      "KOR01",
-      "RSA12",
-      "RSA17"
+      "FWC13",
+      "FWC14",
+      "RSA01"
     ],
     "added": [
-      "CAN05",
-      "CAN14",
-      "KOR01",
-      "RSA12",
-      "RSA17"
+      "FWC13",
+      "FWC14"
     ],
     "removed": [],
-    "already_owned": [],
+    "already_owned": [
+      "RSA01"
+    ],
     "already_missing": [],
     "not_found": [],
     "invalid": []
