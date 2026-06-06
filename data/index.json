@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-06T01:06:07Z",
+  "last_updated": "2026-06-06T19:40:31Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -2725,7 +2725,7 @@
       "team_code": "GHA",
       "country": "Gana",
       "sticker_number": 14,
-      "owned": false
+      "owned": true
     },
     "GHA15": {
       "team_code": "GHA",
@@ -2749,7 +2749,7 @@
       "team_code": "GHA",
       "country": "Gana",
       "sticker_number": 18,
-      "owned": false
+      "owned": true
     },
     "GHA19": {
       "team_code": "GHA",

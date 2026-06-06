@@ -1,25 +1,23 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-06T01:06:07Z",
-  "last_update_source": "gpt_image_confirmed",
+  "last_updated": "2026-06-06T19:40:31Z",
+  "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 602,
-    "missing_total": 378,
-    "progress_percent": 61.43
+    "owned_total": 604,
+    "missing_total": 376,
+    "progress_percent": 61.63
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "FWC09",
-      "FWC12",
-      "TUN06"
+      "GHA14",
+      "GHA18"
     ],
     "added": [
-      "FWC09",
-      "FWC12",
-      "TUN06"
+      "GHA14",
+      "GHA18"
     ],
     "removed": [],
     "already_owned": [],
