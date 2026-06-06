@@ -6,8 +6,10 @@ ALG07,ALG,Argélia,7,True
 ALG10,ALG,Argélia,10,True
 ALG11,ALG,Argélia,11,True
 ALG13,ALG,Argélia,13,True
+ALG14,ALG,Argélia,14,True
 ALG15,ALG,Argélia,15,True
 ALG16,ALG,Argélia,16,True
+ALG18,ALG,Argélia,18,True
 ALG20,ALG,Argélia,20,True
 ARG01,ARG,Argentina,1,True
 ARG02,ARG,Argentina,2,True
@@ -284,11 +286,13 @@ IRN14,IRN,Irã,14,True
 IRN15,IRN,Irã,15,True
 IRN17,IRN,Irã,17,True
 IRN18,IRN,Irã,18,True
+IRQ01,IRQ,Iraque,1,True
 IRQ04,IRQ,Iraque,4,True
 IRQ06,IRQ,Iraque,6,True
 IRQ08,IRQ,Iraque,8,True
 IRQ10,IRQ,Iraque,10,True
 IRQ11,IRQ,Iraque,11,True
+IRQ13,IRQ,Iraque,13,True
 IRQ14,IRQ,Iraque,14,True
 IRQ15,IRQ,Iraque,15,True
 IRQ17,IRQ,Iraque,17,True
