@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-06T21:53:19Z",
+  "last_updated": "2026-06-06T21:56:56Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -973,7 +973,7 @@
       "team_code": "CIV",
       "country": "Costa do Marfim",
       "sticker_number": 2,
-      "owned": false
+      "owned": true
     },
     "CIV03": {
       "team_code": "CIV",
@@ -1615,7 +1615,7 @@
       "team_code": "CUW",
       "country": "Curaçao",
       "sticker_number": 9,
-      "owned": false
+      "owned": true
     },
     "CUW10": {
       "team_code": "CUW",
@@ -1627,7 +1627,7 @@
       "team_code": "CUW",
       "country": "Curaçao",
       "sticker_number": 11,
-      "owned": false
+      "owned": true
     },
     "CUW12": {
       "team_code": "CUW",
@@ -1657,7 +1657,7 @@
       "team_code": "CUW",
       "country": "Curaçao",
       "sticker_number": 16,
-      "owned": false
+      "owned": true
     },
     "CUW17": {
       "team_code": "CUW",
@@ -1843,7 +1843,7 @@
       "team_code": "ECU",
       "country": "Equador",
       "sticker_number": 7,
-      "owned": false
+      "owned": true
     },
     "ECU08": {
       "team_code": "ECU",
@@ -4417,7 +4417,7 @@
       "team_code": "PAR",
       "country": "Paraguai",
       "sticker_number": 16,
-      "owned": false
+      "owned": true
     },
     "PAR17": {
       "team_code": "PAR",
@@ -5521,7 +5521,7 @@
       "team_code": "TUR",
       "country": "Turquia",
       "sticker_number": 20,
-      "owned": false
+      "owned": true
     },
     "URU01": {
       "team_code": "URU",

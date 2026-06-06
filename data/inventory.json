@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 619,
+  "owned_count": 626,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1136,7 +1136,7 @@
       "country": "Costa do Marfim",
       "sticker_number": 2,
       "sticker_id": "CIV02",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CIV",
@@ -1885,7 +1885,7 @@
       "country": "Curaçao",
       "sticker_number": 9,
       "sticker_id": "CUW09",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CUW",
@@ -1899,7 +1899,7 @@
       "country": "Curaçao",
       "sticker_number": 11,
       "sticker_id": "CUW11",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CUW",
@@ -1934,7 +1934,7 @@
       "country": "Curaçao",
       "sticker_number": 16,
       "sticker_id": "CUW16",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CUW",
@@ -2151,7 +2151,7 @@
       "country": "Equador",
       "sticker_number": 7,
       "sticker_id": "ECU07",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ECU",
@@ -5154,7 +5154,7 @@
       "country": "Paraguai",
       "sticker_number": 16,
       "sticker_id": "PAR16",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "PAR",
@@ -6442,7 +6442,7 @@
       "country": "Turquia",
       "sticker_number": 20,
       "sticker_id": "TUR20",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "URU",
@@ -6865,16 +6865,17 @@
       "owned": false
     }
   ],
-  "last_updated": "2026-06-06T21:53:19Z",
-  "missing_count": 361,
+  "last_updated": "2026-06-06T21:56:56Z",
+  "missing_count": 354,
   "last_update_source": "chatgpt",
   "last_added": [
-    "BEL13",
-    "JPN08",
-    "JPN16",
-    "NED12",
-    "NED18",
-    "TUN08"
+    "CIV02",
+    "CUW09",
+    "CUW11",
+    "CUW16",
+    "ECU07",
+    "PAR16",
+    "TUR20"
   ],
   "last_removed": []
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-06T21:53:19Z",
+  "last_updated": "2026-06-06T21:56:56Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -255,9 +255,10 @@
       "team_code": "CIV",
       "country": "Costa do Marfim",
       "stickers_total": 20,
-      "owned_total": 5,
-      "missing_total": 15,
+      "owned_total": 6,
+      "missing_total": 14,
       "owned": [
+        "CIV02",
         "CIV05",
         "CIV06",
         "CIV13",
@@ -266,7 +267,6 @@
       ],
       "missing": [
         "CIV01",
-        "CIV02",
         "CIV03",
         "CIV04",
         "CIV07",
@@ -410,17 +410,20 @@
       "team_code": "CUW",
       "country": "Curaçao",
       "stickers_total": 20,
-      "owned_total": 11,
-      "missing_total": 9,
+      "owned_total": 14,
+      "missing_total": 6,
       "owned": [
         "CUW03",
         "CUW04",
         "CUW06",
         "CUW07",
         "CUW08",
+        "CUW09",
+        "CUW11",
         "CUW12",
         "CUW14",
         "CUW15",
+        "CUW16",
         "CUW17",
         "CUW18",
         "CUW19"
@@ -429,11 +432,8 @@
         "CUW01",
         "CUW02",
         "CUW05",
-        "CUW09",
         "CUW10",
-        "CUW11",
         "CUW13",
-        "CUW16",
         "CUW20"
       ]
     },
@@ -472,14 +472,15 @@
       "team_code": "ECU",
       "country": "Equador",
       "stickers_total": 20,
-      "owned_total": 10,
-      "missing_total": 10,
+      "owned_total": 11,
+      "missing_total": 9,
       "owned": [
         "ECU01",
         "ECU02",
         "ECU03",
         "ECU04",
         "ECU05",
+        "ECU07",
         "ECU08",
         "ECU13",
         "ECU16",
@@ -488,7 +489,6 @@
       ],
       "missing": [
         "ECU06",
-        "ECU07",
         "ECU09",
         "ECU10",
         "ECU11",
@@ -1123,8 +1123,8 @@
       "team_code": "PAR",
       "country": "Paraguai",
       "stickers_total": 20,
-      "owned_total": 9,
-      "missing_total": 11,
+      "owned_total": 10,
+      "missing_total": 10,
       "owned": [
         "PAR03",
         "PAR05",
@@ -1134,6 +1134,7 @@
         "PAR11",
         "PAR13",
         "PAR15",
+        "PAR16",
         "PAR19"
       ],
       "missing": [
@@ -1144,7 +1145,6 @@
         "PAR09",
         "PAR12",
         "PAR14",
-        "PAR16",
         "PAR17",
         "PAR18",
         "PAR20"
@@ -1402,8 +1402,8 @@
       "team_code": "TUR",
       "country": "Turquia",
       "stickers_total": 20,
-      "owned_total": 11,
-      "missing_total": 9,
+      "owned_total": 12,
+      "missing_total": 8,
       "owned": [
         "TUR06",
         "TUR08",
@@ -1415,7 +1415,8 @@
         "TUR15",
         "TUR16",
         "TUR17",
-        "TUR18"
+        "TUR18",
+        "TUR20"
       ],
       "missing": [
         "TUR01",
@@ -1425,8 +1426,7 @@
         "TUR05",
         "TUR07",
         "TUR09",
-        "TUR19",
-        "TUR20"
+        "TUR19"
       ]
     },
     {

@@ -110,6 +110,7 @@ CAN13,CAN,Canadá,13,True
 CAN16,CAN,Canadá,16,True
 CAN17,CAN,Canadá,17,True
 CAN19,CAN,Canadá,19,True
+CIV02,CIV,Costa do Marfim,2,True
 CIV05,CIV,Costa do Marfim,5,True
 CIV06,CIV,Costa do Marfim,6,True
 CIV13,CIV,Costa do Marfim,13,True
@@ -164,9 +165,12 @@ CUW04,CUW,Curaçao,4,True
 CUW06,CUW,Curaçao,6,True
 CUW07,CUW,Curaçao,7,True
 CUW08,CUW,Curaçao,8,True
+CUW09,CUW,Curaçao,9,True
+CUW11,CUW,Curaçao,11,True
 CUW12,CUW,Curaçao,12,True
 CUW14,CUW,Curaçao,14,True
 CUW15,CUW,Curaçao,15,True
+CUW16,CUW,Curaçao,16,True
 CUW17,CUW,Curaçao,17,True
 CUW18,CUW,Curaçao,18,True
 CUW19,CUW,Curaçao,19,True
@@ -188,6 +192,7 @@ ECU02,ECU,Equador,2,True
 ECU03,ECU,Equador,3,True
 ECU04,ECU,Equador,4,True
 ECU05,ECU,Equador,5,True
+ECU07,ECU,Equador,7,True
 ECU08,ECU,Equador,8,True
 ECU13,ECU,Equador,13,True
 ECU16,ECU,Equador,16,True
@@ -447,6 +452,7 @@ PAR10,PAR,Paraguai,10,True
 PAR11,PAR,Paraguai,11,True
 PAR13,PAR,Paraguai,13,True
 PAR15,PAR,Paraguai,15,True
+PAR16,PAR,Paraguai,16,True
 PAR19,PAR,Paraguai,19,True
 POR01,POR,Portugal,1,True
 POR06,POR,Portugal,6,True
@@ -583,6 +589,7 @@ TUR15,TUR,Turquia,15,True
 TUR16,TUR,Turquia,16,True
 TUR17,TUR,Turquia,17,True
 TUR18,TUR,Turquia,18,True
+TUR20,TUR,Turquia,20,True
 URU01,URU,Uruguai,1,True
 URU02,URU,Uruguai,2,True
 URU03,URU,Uruguai,3,True
