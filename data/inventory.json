@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 631,
+  "owned_count": 632,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1577,7 +1577,7 @@
       "country": "Cabo Verde",
       "sticker_number": 5,
       "sticker_id": "CPV05",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CPV",
@@ -6865,11 +6865,11 @@
       "owned": false
     }
   ],
-  "last_updated": "2026-06-07T00:27:35Z",
-  "missing_count": 349,
+  "last_updated": "2026-06-07T00:45:35Z",
+  "missing_count": 348,
   "last_update_source": "chatgpt",
-  "last_added": [],
-  "last_removed": [
-    "BEL12"
-  ]
+  "last_added": [
+    "CPV05"
+  ],
+  "last_removed": []
 }

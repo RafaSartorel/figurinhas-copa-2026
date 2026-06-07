@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T00:27:35Z",
+  "last_updated": "2026-06-07T00:45:35Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 631,
-    "missing_total": 349,
-    "progress_percent": 64.39
+    "owned_total": 632,
+    "missing_total": 348,
+    "progress_percent": 64.49
   },
   "last_update_result": {
-    "operation": "remove",
+    "operation": "add",
     "requested": [
-      "BEL12"
+      "CPV05"
     ],
-    "added": [],
-    "removed": [
-      "BEL12"
+    "added": [
+      "CPV05"
     ],
+    "removed": [],
     "already_owned": [],
     "already_missing": [],
     "not_found": [],

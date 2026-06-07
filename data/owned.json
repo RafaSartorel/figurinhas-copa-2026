@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T00:27:35Z",
+  "last_updated": "2026-06-07T00:45:35Z",
   "stickers": [
     "ALG02",
     "ALG03",
@@ -145,6 +145,7 @@
     "COL20",
     "CPV02",
     "CPV03",
+    "CPV05",
     "CPV06",
     "CPV07",
     "CPV08",

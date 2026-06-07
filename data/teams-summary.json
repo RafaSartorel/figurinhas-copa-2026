@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T00:27:35Z",
+  "last_updated": "2026-06-07T00:45:35Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -348,11 +348,12 @@
       "team_code": "CPV",
       "country": "Cabo Verde",
       "stickers_total": 20,
-      "owned_total": 14,
-      "missing_total": 6,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
         "CPV02",
         "CPV03",
+        "CPV05",
         "CPV06",
         "CPV07",
         "CPV08",
@@ -369,7 +370,6 @@
       "missing": [
         "CPV01",
         "CPV04",
-        "CPV05",
         "CPV10",
         "CPV15",
         "CPV19"
