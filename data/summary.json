@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T00:14:02Z",
+  "last_updated": "2026-06-07T00:21:59Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 633,
-    "missing_total": 347,
-    "progress_percent": 64.59
+    "owned_total": 632,
+    "missing_total": 348,
+    "progress_percent": 64.49
   },
   "last_update_result": {
-    "operation": "add",
+    "operation": "remove",
     "requested": [
-      "CUW19"
+      "JPN19"
     ],
-    "added": [
-      "CUW19"
+    "added": [],
+    "removed": [
+      "JPN19"
     ],
-    "removed": [],
     "already_owned": [],
     "already_missing": [],
     "not_found": [],

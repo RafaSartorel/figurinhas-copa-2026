@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T00:14:02Z",
+  "last_updated": "2026-06-07T00:21:59Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -844,8 +844,8 @@
       "team_code": "JPN",
       "country": "Japão",
       "stickers_total": 20,
-      "owned_total": 9,
-      "missing_total": 11,
+      "owned_total": 8,
+      "missing_total": 12,
       "owned": [
         "JPN03",
         "JPN05",
@@ -854,8 +854,7 @@
         "JPN14",
         "JPN15",
         "JPN16",
-        "JPN18",
-        "JPN19"
+        "JPN18"
       ],
       "missing": [
         "JPN01",
@@ -868,6 +867,7 @@
         "JPN12",
         "JPN13",
         "JPN17",
+        "JPN19",
         "JPN20"
       ]
     },
