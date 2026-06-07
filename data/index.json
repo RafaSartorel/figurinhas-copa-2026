@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T00:21:59Z",
+  "last_updated": "2026-06-07T00:27:35Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -553,7 +553,7 @@
       "team_code": "BEL",
       "country": "Bélgica",
       "sticker_number": 12,
-      "owned": true
+      "owned": false
     },
     "BEL13": {
       "team_code": "BEL",

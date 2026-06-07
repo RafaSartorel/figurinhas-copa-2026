@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T00:21:59Z",
+  "last_updated": "2026-06-07T00:27:35Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 632,
-    "missing_total": 348,
-    "progress_percent": 64.49
+    "owned_total": 631,
+    "missing_total": 349,
+    "progress_percent": 64.39
   },
   "last_update_result": {
     "operation": "remove",
     "requested": [
-      "JPN19"
+      "BEL12"
     ],
     "added": [],
     "removed": [
-      "JPN19"
+      "BEL12"
     ],
     "already_owned": [],
     "already_missing": [],
