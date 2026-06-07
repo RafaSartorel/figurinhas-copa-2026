@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T00:49:13Z",
+  "last_updated": "2026-06-07T00:49:39Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -3505,7 +3505,7 @@
       "team_code": "KSA",
       "country": "Arábia Saudita",
       "sticker_number": 4,
-      "owned": true
+      "owned": false
     },
     "KSA05": {
       "team_code": "KSA",

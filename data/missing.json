@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T00:49:13Z",
+  "last_updated": "2026-06-07T00:49:39Z",
   "stickers": [
     "ALG01",
     "ALG05",
@@ -236,6 +236,7 @@
     "KSA01",
     "KSA02",
     "KSA03",
+    "KSA04",
     "KSA08",
     "MAR05",
     "MAR12",

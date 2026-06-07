@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T00:49:13Z",
+  "last_updated": "2026-06-07T00:49:39Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 631,
-    "missing_total": 349,
-    "progress_percent": 64.39
+    "owned_total": 630,
+    "missing_total": 350,
+    "progress_percent": 64.29
   },
   "last_update_result": {
     "operation": "remove",
     "requested": [
-      "FRA15"
+      "KSA04"
     ],
     "added": [],
     "removed": [
-      "FRA15"
+      "KSA04"
     ],
     "already_owned": [],
     "already_missing": [],
