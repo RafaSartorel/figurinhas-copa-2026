@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T00:51:20Z",
+  "last_updated": "2026-06-07T00:57:26Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 629,
-    "missing_total": 351,
-    "progress_percent": 64.18
+    "owned_total": 630,
+    "missing_total": 350,
+    "progress_percent": 64.29
   },
   "last_update_result": {
-    "operation": "remove",
+    "operation": "add",
     "requested": [
-      "IRQ06"
+      "NOR12"
     ],
-    "added": [],
-    "removed": [
-      "IRQ06"
+    "added": [
+      "NOR12"
     ],
+    "removed": [],
     "already_owned": [],
     "already_missing": [],
     "not_found": [],

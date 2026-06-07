@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T00:51:20Z",
+  "last_updated": "2026-06-07T00:57:26Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -1030,13 +1030,14 @@
       "team_code": "NOR",
       "country": "Noruega",
       "stickers_total": 20,
-      "owned_total": 9,
-      "missing_total": 11,
+      "owned_total": 10,
+      "missing_total": 10,
       "owned": [
         "NOR05",
         "NOR08",
         "NOR09",
         "NOR11",
+        "NOR12",
         "NOR13",
         "NOR14",
         "NOR18",
@@ -1051,7 +1052,6 @@
         "NOR06",
         "NOR07",
         "NOR10",
-        "NOR12",
         "NOR15",
         "NOR16",
         "NOR17"

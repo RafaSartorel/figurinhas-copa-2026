@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 629,
+  "owned_count": 630,
   "stickers": [
     {
       "team_code": "ALG",
@@ -4706,7 +4706,7 @@
       "country": "Noruega",
       "sticker_number": 12,
       "sticker_id": "NOR12",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "NOR",
@@ -6865,11 +6865,11 @@
       "owned": false
     }
   ],
-  "last_updated": "2026-06-07T00:51:20Z",
-  "missing_count": 351,
+  "last_updated": "2026-06-07T00:57:26Z",
+  "missing_count": 350,
   "last_update_source": "chatgpt",
-  "last_added": [],
-  "last_removed": [
-    "IRQ06"
-  ]
+  "last_added": [
+    "NOR12"
+  ],
+  "last_removed": []
 }

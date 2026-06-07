@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T00:51:20Z",
+  "last_updated": "2026-06-07T00:57:26Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -4033,7 +4033,7 @@
       "team_code": "NOR",
       "country": "Noruega",
       "sticker_number": 12,
-      "owned": false
+      "owned": true
     },
     "NOR13": {
       "team_code": "NOR",
