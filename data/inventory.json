@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 632,
+  "owned_count": 633,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1955,7 +1955,7 @@
       "country": "Curaçao",
       "sticker_number": 19,
       "sticker_id": "CUW19",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CUW",
@@ -6865,11 +6865,11 @@
       "owned": false
     }
   ],
-  "last_updated": "2026-06-07T00:10:04Z",
-  "missing_count": 348,
+  "last_updated": "2026-06-07T00:14:02Z",
+  "missing_count": 347,
   "last_update_source": "chatgpt",
-  "last_added": [],
-  "last_removed": [
+  "last_added": [
     "CUW19"
-  ]
+  ],
+  "last_removed": []
 }

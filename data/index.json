@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T00:10:04Z",
+  "last_updated": "2026-06-07T00:14:02Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -1675,7 +1675,7 @@
       "team_code": "CUW",
       "country": "Curaçao",
       "sticker_number": 19,
-      "owned": false
+      "owned": true
     },
     "CUW20": {
       "team_code": "CUW",

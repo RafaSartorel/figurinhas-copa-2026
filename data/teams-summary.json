@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T00:10:04Z",
+  "last_updated": "2026-06-07T00:14:02Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -410,8 +410,8 @@
       "team_code": "CUW",
       "country": "Curaçao",
       "stickers_total": 20,
-      "owned_total": 13,
-      "missing_total": 7,
+      "owned_total": 14,
+      "missing_total": 6,
       "owned": [
         "CUW03",
         "CUW04",
@@ -425,7 +425,8 @@
         "CUW15",
         "CUW16",
         "CUW17",
-        "CUW18"
+        "CUW18",
+        "CUW19"
       ],
       "missing": [
         "CUW01",
@@ -433,7 +434,6 @@
         "CUW05",
         "CUW10",
         "CUW13",
-        "CUW19",
         "CUW20"
       ]
     },
