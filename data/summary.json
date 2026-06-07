@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T01:04:48Z",
+  "last_updated": "2026-06-07T01:06:59Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 633,
-    "missing_total": 347,
-    "progress_percent": 64.59
+    "owned_total": 634,
+    "missing_total": 346,
+    "progress_percent": 64.69
   },
   "last_update_result": {
-    "operation": "remove",
+    "operation": "add",
     "requested": [
-      "COL10"
+      "CRO10"
     ],
-    "added": [],
-    "removed": [
-      "COL10"
+    "added": [
+      "CRO10"
     ],
+    "removed": [],
     "already_owned": [],
     "already_missing": [],
     "not_found": [],

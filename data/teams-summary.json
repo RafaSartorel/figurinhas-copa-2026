@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T01:04:48Z",
+  "last_updated": "2026-06-07T01:06:59Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -379,12 +379,13 @@
       "team_code": "CRO",
       "country": "Croácia",
       "stickers_total": 20,
-      "owned_total": 8,
-      "missing_total": 12,
+      "owned_total": 9,
+      "missing_total": 11,
       "owned": [
         "CRO04",
         "CRO08",
         "CRO09",
+        "CRO10",
         "CRO12",
         "CRO15",
         "CRO17",
@@ -398,7 +399,6 @@
         "CRO05",
         "CRO06",
         "CRO07",
-        "CRO10",
         "CRO11",
         "CRO13",
         "CRO14",

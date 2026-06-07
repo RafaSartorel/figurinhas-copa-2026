@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 633,
+  "owned_count": 634,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1752,7 +1752,7 @@
       "country": "Croácia",
       "sticker_number": 10,
       "sticker_id": "CRO10",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CRO",
@@ -6865,11 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-07T01:04:48Z",
-  "missing_count": 347,
+  "last_updated": "2026-06-07T01:06:59Z",
+  "missing_count": 346,
   "last_update_source": "chatgpt",
-  "last_added": [],
-  "last_removed": [
-    "COL10"
-  ]
+  "last_added": [
+    "CRO10"
+  ],
+  "last_removed": []
 }
