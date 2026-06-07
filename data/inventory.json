@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 631,
+  "owned_count": 633,
   "stickers": [
     {
       "team_code": "ALG",
@@ -450,7 +450,7 @@
       "country": "Áustria",
       "sticker_number": 4,
       "sticker_id": "AUT04",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "AUT",
@@ -562,7 +562,7 @@
       "country": "Áustria",
       "sticker_number": 20,
       "sticker_id": "AUT20",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "BEL",
@@ -6865,11 +6865,12 @@
       "owned": false
     }
   ],
-  "last_updated": "2026-06-07T01:00:02Z",
-  "missing_count": 349,
+  "last_updated": "2026-06-07T01:01:33Z",
+  "missing_count": 347,
   "last_update_source": "chatgpt",
   "last_added": [
-    "ARG20"
+    "AUT04",
+    "AUT20"
   ],
   "last_removed": []
 }

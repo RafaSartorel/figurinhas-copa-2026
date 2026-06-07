@@ -1,21 +1,23 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T01:00:02Z",
+  "last_updated": "2026-06-07T01:01:33Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 631,
-    "missing_total": 349,
-    "progress_percent": 64.39
+    "owned_total": 633,
+    "missing_total": 347,
+    "progress_percent": 64.59
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "ARG20"
+      "AUT04",
+      "AUT20"
     ],
     "added": [
-      "ARG20"
+      "AUT04",
+      "AUT20"
     ],
     "removed": [],
     "already_owned": [],

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T01:00:02Z",
+  "last_updated": "2026-06-07T01:01:33Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -385,7 +385,7 @@
       "team_code": "AUT",
       "country": "Áustria",
       "sticker_number": 4,
-      "owned": false
+      "owned": true
     },
     "AUT05": {
       "team_code": "AUT",
@@ -481,7 +481,7 @@
       "team_code": "AUT",
       "country": "Áustria",
       "sticker_number": 20,
-      "owned": false
+      "owned": true
     },
     "BEL01": {
       "team_code": "BEL",
