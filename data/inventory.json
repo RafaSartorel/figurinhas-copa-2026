@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 634,
+  "owned_count": 633,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1472,7 +1472,7 @@
       "country": "Colômbia",
       "sticker_number": 10,
       "sticker_id": "COL10",
-      "owned": true
+      "owned": false
     },
     {
       "team_code": "COL",
@@ -6865,11 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-07T01:03:34Z",
-  "missing_count": 346,
+  "last_updated": "2026-06-07T01:04:48Z",
+  "missing_count": 347,
   "last_update_source": "chatgpt",
-  "last_added": [
-    "UZB20"
-  ],
-  "last_removed": []
+  "last_added": [],
+  "last_removed": [
+    "COL10"
+  ]
 }

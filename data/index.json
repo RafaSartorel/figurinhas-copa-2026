@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T01:03:34Z",
+  "last_updated": "2026-06-07T01:04:48Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -1261,7 +1261,7 @@
       "team_code": "COL",
       "country": "Colômbia",
       "sticker_number": 10,
-      "owned": true
+      "owned": false
     },
     "COL11": {
       "team_code": "COL",

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T01:03:34Z",
+  "last_updated": "2026-06-07T01:04:48Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -317,15 +317,14 @@
       "team_code": "COL",
       "country": "Colômbia",
       "stickers_total": 20,
-      "owned_total": 12,
-      "missing_total": 8,
+      "owned_total": 11,
+      "missing_total": 9,
       "owned": [
         "COL04",
         "COL06",
         "COL07",
         "COL08",
         "COL09",
-        "COL10",
         "COL12",
         "COL13",
         "COL14",
@@ -338,6 +337,7 @@
         "COL02",
         "COL03",
         "COL05",
+        "COL10",
         "COL11",
         "COL16",
         "COL18",
