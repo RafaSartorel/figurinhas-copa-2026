@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T00:57:26Z",
+  "last_updated": "2026-06-07T01:00:02Z",
   "stickers": [
     "ALG02",
     "ALG03",
@@ -30,6 +30,7 @@
     "ARG16",
     "ARG17",
     "ARG19",
+    "ARG20",
     "AUS01",
     "AUS02",
     "AUS03",

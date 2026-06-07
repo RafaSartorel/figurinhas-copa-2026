@@ -1,21 +1,21 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T00:57:26Z",
+  "last_updated": "2026-06-07T01:00:02Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 630,
-    "missing_total": 350,
-    "progress_percent": 64.29
+    "owned_total": 631,
+    "missing_total": 349,
+    "progress_percent": 64.39
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "NOR12"
+      "ARG20"
     ],
     "added": [
-      "NOR12"
+      "ARG20"
     ],
     "removed": [],
     "already_owned": [],
