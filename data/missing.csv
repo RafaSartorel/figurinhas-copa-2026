@@ -16,7 +16,6 @@ AUS09,AUS,Austrália,9,False
 AUS10,AUS,Austrália,10,False
 AUS15,AUS,Austrália,15,False
 AUS16,AUS,Austrália,16,False
-AUS19,AUS,Austrália,19,False
 AUS20,AUS,Austrália,20,False
 AUT07,AUT,Áustria,7,False
 BEL01,BEL,Bélgica,1,False
@@ -42,7 +41,6 @@ CAN02,CAN,Canadá,2,False
 CAN09,CAN,Canadá,9,False
 CAN15,CAN,Canadá,15,False
 CAN18,CAN,Canadá,18,False
-CAN20,CAN,Canadá,20,False
 CIV01,CIV,Costa do Marfim,1,False
 CIV03,CIV,Costa do Marfim,3,False
 CIV04,CIV,Costa do Marfim,4,False
@@ -185,7 +183,6 @@ IRN19,IRN,Irã,19,False
 IRQ02,IRQ,Iraque,2,False
 IRQ03,IRQ,Iraque,3,False
 IRQ05,IRQ,Iraque,5,False
-IRQ06,IRQ,Iraque,6,False
 IRQ07,IRQ,Iraque,7,False
 IRQ09,IRQ,Iraque,9,False
 IRQ12,IRQ,Iraque,12,False
@@ -276,7 +273,6 @@ RSA15,RSA,África do Sul,15,False
 RSA16,RSA,África do Sul,16,False
 SCO08,SCO,Escócia,8,False
 SCO12,SCO,Escócia,12,False
-SCO17,SCO,Escócia,17,False
 SEN01,SEN,Senegal,1,False
 SEN10,SEN,Senegal,10,False
 SEN11,SEN,Senegal,11,False

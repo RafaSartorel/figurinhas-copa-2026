@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T21:39:23Z",
+  "last_updated": "2026-06-07T21:44:30Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -355,7 +355,7 @@
       "team_code": "AUS",
       "country": "Austrália",
       "sticker_number": 19,
-      "owned": false
+      "owned": true
     },
     "AUS20": {
       "team_code": "AUS",
@@ -961,7 +961,7 @@
       "team_code": "CAN",
       "country": "Canadá",
       "sticker_number": 20,
-      "owned": false
+      "owned": true
     },
     "CIV01": {
       "team_code": "CIV",
@@ -3037,7 +3037,7 @@
       "team_code": "IRQ",
       "country": "Iraque",
       "sticker_number": 6,
-      "owned": false
+      "owned": true
     },
     "IRQ07": {
       "team_code": "IRQ",
@@ -4903,7 +4903,7 @@
       "team_code": "SCO",
       "country": "Escócia",
       "sticker_number": 17,
-      "owned": false
+      "owned": true
     },
     "SCO18": {
       "team_code": "SCO",

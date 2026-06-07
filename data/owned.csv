@@ -40,6 +40,7 @@ AUS13,AUS,Austrália,13,True
 AUS14,AUS,Austrália,14,True
 AUS17,AUS,Austrália,17,True
 AUS18,AUS,Austrália,18,True
+AUS19,AUS,Austrália,19,True
 AUT01,AUT,Áustria,1,True
 AUT02,AUT,Áustria,2,True
 AUT03,AUT,Áustria,3,True
@@ -115,6 +116,7 @@ CAN14,CAN,Canadá,14,True
 CAN16,CAN,Canadá,16,True
 CAN17,CAN,Canadá,17,True
 CAN19,CAN,Canadá,19,True
+CAN20,CAN,Canadá,20,True
 CIV02,CIV,Costa do Marfim,2,True
 CIV05,CIV,Costa do Marfim,5,True
 CIV06,CIV,Costa do Marfim,6,True
@@ -318,6 +320,7 @@ IRN18,IRN,Irã,18,True
 IRN20,IRN,Irã,20,True
 IRQ01,IRQ,Iraque,1,True
 IRQ04,IRQ,Iraque,4,True
+IRQ06,IRQ,Iraque,6,True
 IRQ08,IRQ,Iraque,8,True
 IRQ10,IRQ,Iraque,10,True
 IRQ11,IRQ,Iraque,11,True
@@ -538,6 +541,7 @@ SCO13,SCO,Escócia,13,True
 SCO14,SCO,Escócia,14,True
 SCO15,SCO,Escócia,15,True
 SCO16,SCO,Escócia,16,True
+SCO17,SCO,Escócia,17,True
 SCO18,SCO,Escócia,18,True
 SCO19,SCO,Escócia,19,True
 SCO20,SCO,Escócia,20,True

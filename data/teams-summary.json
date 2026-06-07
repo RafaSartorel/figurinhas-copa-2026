@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T21:39:23Z",
+  "last_updated": "2026-06-07T21:44:30Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -69,8 +69,8 @@
       "team_code": "AUS",
       "country": "Austrália",
       "stickers_total": 20,
-      "owned_total": 13,
-      "missing_total": 7,
+      "owned_total": 14,
+      "missing_total": 6,
       "owned": [
         "AUS01",
         "AUS02",
@@ -84,7 +84,8 @@
         "AUS13",
         "AUS14",
         "AUS17",
-        "AUS18"
+        "AUS18",
+        "AUS19"
       ],
       "missing": [
         "AUS06",
@@ -92,7 +93,6 @@
         "AUS10",
         "AUS15",
         "AUS16",
-        "AUS19",
         "AUS20"
       ]
     },
@@ -224,8 +224,8 @@
       "team_code": "CAN",
       "country": "Canadá",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
         "CAN01",
         "CAN03",
@@ -241,14 +241,14 @@
         "CAN14",
         "CAN16",
         "CAN17",
-        "CAN19"
+        "CAN19",
+        "CAN20"
       ],
       "missing": [
         "CAN02",
         "CAN09",
         "CAN15",
-        "CAN18",
-        "CAN20"
+        "CAN18"
       ]
     },
     {
@@ -782,11 +782,12 @@
       "team_code": "IRQ",
       "country": "Iraque",
       "stickers_total": 20,
-      "owned_total": 12,
-      "missing_total": 8,
+      "owned_total": 13,
+      "missing_total": 7,
       "owned": [
         "IRQ01",
         "IRQ04",
+        "IRQ06",
         "IRQ08",
         "IRQ10",
         "IRQ11",
@@ -802,7 +803,6 @@
         "IRQ02",
         "IRQ03",
         "IRQ05",
-        "IRQ06",
         "IRQ07",
         "IRQ09",
         "IRQ12",
@@ -1247,8 +1247,8 @@
       "team_code": "SCO",
       "country": "Escócia",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "SCO01",
         "SCO02",
@@ -1264,14 +1264,14 @@
         "SCO14",
         "SCO15",
         "SCO16",
+        "SCO17",
         "SCO18",
         "SCO19",
         "SCO20"
       ],
       "missing": [
         "SCO08",
-        "SCO12",
-        "SCO17"
+        "SCO12"
       ]
     },
     {

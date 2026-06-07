@@ -1,21 +1,27 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T21:39:23Z",
+  "last_updated": "2026-06-07T21:44:30Z",
   "last_update_source": "image-review",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 650,
-    "missing_total": 330,
-    "progress_percent": 66.33
+    "owned_total": 654,
+    "missing_total": 326,
+    "progress_percent": 66.73
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "MEX02"
+      "AUS19",
+      "CAN20",
+      "IRQ06",
+      "SCO17"
     ],
     "added": [
-      "MEX02"
+      "AUS19",
+      "CAN20",
+      "IRQ06",
+      "SCO17"
     ],
     "removed": [],
     "already_owned": [],

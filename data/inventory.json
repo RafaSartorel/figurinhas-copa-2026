@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 650,
+  "owned_count": 654,
   "stickers": [
     {
       "team_code": "ALG",
@@ -415,7 +415,7 @@
       "country": "Austrália",
       "sticker_number": 19,
       "sticker_id": "AUS19",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "AUS",
@@ -1122,7 +1122,7 @@
       "country": "Canadá",
       "sticker_number": 20,
       "sticker_id": "CAN20",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CIV",
@@ -3544,7 +3544,7 @@
       "country": "Iraque",
       "sticker_number": 6,
       "sticker_id": "IRQ06",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "IRQ",
@@ -5721,7 +5721,7 @@
       "country": "Escócia",
       "sticker_number": 17,
       "sticker_id": "SCO17",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "SCO",
@@ -6865,11 +6865,14 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-07T21:39:23Z",
-  "missing_count": 330,
+  "last_updated": "2026-06-07T21:44:30Z",
+  "missing_count": 326,
   "last_update_source": "image-review",
   "last_added": [
-    "MEX02"
+    "AUS19",
+    "CAN20",
+    "IRQ06",
+    "SCO17"
   ],
   "last_removed": []
 }
