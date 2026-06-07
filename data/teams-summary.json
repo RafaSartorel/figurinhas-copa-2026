@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T00:49:39Z",
+  "last_updated": "2026-06-07T00:51:20Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -782,12 +782,11 @@
       "team_code": "IRQ",
       "country": "Iraque",
       "stickers_total": 20,
-      "owned_total": 13,
-      "missing_total": 7,
+      "owned_total": 12,
+      "missing_total": 8,
       "owned": [
         "IRQ01",
         "IRQ04",
-        "IRQ06",
         "IRQ08",
         "IRQ10",
         "IRQ11",
@@ -803,6 +802,7 @@
         "IRQ02",
         "IRQ03",
         "IRQ05",
+        "IRQ06",
         "IRQ07",
         "IRQ09",
         "IRQ12",

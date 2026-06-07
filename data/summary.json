@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T00:49:39Z",
+  "last_updated": "2026-06-07T00:51:20Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 630,
-    "missing_total": 350,
-    "progress_percent": 64.29
+    "owned_total": 629,
+    "missing_total": 351,
+    "progress_percent": 64.18
   },
   "last_update_result": {
     "operation": "remove",
     "requested": [
-      "KSA04"
+      "IRQ06"
     ],
     "added": [],
     "removed": [
-      "KSA04"
+      "IRQ06"
     ],
     "already_owned": [],
     "already_missing": [],
