@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T00:45:35Z",
+  "last_updated": "2026-06-07T00:49:13Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -2371,7 +2371,7 @@
       "team_code": "FRA",
       "country": "França",
       "sticker_number": 15,
-      "owned": true
+      "owned": false
     },
     "FRA16": {
       "team_code": "FRA",

@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 632,
+  "owned_count": 631,
   "stickers": [
     {
       "team_code": "ALG",
@@ -2767,7 +2767,7 @@
       "country": "França",
       "sticker_number": 15,
       "sticker_id": "FRA15",
-      "owned": true
+      "owned": false
     },
     {
       "team_code": "FRA",
@@ -6865,11 +6865,11 @@
       "owned": false
     }
   ],
-  "last_updated": "2026-06-07T00:45:35Z",
-  "missing_count": 348,
+  "last_updated": "2026-06-07T00:49:13Z",
+  "missing_count": 349,
   "last_update_source": "chatgpt",
-  "last_added": [
-    "CPV05"
-  ],
-  "last_removed": []
+  "last_added": [],
+  "last_removed": [
+    "FRA15"
+  ]
 }
