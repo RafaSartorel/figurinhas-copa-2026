@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 649,
+  "owned_count": 650,
   "stickers": [
     {
       "team_code": "ALG",
@@ -4356,7 +4356,7 @@
       "country": "México",
       "sticker_number": 2,
       "sticker_id": "MEX02",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "MEX",
@@ -6865,11 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-07T01:14:18Z",
-  "missing_count": 331,
-  "last_update_source": "chatgpt",
+  "last_updated": "2026-06-07T21:39:23Z",
+  "missing_count": 330,
+  "last_update_source": "image-review",
   "last_added": [
-    "BIH09"
+    "MEX02"
   ],
   "last_removed": []
 }

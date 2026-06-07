@@ -1,21 +1,21 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T01:14:18Z",
-  "last_update_source": "chatgpt",
+  "last_updated": "2026-06-07T21:39:23Z",
+  "last_update_source": "image-review",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 649,
-    "missing_total": 331,
-    "progress_percent": 66.22
+    "owned_total": 650,
+    "missing_total": 330,
+    "progress_percent": 66.33
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "BIH09"
+      "MEX02"
     ],
     "added": [
-      "BIH09"
+      "MEX02"
     ],
     "removed": [],
     "already_owned": [],
