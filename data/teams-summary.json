@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T01:01:33Z",
+  "last_updated": "2026-06-07T01:03:34Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -1495,8 +1495,8 @@
       "team_code": "UZB",
       "country": "Uzbequistão",
       "stickers_total": 20,
-      "owned_total": 11,
-      "missing_total": 9,
+      "owned_total": 12,
+      "missing_total": 8,
       "owned": [
         "UZB02",
         "UZB03",
@@ -1508,7 +1508,8 @@
         "UZB15",
         "UZB17",
         "UZB18",
-        "UZB19"
+        "UZB19",
+        "UZB20"
       ],
       "missing": [
         "UZB01",
@@ -1518,8 +1519,7 @@
         "UZB11",
         "UZB13",
         "UZB14",
-        "UZB16",
-        "UZB20"
+        "UZB16"
       ]
     }
   ]

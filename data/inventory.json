@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 633,
+  "owned_count": 634,
   "stickers": [
     {
       "team_code": "ALG",
@@ -6862,15 +6862,14 @@
       "country": "Uzbequistão",
       "sticker_number": 20,
       "sticker_id": "UZB20",
-      "owned": false
+      "owned": true
     }
   ],
-  "last_updated": "2026-06-07T01:01:33Z",
-  "missing_count": 347,
+  "last_updated": "2026-06-07T01:03:34Z",
+  "missing_count": 346,
   "last_update_source": "chatgpt",
   "last_added": [
-    "AUT04",
-    "AUT20"
+    "UZB20"
   ],
   "last_removed": []
 }

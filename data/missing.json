@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T01:01:33Z",
+  "last_updated": "2026-06-07T01:03:34Z",
   "stickers": [
     "ALG01",
     "ALG05",
@@ -348,7 +348,6 @@
     "UZB11",
     "UZB13",
     "UZB14",
-    "UZB16",
-    "UZB20"
+    "UZB16"
   ]
 }
