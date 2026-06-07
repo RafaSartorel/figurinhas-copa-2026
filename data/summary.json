@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-06T23:50:16Z",
+  "last_updated": "2026-06-07T00:02:35Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 634,
-    "missing_total": 346,
-    "progress_percent": 64.69
+    "owned_total": 633,
+    "missing_total": 347,
+    "progress_percent": 64.59
   },
   "last_update_result": {
-    "operation": "add",
+    "operation": "remove",
     "requested": [
-      "QAT15"
+      "PAR19"
     ],
-    "added": [
-      "QAT15"
+    "added": [],
+    "removed": [
+      "PAR19"
     ],
-    "removed": [],
     "already_owned": [],
     "already_missing": [],
     "not_found": [],
