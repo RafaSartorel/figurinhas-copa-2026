@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T21:58:38Z",
+  "last_updated": "2026-06-07T22:12:18Z",
   "teams": [
     {
       "team_code": "ALG",
       "country": "Argélia",
       "stickers_total": 20,
-      "owned_total": 12,
-      "missing_total": 8,
+      "owned_total": 13,
+      "missing_total": 7,
       "owned": [
         "ALG02",
         "ALG03",
@@ -21,6 +21,7 @@
         "ALG15",
         "ALG16",
         "ALG18",
+        "ALG19",
         "ALG20"
       ],
       "missing": [
@@ -30,8 +31,7 @@
         "ALG08",
         "ALG09",
         "ALG12",
-        "ALG17",
-        "ALG19"
+        "ALG17"
       ]
     },
     {
@@ -255,13 +255,14 @@
       "team_code": "CIV",
       "country": "Costa do Marfim",
       "stickers_total": 20,
-      "owned_total": 7,
-      "missing_total": 13,
+      "owned_total": 8,
+      "missing_total": 12,
       "owned": [
         "CIV02",
         "CIV03",
         "CIV05",
         "CIV06",
+        "CIV09",
         "CIV13",
         "CIV15",
         "CIV19"
@@ -271,7 +272,6 @@
         "CIV04",
         "CIV07",
         "CIV08",
-        "CIV09",
         "CIV10",
         "CIV11",
         "CIV12",
@@ -286,8 +286,8 @@
       "team_code": "COD",
       "country": "Congo",
       "stickers_total": 20,
-      "owned_total": 11,
-      "missing_total": 9,
+      "owned_total": 12,
+      "missing_total": 8,
       "owned": [
         "COD02",
         "COD04",
@@ -297,6 +297,7 @@
         "COD10",
         "COD11",
         "COD12",
+        "COD14",
         "COD16",
         "COD17",
         "COD18"
@@ -307,7 +308,6 @@
         "COD08",
         "COD09",
         "COD13",
-        "COD14",
         "COD15",
         "COD19",
         "COD20"
@@ -441,11 +441,12 @@
       "team_code": "CZE",
       "country": "Rep. Tcheca",
       "stickers_total": 20,
-      "owned_total": 14,
-      "missing_total": 6,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
         "CZE01",
         "CZE02",
+        "CZE03",
         "CZE04",
         "CZE05",
         "CZE07",
@@ -460,7 +461,6 @@
         "CZE19"
       ],
       "missing": [
-        "CZE03",
         "CZE06",
         "CZE11",
         "CZE12",
@@ -472,8 +472,8 @@
       "team_code": "ECU",
       "country": "Equador",
       "stickers_total": 20,
-      "owned_total": 11,
-      "missing_total": 9,
+      "owned_total": 12,
+      "missing_total": 8,
       "owned": [
         "ECU01",
         "ECU02",
@@ -485,6 +485,7 @@
         "ECU13",
         "ECU16",
         "ECU17",
+        "ECU18",
         "ECU20"
       ],
       "missing": [
@@ -495,7 +496,6 @@
         "ECU12",
         "ECU14",
         "ECU15",
-        "ECU18",
         "ECU19"
       ]
     },
@@ -689,14 +689,15 @@
       "team_code": "GHA",
       "country": "Gana",
       "stickers_total": 20,
-      "owned_total": 11,
-      "missing_total": 9,
+      "owned_total": 12,
+      "missing_total": 8,
       "owned": [
         "GHA03",
         "GHA04",
         "GHA05",
         "GHA06",
         "GHA07",
+        "GHA09",
         "GHA12",
         "GHA14",
         "GHA17",
@@ -708,7 +709,6 @@
         "GHA01",
         "GHA02",
         "GHA08",
-        "GHA09",
         "GHA10",
         "GHA11",
         "GHA13",
@@ -1030,16 +1030,18 @@
       "team_code": "NOR",
       "country": "Noruega",
       "stickers_total": 20,
-      "owned_total": 10,
-      "missing_total": 10,
+      "owned_total": 12,
+      "missing_total": 8,
       "owned": [
         "NOR05",
+        "NOR07",
         "NOR08",
         "NOR09",
         "NOR11",
         "NOR12",
         "NOR13",
         "NOR14",
+        "NOR16",
         "NOR18",
         "NOR19",
         "NOR20"
@@ -1050,10 +1052,8 @@
         "NOR03",
         "NOR04",
         "NOR06",
-        "NOR07",
         "NOR10",
         "NOR15",
-        "NOR16",
         "NOR17"
       ]
     },
@@ -1309,11 +1309,12 @@
       "team_code": "SUI",
       "country": "Suíça",
       "stickers_total": 20,
-      "owned_total": 13,
-      "missing_total": 7,
+      "owned_total": 14,
+      "missing_total": 6,
       "owned": [
         "SUI01",
         "SUI02",
+        "SUI03",
         "SUI06",
         "SUI08",
         "SUI11",
@@ -1327,7 +1328,6 @@
         "SUI20"
       ],
       "missing": [
-        "SUI03",
         "SUI04",
         "SUI05",
         "SUI07",

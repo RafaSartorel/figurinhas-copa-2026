@@ -1,50 +1,44 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T21:58:38Z",
-  "last_update_source": "validated-photo",
+  "last_updated": "2026-06-07T22:12:18Z",
+  "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 667,
-    "missing_total": 313,
-    "progress_percent": 68.06
+    "owned_total": 676,
+    "missing_total": 304,
+    "progress_percent": 68.98
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "BRA20",
-      "CIV03",
-      "COD10",
-      "COL18",
-      "CPV01",
-      "CZE05",
-      "CZE16",
-      "ESP08",
-      "IRN07",
-      "KSA04",
-      "PAN08",
-      "PAR17",
-      "PAR20",
-      "TUR03"
+      "ALG19",
+      "CIV09",
+      "COD14",
+      "CZE03",
+      "ECU18",
+      "GHA09",
+      "NOR07",
+      "NOR16",
+      "QAT13",
+      "RSA13",
+      "SUI03"
     ],
     "added": [
-      "BRA20",
-      "CIV03",
-      "COD10",
-      "COL18",
-      "CPV01",
-      "CZE16",
-      "ESP08",
-      "IRN07",
-      "KSA04",
-      "PAN08",
-      "PAR17",
-      "PAR20",
-      "TUR03"
+      "ALG19",
+      "CIV09",
+      "COD14",
+      "CZE03",
+      "ECU18",
+      "GHA09",
+      "NOR07",
+      "NOR16",
+      "SUI03"
     ],
     "removed": [],
     "already_owned": [
-      "CZE05"
+      "QAT13",
+      "RSA13"
     ],
     "already_missing": [],
     "not_found": [],

@@ -6,7 +6,6 @@ ALG08,ALG,Argélia,8,False
 ALG09,ALG,Argélia,9,False
 ALG12,ALG,Argélia,12,False
 ALG17,ALG,Argélia,17,False
-ALG19,ALG,Argélia,19,False
 ARG04,ARG,Argentina,4,False
 ARG07,ARG,Argentina,7,False
 ARG11,ARG,Argentina,11,False
@@ -44,7 +43,6 @@ CIV01,CIV,Costa do Marfim,1,False
 CIV04,CIV,Costa do Marfim,4,False
 CIV07,CIV,Costa do Marfim,7,False
 CIV08,CIV,Costa do Marfim,8,False
-CIV09,CIV,Costa do Marfim,9,False
 CIV10,CIV,Costa do Marfim,10,False
 CIV11,CIV,Costa do Marfim,11,False
 CIV12,CIV,Costa do Marfim,12,False
@@ -58,7 +56,6 @@ COD03,COD,Congo,3,False
 COD08,COD,Congo,8,False
 COD09,COD,Congo,9,False
 COD13,COD,Congo,13,False
-COD14,COD,Congo,14,False
 COD15,COD,Congo,15,False
 COD19,COD,Congo,19,False
 COD20,COD,Congo,20,False
@@ -91,7 +88,6 @@ CUW05,CUW,Curaçao,5,False
 CUW10,CUW,Curaçao,10,False
 CUW13,CUW,Curaçao,13,False
 CUW20,CUW,Curaçao,20,False
-CZE03,CZE,Rep. Tcheca,3,False
 CZE06,CZE,Rep. Tcheca,6,False
 CZE11,CZE,Rep. Tcheca,11,False
 CZE12,CZE,Rep. Tcheca,12,False
@@ -104,7 +100,6 @@ ECU11,ECU,Equador,11,False
 ECU12,ECU,Equador,12,False
 ECU14,ECU,Equador,14,False
 ECU15,ECU,Equador,15,False
-ECU18,ECU,Equador,18,False
 ECU19,ECU,Equador,19,False
 EGY01,EGY,Egito,1,False
 EGY02,EGY,Egito,2,False
@@ -153,7 +148,6 @@ GER17,GER,Alemanha,17,False
 GHA01,GHA,Gana,1,False
 GHA02,GHA,Gana,2,False
 GHA08,GHA,Gana,8,False
-GHA09,GHA,Gana,9,False
 GHA10,GHA,Gana,10,False
 GHA11,GHA,Gana,11,False
 GHA13,GHA,Gana,13,False
@@ -222,10 +216,8 @@ NOR02,NOR,Noruega,2,False
 NOR03,NOR,Noruega,3,False
 NOR04,NOR,Noruega,4,False
 NOR06,NOR,Noruega,6,False
-NOR07,NOR,Noruega,7,False
 NOR10,NOR,Noruega,10,False
 NOR15,NOR,Noruega,15,False
-NOR16,NOR,Noruega,16,False
 NOR17,NOR,Noruega,17,False
 NZL01,NZL,Nova Zelândia,1,False
 NZL04,NZL,Nova Zelândia,4,False
@@ -265,7 +257,6 @@ SEN01,SEN,Senegal,1,False
 SEN10,SEN,Senegal,10,False
 SEN11,SEN,Senegal,11,False
 SEN14,SEN,Senegal,14,False
-SUI03,SUI,Suíça,3,False
 SUI04,SUI,Suíça,4,False
 SUI05,SUI,Suíça,5,False
 SUI07,SUI,Suíça,7,False

@@ -10,6 +10,7 @@ ALG14,ALG,Argélia,14,True
 ALG15,ALG,Argélia,15,True
 ALG16,ALG,Argélia,16,True
 ALG18,ALG,Argélia,18,True
+ALG19,ALG,Argélia,19,True
 ALG20,ALG,Argélia,20,True
 ARG01,ARG,Argentina,1,True
 ARG02,ARG,Argentina,2,True
@@ -122,6 +123,7 @@ CIV02,CIV,Costa do Marfim,2,True
 CIV03,CIV,Costa do Marfim,3,True
 CIV05,CIV,Costa do Marfim,5,True
 CIV06,CIV,Costa do Marfim,6,True
+CIV09,CIV,Costa do Marfim,9,True
 CIV13,CIV,Costa do Marfim,13,True
 CIV15,CIV,Costa do Marfim,15,True
 CIV19,CIV,Costa do Marfim,19,True
@@ -133,6 +135,7 @@ COD07,COD,Congo,7,True
 COD10,COD,Congo,10,True
 COD11,COD,Congo,11,True
 COD12,COD,Congo,12,True
+COD14,COD,Congo,14,True
 COD16,COD,Congo,16,True
 COD17,COD,Congo,17,True
 COD18,COD,Congo,18,True
@@ -189,6 +192,7 @@ CUW18,CUW,Curaçao,18,True
 CUW19,CUW,Curaçao,19,True
 CZE01,CZE,Rep. Tcheca,1,True
 CZE02,CZE,Rep. Tcheca,2,True
+CZE03,CZE,Rep. Tcheca,3,True
 CZE04,CZE,Rep. Tcheca,4,True
 CZE05,CZE,Rep. Tcheca,5,True
 CZE07,CZE,Rep. Tcheca,7,True
@@ -211,6 +215,7 @@ ECU08,ECU,Equador,8,True
 ECU13,ECU,Equador,13,True
 ECU16,ECU,Equador,16,True
 ECU17,ECU,Equador,17,True
+ECU18,ECU,Equador,18,True
 ECU20,ECU,Equador,20,True
 EGY03,EGY,Egito,3,True
 EGY04,EGY,Egito,4,True
@@ -293,6 +298,7 @@ GHA04,GHA,Gana,4,True
 GHA05,GHA,Gana,5,True
 GHA06,GHA,Gana,6,True
 GHA07,GHA,Gana,7,True
+GHA09,GHA,Gana,9,True
 GHA12,GHA,Gana,12,True
 GHA14,GHA,Gana,14,True
 GHA17,GHA,Gana,17,True
@@ -442,12 +448,14 @@ NED15,NED,Holanda,15,True
 NED18,NED,Holanda,18,True
 NED20,NED,Holanda,20,True
 NOR05,NOR,Noruega,5,True
+NOR07,NOR,Noruega,7,True
 NOR08,NOR,Noruega,8,True
 NOR09,NOR,Noruega,9,True
 NOR11,NOR,Noruega,11,True
 NOR12,NOR,Noruega,12,True
 NOR13,NOR,Noruega,13,True
 NOR14,NOR,Noruega,14,True
+NOR16,NOR,Noruega,16,True
 NOR18,NOR,Noruega,18,True
 NOR19,NOR,Noruega,19,True
 NOR20,NOR,Noruega,20,True
@@ -575,6 +583,7 @@ SEN19,SEN,Senegal,19,True
 SEN20,SEN,Senegal,20,True
 SUI01,SUI,Suíça,1,True
 SUI02,SUI,Suíça,2,True
+SUI03,SUI,Suíça,3,True
 SUI06,SUI,Suíça,6,True
 SUI08,SUI,Suíça,8,True
 SUI11,SUI,Suíça,11,True

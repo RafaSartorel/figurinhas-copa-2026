@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 667,
+  "owned_count": 676,
   "stickers": [
     {
       "team_code": "ALG",
@@ -135,7 +135,7 @@
       "country": "Argélia",
       "sticker_number": 19,
       "sticker_id": "ALG19",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ALG",
@@ -1185,7 +1185,7 @@
       "country": "Costa do Marfim",
       "sticker_number": 9,
       "sticker_id": "CIV09",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CIV",
@@ -1360,7 +1360,7 @@
       "country": "Congo",
       "sticker_number": 14,
       "sticker_id": "COD14",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "COD",
@@ -1983,7 +1983,7 @@
       "country": "Rep. Tcheca",
       "sticker_number": 3,
       "sticker_id": "CZE03",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CZE",
@@ -2228,7 +2228,7 @@
       "country": "Equador",
       "sticker_number": 18,
       "sticker_id": "ECU18",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ECU",
@@ -3145,7 +3145,7 @@
       "country": "Gana",
       "sticker_number": 9,
       "sticker_id": "GHA09",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "GHA",
@@ -4671,7 +4671,7 @@
       "country": "Noruega",
       "sticker_number": 7,
       "sticker_id": "NOR07",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "NOR",
@@ -4734,7 +4734,7 @@
       "country": "Noruega",
       "sticker_number": 16,
       "sticker_id": "NOR16",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "NOR",
@@ -5903,7 +5903,7 @@
       "country": "Suíça",
       "sticker_number": 3,
       "sticker_id": "SUI03",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "SUI",
@@ -6865,23 +6865,19 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-07T21:58:38Z",
-  "missing_count": 313,
-  "last_update_source": "validated-photo",
+  "last_updated": "2026-06-07T22:12:18Z",
+  "missing_count": 304,
+  "last_update_source": "chatgpt",
   "last_added": [
-    "BRA20",
-    "CIV03",
-    "COD10",
-    "COL18",
-    "CPV01",
-    "CZE16",
-    "ESP08",
-    "IRN07",
-    "KSA04",
-    "PAN08",
-    "PAR17",
-    "PAR20",
-    "TUR03"
+    "ALG19",
+    "CIV09",
+    "COD14",
+    "CZE03",
+    "ECU18",
+    "GHA09",
+    "NOR07",
+    "NOR16",
+    "SUI03"
   ],
   "last_removed": []
 }

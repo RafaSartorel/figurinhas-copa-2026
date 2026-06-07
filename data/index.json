@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T21:58:38Z",
+  "last_updated": "2026-06-07T22:12:18Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -115,7 +115,7 @@
       "team_code": "ALG",
       "country": "Argélia",
       "sticker_number": 19,
-      "owned": false
+      "owned": true
     },
     "ALG20": {
       "team_code": "ALG",
@@ -1015,7 +1015,7 @@
       "team_code": "CIV",
       "country": "Costa do Marfim",
       "sticker_number": 9,
-      "owned": false
+      "owned": true
     },
     "CIV10": {
       "team_code": "CIV",
@@ -1165,7 +1165,7 @@
       "team_code": "COD",
       "country": "Congo",
       "sticker_number": 14,
-      "owned": false
+      "owned": true
     },
     "COD15": {
       "team_code": "COD",
@@ -1699,7 +1699,7 @@
       "team_code": "CZE",
       "country": "Rep. Tcheca",
       "sticker_number": 3,
-      "owned": false
+      "owned": true
     },
     "CZE04": {
       "team_code": "CZE",
@@ -1909,7 +1909,7 @@
       "team_code": "ECU",
       "country": "Equador",
       "sticker_number": 18,
-      "owned": false
+      "owned": true
     },
     "ECU19": {
       "team_code": "ECU",
@@ -2695,7 +2695,7 @@
       "team_code": "GHA",
       "country": "Gana",
       "sticker_number": 9,
-      "owned": false
+      "owned": true
     },
     "GHA10": {
       "team_code": "GHA",
@@ -4003,7 +4003,7 @@
       "team_code": "NOR",
       "country": "Noruega",
       "sticker_number": 7,
-      "owned": false
+      "owned": true
     },
     "NOR08": {
       "team_code": "NOR",
@@ -4057,7 +4057,7 @@
       "team_code": "NOR",
       "country": "Noruega",
       "sticker_number": 16,
-      "owned": false
+      "owned": true
     },
     "NOR17": {
       "team_code": "NOR",
@@ -5059,7 +5059,7 @@
       "team_code": "SUI",
       "country": "Suíça",
       "sticker_number": 3,
-      "owned": false
+      "owned": true
     },
     "SUI04": {
       "team_code": "SUI",
