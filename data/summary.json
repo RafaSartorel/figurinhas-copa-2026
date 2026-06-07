@@ -1,59 +1,24 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T01:09:54Z",
+  "last_updated": "2026-06-07T01:14:18Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 648,
-    "missing_total": 332,
-    "progress_percent": 66.12
+    "owned_total": 649,
+    "missing_total": 331,
+    "progress_percent": 66.22
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "FWC00",
-      "FWC01",
-      "FWC02",
-      "FWC03",
-      "FWC04",
-      "FWC05",
-      "FWC07",
-      "FWC08",
-      "FWC09",
-      "FWC10",
-      "FWC12",
-      "FWC13",
-      "FWC14",
-      "FWC15",
-      "FWC16",
-      "FWC17",
-      "FWC18",
-      "FWC19"
+      "BIH09"
     ],
     "added": [
-      "FWC00",
-      "FWC01",
-      "FWC02",
-      "FWC03",
-      "FWC04",
-      "FWC05",
-      "FWC07",
-      "FWC08",
-      "FWC10",
-      "FWC15",
-      "FWC16",
-      "FWC17",
-      "FWC18",
-      "FWC19"
+      "BIH09"
     ],
     "removed": [],
-    "already_owned": [
-      "FWC09",
-      "FWC12",
-      "FWC13",
-      "FWC14"
-    ],
+    "already_owned": [],
     "already_missing": [],
     "not_found": [],
     "invalid": []
