@@ -101,6 +101,7 @@ BRA14,BRA,Brasil,14,True
 BRA15,BRA,Brasil,15,True
 BRA18,BRA,Brasil,18,True
 BRA19,BRA,Brasil,19,True
+BRA20,BRA,Brasil,20,True
 CAN01,CAN,Canadá,1,True
 CAN03,CAN,Canadá,3,True
 CAN04,CAN,Canadá,4,True
@@ -118,6 +119,7 @@ CAN17,CAN,Canadá,17,True
 CAN19,CAN,Canadá,19,True
 CAN20,CAN,Canadá,20,True
 CIV02,CIV,Costa do Marfim,2,True
+CIV03,CIV,Costa do Marfim,3,True
 CIV05,CIV,Costa do Marfim,5,True
 CIV06,CIV,Costa do Marfim,6,True
 CIV13,CIV,Costa do Marfim,13,True
@@ -128,6 +130,7 @@ COD04,COD,Congo,4,True
 COD05,COD,Congo,5,True
 COD06,COD,Congo,6,True
 COD07,COD,Congo,7,True
+COD10,COD,Congo,10,True
 COD11,COD,Congo,11,True
 COD12,COD,Congo,12,True
 COD16,COD,Congo,16,True
@@ -143,7 +146,9 @@ COL13,COL,Colômbia,13,True
 COL14,COL,Colômbia,14,True
 COL15,COL,Colômbia,15,True
 COL17,COL,Colômbia,17,True
+COL18,COL,Colômbia,18,True
 COL20,COL,Colômbia,20,True
+CPV01,CPV,Cabo Verde,1,True
 CPV02,CPV,Cabo Verde,2,True
 CPV03,CPV,Cabo Verde,3,True
 CPV05,CPV,Cabo Verde,5,True
@@ -192,6 +197,7 @@ CZE09,CZE,Rep. Tcheca,9,True
 CZE10,CZE,Rep. Tcheca,10,True
 CZE13,CZE,Rep. Tcheca,13,True
 CZE14,CZE,Rep. Tcheca,14,True
+CZE16,CZE,Rep. Tcheca,16,True
 CZE17,CZE,Rep. Tcheca,17,True
 CZE18,CZE,Rep. Tcheca,18,True
 CZE19,CZE,Rep. Tcheca,19,True
@@ -233,6 +239,7 @@ ESP02,ESP,Espanha,2,True
 ESP03,ESP,Espanha,3,True
 ESP05,ESP,Espanha,5,True
 ESP07,ESP,Espanha,7,True
+ESP08,ESP,Espanha,8,True
 ESP09,ESP,Espanha,9,True
 ESP11,ESP,Espanha,11,True
 ESP12,ESP,Espanha,12,True
@@ -308,6 +315,7 @@ IRN02,IRN,Irã,2,True
 IRN04,IRN,Irã,4,True
 IRN05,IRN,Irã,5,True
 IRN06,IRN,Irã,6,True
+IRN07,IRN,Irã,7,True
 IRN08,IRN,Irã,8,True
 IRN09,IRN,Irã,9,True
 IRN10,IRN,Irã,10,True
@@ -369,6 +377,7 @@ KOR15,KOR,Coreia do Sul,15,True
 KOR16,KOR,Coreia do Sul,16,True
 KOR19,KOR,Coreia do Sul,19,True
 KOR20,KOR,Coreia do Sul,20,True
+KSA04,KSA,Arábia Saudita,4,True
 KSA05,KSA,Arábia Saudita,5,True
 KSA06,KSA,Arábia Saudita,6,True
 KSA07,KSA,Arábia Saudita,7,True
@@ -459,6 +468,7 @@ PAN02,PAN,Panamá,2,True
 PAN03,PAN,Panamá,3,True
 PAN05,PAN,Panamá,5,True
 PAN06,PAN,Panamá,6,True
+PAN08,PAN,Panamá,8,True
 PAN09,PAN,Panamá,9,True
 PAN10,PAN,Panamá,10,True
 PAN13,PAN,Panamá,13,True
@@ -477,6 +487,8 @@ PAR11,PAR,Paraguai,11,True
 PAR13,PAR,Paraguai,13,True
 PAR15,PAR,Paraguai,15,True
 PAR16,PAR,Paraguai,16,True
+PAR17,PAR,Paraguai,17,True
+PAR20,PAR,Paraguai,20,True
 POR01,POR,Portugal,1,True
 POR06,POR,Portugal,6,True
 POR07,POR,Portugal,7,True
@@ -605,6 +617,7 @@ TUN16,TUN,Tunísia,16,True
 TUN17,TUN,Tunísia,17,True
 TUN18,TUN,Tunísia,18,True
 TUN19,TUN,Tunísia,19,True
+TUR03,TUR,Turquia,3,True
 TUR06,TUR,Turquia,6,True
 TUR08,TUR,Turquia,8,True
 TUR10,TUR,Turquia,10,True

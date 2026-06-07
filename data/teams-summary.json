@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T21:44:30Z",
+  "last_updated": "2026-06-07T21:58:38Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -193,8 +193,8 @@
       "team_code": "BRA",
       "country": "Brasil",
       "stickers_total": 20,
-      "owned_total": 12,
-      "missing_total": 8,
+      "owned_total": 13,
+      "missing_total": 7,
       "owned": [
         "BRA02",
         "BRA03",
@@ -207,7 +207,8 @@
         "BRA14",
         "BRA15",
         "BRA18",
-        "BRA19"
+        "BRA19",
+        "BRA20"
       ],
       "missing": [
         "BRA01",
@@ -216,8 +217,7 @@
         "BRA12",
         "BRA13",
         "BRA16",
-        "BRA17",
-        "BRA20"
+        "BRA17"
       ]
     },
     {
@@ -255,10 +255,11 @@
       "team_code": "CIV",
       "country": "Costa do Marfim",
       "stickers_total": 20,
-      "owned_total": 6,
-      "missing_total": 14,
+      "owned_total": 7,
+      "missing_total": 13,
       "owned": [
         "CIV02",
+        "CIV03",
         "CIV05",
         "CIV06",
         "CIV13",
@@ -267,7 +268,6 @@
       ],
       "missing": [
         "CIV01",
-        "CIV03",
         "CIV04",
         "CIV07",
         "CIV08",
@@ -286,14 +286,15 @@
       "team_code": "COD",
       "country": "Congo",
       "stickers_total": 20,
-      "owned_total": 10,
-      "missing_total": 10,
+      "owned_total": 11,
+      "missing_total": 9,
       "owned": [
         "COD02",
         "COD04",
         "COD05",
         "COD06",
         "COD07",
+        "COD10",
         "COD11",
         "COD12",
         "COD16",
@@ -305,7 +306,6 @@
         "COD03",
         "COD08",
         "COD09",
-        "COD10",
         "COD13",
         "COD14",
         "COD15",
@@ -317,8 +317,8 @@
       "team_code": "COL",
       "country": "Colômbia",
       "stickers_total": 20,
-      "owned_total": 11,
-      "missing_total": 9,
+      "owned_total": 12,
+      "missing_total": 8,
       "owned": [
         "COL04",
         "COL06",
@@ -330,6 +330,7 @@
         "COL14",
         "COL15",
         "COL17",
+        "COL18",
         "COL20"
       ],
       "missing": [
@@ -340,7 +341,6 @@
         "COL10",
         "COL11",
         "COL16",
-        "COL18",
         "COL19"
       ]
     },
@@ -348,9 +348,10 @@
       "team_code": "CPV",
       "country": "Cabo Verde",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
+        "CPV01",
         "CPV02",
         "CPV03",
         "CPV05",
@@ -368,7 +369,6 @@
         "CPV20"
       ],
       "missing": [
-        "CPV01",
         "CPV04",
         "CPV10",
         "CPV15",
@@ -441,8 +441,8 @@
       "team_code": "CZE",
       "country": "Rep. Tcheca",
       "stickers_total": 20,
-      "owned_total": 13,
-      "missing_total": 7,
+      "owned_total": 14,
+      "missing_total": 6,
       "owned": [
         "CZE01",
         "CZE02",
@@ -454,6 +454,7 @@
         "CZE10",
         "CZE13",
         "CZE14",
+        "CZE16",
         "CZE17",
         "CZE18",
         "CZE19"
@@ -464,7 +465,6 @@
         "CZE11",
         "CZE12",
         "CZE15",
-        "CZE16",
         "CZE20"
       ]
     },
@@ -565,13 +565,14 @@
       "team_code": "ESP",
       "country": "Espanha",
       "stickers_total": 20,
-      "owned_total": 9,
-      "missing_total": 11,
+      "owned_total": 10,
+      "missing_total": 10,
       "owned": [
         "ESP02",
         "ESP03",
         "ESP05",
         "ESP07",
+        "ESP08",
         "ESP09",
         "ESP11",
         "ESP12",
@@ -582,7 +583,6 @@
         "ESP01",
         "ESP04",
         "ESP06",
-        "ESP08",
         "ESP10",
         "ESP13",
         "ESP14",
@@ -751,13 +751,14 @@
       "team_code": "IRN",
       "country": "Irã",
       "stickers_total": 20,
-      "owned_total": 14,
-      "missing_total": 6,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
         "IRN02",
         "IRN04",
         "IRN05",
         "IRN06",
+        "IRN07",
         "IRN08",
         "IRN09",
         "IRN10",
@@ -772,7 +773,6 @@
       "missing": [
         "IRN01",
         "IRN03",
-        "IRN07",
         "IRN11",
         "IRN16",
         "IRN19"
@@ -906,9 +906,10 @@
       "team_code": "KSA",
       "country": "Arábia Saudita",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
+        "KSA04",
         "KSA05",
         "KSA06",
         "KSA07",
@@ -929,7 +930,6 @@
         "KSA01",
         "KSA02",
         "KSA03",
-        "KSA04",
         "KSA08"
       ]
     },
@@ -1092,13 +1092,14 @@
       "team_code": "PAN",
       "country": "Panamá",
       "stickers_total": 20,
-      "owned_total": 13,
-      "missing_total": 7,
+      "owned_total": 14,
+      "missing_total": 6,
       "owned": [
         "PAN02",
         "PAN03",
         "PAN05",
         "PAN06",
+        "PAN08",
         "PAN09",
         "PAN10",
         "PAN13",
@@ -1113,7 +1114,6 @@
         "PAN01",
         "PAN04",
         "PAN07",
-        "PAN08",
         "PAN11",
         "PAN12",
         "PAN17"
@@ -1123,8 +1123,8 @@
       "team_code": "PAR",
       "country": "Paraguai",
       "stickers_total": 20,
-      "owned_total": 9,
-      "missing_total": 11,
+      "owned_total": 11,
+      "missing_total": 9,
       "owned": [
         "PAR03",
         "PAR05",
@@ -1134,7 +1134,9 @@
         "PAR11",
         "PAR13",
         "PAR15",
-        "PAR16"
+        "PAR16",
+        "PAR17",
+        "PAR20"
       ],
       "missing": [
         "PAR01",
@@ -1144,10 +1146,8 @@
         "PAR09",
         "PAR12",
         "PAR14",
-        "PAR17",
         "PAR18",
-        "PAR19",
-        "PAR20"
+        "PAR19"
       ]
     },
     {
@@ -1402,9 +1402,10 @@
       "team_code": "TUR",
       "country": "Turquia",
       "stickers_total": 20,
-      "owned_total": 12,
-      "missing_total": 8,
+      "owned_total": 13,
+      "missing_total": 7,
       "owned": [
+        "TUR03",
         "TUR06",
         "TUR08",
         "TUR10",
@@ -1421,7 +1422,6 @@
       "missing": [
         "TUR01",
         "TUR02",
-        "TUR03",
         "TUR04",
         "TUR05",
         "TUR07",
