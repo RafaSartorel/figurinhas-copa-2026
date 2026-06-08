@@ -1,27 +1,24 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-08T22:27:10Z",
+  "last_updated": "2026-06-08T23:44:44Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 706,
-    "missing_total": 274,
-    "progress_percent": 72.04
+    "owned_total": 707,
+    "missing_total": 273,
+    "progress_percent": 72.14
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "BRA16",
-      "BRA20"
+      "BEL12"
     ],
     "added": [
-      "BRA16"
+      "BEL12"
     ],
     "removed": [],
-    "already_owned": [
-      "BRA20"
-    ],
+    "already_owned": [],
     "already_missing": [],
     "not_found": [],
     "invalid": []

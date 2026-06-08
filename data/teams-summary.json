@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-08T22:27:10Z",
+  "last_updated": "2026-06-08T23:44:44Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -130,8 +130,8 @@
       "team_code": "BEL",
       "country": "Bélgica",
       "stickers_total": 20,
-      "owned_total": 14,
-      "missing_total": 6,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
         "BEL02",
         "BEL03",
@@ -142,6 +142,7 @@
         "BEL09",
         "BEL10",
         "BEL11",
+        "BEL12",
         "BEL13",
         "BEL14",
         "BEL16",
@@ -151,7 +152,6 @@
       "missing": [
         "BEL01",
         "BEL04",
-        "BEL12",
         "BEL15",
         "BEL19",
         "BEL20"

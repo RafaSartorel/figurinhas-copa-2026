@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 706,
+  "owned_count": 707,
   "stickers": [
     {
       "team_code": "ALG",
@@ -646,7 +646,7 @@
       "country": "Bélgica",
       "sticker_number": 12,
       "sticker_id": "BEL12",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "BEL",
@@ -6865,11 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-08T22:27:10Z",
-  "missing_count": 274,
+  "last_updated": "2026-06-08T23:44:44Z",
+  "missing_count": 273,
   "last_update_source": "chatgpt",
   "last_added": [
-    "BRA16"
+    "BEL12"
   ],
   "last_removed": []
 }
