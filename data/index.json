@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-08T21:59:46Z",
+  "last_updated": "2026-06-08T22:16:11Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -37,7 +37,7 @@
       "team_code": "ALG",
       "country": "Argélia",
       "sticker_number": 6,
-      "owned": false
+      "owned": true
     },
     "ALG07": {
       "team_code": "ALG",
@@ -793,7 +793,7 @@
       "team_code": "BRA",
       "country": "Brasil",
       "sticker_number": 12,
-      "owned": false
+      "owned": true
     },
     "BRA13": {
       "team_code": "BRA",
@@ -3385,7 +3385,7 @@
       "team_code": "KOR",
       "country": "Coreia do Sul",
       "sticker_number": 4,
-      "owned": false
+      "owned": true
     },
     "KOR05": {
       "team_code": "KOR",
@@ -4087,7 +4087,7 @@
       "team_code": "NZL",
       "country": "Nova Zelândia",
       "sticker_number": 1,
-      "owned": false
+      "owned": true
     },
     "NZL02": {
       "team_code": "NZL",
@@ -5425,7 +5425,7 @@
       "team_code": "TUR",
       "country": "Turquia",
       "sticker_number": 4,
-      "owned": false
+      "owned": true
     },
     "TUR05": {
       "team_code": "TUR",
@@ -5455,7 +5455,7 @@
       "team_code": "TUR",
       "country": "Turquia",
       "sticker_number": 9,
-      "owned": false
+      "owned": true
     },
     "TUR10": {
       "team_code": "TUR",

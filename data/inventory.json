@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 699,
+  "owned_count": 705,
   "stickers": [
     {
       "team_code": "ALG",
@@ -44,7 +44,7 @@
       "country": "Argélia",
       "sticker_number": 6,
       "sticker_id": "ALG06",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ALG",
@@ -926,7 +926,7 @@
       "country": "Brasil",
       "sticker_number": 12,
       "sticker_id": "BRA12",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "BRA",
@@ -3950,7 +3950,7 @@
       "country": "Coreia do Sul",
       "sticker_number": 4,
       "sticker_id": "KOR04",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "KOR",
@@ -4769,7 +4769,7 @@
       "country": "Nova Zelândia",
       "sticker_number": 1,
       "sticker_id": "NZL01",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "NZL",
@@ -6330,7 +6330,7 @@
       "country": "Turquia",
       "sticker_number": 4,
       "sticker_id": "TUR04",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "TUR",
@@ -6365,7 +6365,7 @@
       "country": "Turquia",
       "sticker_number": 9,
       "sticker_id": "TUR09",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "TUR",
@@ -6865,16 +6865,16 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-08T21:59:46Z",
-  "missing_count": 281,
+  "last_updated": "2026-06-08T22:16:11Z",
+  "missing_count": 275,
   "last_update_source": "chatgpt",
   "last_added": [
-    "BIH01",
-    "CZE20",
-    "QAT17",
-    "SEN10",
-    "SWE19",
-    "USA03"
+    "ALG06",
+    "BRA12",
+    "KOR04",
+    "NZL01",
+    "TUR04",
+    "TUR09"
   ],
   "last_removed": []
 }

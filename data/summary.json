@@ -1,42 +1,42 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-08T21:59:46Z",
+  "last_updated": "2026-06-08T22:16:11Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 699,
-    "missing_total": 281,
-    "progress_percent": 71.33
+    "owned_total": 705,
+    "missing_total": 275,
+    "progress_percent": 71.94
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "BIH01",
-      "CAN05",
-      "CZE20",
-      "NED18",
-      "QAT17",
-      "QAT18",
-      "SEN10",
-      "SUI18",
-      "SWE19",
-      "USA03"
+      "ALG06",
+      "BRA12",
+      "FWC16",
+      "KOR04",
+      "NZL01",
+      "PAR13",
+      "QAT19",
+      "TUR04",
+      "TUR09",
+      "TUR12"
     ],
     "added": [
-      "BIH01",
-      "CZE20",
-      "QAT17",
-      "SEN10",
-      "SWE19",
-      "USA03"
+      "ALG06",
+      "BRA12",
+      "KOR04",
+      "NZL01",
+      "TUR04",
+      "TUR09"
     ],
     "removed": [],
     "already_owned": [
-      "CAN05",
-      "NED18",
-      "QAT18",
-      "SUI18"
+      "FWC16",
+      "PAR13",
+      "QAT19",
+      "TUR12"
     ],
     "already_missing": [],
     "not_found": [],

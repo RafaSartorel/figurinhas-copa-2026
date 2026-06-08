@@ -1,7 +1,6 @@
 sticker_id,team_code,country,sticker_number,owned
 ALG01,ALG,Argélia,1,False
 ALG05,ALG,Argélia,5,False
-ALG06,ALG,Argélia,6,False
 ALG08,ALG,Argélia,8,False
 ALG09,ALG,Argélia,9,False
 ALG12,ALG,Argélia,12,False
@@ -29,7 +28,6 @@ BIH20,BIH,Bósnia,20,False
 BRA01,BRA,Brasil,1,False
 BRA04,BRA,Brasil,4,False
 BRA08,BRA,Brasil,8,False
-BRA12,BRA,Brasil,12,False
 BRA16,BRA,Brasil,16,False
 CAN02,CAN,Canadá,2,False
 CAN09,CAN,Canadá,9,False
@@ -173,7 +171,6 @@ JPN17,JPN,Japão,17,False
 JPN19,JPN,Japão,19,False
 JPN20,JPN,Japão,20,False
 KOR02,KOR,Coreia do Sul,2,False
-KOR04,KOR,Coreia do Sul,4,False
 KOR05,KOR,Coreia do Sul,5,False
 KOR06,KOR,Coreia do Sul,6,False
 KOR09,KOR,Coreia do Sul,9,False
@@ -203,7 +200,6 @@ NOR06,NOR,Noruega,6,False
 NOR10,NOR,Noruega,10,False
 NOR15,NOR,Noruega,15,False
 NOR17,NOR,Noruega,17,False
-NZL01,NZL,Nova Zelândia,1,False
 NZL04,NZL,Nova Zelândia,4,False
 NZL08,NZL,Nova Zelândia,8,False
 NZL16,NZL,Nova Zelândia,16,False
@@ -253,10 +249,8 @@ TUN07,TUN,Tunísia,7,False
 TUN20,TUN,Tunísia,20,False
 TUR01,TUR,Turquia,1,False
 TUR02,TUR,Turquia,2,False
-TUR04,TUR,Turquia,4,False
 TUR05,TUR,Turquia,5,False
 TUR07,TUR,Turquia,7,False
-TUR09,TUR,Turquia,9,False
 TUR19,TUR,Turquia,19,False
 URU05,URU,Uruguai,5,False
 URU14,URU,Uruguai,14,False

@@ -1,18 +1,19 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-08T21:59:46Z",
+  "last_updated": "2026-06-08T22:16:11Z",
   "teams": [
     {
       "team_code": "ALG",
       "country": "Argélia",
       "stickers_total": 20,
-      "owned_total": 13,
-      "missing_total": 7,
+      "owned_total": 14,
+      "missing_total": 6,
       "owned": [
         "ALG02",
         "ALG03",
         "ALG04",
+        "ALG06",
         "ALG07",
         "ALG10",
         "ALG11",
@@ -27,7 +28,6 @@
       "missing": [
         "ALG01",
         "ALG05",
-        "ALG06",
         "ALG08",
         "ALG09",
         "ALG12",
@@ -192,8 +192,8 @@
       "team_code": "BRA",
       "country": "Brasil",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
         "BRA02",
         "BRA03",
@@ -203,6 +203,7 @@
         "BRA09",
         "BRA10",
         "BRA11",
+        "BRA12",
         "BRA13",
         "BRA14",
         "BRA15",
@@ -215,7 +216,6 @@
         "BRA01",
         "BRA04",
         "BRA08",
-        "BRA12",
         "BRA16"
       ]
     },
@@ -874,11 +874,12 @@
       "team_code": "KOR",
       "country": "Coreia do Sul",
       "stickers_total": 20,
-      "owned_total": 12,
-      "missing_total": 8,
+      "owned_total": 13,
+      "missing_total": 7,
       "owned": [
         "KOR01",
         "KOR03",
+        "KOR04",
         "KOR07",
         "KOR08",
         "KOR10",
@@ -892,7 +893,6 @@
       ],
       "missing": [
         "KOR02",
-        "KOR04",
         "KOR05",
         "KOR06",
         "KOR09",
@@ -1060,9 +1060,10 @@
       "team_code": "NZL",
       "country": "Nova Zelândia",
       "stickers_total": 20,
-      "owned_total": 13,
-      "missing_total": 7,
+      "owned_total": 14,
+      "missing_total": 6,
       "owned": [
+        "NZL01",
         "NZL02",
         "NZL03",
         "NZL05",
@@ -1078,7 +1079,6 @@
         "NZL19"
       ],
       "missing": [
-        "NZL01",
         "NZL04",
         "NZL08",
         "NZL16",
@@ -1400,12 +1400,14 @@
       "team_code": "TUR",
       "country": "Turquia",
       "stickers_total": 20,
-      "owned_total": 13,
-      "missing_total": 7,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
         "TUR03",
+        "TUR04",
         "TUR06",
         "TUR08",
+        "TUR09",
         "TUR10",
         "TUR11",
         "TUR12",
@@ -1420,10 +1422,8 @@
       "missing": [
         "TUR01",
         "TUR02",
-        "TUR04",
         "TUR05",
         "TUR07",
-        "TUR09",
         "TUR19"
       ]
     },
