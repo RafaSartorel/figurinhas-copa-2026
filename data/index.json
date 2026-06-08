@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-08T15:37:01Z",
+  "last_updated": "2026-06-08T21:38:34Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -1045,7 +1045,7 @@
       "team_code": "CIV",
       "country": "Costa do Marfim",
       "sticker_number": 14,
-      "owned": false
+      "owned": true
     },
     "CIV15": {
       "team_code": "CIV",
@@ -1873,7 +1873,7 @@
       "team_code": "ECU",
       "country": "Equador",
       "sticker_number": 12,
-      "owned": false
+      "owned": true
     },
     "ECU13": {
       "team_code": "ECU",
@@ -1933,7 +1933,7 @@
       "team_code": "EGY",
       "country": "Egito",
       "sticker_number": 2,
-      "owned": false
+      "owned": true
     },
     "EGY03": {
       "team_code": "EGY",
@@ -2143,7 +2143,7 @@
       "team_code": "ENG",
       "country": "Inglaterra",
       "sticker_number": 17,
-      "owned": false
+      "owned": true
     },
     "ENG18": {
       "team_code": "ENG",
@@ -3031,7 +3031,7 @@
       "team_code": "IRQ",
       "country": "Iraque",
       "sticker_number": 5,
-      "owned": false
+      "owned": true
     },
     "IRQ06": {
       "team_code": "IRQ",
@@ -5095,7 +5095,7 @@
       "team_code": "SUI",
       "country": "Suíça",
       "sticker_number": 9,
-      "owned": false
+      "owned": true
     },
     "SUI10": {
       "team_code": "SUI",

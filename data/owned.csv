@@ -126,6 +126,7 @@ CIV05,CIV,Costa do Marfim,5,True
 CIV06,CIV,Costa do Marfim,6,True
 CIV09,CIV,Costa do Marfim,9,True
 CIV13,CIV,Costa do Marfim,13,True
+CIV14,CIV,Costa do Marfim,14,True
 CIV15,CIV,Costa do Marfim,15,True
 CIV19,CIV,Costa do Marfim,19,True
 COD02,COD,Congo,2,True
@@ -213,11 +214,13 @@ ECU04,ECU,Equador,4,True
 ECU05,ECU,Equador,5,True
 ECU07,ECU,Equador,7,True
 ECU08,ECU,Equador,8,True
+ECU12,ECU,Equador,12,True
 ECU13,ECU,Equador,13,True
 ECU16,ECU,Equador,16,True
 ECU17,ECU,Equador,17,True
 ECU18,ECU,Equador,18,True
 ECU20,ECU,Equador,20,True
+EGY02,EGY,Egito,2,True
 EGY03,EGY,Egito,3,True
 EGY04,EGY,Egito,4,True
 EGY05,EGY,Egito,5,True
@@ -240,6 +243,7 @@ ENG11,ENG,Inglaterra,11,True
 ENG14,ENG,Inglaterra,14,True
 ENG15,ENG,Inglaterra,15,True
 ENG16,ENG,Inglaterra,16,True
+ENG17,ENG,Inglaterra,17,True
 ENG18,ENG,Inglaterra,18,True
 ESP02,ESP,Espanha,2,True
 ESP03,ESP,Espanha,3,True
@@ -335,6 +339,7 @@ IRN18,IRN,Irã,18,True
 IRN20,IRN,Irã,20,True
 IRQ01,IRQ,Iraque,1,True
 IRQ04,IRQ,Iraque,4,True
+IRQ05,IRQ,Iraque,5,True
 IRQ06,IRQ,Iraque,6,True
 IRQ08,IRQ,Iraque,8,True
 IRQ10,IRQ,Iraque,10,True
@@ -587,6 +592,7 @@ SUI02,SUI,Suíça,2,True
 SUI03,SUI,Suíça,3,True
 SUI06,SUI,Suíça,6,True
 SUI08,SUI,Suíça,8,True
+SUI09,SUI,Suíça,9,True
 SUI11,SUI,Suíça,11,True
 SUI12,SUI,Suíça,12,True
 SUI13,SUI,Suíça,13,True

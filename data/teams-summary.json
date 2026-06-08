@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-08T15:37:01Z",
+  "last_updated": "2026-06-08T21:38:34Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -254,8 +254,8 @@
       "team_code": "CIV",
       "country": "Costa do Marfim",
       "stickers_total": 20,
-      "owned_total": 8,
-      "missing_total": 12,
+      "owned_total": 9,
+      "missing_total": 11,
       "owned": [
         "CIV02",
         "CIV03",
@@ -263,6 +263,7 @@
         "CIV06",
         "CIV09",
         "CIV13",
+        "CIV14",
         "CIV15",
         "CIV19"
       ],
@@ -274,7 +275,6 @@
         "CIV10",
         "CIV11",
         "CIV12",
-        "CIV14",
         "CIV16",
         "CIV17",
         "CIV18",
@@ -471,8 +471,8 @@
       "team_code": "ECU",
       "country": "Equador",
       "stickers_total": 20,
-      "owned_total": 12,
-      "missing_total": 8,
+      "owned_total": 13,
+      "missing_total": 7,
       "owned": [
         "ECU01",
         "ECU02",
@@ -481,6 +481,7 @@
         "ECU05",
         "ECU07",
         "ECU08",
+        "ECU12",
         "ECU13",
         "ECU16",
         "ECU17",
@@ -492,7 +493,6 @@
         "ECU09",
         "ECU10",
         "ECU11",
-        "ECU12",
         "ECU14",
         "ECU15",
         "ECU19"
@@ -502,9 +502,10 @@
       "team_code": "EGY",
       "country": "Egito",
       "stickers_total": 20,
-      "owned_total": 11,
-      "missing_total": 9,
+      "owned_total": 12,
+      "missing_total": 8,
       "owned": [
+        "EGY02",
         "EGY03",
         "EGY04",
         "EGY05",
@@ -519,7 +520,6 @@
       ],
       "missing": [
         "EGY01",
-        "EGY02",
         "EGY06",
         "EGY08",
         "EGY09",
@@ -533,8 +533,8 @@
       "team_code": "ENG",
       "country": "Inglaterra",
       "stickers_total": 20,
-      "owned_total": 12,
-      "missing_total": 8,
+      "owned_total": 13,
+      "missing_total": 7,
       "owned": [
         "ENG03",
         "ENG04",
@@ -547,6 +547,7 @@
         "ENG14",
         "ENG15",
         "ENG16",
+        "ENG17",
         "ENG18"
       ],
       "missing": [
@@ -555,7 +556,6 @@
         "ENG06",
         "ENG12",
         "ENG13",
-        "ENG17",
         "ENG19",
         "ENG20"
       ]
@@ -781,11 +781,12 @@
       "team_code": "IRQ",
       "country": "Iraque",
       "stickers_total": 20,
-      "owned_total": 13,
-      "missing_total": 7,
+      "owned_total": 14,
+      "missing_total": 6,
       "owned": [
         "IRQ01",
         "IRQ04",
+        "IRQ05",
         "IRQ06",
         "IRQ08",
         "IRQ10",
@@ -801,7 +802,6 @@
       "missing": [
         "IRQ02",
         "IRQ03",
-        "IRQ05",
         "IRQ07",
         "IRQ09",
         "IRQ12",
@@ -1308,14 +1308,15 @@
       "team_code": "SUI",
       "country": "Suíça",
       "stickers_total": 20,
-      "owned_total": 14,
-      "missing_total": 6,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
         "SUI01",
         "SUI02",
         "SUI03",
         "SUI06",
         "SUI08",
+        "SUI09",
         "SUI11",
         "SUI12",
         "SUI13",
@@ -1330,7 +1331,6 @@
         "SUI04",
         "SUI05",
         "SUI07",
-        "SUI09",
         "SUI10",
         "SUI15"
       ]

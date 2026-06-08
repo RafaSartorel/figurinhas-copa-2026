@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 677,
+  "owned_count": 683,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1220,7 +1220,7 @@
       "country": "Costa do Marfim",
       "sticker_number": 14,
       "sticker_id": "CIV14",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CIV",
@@ -2186,7 +2186,7 @@
       "country": "Equador",
       "sticker_number": 12,
       "sticker_id": "ECU12",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ECU",
@@ -2256,7 +2256,7 @@
       "country": "Egito",
       "sticker_number": 2,
       "sticker_id": "EGY02",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "EGY",
@@ -2501,7 +2501,7 @@
       "country": "Inglaterra",
       "sticker_number": 17,
       "sticker_id": "ENG17",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ENG",
@@ -3537,7 +3537,7 @@
       "country": "Iraque",
       "sticker_number": 5,
       "sticker_id": "IRQ05",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "IRQ",
@@ -5945,7 +5945,7 @@
       "country": "Suíça",
       "sticker_number": 9,
       "sticker_id": "SUI09",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "SUI",
@@ -6865,11 +6865,16 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-08T15:37:01Z",
-  "missing_count": 303,
+  "last_updated": "2026-06-08T21:38:34Z",
+  "missing_count": 297,
   "last_update_source": "chatgpt",
   "last_added": [
-    "AUT07"
+    "CIV14",
+    "ECU12",
+    "EGY02",
+    "ENG17",
+    "IRQ05",
+    "SUI09"
   ],
   "last_removed": []
 }
