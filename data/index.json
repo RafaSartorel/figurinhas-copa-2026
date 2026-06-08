@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-08T21:38:34Z",
+  "last_updated": "2026-06-08T21:42:11Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -1063,7 +1063,7 @@
       "team_code": "CIV",
       "country": "Costa do Marfim",
       "sticker_number": 17,
-      "owned": false
+      "owned": true
     },
     "CIV18": {
       "team_code": "CIV",
@@ -1231,7 +1231,7 @@
       "team_code": "COL",
       "country": "Colômbia",
       "sticker_number": 5,
-      "owned": false
+      "owned": true
     },
     "COL06": {
       "team_code": "COL",
@@ -1261,7 +1261,7 @@
       "team_code": "COL",
       "country": "Colômbia",
       "sticker_number": 10,
-      "owned": false
+      "owned": true
     },
     "COL11": {
       "team_code": "COL",
@@ -1957,7 +1957,7 @@
       "team_code": "EGY",
       "country": "Egito",
       "sticker_number": 6,
-      "owned": false
+      "owned": true
     },
     "EGY07": {
       "team_code": "EGY",
@@ -2221,7 +2221,7 @@
       "team_code": "ESP",
       "country": "Espanha",
       "sticker_number": 10,
-      "owned": false
+      "owned": true
     },
     "ESP11": {
       "team_code": "ESP",
@@ -3979,7 +3979,7 @@
       "team_code": "NOR",
       "country": "Noruega",
       "sticker_number": 3,
-      "owned": false
+      "owned": true
     },
     "NOR04": {
       "team_code": "NOR",
@@ -4225,7 +4225,7 @@
       "team_code": "PAN",
       "country": "Panamá",
       "sticker_number": 4,
-      "owned": false
+      "owned": true
     },
     "PAN05": {
       "team_code": "PAN",
@@ -5803,7 +5803,7 @@
       "team_code": "UZB",
       "country": "Uzbequistão",
       "sticker_number": 7,
-      "owned": false
+      "owned": true
     },
     "UZB08": {
       "team_code": "UZB",

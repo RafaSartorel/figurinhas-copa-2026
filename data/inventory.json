@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 683,
+  "owned_count": 691,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1241,7 +1241,7 @@
       "country": "Costa do Marfim",
       "sticker_number": 17,
       "sticker_id": "CIV17",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CIV",
@@ -1437,7 +1437,7 @@
       "country": "Colômbia",
       "sticker_number": 5,
       "sticker_id": "COL05",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "COL",
@@ -1472,7 +1472,7 @@
       "country": "Colômbia",
       "sticker_number": 10,
       "sticker_id": "COL10",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "COL",
@@ -2284,7 +2284,7 @@
       "country": "Egito",
       "sticker_number": 6,
       "sticker_id": "EGY06",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "EGY",
@@ -2592,7 +2592,7 @@
       "country": "Espanha",
       "sticker_number": 10,
       "sticker_id": "ESP10",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ESP",
@@ -4643,7 +4643,7 @@
       "country": "Noruega",
       "sticker_number": 3,
       "sticker_id": "NOR03",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "NOR",
@@ -4930,7 +4930,7 @@
       "country": "Panamá",
       "sticker_number": 4,
       "sticker_id": "PAN04",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "PAN",
@@ -6771,7 +6771,7 @@
       "country": "Uzbequistão",
       "sticker_number": 7,
       "sticker_id": "UZB07",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "UZB",
@@ -6865,16 +6865,18 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-08T21:38:34Z",
-  "missing_count": 297,
+  "last_updated": "2026-06-08T21:42:11Z",
+  "missing_count": 289,
   "last_update_source": "chatgpt",
   "last_added": [
-    "CIV14",
-    "ECU12",
-    "EGY02",
-    "ENG17",
-    "IRQ05",
-    "SUI09"
+    "CIV17",
+    "COL05",
+    "COL10",
+    "EGY06",
+    "ESP10",
+    "NOR03",
+    "PAN04",
+    "UZB07"
   ],
   "last_removed": []
 }

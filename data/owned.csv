@@ -128,6 +128,7 @@ CIV09,CIV,Costa do Marfim,9,True
 CIV13,CIV,Costa do Marfim,13,True
 CIV14,CIV,Costa do Marfim,14,True
 CIV15,CIV,Costa do Marfim,15,True
+CIV17,CIV,Costa do Marfim,17,True
 CIV19,CIV,Costa do Marfim,19,True
 COD02,COD,Congo,2,True
 COD04,COD,Congo,4,True
@@ -142,10 +143,12 @@ COD16,COD,Congo,16,True
 COD17,COD,Congo,17,True
 COD18,COD,Congo,18,True
 COL04,COL,Colômbia,4,True
+COL05,COL,Colômbia,5,True
 COL06,COL,Colômbia,6,True
 COL07,COL,Colômbia,7,True
 COL08,COL,Colômbia,8,True
 COL09,COL,Colômbia,9,True
+COL10,COL,Colômbia,10,True
 COL12,COL,Colômbia,12,True
 COL13,COL,Colômbia,13,True
 COL14,COL,Colômbia,14,True
@@ -224,6 +227,7 @@ EGY02,EGY,Egito,2,True
 EGY03,EGY,Egito,3,True
 EGY04,EGY,Egito,4,True
 EGY05,EGY,Egito,5,True
+EGY06,EGY,Egito,6,True
 EGY07,EGY,Egito,7,True
 EGY10,EGY,Egito,10,True
 EGY11,EGY,Egito,11,True
@@ -251,6 +255,7 @@ ESP05,ESP,Espanha,5,True
 ESP07,ESP,Espanha,7,True
 ESP08,ESP,Espanha,8,True
 ESP09,ESP,Espanha,9,True
+ESP10,ESP,Espanha,10,True
 ESP11,ESP,Espanha,11,True
 ESP12,ESP,Espanha,12,True
 ESP15,ESP,Espanha,15,True
@@ -453,6 +458,7 @@ NED14,NED,Holanda,14,True
 NED15,NED,Holanda,15,True
 NED18,NED,Holanda,18,True
 NED20,NED,Holanda,20,True
+NOR03,NOR,Noruega,3,True
 NOR05,NOR,Noruega,5,True
 NOR07,NOR,Noruega,7,True
 NOR08,NOR,Noruega,8,True
@@ -480,6 +486,7 @@ NZL15,NZL,Nova Zelândia,15,True
 NZL19,NZL,Nova Zelândia,19,True
 PAN02,PAN,Panamá,2,True
 PAN03,PAN,Panamá,3,True
+PAN04,PAN,Panamá,4,True
 PAN05,PAN,Panamá,5,True
 PAN06,PAN,Panamá,6,True
 PAN08,PAN,Panamá,8,True
@@ -674,6 +681,7 @@ UZB02,UZB,Uzbequistão,2,True
 UZB03,UZB,Uzbequistão,3,True
 UZB04,UZB,Uzbequistão,4,True
 UZB06,UZB,Uzbequistão,6,True
+UZB07,UZB,Uzbequistão,7,True
 UZB08,UZB,Uzbequistão,8,True
 UZB10,UZB,Uzbequistão,10,True
 UZB12,UZB,Uzbequistão,12,True

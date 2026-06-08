@@ -46,7 +46,6 @@ CIV10,CIV,Costa do Marfim,10,False
 CIV11,CIV,Costa do Marfim,11,False
 CIV12,CIV,Costa do Marfim,12,False
 CIV16,CIV,Costa do Marfim,16,False
-CIV17,CIV,Costa do Marfim,17,False
 CIV18,CIV,Costa do Marfim,18,False
 CIV20,CIV,Costa do Marfim,20,False
 COD01,COD,Congo,1,False
@@ -60,8 +59,6 @@ COD20,COD,Congo,20,False
 COL01,COL,Colômbia,1,False
 COL02,COL,Colômbia,2,False
 COL03,COL,Colômbia,3,False
-COL05,COL,Colômbia,5,False
-COL10,COL,Colômbia,10,False
 COL11,COL,Colômbia,11,False
 COL16,COL,Colômbia,16,False
 COL19,COL,Colômbia,19,False
@@ -99,7 +96,6 @@ ECU14,ECU,Equador,14,False
 ECU15,ECU,Equador,15,False
 ECU19,ECU,Equador,19,False
 EGY01,EGY,Egito,1,False
-EGY06,EGY,Egito,6,False
 EGY08,EGY,Egito,8,False
 EGY09,EGY,Egito,9,False
 EGY12,EGY,Egito,12,False
@@ -116,7 +112,6 @@ ENG20,ENG,Inglaterra,20,False
 ESP01,ESP,Espanha,1,False
 ESP04,ESP,Espanha,4,False
 ESP06,ESP,Espanha,6,False
-ESP10,ESP,Espanha,10,False
 ESP13,ESP,Espanha,13,False
 ESP14,ESP,Espanha,14,False
 ESP16,ESP,Espanha,16,False
@@ -207,7 +202,6 @@ NED17,NED,Holanda,17,False
 NED19,NED,Holanda,19,False
 NOR01,NOR,Noruega,1,False
 NOR02,NOR,Noruega,2,False
-NOR03,NOR,Noruega,3,False
 NOR04,NOR,Noruega,4,False
 NOR06,NOR,Noruega,6,False
 NOR10,NOR,Noruega,10,False
@@ -221,7 +215,6 @@ NZL17,NZL,Nova Zelândia,17,False
 NZL18,NZL,Nova Zelândia,18,False
 NZL20,NZL,Nova Zelândia,20,False
 PAN01,PAN,Panamá,1,False
-PAN04,PAN,Panamá,4,False
 PAN07,PAN,Panamá,7,False
 PAN11,PAN,Panamá,11,False
 PAN12,PAN,Panamá,12,False
@@ -290,7 +283,6 @@ USA19,USA,Estados Unidos,19,False
 USA20,USA,Estados Unidos,20,False
 UZB01,UZB,Uzbequistão,1,False
 UZB05,UZB,Uzbequistão,5,False
-UZB07,UZB,Uzbequistão,7,False
 UZB09,UZB,Uzbequistão,9,False
 UZB11,UZB,Uzbequistão,11,False
 UZB13,UZB,Uzbequistão,13,False
