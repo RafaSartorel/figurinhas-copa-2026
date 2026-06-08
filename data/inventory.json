@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 693,
+  "owned_count": 699,
   "stickers": [
     {
       "team_code": "ALG",
@@ -709,7 +709,7 @@
       "country": "Bósnia",
       "sticker_number": 1,
       "sticker_id": "BIH01",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "BIH",
@@ -2102,7 +2102,7 @@
       "country": "Rep. Tcheca",
       "sticker_number": 20,
       "sticker_id": "CZE20",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ECU",
@@ -5441,7 +5441,7 @@
       "country": "Catar",
       "sticker_number": 17,
       "sticker_id": "QAT17",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "QAT",
@@ -5812,7 +5812,7 @@
       "country": "Senegal",
       "sticker_number": 10,
       "sticker_id": "SEN10",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "SEN",
@@ -6155,7 +6155,7 @@
       "country": "Suécia",
       "sticker_number": 19,
       "sticker_id": "SWE19",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "SWE",
@@ -6603,7 +6603,7 @@
       "country": "Estados Unidos",
       "sticker_number": 3,
       "sticker_id": "USA03",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "USA",
@@ -6865,12 +6865,16 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-08T21:50:40Z",
-  "missing_count": 287,
+  "last_updated": "2026-06-08T21:59:46Z",
+  "missing_count": 281,
   "last_update_source": "chatgpt",
   "last_added": [
-    "BRA13",
-    "BRA17"
+    "BIH01",
+    "CZE20",
+    "QAT17",
+    "SEN10",
+    "SWE19",
+    "USA03"
   ],
   "last_removed": []
 }

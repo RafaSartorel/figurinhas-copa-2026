@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-08T21:50:40Z",
+  "last_updated": "2026-06-08T21:59:46Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -161,9 +161,10 @@
       "team_code": "BIH",
       "country": "Bósnia",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
+        "BIH01",
         "BIH02",
         "BIH03",
         "BIH05",
@@ -181,7 +182,6 @@
         "BIH19"
       ],
       "missing": [
-        "BIH01",
         "BIH04",
         "BIH06",
         "BIH13",
@@ -440,8 +440,8 @@
       "team_code": "CZE",
       "country": "Rep. Tcheca",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
         "CZE01",
         "CZE02",
@@ -457,14 +457,14 @@
         "CZE16",
         "CZE17",
         "CZE18",
-        "CZE19"
+        "CZE19",
+        "CZE20"
       ],
       "missing": [
         "CZE06",
         "CZE11",
         "CZE12",
-        "CZE15",
-        "CZE20"
+        "CZE15"
       ]
     },
     {
@@ -1184,8 +1184,8 @@
       "team_code": "QAT",
       "country": "Catar",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "QAT01",
         "QAT02",
@@ -1203,13 +1203,12 @@
         "QAT14",
         "QAT15",
         "QAT16",
+        "QAT17",
         "QAT18",
         "QAT19",
         "QAT20"
       ],
-      "missing": [
-        "QAT17"
-      ]
+      "missing": []
     },
     {
       "team_code": "RSA",
@@ -1277,8 +1276,8 @@
       "team_code": "SEN",
       "country": "Senegal",
       "stickers_total": 20,
-      "owned_total": 16,
-      "missing_total": 4,
+      "owned_total": 17,
+      "missing_total": 3,
       "owned": [
         "SEN02",
         "SEN03",
@@ -1288,6 +1287,7 @@
         "SEN07",
         "SEN08",
         "SEN09",
+        "SEN10",
         "SEN12",
         "SEN13",
         "SEN15",
@@ -1299,7 +1299,6 @@
       ],
       "missing": [
         "SEN01",
-        "SEN10",
         "SEN11",
         "SEN14"
       ]
@@ -1339,8 +1338,8 @@
       "team_code": "SWE",
       "country": "Suécia",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
         "SWE01",
         "SWE02",
@@ -1356,14 +1355,14 @@
         "SWE14",
         "SWE15",
         "SWE17",
+        "SWE19",
         "SWE20"
       ],
       "missing": [
         "SWE08",
         "SWE13",
         "SWE16",
-        "SWE18",
-        "SWE19"
+        "SWE18"
       ]
     },
     {
@@ -1463,9 +1462,10 @@
       "team_code": "USA",
       "country": "Estados Unidos",
       "stickers_total": 20,
-      "owned_total": 7,
-      "missing_total": 13,
+      "owned_total": 8,
+      "missing_total": 12,
       "owned": [
+        "USA03",
         "USA06",
         "USA10",
         "USA12",
@@ -1477,7 +1477,6 @@
       "missing": [
         "USA01",
         "USA02",
-        "USA03",
         "USA04",
         "USA05",
         "USA07",

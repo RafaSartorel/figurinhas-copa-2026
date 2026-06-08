@@ -1,26 +1,43 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-08T21:50:40Z",
+  "last_updated": "2026-06-08T21:59:46Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 693,
-    "missing_total": 287,
-    "progress_percent": 70.71
+    "owned_total": 699,
+    "missing_total": 281,
+    "progress_percent": 71.33
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "BRA13",
-      "BRA17"
+      "BIH01",
+      "CAN05",
+      "CZE20",
+      "NED18",
+      "QAT17",
+      "QAT18",
+      "SEN10",
+      "SUI18",
+      "SWE19",
+      "USA03"
     ],
     "added": [
-      "BRA13",
-      "BRA17"
+      "BIH01",
+      "CZE20",
+      "QAT17",
+      "SEN10",
+      "SWE19",
+      "USA03"
     ],
     "removed": [],
-    "already_owned": [],
+    "already_owned": [
+      "CAN05",
+      "NED18",
+      "QAT18",
+      "SUI18"
+    ],
     "already_missing": [],
     "not_found": [],
     "invalid": []

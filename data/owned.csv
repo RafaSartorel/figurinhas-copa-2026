@@ -76,6 +76,7 @@ BEL14,BEL,Bélgica,14,True
 BEL16,BEL,Bélgica,16,True
 BEL17,BEL,Bélgica,17,True
 BEL18,BEL,Bélgica,18,True
+BIH01,BIH,Bósnia,1,True
 BIH02,BIH,Bósnia,2,True
 BIH03,BIH,Bósnia,3,True
 BIH05,BIH,Bósnia,5,True
@@ -212,6 +213,7 @@ CZE16,CZE,Rep. Tcheca,16,True
 CZE17,CZE,Rep. Tcheca,17,True
 CZE18,CZE,Rep. Tcheca,18,True
 CZE19,CZE,Rep. Tcheca,19,True
+CZE20,CZE,Rep. Tcheca,20,True
 ECU01,ECU,Equador,1,True
 ECU02,ECU,Equador,2,True
 ECU03,ECU,Equador,3,True
@@ -542,6 +544,7 @@ QAT13,QAT,Catar,13,True
 QAT14,QAT,Catar,14,True
 QAT15,QAT,Catar,15,True
 QAT16,QAT,Catar,16,True
+QAT17,QAT,Catar,17,True
 QAT18,QAT,Catar,18,True
 QAT19,QAT,Catar,19,True
 QAT20,QAT,Catar,20,True
@@ -588,6 +591,7 @@ SEN06,SEN,Senegal,6,True
 SEN07,SEN,Senegal,7,True
 SEN08,SEN,Senegal,8,True
 SEN09,SEN,Senegal,9,True
+SEN10,SEN,Senegal,10,True
 SEN12,SEN,Senegal,12,True
 SEN13,SEN,Senegal,13,True
 SEN15,SEN,Senegal,15,True
@@ -625,6 +629,7 @@ SWE12,SWE,Suécia,12,True
 SWE14,SWE,Suécia,14,True
 SWE15,SWE,Suécia,15,True
 SWE17,SWE,Suécia,17,True
+SWE19,SWE,Suécia,19,True
 SWE20,SWE,Suécia,20,True
 TUN01,TUN,Tunísia,1,True
 TUN03,TUN,Tunísia,3,True
@@ -672,6 +677,7 @@ URU16,URU,Uruguai,16,True
 URU18,URU,Uruguai,18,True
 URU19,URU,Uruguai,19,True
 URU20,URU,Uruguai,20,True
+USA03,USA,Estados Unidos,3,True
 USA06,USA,Estados Unidos,6,True
 USA10,USA,Estados Unidos,10,True
 USA12,USA,Estados Unidos,12,True

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-08T21:50:40Z",
+  "last_updated": "2026-06-08T21:59:46Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -607,7 +607,7 @@
       "team_code": "BIH",
       "country": "Bósnia",
       "sticker_number": 1,
-      "owned": false
+      "owned": true
     },
     "BIH02": {
       "team_code": "BIH",
@@ -1801,7 +1801,7 @@
       "team_code": "CZE",
       "country": "Rep. Tcheca",
       "sticker_number": 20,
-      "owned": false
+      "owned": true
     },
     "ECU01": {
       "team_code": "ECU",
@@ -4663,7 +4663,7 @@
       "team_code": "QAT",
       "country": "Catar",
       "sticker_number": 17,
-      "owned": false
+      "owned": true
     },
     "QAT18": {
       "team_code": "QAT",
@@ -4981,7 +4981,7 @@
       "team_code": "SEN",
       "country": "Senegal",
       "sticker_number": 10,
-      "owned": false
+      "owned": true
     },
     "SEN11": {
       "team_code": "SEN",
@@ -5275,7 +5275,7 @@
       "team_code": "SWE",
       "country": "Suécia",
       "sticker_number": 19,
-      "owned": false
+      "owned": true
     },
     "SWE20": {
       "team_code": "SWE",
@@ -5659,7 +5659,7 @@
       "team_code": "USA",
       "country": "Estados Unidos",
       "sticker_number": 3,
-      "owned": false
+      "owned": true
     },
     "USA04": {
       "team_code": "USA",

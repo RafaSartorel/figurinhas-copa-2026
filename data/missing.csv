@@ -22,7 +22,6 @@ BEL12,BEL,Bélgica,12,False
 BEL15,BEL,Bélgica,15,False
 BEL19,BEL,Bélgica,19,False
 BEL20,BEL,Bélgica,20,False
-BIH01,BIH,Bósnia,1,False
 BIH04,BIH,Bósnia,4,False
 BIH06,BIH,Bósnia,6,False
 BIH13,BIH,Bósnia,13,False
@@ -85,7 +84,6 @@ CZE06,CZE,Rep. Tcheca,6,False
 CZE11,CZE,Rep. Tcheca,11,False
 CZE12,CZE,Rep. Tcheca,12,False
 CZE15,CZE,Rep. Tcheca,15,False
-CZE20,CZE,Rep. Tcheca,20,False
 ECU06,ECU,Equador,6,False
 ECU09,ECU,Equador,9,False
 ECU10,ECU,Equador,10,False
@@ -232,14 +230,12 @@ POR04,POR,Portugal,4,False
 POR05,POR,Portugal,5,False
 POR08,POR,Portugal,8,False
 POR17,POR,Portugal,17,False
-QAT17,QAT,Catar,17,False
 RSA07,RSA,África do Sul,7,False
 RSA15,RSA,África do Sul,15,False
 RSA16,RSA,África do Sul,16,False
 SCO08,SCO,Escócia,8,False
 SCO12,SCO,Escócia,12,False
 SEN01,SEN,Senegal,1,False
-SEN10,SEN,Senegal,10,False
 SEN11,SEN,Senegal,11,False
 SEN14,SEN,Senegal,14,False
 SUI04,SUI,Suíça,4,False
@@ -251,7 +247,6 @@ SWE08,SWE,Suécia,8,False
 SWE13,SWE,Suécia,13,False
 SWE16,SWE,Suécia,16,False
 SWE18,SWE,Suécia,18,False
-SWE19,SWE,Suécia,19,False
 TUN02,TUN,Tunísia,2,False
 TUN04,TUN,Tunísia,4,False
 TUN07,TUN,Tunísia,7,False
@@ -268,7 +263,6 @@ URU14,URU,Uruguai,14,False
 URU17,URU,Uruguai,17,False
 USA01,USA,Estados Unidos,1,False
 USA02,USA,Estados Unidos,2,False
-USA03,USA,Estados Unidos,3,False
 USA04,USA,Estados Unidos,4,False
 USA05,USA,Estados Unidos,5,False
 USA07,USA,Estados Unidos,7,False
