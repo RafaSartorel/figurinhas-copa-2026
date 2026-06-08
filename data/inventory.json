@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 676,
+  "owned_count": 677,
   "stickers": [
     {
       "team_code": "ALG",
@@ -471,7 +471,7 @@
       "country": "Áustria",
       "sticker_number": 7,
       "sticker_id": "AUT07",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "AUT",
@@ -6865,19 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-07T22:12:18Z",
-  "missing_count": 304,
+  "last_updated": "2026-06-08T15:37:01Z",
+  "missing_count": 303,
   "last_update_source": "chatgpt",
   "last_added": [
-    "ALG19",
-    "CIV09",
-    "COD14",
-    "CZE03",
-    "ECU18",
-    "GHA09",
-    "NOR07",
-    "NOR16",
-    "SUI03"
+    "AUT07"
   ],
   "last_removed": []
 }

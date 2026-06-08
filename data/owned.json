@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-07T22:12:18Z",
+  "last_updated": "2026-06-08T15:37:01Z",
   "stickers": [
     "ALG02",
     "ALG03",
@@ -52,6 +52,7 @@
     "AUT04",
     "AUT05",
     "AUT06",
+    "AUT07",
     "AUT08",
     "AUT09",
     "AUT10",
