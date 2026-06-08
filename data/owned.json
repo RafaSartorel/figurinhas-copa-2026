@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-08T21:42:11Z",
+  "last_updated": "2026-06-08T21:50:40Z",
   "stickers": [
     "ALG02",
     "ALG03",
@@ -103,8 +103,10 @@
     "BRA09",
     "BRA10",
     "BRA11",
+    "BRA13",
     "BRA14",
     "BRA15",
+    "BRA17",
     "BRA18",
     "BRA19",
     "BRA20",

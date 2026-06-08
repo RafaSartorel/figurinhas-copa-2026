@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 691,
+  "owned_count": 693,
   "stickers": [
     {
       "team_code": "ALG",
@@ -933,7 +933,7 @@
       "country": "Brasil",
       "sticker_number": 13,
       "sticker_id": "BRA13",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "BRA",
@@ -961,7 +961,7 @@
       "country": "Brasil",
       "sticker_number": 17,
       "sticker_id": "BRA17",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "BRA",
@@ -6865,18 +6865,12 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-08T21:42:11Z",
-  "missing_count": 289,
+  "last_updated": "2026-06-08T21:50:40Z",
+  "missing_count": 287,
   "last_update_source": "chatgpt",
   "last_added": [
-    "CIV17",
-    "COL05",
-    "COL10",
-    "EGY06",
-    "ESP10",
-    "NOR03",
-    "PAN04",
-    "UZB07"
+    "BRA13",
+    "BRA17"
   ],
   "last_removed": []
 }

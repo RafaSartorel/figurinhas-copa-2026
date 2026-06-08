@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-08T21:42:11Z",
+  "last_updated": "2026-06-08T21:50:40Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -192,8 +192,8 @@
       "team_code": "BRA",
       "country": "Brasil",
       "stickers_total": 20,
-      "owned_total": 13,
-      "missing_total": 7,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
         "BRA02",
         "BRA03",
@@ -203,8 +203,10 @@
         "BRA09",
         "BRA10",
         "BRA11",
+        "BRA13",
         "BRA14",
         "BRA15",
+        "BRA17",
         "BRA18",
         "BRA19",
         "BRA20"
@@ -214,9 +216,7 @@
         "BRA04",
         "BRA08",
         "BRA12",
-        "BRA13",
-        "BRA16",
-        "BRA17"
+        "BRA16"
       ]
     },
     {

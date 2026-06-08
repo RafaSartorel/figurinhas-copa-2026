@@ -1,35 +1,23 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-08T21:42:11Z",
+  "last_updated": "2026-06-08T21:50:40Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 691,
-    "missing_total": 289,
-    "progress_percent": 70.51
+    "owned_total": 693,
+    "missing_total": 287,
+    "progress_percent": 70.71
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "CIV17",
-      "COL05",
-      "COL10",
-      "EGY06",
-      "ESP10",
-      "NOR03",
-      "PAN04",
-      "UZB07"
+      "BRA13",
+      "BRA17"
     ],
     "added": [
-      "CIV17",
-      "COL05",
-      "COL10",
-      "EGY06",
-      "ESP10",
-      "NOR03",
-      "PAN04",
-      "UZB07"
+      "BRA13",
+      "BRA17"
     ],
     "removed": [],
     "already_owned": [],
