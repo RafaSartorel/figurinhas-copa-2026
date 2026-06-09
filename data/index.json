@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-08T23:44:44Z",
+  "last_updated": "2026-06-09T22:53:19Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -571,7 +571,7 @@
       "team_code": "BEL",
       "country": "Bélgica",
       "sticker_number": 15,
-      "owned": false
+      "owned": true
     },
     "BEL16": {
       "team_code": "BEL",
@@ -1717,7 +1717,7 @@
       "team_code": "CZE",
       "country": "Rep. Tcheca",
       "sticker_number": 6,
-      "owned": false
+      "owned": true
     },
     "CZE07": {
       "team_code": "CZE",
@@ -1855,7 +1855,7 @@
       "team_code": "ECU",
       "country": "Equador",
       "sticker_number": 9,
-      "owned": false
+      "owned": true
     },
     "ECU10": {
       "team_code": "ECU",
@@ -4489,7 +4489,7 @@
       "team_code": "POR",
       "country": "Portugal",
       "sticker_number": 8,
-      "owned": false
+      "owned": true
     },
     "POR09": {
       "team_code": "POR",
@@ -5083,7 +5083,7 @@
       "team_code": "SUI",
       "country": "Suíça",
       "sticker_number": 7,
-      "owned": false
+      "owned": true
     },
     "SUI08": {
       "team_code": "SUI",

@@ -75,6 +75,7 @@ BEL11,BEL,Bélgica,11,True
 BEL12,BEL,Bélgica,12,True
 BEL13,BEL,Bélgica,13,True
 BEL14,BEL,Bélgica,14,True
+BEL15,BEL,Bélgica,15,True
 BEL16,BEL,Bélgica,16,True
 BEL17,BEL,Bélgica,17,True
 BEL18,BEL,Bélgica,18,True
@@ -207,6 +208,7 @@ CZE02,CZE,Rep. Tcheca,2,True
 CZE03,CZE,Rep. Tcheca,3,True
 CZE04,CZE,Rep. Tcheca,4,True
 CZE05,CZE,Rep. Tcheca,5,True
+CZE06,CZE,Rep. Tcheca,6,True
 CZE07,CZE,Rep. Tcheca,7,True
 CZE08,CZE,Rep. Tcheca,8,True
 CZE09,CZE,Rep. Tcheca,9,True
@@ -225,6 +227,7 @@ ECU04,ECU,Equador,4,True
 ECU05,ECU,Equador,5,True
 ECU07,ECU,Equador,7,True
 ECU08,ECU,Equador,8,True
+ECU09,ECU,Equador,9,True
 ECU12,ECU,Equador,12,True
 ECU13,ECU,Equador,13,True
 ECU16,ECU,Equador,16,True
@@ -523,6 +526,7 @@ PAR20,PAR,Paraguai,20,True
 POR01,POR,Portugal,1,True
 POR06,POR,Portugal,6,True
 POR07,POR,Portugal,7,True
+POR08,POR,Portugal,8,True
 POR09,POR,Portugal,9,True
 POR10,POR,Portugal,10,True
 POR11,POR,Portugal,11,True
@@ -610,6 +614,7 @@ SUI01,SUI,Suíça,1,True
 SUI02,SUI,Suíça,2,True
 SUI03,SUI,Suíça,3,True
 SUI06,SUI,Suíça,6,True
+SUI07,SUI,Suíça,7,True
 SUI08,SUI,Suíça,8,True
 SUI09,SUI,Suíça,9,True
 SUI11,SUI,Suíça,11,True

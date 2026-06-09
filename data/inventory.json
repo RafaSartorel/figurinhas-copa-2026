@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 707,
+  "owned_count": 712,
   "stickers": [
     {
       "team_code": "ALG",
@@ -667,7 +667,7 @@
       "country": "Bélgica",
       "sticker_number": 15,
       "sticker_id": "BEL15",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "BEL",
@@ -2004,7 +2004,7 @@
       "country": "Rep. Tcheca",
       "sticker_number": 6,
       "sticker_id": "CZE06",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CZE",
@@ -2165,7 +2165,7 @@
       "country": "Equador",
       "sticker_number": 9,
       "sticker_id": "ECU09",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ECU",
@@ -5238,7 +5238,7 @@
       "country": "Portugal",
       "sticker_number": 8,
       "sticker_id": "POR08",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "POR",
@@ -5931,7 +5931,7 @@
       "country": "Suíça",
       "sticker_number": 7,
       "sticker_id": "SUI07",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "SUI",
@@ -6865,11 +6865,15 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-08T23:44:44Z",
-  "missing_count": 273,
+  "last_updated": "2026-06-09T22:53:19Z",
+  "missing_count": 268,
   "last_update_source": "chatgpt",
   "last_added": [
-    "BEL12"
+    "BEL15",
+    "CZE06",
+    "ECU09",
+    "POR08",
+    "SUI07"
   ],
   "last_removed": []
 }

@@ -1,21 +1,29 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-08T23:44:44Z",
+  "last_updated": "2026-06-09T22:53:19Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 707,
-    "missing_total": 273,
-    "progress_percent": 72.14
+    "owned_total": 712,
+    "missing_total": 268,
+    "progress_percent": 72.65
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "BEL12"
+      "BEL15",
+      "CZE06",
+      "ECU09",
+      "POR08",
+      "SUI07"
     ],
     "added": [
-      "BEL12"
+      "BEL15",
+      "CZE06",
+      "ECU09",
+      "POR08",
+      "SUI07"
     ],
     "removed": [],
     "already_owned": [],
