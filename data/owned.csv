@@ -40,6 +40,7 @@ AUS11,AUS,Austrália,11,True
 AUS12,AUS,Austrália,12,True
 AUS13,AUS,Austrália,13,True
 AUS14,AUS,Austrália,14,True
+AUS15,AUS,Austrália,15,True
 AUS17,AUS,Austrália,17,True
 AUS18,AUS,Austrália,18,True
 AUS19,AUS,Austrália,19,True
@@ -138,11 +139,13 @@ CIV14,CIV,Costa do Marfim,14,True
 CIV15,CIV,Costa do Marfim,15,True
 CIV17,CIV,Costa do Marfim,17,True
 CIV19,CIV,Costa do Marfim,19,True
+COD01,COD,Congo,1,True
 COD02,COD,Congo,2,True
 COD04,COD,Congo,4,True
 COD05,COD,Congo,5,True
 COD06,COD,Congo,6,True
 COD07,COD,Congo,7,True
+COD09,COD,Congo,9,True
 COD10,COD,Congo,10,True
 COD11,COD,Congo,11,True
 COD12,COD,Congo,12,True

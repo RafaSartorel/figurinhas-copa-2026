@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-09T23:05:26Z",
+  "last_updated": "2026-06-09T23:08:04Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -331,7 +331,7 @@
       "team_code": "AUS",
       "country": "Austrália",
       "sticker_number": 15,
-      "owned": false
+      "owned": true
     },
     "AUS16": {
       "team_code": "AUS",
@@ -1087,7 +1087,7 @@
       "team_code": "COD",
       "country": "Congo",
       "sticker_number": 1,
-      "owned": false
+      "owned": true
     },
     "COD02": {
       "team_code": "COD",
@@ -1135,7 +1135,7 @@
       "team_code": "COD",
       "country": "Congo",
       "sticker_number": 9,
-      "owned": false
+      "owned": true
     },
     "COD10": {
       "team_code": "COD",

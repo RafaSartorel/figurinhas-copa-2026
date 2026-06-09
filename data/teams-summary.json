@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-09T23:05:26Z",
+  "last_updated": "2026-06-09T23:08:04Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -69,8 +69,8 @@
       "team_code": "AUS",
       "country": "Austrália",
       "stickers_total": 20,
-      "owned_total": 14,
-      "missing_total": 6,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
         "AUS01",
         "AUS02",
@@ -83,6 +83,7 @@
         "AUS12",
         "AUS13",
         "AUS14",
+        "AUS15",
         "AUS17",
         "AUS18",
         "AUS19"
@@ -91,7 +92,6 @@
         "AUS06",
         "AUS09",
         "AUS10",
-        "AUS15",
         "AUS16",
         "AUS20"
       ]
@@ -285,14 +285,16 @@
       "team_code": "COD",
       "country": "Congo",
       "stickers_total": 20,
-      "owned_total": 12,
-      "missing_total": 8,
+      "owned_total": 14,
+      "missing_total": 6,
       "owned": [
+        "COD01",
         "COD02",
         "COD04",
         "COD05",
         "COD06",
         "COD07",
+        "COD09",
         "COD10",
         "COD11",
         "COD12",
@@ -302,10 +304,8 @@
         "COD18"
       ],
       "missing": [
-        "COD01",
         "COD03",
         "COD08",
-        "COD09",
         "COD13",
         "COD15",
         "COD19",

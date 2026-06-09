@@ -12,7 +12,6 @@ ARG18,ARG,Argentina,18,False
 AUS06,AUS,Austrália,6,False
 AUS09,AUS,Austrália,9,False
 AUS10,AUS,Austrália,10,False
-AUS15,AUS,Austrália,15,False
 AUS16,AUS,Austrália,16,False
 AUS20,AUS,Austrália,20,False
 BEL01,BEL,Bélgica,1,False
@@ -40,10 +39,8 @@ CIV12,CIV,Costa do Marfim,12,False
 CIV16,CIV,Costa do Marfim,16,False
 CIV18,CIV,Costa do Marfim,18,False
 CIV20,CIV,Costa do Marfim,20,False
-COD01,COD,Congo,1,False
 COD03,COD,Congo,3,False
 COD08,COD,Congo,8,False
-COD09,COD,Congo,9,False
 COD13,COD,Congo,13,False
 COD15,COD,Congo,15,False
 COD19,COD,Congo,19,False

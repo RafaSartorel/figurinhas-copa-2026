@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 716,
+  "owned_count": 719,
   "stickers": [
     {
       "team_code": "ALG",
@@ -387,7 +387,7 @@
       "country": "Austrália",
       "sticker_number": 15,
       "sticker_id": "AUS15",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "AUS",
@@ -1269,7 +1269,7 @@
       "country": "Congo",
       "sticker_number": 1,
       "sticker_id": "COD01",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "COD",
@@ -1325,7 +1325,7 @@
       "country": "Congo",
       "sticker_number": 9,
       "sticker_id": "COD09",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "COD",
@@ -6865,14 +6865,13 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-09T23:05:26Z",
-  "missing_count": 264,
+  "last_updated": "2026-06-09T23:08:04Z",
+  "missing_count": 261,
   "last_update_source": "chatgpt",
   "last_added": [
-    "GHA16",
-    "JPN02",
-    "KOR09",
-    "SEN11"
+    "AUS15",
+    "COD01",
+    "COD09"
   ],
   "last_removed": []
 }
