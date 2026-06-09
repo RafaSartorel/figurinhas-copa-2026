@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-09T22:53:19Z",
+  "last_updated": "2026-06-09T23:05:26Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -2737,7 +2737,7 @@
       "team_code": "GHA",
       "country": "Gana",
       "sticker_number": 16,
-      "owned": false
+      "owned": true
     },
     "GHA17": {
       "team_code": "GHA",
@@ -3253,7 +3253,7 @@
       "team_code": "JPN",
       "country": "Japão",
       "sticker_number": 2,
-      "owned": false
+      "owned": true
     },
     "JPN03": {
       "team_code": "JPN",
@@ -3415,7 +3415,7 @@
       "team_code": "KOR",
       "country": "Coreia do Sul",
       "sticker_number": 9,
-      "owned": false
+      "owned": true
     },
     "KOR10": {
       "team_code": "KOR",
@@ -4987,7 +4987,7 @@
       "team_code": "SEN",
       "country": "Senegal",
       "sticker_number": 11,
-      "owned": false
+      "owned": true
     },
     "SEN12": {
       "team_code": "SEN",

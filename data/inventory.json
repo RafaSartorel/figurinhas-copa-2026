@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 712,
+  "owned_count": 716,
   "stickers": [
     {
       "team_code": "ALG",
@@ -3194,7 +3194,7 @@
       "country": "Gana",
       "sticker_number": 16,
       "sticker_id": "GHA16",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "GHA",
@@ -3796,7 +3796,7 @@
       "country": "Japão",
       "sticker_number": 2,
       "sticker_id": "JPN02",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "JPN",
@@ -3985,7 +3985,7 @@
       "country": "Coreia do Sul",
       "sticker_number": 9,
       "sticker_id": "KOR09",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "KOR",
@@ -5819,7 +5819,7 @@
       "country": "Senegal",
       "sticker_number": 11,
       "sticker_id": "SEN11",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "SEN",
@@ -6865,15 +6865,14 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-09T22:53:19Z",
-  "missing_count": 268,
+  "last_updated": "2026-06-09T23:05:26Z",
+  "missing_count": 264,
   "last_update_source": "chatgpt",
   "last_added": [
-    "BEL15",
-    "CZE06",
-    "ECU09",
-    "POR08",
-    "SUI07"
+    "GHA16",
+    "JPN02",
+    "KOR09",
+    "SEN11"
   ],
   "last_removed": []
 }

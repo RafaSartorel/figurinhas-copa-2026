@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-09T22:53:19Z",
+  "last_updated": "2026-06-09T23:05:26Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -688,8 +688,8 @@
       "team_code": "GHA",
       "country": "Gana",
       "stickers_total": 20,
-      "owned_total": 12,
-      "missing_total": 8,
+      "owned_total": 13,
+      "missing_total": 7,
       "owned": [
         "GHA03",
         "GHA04",
@@ -699,6 +699,7 @@
         "GHA09",
         "GHA12",
         "GHA14",
+        "GHA16",
         "GHA17",
         "GHA18",
         "GHA19",
@@ -711,8 +712,7 @@
         "GHA10",
         "GHA11",
         "GHA13",
-        "GHA15",
-        "GHA16"
+        "GHA15"
       ]
     },
     {
@@ -843,9 +843,10 @@
       "team_code": "JPN",
       "country": "Japão",
       "stickers_total": 20,
-      "owned_total": 8,
-      "missing_total": 12,
+      "owned_total": 9,
+      "missing_total": 11,
       "owned": [
+        "JPN02",
         "JPN03",
         "JPN05",
         "JPN08",
@@ -857,7 +858,6 @@
       ],
       "missing": [
         "JPN01",
-        "JPN02",
         "JPN04",
         "JPN06",
         "JPN07",
@@ -874,14 +874,15 @@
       "team_code": "KOR",
       "country": "Coreia do Sul",
       "stickers_total": 20,
-      "owned_total": 13,
-      "missing_total": 7,
+      "owned_total": 14,
+      "missing_total": 6,
       "owned": [
         "KOR01",
         "KOR03",
         "KOR04",
         "KOR07",
         "KOR08",
+        "KOR09",
         "KOR10",
         "KOR11",
         "KOR12",
@@ -895,7 +896,6 @@
         "KOR02",
         "KOR05",
         "KOR06",
-        "KOR09",
         "KOR14",
         "KOR17",
         "KOR18"
@@ -1276,8 +1276,8 @@
       "team_code": "SEN",
       "country": "Senegal",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "SEN02",
         "SEN03",
@@ -1288,6 +1288,7 @@
         "SEN08",
         "SEN09",
         "SEN10",
+        "SEN11",
         "SEN12",
         "SEN13",
         "SEN15",
@@ -1299,7 +1300,6 @@
       ],
       "missing": [
         "SEN01",
-        "SEN11",
         "SEN14"
       ]
     },

@@ -131,7 +131,6 @@ GHA10,GHA,Gana,10,False
 GHA11,GHA,Gana,11,False
 GHA13,GHA,Gana,13,False
 GHA15,GHA,Gana,15,False
-GHA16,GHA,Gana,16,False
 HAI01,HAI,Haiti,1,False
 HAI04,HAI,Haiti,4,False
 HAI07,HAI,Haiti,7,False
@@ -154,7 +153,6 @@ IRQ16,IRQ,Iraque,16,False
 JOR02,JOR,Jordânia,2,False
 JOR03,JOR,Jordânia,3,False
 JPN01,JPN,Japão,1,False
-JPN02,JPN,Japão,2,False
 JPN04,JPN,Japão,4,False
 JPN06,JPN,Japão,6,False
 JPN07,JPN,Japão,7,False
@@ -168,7 +166,6 @@ JPN20,JPN,Japão,20,False
 KOR02,KOR,Coreia do Sul,2,False
 KOR05,KOR,Coreia do Sul,5,False
 KOR06,KOR,Coreia do Sul,6,False
-KOR09,KOR,Coreia do Sul,9,False
 KOR14,KOR,Coreia do Sul,14,False
 KOR17,KOR,Coreia do Sul,17,False
 KOR18,KOR,Coreia do Sul,18,False
@@ -226,7 +223,6 @@ RSA16,RSA,África do Sul,16,False
 SCO08,SCO,Escócia,8,False
 SCO12,SCO,Escócia,12,False
 SEN01,SEN,Senegal,1,False
-SEN11,SEN,Senegal,11,False
 SEN14,SEN,Senegal,14,False
 SUI04,SUI,Suíça,4,False
 SUI05,SUI,Suíça,5,False
