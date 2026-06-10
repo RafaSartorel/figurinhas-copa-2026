@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-10T23:20:03Z",
+  "last_updated": "2026-06-10T23:21:19Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 724,
-    "missing_total": 256,
-    "progress_percent": 73.88
+    "owned_total": 723,
+    "missing_total": 257,
+    "progress_percent": 73.78
   },
   "last_update_result": {
-    "operation": "add",
+    "operation": "remove",
     "requested": [
-      "CAN18"
+      "BIH01"
     ],
-    "added": [
-      "CAN18"
+    "added": [],
+    "removed": [
+      "BIH01"
     ],
-    "removed": [],
     "already_owned": [],
     "already_missing": [],
     "not_found": [],
