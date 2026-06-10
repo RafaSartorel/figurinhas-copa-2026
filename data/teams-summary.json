@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-10T22:23:37Z",
+  "last_updated": "2026-06-10T22:26:29Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -223,8 +223,8 @@
       "team_code": "CAN",
       "country": "Canadá",
       "stickers_total": 20,
-      "owned_total": 16,
-      "missing_total": 4,
+      "owned_total": 17,
+      "missing_total": 3,
       "owned": [
         "CAN01",
         "CAN02",
@@ -241,13 +241,13 @@
         "CAN14",
         "CAN16",
         "CAN17",
-        "CAN19"
+        "CAN19",
+        "CAN20"
       ],
       "missing": [
         "CAN09",
         "CAN15",
-        "CAN18",
-        "CAN20"
+        "CAN18"
       ]
     },
     {

@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-10T22:23:37Z",
+  "last_updated": "2026-06-10T22:26:29Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 722,
-    "missing_total": 258,
-    "progress_percent": 73.67
+    "owned_total": 723,
+    "missing_total": 257,
+    "progress_percent": 73.78
   },
   "last_update_result": {
-    "operation": "remove",
+    "operation": "add",
     "requested": [
       "CAN20"
     ],
-    "added": [],
-    "removed": [
+    "added": [
       "CAN20"
     ],
+    "removed": [],
     "already_owned": [],
     "already_missing": [],
     "not_found": [],
