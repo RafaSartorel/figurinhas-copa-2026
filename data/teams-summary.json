@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-10T23:22:01Z",
+  "last_updated": "2026-06-10T23:25:12Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -1307,12 +1307,13 @@
       "team_code": "SUI",
       "country": "Suíça",
       "stickers_total": 20,
-      "owned_total": 16,
-      "missing_total": 4,
+      "owned_total": 17,
+      "missing_total": 3,
       "owned": [
         "SUI01",
         "SUI02",
         "SUI03",
+        "SUI05",
         "SUI06",
         "SUI07",
         "SUI08",
@@ -1329,7 +1330,6 @@
       ],
       "missing": [
         "SUI04",
-        "SUI05",
         "SUI10",
         "SUI15"
       ]

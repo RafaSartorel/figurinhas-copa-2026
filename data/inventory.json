@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 724,
+  "owned_count": 725,
   "stickers": [
     {
       "team_code": "ALG",
@@ -5917,7 +5917,7 @@
       "country": "Suíça",
       "sticker_number": 5,
       "sticker_id": "SUI05",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "SUI",
@@ -6865,11 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-10T23:22:01Z",
-  "missing_count": 256,
+  "last_updated": "2026-06-10T23:25:12Z",
+  "missing_count": 255,
   "last_update_source": "chatgpt",
   "last_added": [
-    "BIH20"
+    "SUI05"
   ],
   "last_removed": []
 }

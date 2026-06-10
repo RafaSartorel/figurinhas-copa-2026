@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-10T23:22:01Z",
+  "last_updated": "2026-06-10T23:25:12Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -5071,7 +5071,7 @@
       "team_code": "SUI",
       "country": "Suíça",
       "sticker_number": 5,
-      "owned": false
+      "owned": true
     },
     "SUI06": {
       "team_code": "SUI",

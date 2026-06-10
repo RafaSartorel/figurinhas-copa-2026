@@ -1,21 +1,21 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-10T23:22:01Z",
+  "last_updated": "2026-06-10T23:25:12Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 724,
-    "missing_total": 256,
-    "progress_percent": 73.88
+    "owned_total": 725,
+    "missing_total": 255,
+    "progress_percent": 73.98
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "BIH20"
+      "SUI05"
     ],
     "added": [
-      "BIH20"
+      "SUI05"
     ],
     "removed": [],
     "already_owned": [],
