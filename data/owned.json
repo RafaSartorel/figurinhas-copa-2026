@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-10T22:18:43Z",
+  "last_updated": "2026-06-10T22:23:37Z",
   "stickers": [
     "ALG02",
     "ALG03",
@@ -133,7 +133,6 @@
     "CAN16",
     "CAN17",
     "CAN19",
-    "CAN20",
     "CIV02",
     "CIV03",
     "CIV05",
