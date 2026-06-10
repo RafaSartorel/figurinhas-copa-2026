@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-10T23:44:01Z",
+  "last_updated": "2026-06-10T23:45:59Z",
   "stickers": [
     "ALG02",
     "ALG03",
@@ -311,6 +311,7 @@
     "FWC17",
     "FWC18",
     "FWC19",
+    "GER01",
     "GER02",
     "GER04",
     "GER05",

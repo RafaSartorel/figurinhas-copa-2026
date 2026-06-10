@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-10T23:44:01Z",
+  "last_updated": "2026-06-10T23:45:59Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -2527,7 +2527,7 @@
       "team_code": "GER",
       "country": "Alemanha",
       "sticker_number": 1,
-      "owned": false
+      "owned": true
     },
     "GER02": {
       "team_code": "GER",

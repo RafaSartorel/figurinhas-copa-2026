@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-10T23:44:01Z",
+  "last_updated": "2026-06-10T23:45:59Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -657,9 +657,10 @@
       "team_code": "GER",
       "country": "Alemanha",
       "stickers_total": 20,
-      "owned_total": 14,
-      "missing_total": 6,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
+        "GER01",
         "GER02",
         "GER04",
         "GER05",
@@ -676,7 +677,6 @@
         "GER20"
       ],
       "missing": [
-        "GER01",
         "GER03",
         "GER09",
         "GER13",
