@@ -1,23 +1,21 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-10T23:40:30Z",
+  "last_updated": "2026-06-10T23:44:01Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 731,
-    "missing_total": 249,
-    "progress_percent": 74.59
+    "owned_total": 732,
+    "missing_total": 248,
+    "progress_percent": 74.69
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "PAR04",
-      "PAR08"
+      "BIH01"
     ],
     "added": [
-      "PAR04",
-      "PAR08"
+      "BIH01"
     ],
     "removed": [],
     "already_owned": [],

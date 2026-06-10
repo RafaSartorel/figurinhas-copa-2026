@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 731,
+  "owned_count": 732,
   "stickers": [
     {
       "team_code": "ALG",
@@ -709,7 +709,7 @@
       "country": "Bósnia",
       "sticker_number": 1,
       "sticker_id": "BIH01",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "BIH",
@@ -6865,12 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-10T23:40:30Z",
-  "missing_count": 249,
+  "last_updated": "2026-06-10T23:44:01Z",
+  "missing_count": 248,
   "last_update_source": "chatgpt",
   "last_added": [
-    "PAR04",
-    "PAR08"
+    "BIH01"
   ],
   "last_removed": []
 }
