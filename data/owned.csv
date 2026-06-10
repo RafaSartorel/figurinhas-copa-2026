@@ -665,6 +665,7 @@ TUN16,TUN,Tunísia,16,True
 TUN17,TUN,Tunísia,17,True
 TUN18,TUN,Tunísia,18,True
 TUN19,TUN,Tunísia,19,True
+TUR01,TUR,Turquia,1,True
 TUR03,TUR,Turquia,3,True
 TUR04,TUR,Turquia,4,True
 TUR06,TUR,Turquia,6,True
@@ -702,6 +703,7 @@ USA06,USA,Estados Unidos,6,True
 USA10,USA,Estados Unidos,10,True
 USA12,USA,Estados Unidos,12,True
 USA13,USA,Estados Unidos,13,True
+USA15,USA,Estados Unidos,15,True
 USA16,USA,Estados Unidos,16,True
 USA17,USA,Estados Unidos,17,True
 USA18,USA,Estados Unidos,18,True
