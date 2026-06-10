@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-10T23:21:19Z",
+  "last_updated": "2026-06-10T23:22:01Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -161,8 +161,8 @@
       "team_code": "BIH",
       "country": "Bósnia",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
         "BIH02",
         "BIH03",
@@ -178,14 +178,14 @@
         "BIH16",
         "BIH17",
         "BIH18",
-        "BIH19"
+        "BIH19",
+        "BIH20"
       ],
       "missing": [
         "BIH01",
         "BIH04",
         "BIH06",
-        "BIH13",
-        "BIH20"
+        "BIH13"
       ]
     },
     {

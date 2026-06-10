@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-10T23:21:19Z",
+  "last_updated": "2026-06-10T23:22:01Z",
   "stickers": [
     "ALG02",
     "ALG03",
@@ -99,6 +99,7 @@
     "BIH17",
     "BIH18",
     "BIH19",
+    "BIH20",
     "BRA02",
     "BRA03",
     "BRA05",
