@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-10T22:17:21Z",
+  "last_updated": "2026-06-10T22:18:43Z",
   "stickers": [
     "ALG02",
     "ALG03",
@@ -118,6 +118,7 @@
     "BRA19",
     "BRA20",
     "CAN01",
+    "CAN02",
     "CAN03",
     "CAN04",
     "CAN05",
