@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 726,
+  "owned_count": 727,
   "stickers": [
     {
       "team_code": "ALG",
@@ -6589,7 +6589,7 @@
       "country": "Estados Unidos",
       "sticker_number": 1,
       "sticker_id": "USA01",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "USA",
@@ -6865,11 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-10T23:29:36Z",
-  "missing_count": 254,
+  "last_updated": "2026-06-10T23:31:08Z",
+  "missing_count": 253,
   "last_update_source": "chatgpt",
   "last_added": [
-    "SCO08"
+    "USA01"
   ],
   "last_removed": []
 }

@@ -1,21 +1,21 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-10T23:29:36Z",
+  "last_updated": "2026-06-10T23:31:08Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 726,
-    "missing_total": 254,
-    "progress_percent": 74.08
+    "owned_total": 727,
+    "missing_total": 253,
+    "progress_percent": 74.18
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "SCO08"
+      "USA01"
     ],
     "added": [
-      "SCO08"
+      "USA01"
     ],
     "removed": [],
     "already_owned": [],

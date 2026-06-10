@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-10T23:29:36Z",
+  "last_updated": "2026-06-10T23:31:08Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -1462,9 +1462,10 @@
       "team_code": "USA",
       "country": "Estados Unidos",
       "stickers_total": 20,
-      "owned_total": 9,
-      "missing_total": 11,
+      "owned_total": 10,
+      "missing_total": 10,
       "owned": [
+        "USA01",
         "USA03",
         "USA06",
         "USA10",
@@ -1476,7 +1477,6 @@
         "USA18"
       ],
       "missing": [
-        "USA01",
         "USA02",
         "USA04",
         "USA05",
