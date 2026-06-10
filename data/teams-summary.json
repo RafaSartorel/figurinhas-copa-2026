@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-10T00:12:27Z",
+  "last_updated": "2026-06-10T22:17:21Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -1431,8 +1431,8 @@
       "team_code": "URU",
       "country": "Uruguai",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "URU01",
         "URU02",
@@ -1446,6 +1446,7 @@
         "URU11",
         "URU12",
         "URU13",
+        "URU14",
         "URU15",
         "URU16",
         "URU18",
@@ -1454,7 +1455,6 @@
       ],
       "missing": [
         "URU05",
-        "URU14",
         "URU17"
       ]
     },
