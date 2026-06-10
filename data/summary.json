@@ -1,21 +1,21 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-10T23:25:12Z",
+  "last_updated": "2026-06-10T23:29:36Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 725,
-    "missing_total": 255,
-    "progress_percent": 73.98
+    "owned_total": 726,
+    "missing_total": 254,
+    "progress_percent": 74.08
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "SUI05"
+      "SCO08"
     ],
     "added": [
-      "SUI05"
+      "SCO08"
     ],
     "removed": [],
     "already_owned": [],

@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 725,
+  "owned_count": 726,
   "stickers": [
     {
       "team_code": "ALG",
@@ -5658,7 +5658,7 @@
       "country": "Escócia",
       "sticker_number": 8,
       "sticker_id": "SCO08",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "SCO",
@@ -6865,11 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-10T23:25:12Z",
-  "missing_count": 255,
+  "last_updated": "2026-06-10T23:29:36Z",
+  "missing_count": 254,
   "last_update_source": "chatgpt",
   "last_added": [
-    "SUI05"
+    "SCO08"
   ],
   "last_removed": []
 }

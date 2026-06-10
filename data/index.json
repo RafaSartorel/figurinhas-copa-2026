@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-10T23:25:12Z",
+  "last_updated": "2026-06-10T23:29:36Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -4849,7 +4849,7 @@
       "team_code": "SCO",
       "country": "Escócia",
       "sticker_number": 8,
-      "owned": false
+      "owned": true
     },
     "SCO09": {
       "team_code": "SCO",
