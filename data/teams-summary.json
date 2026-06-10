@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-10T23:39:11Z",
+  "last_updated": "2026-06-10T23:40:30Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -1122,14 +1122,16 @@
       "team_code": "PAR",
       "country": "Paraguai",
       "stickers_total": 20,
-      "owned_total": 12,
-      "missing_total": 8,
+      "owned_total": 14,
+      "missing_total": 6,
       "owned": [
         "PAR02",
         "PAR03",
+        "PAR04",
         "PAR05",
         "PAR06",
         "PAR07",
+        "PAR08",
         "PAR10",
         "PAR11",
         "PAR13",
@@ -1140,8 +1142,6 @@
       ],
       "missing": [
         "PAR01",
-        "PAR04",
-        "PAR08",
         "PAR09",
         "PAR12",
         "PAR14",

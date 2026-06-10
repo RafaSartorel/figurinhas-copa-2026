@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-10T23:39:11Z",
+  "last_updated": "2026-06-10T23:40:30Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -4345,7 +4345,7 @@
       "team_code": "PAR",
       "country": "Paraguai",
       "sticker_number": 4,
-      "owned": false
+      "owned": true
     },
     "PAR05": {
       "team_code": "PAR",
@@ -4369,7 +4369,7 @@
       "team_code": "PAR",
       "country": "Paraguai",
       "sticker_number": 8,
-      "owned": false
+      "owned": true
     },
     "PAR09": {
       "team_code": "PAR",
