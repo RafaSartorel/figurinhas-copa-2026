@@ -1,21 +1,21 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-11T00:55:57Z",
+  "last_updated": "2026-06-11T01:00:03Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 736,
-    "missing_total": 244,
-    "progress_percent": 75.1
+    "owned_total": 737,
+    "missing_total": 243,
+    "progress_percent": 75.2
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "NZL08"
+      "CPV10"
     ],
     "added": [
-      "NZL08"
+      "CPV10"
     ],
     "removed": [],
     "already_owned": [],

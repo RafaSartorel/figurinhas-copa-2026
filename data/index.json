@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-11T00:55:57Z",
+  "last_updated": "2026-06-11T01:00:03Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -1381,7 +1381,7 @@
       "team_code": "CPV",
       "country": "Cabo Verde",
       "sticker_number": 10,
-      "owned": false
+      "owned": true
     },
     "CPV11": {
       "team_code": "CPV",
