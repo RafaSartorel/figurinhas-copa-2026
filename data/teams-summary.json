@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-11T22:55:34Z",
+  "last_updated": "2026-06-11T22:58:36Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -1462,8 +1462,8 @@
       "team_code": "USA",
       "country": "Estados Unidos",
       "stickers_total": 20,
-      "owned_total": 10,
-      "missing_total": 10,
+      "owned_total": 11,
+      "missing_total": 9,
       "owned": [
         "USA01",
         "USA03",
@@ -1474,7 +1474,8 @@
         "USA15",
         "USA16",
         "USA17",
-        "USA18"
+        "USA18",
+        "USA20"
       ],
       "missing": [
         "USA02",
@@ -1485,16 +1486,15 @@
         "USA09",
         "USA11",
         "USA14",
-        "USA19",
-        "USA20"
+        "USA19"
       ]
     },
     {
       "team_code": "UZB",
       "country": "Uzbequistão",
       "stickers_total": 20,
-      "owned_total": 13,
-      "missing_total": 7,
+      "owned_total": 14,
+      "missing_total": 6,
       "owned": [
         "UZB02",
         "UZB03",
@@ -1504,6 +1504,7 @@
         "UZB08",
         "UZB10",
         "UZB12",
+        "UZB14",
         "UZB15",
         "UZB17",
         "UZB18",
@@ -1516,7 +1517,6 @@
         "UZB09",
         "UZB11",
         "UZB13",
-        "UZB14",
         "UZB16"
       ]
     }

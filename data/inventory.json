@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 751,
+  "owned_count": 753,
   "stickers": [
     {
       "team_code": "ALG",
@@ -6722,7 +6722,7 @@
       "country": "Estados Unidos",
       "sticker_number": 20,
       "sticker_id": "USA20",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "UZB",
@@ -6820,7 +6820,7 @@
       "country": "Uzbequistão",
       "sticker_number": 14,
       "sticker_id": "UZB14",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "UZB",
@@ -6865,13 +6865,12 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-11T22:55:34Z",
-  "missing_count": 229,
+  "last_updated": "2026-06-11T22:58:36Z",
+  "missing_count": 227,
   "last_update_source": "foto",
   "last_added": [
-    "CIV18",
-    "CUW13",
-    "IRQ12"
+    "USA20",
+    "UZB14"
   ],
   "last_removed": []
 }

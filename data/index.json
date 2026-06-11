@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-11T22:55:34Z",
+  "last_updated": "2026-06-11T22:58:36Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -5761,7 +5761,7 @@
       "team_code": "USA",
       "country": "Estados Unidos",
       "sticker_number": 20,
-      "owned": false
+      "owned": true
     },
     "UZB01": {
       "team_code": "UZB",
@@ -5845,7 +5845,7 @@
       "team_code": "UZB",
       "country": "Uzbequistão",
       "sticker_number": 14,
-      "owned": false
+      "owned": true
     },
     "UZB15": {
       "team_code": "UZB",

@@ -1,30 +1,28 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-11T22:55:34Z",
+  "last_updated": "2026-06-11T22:58:36Z",
   "last_update_source": "foto",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 751,
-    "missing_total": 229,
-    "progress_percent": 76.63
+    "owned_total": 753,
+    "missing_total": 227,
+    "progress_percent": 76.84
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "CIV18",
-      "CUW13",
-      "IRQ08",
-      "IRQ12"
+      "QAT19",
+      "USA20",
+      "UZB14"
     ],
     "added": [
-      "CIV18",
-      "CUW13",
-      "IRQ12"
+      "USA20",
+      "UZB14"
     ],
     "removed": [],
     "already_owned": [
-      "IRQ08"
+      "QAT19"
     ],
     "already_missing": [],
     "not_found": [],
