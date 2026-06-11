@@ -144,6 +144,7 @@ CIV13,CIV,Costa do Marfim,13,True
 CIV14,CIV,Costa do Marfim,14,True
 CIV15,CIV,Costa do Marfim,15,True
 CIV17,CIV,Costa do Marfim,17,True
+CIV18,CIV,Costa do Marfim,18,True
 CIV19,CIV,Costa do Marfim,19,True
 COD01,COD,Congo,1,True
 COD02,COD,Congo,2,True
@@ -208,6 +209,7 @@ CUW08,CUW,Curaçao,8,True
 CUW09,CUW,Curaçao,9,True
 CUW11,CUW,Curaçao,11,True
 CUW12,CUW,Curaçao,12,True
+CUW13,CUW,Curaçao,13,True
 CUW14,CUW,Curaçao,14,True
 CUW15,CUW,Curaçao,15,True
 CUW16,CUW,Curaçao,16,True
@@ -376,6 +378,7 @@ IRQ08,IRQ,Iraque,8,True
 IRQ09,IRQ,Iraque,9,True
 IRQ10,IRQ,Iraque,10,True
 IRQ11,IRQ,Iraque,11,True
+IRQ12,IRQ,Iraque,12,True
 IRQ13,IRQ,Iraque,13,True
 IRQ14,IRQ,Iraque,14,True
 IRQ15,IRQ,Iraque,15,True

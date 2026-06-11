@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-11T22:53:30Z",
+  "last_updated": "2026-06-11T22:55:34Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -254,8 +254,8 @@
       "team_code": "CIV",
       "country": "Costa do Marfim",
       "stickers_total": 20,
-      "owned_total": 11,
-      "missing_total": 9,
+      "owned_total": 12,
+      "missing_total": 8,
       "owned": [
         "CIV02",
         "CIV03",
@@ -267,6 +267,7 @@
         "CIV14",
         "CIV15",
         "CIV17",
+        "CIV18",
         "CIV19"
       ],
       "missing": [
@@ -277,7 +278,6 @@
         "CIV10",
         "CIV11",
         "CIV16",
-        "CIV18",
         "CIV20"
       ]
     },
@@ -409,8 +409,8 @@
       "team_code": "CUW",
       "country": "Curaçao",
       "stickers_total": 20,
-      "owned_total": 14,
-      "missing_total": 6,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
         "CUW03",
         "CUW04",
@@ -420,6 +420,7 @@
         "CUW09",
         "CUW11",
         "CUW12",
+        "CUW13",
         "CUW14",
         "CUW15",
         "CUW16",
@@ -432,7 +433,6 @@
         "CUW02",
         "CUW05",
         "CUW10",
-        "CUW13",
         "CUW20"
       ]
     },
@@ -781,8 +781,8 @@
       "team_code": "IRQ",
       "country": "Iraque",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
         "IRQ01",
         "IRQ04",
@@ -792,6 +792,7 @@
         "IRQ09",
         "IRQ10",
         "IRQ11",
+        "IRQ12",
         "IRQ13",
         "IRQ14",
         "IRQ15",
@@ -804,7 +805,6 @@
         "IRQ02",
         "IRQ03",
         "IRQ07",
-        "IRQ12",
         "IRQ16"
       ]
     },

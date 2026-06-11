@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-11T22:53:30Z",
+  "last_updated": "2026-06-11T22:55:34Z",
   "stickers": [
     "ALG02",
     "ALG03",
@@ -148,6 +148,7 @@
     "CIV14",
     "CIV15",
     "CIV17",
+    "CIV18",
     "CIV19",
     "COD01",
     "COD02",
@@ -212,6 +213,7 @@
     "CUW09",
     "CUW11",
     "CUW12",
+    "CUW13",
     "CUW14",
     "CUW15",
     "CUW16",
@@ -380,6 +382,7 @@
     "IRQ09",
     "IRQ10",
     "IRQ11",
+    "IRQ12",
     "IRQ13",
     "IRQ14",
     "IRQ15",

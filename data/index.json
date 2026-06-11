@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-11T22:53:30Z",
+  "last_updated": "2026-06-11T22:55:34Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -1069,7 +1069,7 @@
       "team_code": "CIV",
       "country": "Costa do Marfim",
       "sticker_number": 18,
-      "owned": false
+      "owned": true
     },
     "CIV19": {
       "team_code": "CIV",
@@ -1639,7 +1639,7 @@
       "team_code": "CUW",
       "country": "Curaçao",
       "sticker_number": 13,
-      "owned": false
+      "owned": true
     },
     "CUW14": {
       "team_code": "CUW",
@@ -3073,7 +3073,7 @@
       "team_code": "IRQ",
       "country": "Iraque",
       "sticker_number": 12,
-      "owned": false
+      "owned": true
     },
     "IRQ13": {
       "team_code": "IRQ",

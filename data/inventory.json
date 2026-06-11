@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 748,
+  "owned_count": 751,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1248,7 +1248,7 @@
       "country": "Costa do Marfim",
       "sticker_number": 18,
       "sticker_id": "CIV18",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CIV",
@@ -1913,7 +1913,7 @@
       "country": "Curaçao",
       "sticker_number": 13,
       "sticker_id": "CUW13",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CUW",
@@ -3586,7 +3586,7 @@
       "country": "Iraque",
       "sticker_number": 12,
       "sticker_id": "IRQ12",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "IRQ",
@@ -6865,14 +6865,13 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-11T22:53:30Z",
-  "missing_count": 232,
+  "last_updated": "2026-06-11T22:55:34Z",
+  "missing_count": 229,
   "last_update_source": "foto",
   "last_added": [
-    "COL01",
-    "JPN07",
-    "JPN11",
-    "PAN07"
+    "CIV18",
+    "CUW13",
+    "IRQ12"
   ],
   "last_removed": []
 }
