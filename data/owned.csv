@@ -159,6 +159,7 @@ COD14,COD,Congo,14,True
 COD16,COD,Congo,16,True
 COD17,COD,Congo,17,True
 COD18,COD,Congo,18,True
+COL01,COL,Colômbia,1,True
 COL04,COL,Colômbia,4,True
 COL05,COL,Colômbia,5,True
 COL06,COL,Colômbia,6,True
@@ -404,8 +405,10 @@ JPN02,JPN,Japão,2,True
 JPN03,JPN,Japão,3,True
 JPN05,JPN,Japão,5,True
 JPN06,JPN,Japão,6,True
+JPN07,JPN,Japão,7,True
 JPN08,JPN,Japão,8,True
 JPN09,JPN,Japão,9,True
+JPN11,JPN,Japão,11,True
 JPN14,JPN,Japão,14,True
 JPN15,JPN,Japão,15,True
 JPN16,JPN,Japão,16,True
@@ -522,6 +525,7 @@ PAN03,PAN,Panamá,3,True
 PAN04,PAN,Panamá,4,True
 PAN05,PAN,Panamá,5,True
 PAN06,PAN,Panamá,6,True
+PAN07,PAN,Panamá,7,True
 PAN08,PAN,Panamá,8,True
 PAN09,PAN,Panamá,9,True
 PAN10,PAN,Panamá,10,True

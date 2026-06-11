@@ -1,29 +1,27 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-11T22:51:39Z",
+  "last_updated": "2026-06-11T22:53:30Z",
   "last_update_source": "foto",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 744,
-    "missing_total": 236,
-    "progress_percent": 75.92
+    "owned_total": 748,
+    "missing_total": 232,
+    "progress_percent": 76.33
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "CIV12",
-      "JPN06",
-      "KSA02",
-      "SWE08",
-      "URU17"
+      "COL01",
+      "JPN07",
+      "JPN11",
+      "PAN07"
     ],
     "added": [
-      "CIV12",
-      "JPN06",
-      "KSA02",
-      "SWE08",
-      "URU17"
+      "COL01",
+      "JPN07",
+      "JPN11",
+      "PAN07"
     ],
     "removed": [],
     "already_owned": [],

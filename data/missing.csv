@@ -39,7 +39,6 @@ COD13,COD,Congo,13,False
 COD15,COD,Congo,15,False
 COD19,COD,Congo,19,False
 COD20,COD,Congo,20,False
-COL01,COL,Colômbia,1,False
 COL02,COL,Colômbia,2,False
 COL03,COL,Colômbia,3,False
 COL11,COL,Colômbia,11,False
@@ -140,9 +139,7 @@ JOR02,JOR,Jordânia,2,False
 JOR03,JOR,Jordânia,3,False
 JPN01,JPN,Japão,1,False
 JPN04,JPN,Japão,4,False
-JPN07,JPN,Japão,7,False
 JPN10,JPN,Japão,10,False
-JPN11,JPN,Japão,11,False
 JPN12,JPN,Japão,12,False
 JPN13,JPN,Japão,13,False
 JPN17,JPN,Japão,17,False
@@ -182,7 +179,6 @@ NZL17,NZL,Nova Zelândia,17,False
 NZL18,NZL,Nova Zelândia,18,False
 NZL20,NZL,Nova Zelândia,20,False
 PAN01,PAN,Panamá,1,False
-PAN07,PAN,Panamá,7,False
 PAN11,PAN,Panamá,11,False
 PAN12,PAN,Panamá,12,False
 PAN17,PAN,Panamá,17,False

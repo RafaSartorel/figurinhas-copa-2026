@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-11T22:51:39Z",
+  "last_updated": "2026-06-11T22:53:30Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -316,9 +316,10 @@
       "team_code": "COL",
       "country": "Colômbia",
       "stickers_total": 20,
-      "owned_total": 14,
-      "missing_total": 6,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
+        "COL01",
         "COL04",
         "COL05",
         "COL06",
@@ -335,7 +336,6 @@
         "COL20"
       ],
       "missing": [
-        "COL01",
         "COL02",
         "COL03",
         "COL11",
@@ -843,15 +843,17 @@
       "team_code": "JPN",
       "country": "Japão",
       "stickers_total": 20,
-      "owned_total": 10,
-      "missing_total": 10,
+      "owned_total": 12,
+      "missing_total": 8,
       "owned": [
         "JPN02",
         "JPN03",
         "JPN05",
         "JPN06",
+        "JPN07",
         "JPN08",
         "JPN09",
+        "JPN11",
         "JPN14",
         "JPN15",
         "JPN16",
@@ -860,9 +862,7 @@
       "missing": [
         "JPN01",
         "JPN04",
-        "JPN07",
         "JPN10",
-        "JPN11",
         "JPN12",
         "JPN13",
         "JPN17",
@@ -1091,14 +1091,15 @@
       "team_code": "PAN",
       "country": "Panamá",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
         "PAN02",
         "PAN03",
         "PAN04",
         "PAN05",
         "PAN06",
+        "PAN07",
         "PAN08",
         "PAN09",
         "PAN10",
@@ -1112,7 +1113,6 @@
       ],
       "missing": [
         "PAN01",
-        "PAN07",
         "PAN11",
         "PAN12",
         "PAN17"

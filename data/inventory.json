@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 744,
+  "owned_count": 748,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1409,7 +1409,7 @@
       "country": "Colômbia",
       "sticker_number": 1,
       "sticker_id": "COL01",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "COL",
@@ -3831,7 +3831,7 @@
       "country": "Japão",
       "sticker_number": 7,
       "sticker_id": "JPN07",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "JPN",
@@ -3859,7 +3859,7 @@
       "country": "Japão",
       "sticker_number": 11,
       "sticker_id": "JPN11",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "JPN",
@@ -4951,7 +4951,7 @@
       "country": "Panamá",
       "sticker_number": 7,
       "sticker_id": "PAN07",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "PAN",
@@ -6865,15 +6865,14 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-11T22:51:39Z",
-  "missing_count": 236,
+  "last_updated": "2026-06-11T22:53:30Z",
+  "missing_count": 232,
   "last_update_source": "foto",
   "last_added": [
-    "CIV12",
-    "JPN06",
-    "KSA02",
-    "SWE08",
-    "URU17"
+    "COL01",
+    "JPN07",
+    "JPN11",
+    "PAN07"
   ],
   "last_removed": []
 }
