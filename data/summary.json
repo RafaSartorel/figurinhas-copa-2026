@@ -1,21 +1,21 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-11T01:01:49Z",
+  "last_updated": "2026-06-11T01:04:00Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 738,
-    "missing_total": 242,
-    "progress_percent": 75.31
+    "owned_total": 739,
+    "missing_total": 241,
+    "progress_percent": 75.41
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "IRQ09"
+      "ALG09"
     ],
     "added": [
-      "IRQ09"
+      "ALG09"
     ],
     "removed": [],
     "already_owned": [],

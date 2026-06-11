@@ -1,20 +1,21 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-11T01:01:49Z",
+  "last_updated": "2026-06-11T01:04:00Z",
   "teams": [
     {
       "team_code": "ALG",
       "country": "Argélia",
       "stickers_total": 20,
-      "owned_total": 14,
-      "missing_total": 6,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
         "ALG02",
         "ALG03",
         "ALG04",
         "ALG06",
         "ALG07",
+        "ALG09",
         "ALG10",
         "ALG11",
         "ALG13",
@@ -29,7 +30,6 @@
         "ALG01",
         "ALG05",
         "ALG08",
-        "ALG09",
         "ALG12",
         "ALG17"
       ]

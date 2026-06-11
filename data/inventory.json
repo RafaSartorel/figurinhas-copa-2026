@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 738,
+  "owned_count": 739,
   "stickers": [
     {
       "team_code": "ALG",
@@ -65,7 +65,7 @@
       "country": "Argélia",
       "sticker_number": 9,
       "sticker_id": "ALG09",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ALG",
@@ -6865,11 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-11T01:01:49Z",
-  "missing_count": 242,
+  "last_updated": "2026-06-11T01:04:00Z",
+  "missing_count": 241,
   "last_update_source": "chatgpt",
   "last_added": [
-    "IRQ09"
+    "ALG09"
   ],
   "last_removed": []
 }
