@@ -2,7 +2,6 @@ sticker_id,team_code,country,sticker_number,owned
 ALG01,ALG,Argélia,1,False
 ALG05,ALG,Argélia,5,False
 ALG08,ALG,Argélia,8,False
-ALG12,ALG,Argélia,12,False
 ALG17,ALG,Argélia,17,False
 ARG04,ARG,Argentina,4,False
 ARG07,ARG,Argentina,7,False
@@ -28,7 +27,6 @@ CIV01,CIV,Costa do Marfim,1,False
 CIV04,CIV,Costa do Marfim,4,False
 CIV07,CIV,Costa do Marfim,7,False
 CIV08,CIV,Costa do Marfim,8,False
-CIV10,CIV,Costa do Marfim,10,False
 CIV11,CIV,Costa do Marfim,11,False
 CIV16,CIV,Costa do Marfim,16,False
 CIV20,CIV,Costa do Marfim,20,False
@@ -198,7 +196,6 @@ SEN01,SEN,Senegal,1,False
 SEN14,SEN,Senegal,14,False
 SUI04,SUI,Suíça,4,False
 SUI10,SUI,Suíça,10,False
-SUI15,SUI,Suíça,15,False
 SWE13,SWE,Suécia,13,False
 SWE16,SWE,Suécia,16,False
 SWE18,SWE,Suécia,18,False

@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 753,
+  "owned_count": 756,
   "stickers": [
     {
       "team_code": "ALG",
@@ -86,7 +86,7 @@
       "country": "Argélia",
       "sticker_number": 12,
       "sticker_id": "ALG12",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ALG",
@@ -1192,7 +1192,7 @@
       "country": "Costa do Marfim",
       "sticker_number": 10,
       "sticker_id": "CIV10",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CIV",
@@ -5987,7 +5987,7 @@
       "country": "Suíça",
       "sticker_number": 15,
       "sticker_id": "SUI15",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "SUI",
@@ -6865,12 +6865,13 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-11T22:58:36Z",
-  "missing_count": 227,
-  "last_update_source": "foto",
+  "last_updated": "2026-06-11T23:48:13Z",
+  "missing_count": 224,
+  "last_update_source": "chat-image",
   "last_added": [
-    "USA20",
-    "UZB14"
+    "ALG12",
+    "CIV10",
+    "SUI15"
   ],
   "last_removed": []
 }

@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-11T22:58:36Z",
+  "last_updated": "2026-06-11T23:48:13Z",
   "teams": [
     {
       "team_code": "ALG",
       "country": "Argélia",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
         "ALG02",
         "ALG03",
@@ -18,6 +18,7 @@
         "ALG09",
         "ALG10",
         "ALG11",
+        "ALG12",
         "ALG13",
         "ALG14",
         "ALG15",
@@ -30,7 +31,6 @@
         "ALG01",
         "ALG05",
         "ALG08",
-        "ALG12",
         "ALG17"
       ]
     },
@@ -254,14 +254,15 @@
       "team_code": "CIV",
       "country": "Costa do Marfim",
       "stickers_total": 20,
-      "owned_total": 12,
-      "missing_total": 8,
+      "owned_total": 13,
+      "missing_total": 7,
       "owned": [
         "CIV02",
         "CIV03",
         "CIV05",
         "CIV06",
         "CIV09",
+        "CIV10",
         "CIV12",
         "CIV13",
         "CIV14",
@@ -275,7 +276,6 @@
         "CIV04",
         "CIV07",
         "CIV08",
-        "CIV10",
         "CIV11",
         "CIV16",
         "CIV20"
@@ -1307,8 +1307,8 @@
       "team_code": "SUI",
       "country": "Suíça",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "SUI01",
         "SUI02",
@@ -1322,6 +1322,7 @@
         "SUI12",
         "SUI13",
         "SUI14",
+        "SUI15",
         "SUI16",
         "SUI17",
         "SUI18",
@@ -1330,8 +1331,7 @@
       ],
       "missing": [
         "SUI04",
-        "SUI10",
-        "SUI15"
+        "SUI10"
       ]
     },
     {
