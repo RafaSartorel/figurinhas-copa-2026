@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-11T01:00:03Z",
+  "last_updated": "2026-06-11T01:01:49Z",
   "stickers": [
     "ALG01",
     "ALG05",
@@ -140,7 +140,6 @@
     "IRQ02",
     "IRQ03",
     "IRQ07",
-    "IRQ09",
     "IRQ12",
     "IRQ16",
     "JOR02",

@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 737,
+  "owned_count": 738,
   "stickers": [
     {
       "team_code": "ALG",
@@ -3565,7 +3565,7 @@
       "country": "Iraque",
       "sticker_number": 9,
       "sticker_id": "IRQ09",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "IRQ",
@@ -6865,11 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-11T01:00:03Z",
-  "missing_count": 243,
+  "last_updated": "2026-06-11T01:01:49Z",
+  "missing_count": 242,
   "last_update_source": "chatgpt",
   "last_added": [
-    "CPV10"
+    "IRQ09"
   ],
   "last_removed": []
 }

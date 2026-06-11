@@ -1,21 +1,21 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-11T01:00:03Z",
+  "last_updated": "2026-06-11T01:01:49Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 737,
-    "missing_total": 243,
-    "progress_percent": 75.2
+    "owned_total": 738,
+    "missing_total": 242,
+    "progress_percent": 75.31
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "CPV10"
+      "IRQ09"
     ],
     "added": [
-      "CPV10"
+      "IRQ09"
     ],
     "removed": [],
     "already_owned": [],
