@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 733,
+  "owned_count": 734,
   "stickers": [
     {
       "team_code": "ALG",
@@ -2200,7 +2200,7 @@
       "country": "Equador",
       "sticker_number": 14,
       "sticker_id": "ECU14",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ECU",
@@ -6865,11 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-10T23:45:59Z",
-  "missing_count": 247,
+  "last_updated": "2026-06-11T00:42:11Z",
+  "missing_count": 246,
   "last_update_source": "chatgpt",
   "last_added": [
-    "GER01"
+    "ECU14"
   ],
   "last_removed": []
 }

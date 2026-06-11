@@ -1,21 +1,21 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-10T23:45:59Z",
+  "last_updated": "2026-06-11T00:42:11Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 733,
-    "missing_total": 247,
-    "progress_percent": 74.8
+    "owned_total": 734,
+    "missing_total": 246,
+    "progress_percent": 74.9
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "GER01"
+      "ECU14"
     ],
     "added": [
-      "GER01"
+      "ECU14"
     ],
     "removed": [],
     "already_owned": [],

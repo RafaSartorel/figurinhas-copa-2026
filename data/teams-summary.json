@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-10T23:45:59Z",
+  "last_updated": "2026-06-11T00:42:11Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -471,8 +471,8 @@
       "team_code": "ECU",
       "country": "Equador",
       "stickers_total": 20,
-      "owned_total": 14,
-      "missing_total": 6,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
         "ECU01",
         "ECU02",
@@ -484,6 +484,7 @@
         "ECU09",
         "ECU12",
         "ECU13",
+        "ECU14",
         "ECU16",
         "ECU17",
         "ECU18",
@@ -493,7 +494,6 @@
         "ECU06",
         "ECU10",
         "ECU11",
-        "ECU14",
         "ECU15",
         "ECU19"
       ]
