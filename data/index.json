@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-11T00:42:11Z",
+  "last_updated": "2026-06-11T00:53:07Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -1975,7 +1975,7 @@
       "team_code": "EGY",
       "country": "Egito",
       "sticker_number": 9,
-      "owned": false
+      "owned": true
     },
     "EGY10": {
       "team_code": "EGY",

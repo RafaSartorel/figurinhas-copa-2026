@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-11T00:42:11Z",
+  "last_updated": "2026-06-11T00:53:07Z",
   "stickers": [
     "ALG02",
     "ALG03",
@@ -252,6 +252,7 @@
     "EGY05",
     "EGY06",
     "EGY07",
+    "EGY09",
     "EGY10",
     "EGY11",
     "EGY15",

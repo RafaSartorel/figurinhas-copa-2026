@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 734,
+  "owned_count": 735,
   "stickers": [
     {
       "team_code": "ALG",
@@ -2305,7 +2305,7 @@
       "country": "Egito",
       "sticker_number": 9,
       "sticker_id": "EGY09",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "EGY",
@@ -6865,11 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-11T00:42:11Z",
-  "missing_count": 246,
+  "last_updated": "2026-06-11T00:53:07Z",
+  "missing_count": 245,
   "last_update_source": "chatgpt",
   "last_added": [
-    "ECU14"
+    "EGY09"
   ],
   "last_removed": []
 }
