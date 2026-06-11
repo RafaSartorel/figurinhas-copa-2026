@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-11T01:04:00Z",
+  "last_updated": "2026-06-11T22:51:39Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -254,14 +254,15 @@
       "team_code": "CIV",
       "country": "Costa do Marfim",
       "stickers_total": 20,
-      "owned_total": 10,
-      "missing_total": 10,
+      "owned_total": 11,
+      "missing_total": 9,
       "owned": [
         "CIV02",
         "CIV03",
         "CIV05",
         "CIV06",
         "CIV09",
+        "CIV12",
         "CIV13",
         "CIV14",
         "CIV15",
@@ -275,7 +276,6 @@
         "CIV08",
         "CIV10",
         "CIV11",
-        "CIV12",
         "CIV16",
         "CIV18",
         "CIV20"
@@ -843,12 +843,13 @@
       "team_code": "JPN",
       "country": "Japão",
       "stickers_total": 20,
-      "owned_total": 9,
-      "missing_total": 11,
+      "owned_total": 10,
+      "missing_total": 10,
       "owned": [
         "JPN02",
         "JPN03",
         "JPN05",
+        "JPN06",
         "JPN08",
         "JPN09",
         "JPN14",
@@ -859,7 +860,6 @@
       "missing": [
         "JPN01",
         "JPN04",
-        "JPN06",
         "JPN07",
         "JPN10",
         "JPN11",
@@ -905,9 +905,10 @@
       "team_code": "KSA",
       "country": "Arábia Saudita",
       "stickers_total": 20,
-      "owned_total": 16,
-      "missing_total": 4,
+      "owned_total": 17,
+      "missing_total": 3,
       "owned": [
+        "KSA02",
         "KSA04",
         "KSA05",
         "KSA06",
@@ -927,7 +928,6 @@
       ],
       "missing": [
         "KSA01",
-        "KSA02",
         "KSA03",
         "KSA08"
       ]
@@ -1338,8 +1338,8 @@
       "team_code": "SWE",
       "country": "Suécia",
       "stickers_total": 20,
-      "owned_total": 16,
-      "missing_total": 4,
+      "owned_total": 17,
+      "missing_total": 3,
       "owned": [
         "SWE01",
         "SWE02",
@@ -1348,6 +1348,7 @@
         "SWE05",
         "SWE06",
         "SWE07",
+        "SWE08",
         "SWE09",
         "SWE10",
         "SWE11",
@@ -1359,7 +1360,6 @@
         "SWE20"
       ],
       "missing": [
-        "SWE08",
         "SWE13",
         "SWE16",
         "SWE18"
@@ -1431,8 +1431,8 @@
       "team_code": "URU",
       "country": "Uruguai",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "URU01",
         "URU02",
@@ -1449,13 +1449,13 @@
         "URU14",
         "URU15",
         "URU16",
+        "URU17",
         "URU18",
         "URU19",
         "URU20"
       ],
       "missing": [
-        "URU05",
-        "URU17"
+        "URU05"
       ]
     },
     {

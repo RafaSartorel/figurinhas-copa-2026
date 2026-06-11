@@ -30,7 +30,6 @@ CIV07,CIV,Costa do Marfim,7,False
 CIV08,CIV,Costa do Marfim,8,False
 CIV10,CIV,Costa do Marfim,10,False
 CIV11,CIV,Costa do Marfim,11,False
-CIV12,CIV,Costa do Marfim,12,False
 CIV16,CIV,Costa do Marfim,16,False
 CIV18,CIV,Costa do Marfim,18,False
 CIV20,CIV,Costa do Marfim,20,False
@@ -141,7 +140,6 @@ JOR02,JOR,Jordânia,2,False
 JOR03,JOR,Jordânia,3,False
 JPN01,JPN,Japão,1,False
 JPN04,JPN,Japão,4,False
-JPN06,JPN,Japão,6,False
 JPN07,JPN,Japão,7,False
 JPN10,JPN,Japão,10,False
 JPN11,JPN,Japão,11,False
@@ -157,7 +155,6 @@ KOR14,KOR,Coreia do Sul,14,False
 KOR17,KOR,Coreia do Sul,17,False
 KOR18,KOR,Coreia do Sul,18,False
 KSA01,KSA,Arábia Saudita,1,False
-KSA02,KSA,Arábia Saudita,2,False
 KSA03,KSA,Arábia Saudita,3,False
 KSA08,KSA,Arábia Saudita,8,False
 MAR05,MAR,Marrocos,5,False
@@ -209,7 +206,6 @@ SEN14,SEN,Senegal,14,False
 SUI04,SUI,Suíça,4,False
 SUI10,SUI,Suíça,10,False
 SUI15,SUI,Suíça,15,False
-SWE08,SWE,Suécia,8,False
 SWE13,SWE,Suécia,13,False
 SWE16,SWE,Suécia,16,False
 SWE18,SWE,Suécia,18,False
@@ -222,7 +218,6 @@ TUR05,TUR,Turquia,5,False
 TUR07,TUR,Turquia,7,False
 TUR19,TUR,Turquia,19,False
 URU05,URU,Uruguai,5,False
-URU17,URU,Uruguai,17,False
 USA02,USA,Estados Unidos,2,False
 USA04,USA,Estados Unidos,4,False
 USA05,USA,Estados Unidos,5,False

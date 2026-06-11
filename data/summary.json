@@ -1,21 +1,29 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-11T01:04:00Z",
-  "last_update_source": "chatgpt",
+  "last_updated": "2026-06-11T22:51:39Z",
+  "last_update_source": "foto",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 739,
-    "missing_total": 241,
-    "progress_percent": 75.41
+    "owned_total": 744,
+    "missing_total": 236,
+    "progress_percent": 75.92
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "ALG09"
+      "CIV12",
+      "JPN06",
+      "KSA02",
+      "SWE08",
+      "URU17"
     ],
     "added": [
-      "ALG09"
+      "CIV12",
+      "JPN06",
+      "KSA02",
+      "SWE08",
+      "URU17"
     ],
     "removed": [],
     "already_owned": [],

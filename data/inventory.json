@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 739,
+  "owned_count": 744,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1206,7 +1206,7 @@
       "country": "Costa do Marfim",
       "sticker_number": 12,
       "sticker_id": "CIV12",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CIV",
@@ -3824,7 +3824,7 @@
       "country": "Japão",
       "sticker_number": 6,
       "sticker_id": "JPN06",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "JPN",
@@ -4076,7 +4076,7 @@
       "country": "Arábia Saudita",
       "sticker_number": 2,
       "sticker_id": "KSA02",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "KSA",
@@ -6078,7 +6078,7 @@
       "country": "Suécia",
       "sticker_number": 8,
       "sticker_id": "SWE08",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "SWE",
@@ -6561,7 +6561,7 @@
       "country": "Uruguai",
       "sticker_number": 17,
       "sticker_id": "URU17",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "URU",
@@ -6865,11 +6865,15 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-11T01:04:00Z",
-  "missing_count": 241,
-  "last_update_source": "chatgpt",
+  "last_updated": "2026-06-11T22:51:39Z",
+  "missing_count": 236,
+  "last_update_source": "foto",
   "last_added": [
-    "ALG09"
+    "CIV12",
+    "JPN06",
+    "KSA02",
+    "SWE08",
+    "URU17"
   ],
   "last_removed": []
 }

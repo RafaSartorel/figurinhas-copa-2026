@@ -139,6 +139,7 @@ CIV03,CIV,Costa do Marfim,3,True
 CIV05,CIV,Costa do Marfim,5,True
 CIV06,CIV,Costa do Marfim,6,True
 CIV09,CIV,Costa do Marfim,9,True
+CIV12,CIV,Costa do Marfim,12,True
 CIV13,CIV,Costa do Marfim,13,True
 CIV14,CIV,Costa do Marfim,14,True
 CIV15,CIV,Costa do Marfim,15,True
@@ -402,6 +403,7 @@ JOR20,JOR,Jordânia,20,True
 JPN02,JPN,Japão,2,True
 JPN03,JPN,Japão,3,True
 JPN05,JPN,Japão,5,True
+JPN06,JPN,Japão,6,True
 JPN08,JPN,Japão,8,True
 JPN09,JPN,Japão,9,True
 JPN14,JPN,Japão,14,True
@@ -422,6 +424,7 @@ KOR15,KOR,Coreia do Sul,15,True
 KOR16,KOR,Coreia do Sul,16,True
 KOR19,KOR,Coreia do Sul,19,True
 KOR20,KOR,Coreia do Sul,20,True
+KSA02,KSA,Arábia Saudita,2,True
 KSA04,KSA,Arábia Saudita,4,True
 KSA05,KSA,Arábia Saudita,5,True
 KSA06,KSA,Arábia Saudita,6,True
@@ -656,6 +659,7 @@ SWE04,SWE,Suécia,4,True
 SWE05,SWE,Suécia,5,True
 SWE06,SWE,Suécia,6,True
 SWE07,SWE,Suécia,7,True
+SWE08,SWE,Suécia,8,True
 SWE09,SWE,Suécia,9,True
 SWE10,SWE,Suécia,10,True
 SWE11,SWE,Suécia,11,True
@@ -712,6 +716,7 @@ URU13,URU,Uruguai,13,True
 URU14,URU,Uruguai,14,True
 URU15,URU,Uruguai,15,True
 URU16,URU,Uruguai,16,True
+URU17,URU,Uruguai,17,True
 URU18,URU,Uruguai,18,True
 URU19,URU,Uruguai,19,True
 URU20,URU,Uruguai,20,True
