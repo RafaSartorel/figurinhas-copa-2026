@@ -1,21 +1,21 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-11T00:53:07Z",
+  "last_updated": "2026-06-11T00:55:57Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 735,
-    "missing_total": 245,
-    "progress_percent": 75.0
+    "owned_total": 736,
+    "missing_total": 244,
+    "progress_percent": 75.1
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "EGY09"
+      "NZL08"
     ],
     "added": [
-      "EGY09"
+      "NZL08"
     ],
     "removed": [],
     "already_owned": [],
