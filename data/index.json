@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-12T13:53:42Z",
+  "last_updated": "2026-06-12T14:01:23Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -949,7 +949,7 @@
       "team_code": "CAN",
       "country": "Canadá",
       "sticker_number": 18,
-      "owned": true
+      "owned": false
     },
     "CAN19": {
       "team_code": "CAN",

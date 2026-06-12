@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 770,
+  "owned_count": 769,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1108,7 +1108,7 @@
       "country": "Canadá",
       "sticker_number": 18,
       "sticker_id": "CAN18",
-      "owned": true
+      "owned": false
     },
     {
       "team_code": "CAN",
@@ -6865,11 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-12T13:53:42Z",
-  "missing_count": 210,
+  "last_updated": "2026-06-12T14:01:23Z",
+  "missing_count": 211,
   "last_update_source": "chatgpt",
   "last_added": [],
   "last_removed": [
-    "CIV10"
+    "CAN18"
   ]
 }
