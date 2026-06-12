@@ -1,46 +1,29 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-12T00:46:20Z",
+  "last_updated": "2026-06-12T00:47:39Z",
   "last_update_source": "foto",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 769,
-    "missing_total": 211,
-    "progress_percent": 78.47
+    "owned_total": 771,
+    "missing_total": 209,
+    "progress_percent": 78.67
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "BIH04",
-      "CAN09",
       "CZE11",
-      "ECU10",
-      "HAI04",
-      "HAI07",
-      "HAI17",
-      "JPN10",
-      "NED11",
-      "SUI10",
-      "TUR05",
-      "TUR07"
+      "ENG19",
+      "NED19"
     ],
     "added": [
-      "BIH04",
-      "CAN09",
-      "CZE11",
-      "ECU10",
-      "HAI04",
-      "HAI07",
-      "HAI17",
-      "JPN10",
-      "NED11",
-      "SUI10",
-      "TUR05",
-      "TUR07"
+      "ENG19",
+      "NED19"
     ],
     "removed": [],
-    "already_owned": [],
+    "already_owned": [
+      "CZE11"
+    ],
     "already_missing": [],
     "not_found": [],
     "invalid": []

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-12T00:46:20Z",
+  "last_updated": "2026-06-12T00:47:39Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -533,8 +533,8 @@
       "team_code": "ENG",
       "country": "Inglaterra",
       "stickers_total": 20,
-      "owned_total": 13,
-      "missing_total": 7,
+      "owned_total": 14,
+      "missing_total": 6,
       "owned": [
         "ENG03",
         "ENG04",
@@ -548,7 +548,8 @@
         "ENG15",
         "ENG16",
         "ENG17",
-        "ENG18"
+        "ENG18",
+        "ENG19"
       ],
       "missing": [
         "ENG01",
@@ -556,7 +557,6 @@
         "ENG06",
         "ENG12",
         "ENG13",
-        "ENG19",
         "ENG20"
       ]
     },
@@ -998,8 +998,8 @@
       "team_code": "NED",
       "country": "Holanda",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
         "NED01",
         "NED02",
@@ -1015,14 +1015,14 @@
         "NED14",
         "NED15",
         "NED18",
+        "NED19",
         "NED20"
       ],
       "missing": [
         "NED07",
         "NED13",
         "NED16",
-        "NED17",
-        "NED19"
+        "NED17"
       ]
     },
     {

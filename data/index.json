@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-12T00:46:20Z",
+  "last_updated": "2026-06-12T00:47:39Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -2155,7 +2155,7 @@
       "team_code": "ENG",
       "country": "Inglaterra",
       "sticker_number": 19,
-      "owned": false
+      "owned": true
     },
     "ENG20": {
       "team_code": "ENG",
@@ -3955,7 +3955,7 @@
       "team_code": "NED",
       "country": "Holanda",
       "sticker_number": 19,
-      "owned": false
+      "owned": true
     },
     "NED20": {
       "team_code": "NED",

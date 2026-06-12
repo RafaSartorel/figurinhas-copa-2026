@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 769,
+  "owned_count": 771,
   "stickers": [
     {
       "team_code": "ALG",
@@ -2515,7 +2515,7 @@
       "country": "Inglaterra",
       "sticker_number": 19,
       "sticker_id": "ENG19",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ENG",
@@ -4615,7 +4615,7 @@
       "country": "Holanda",
       "sticker_number": 19,
       "sticker_id": "NED19",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "NED",
@@ -6865,22 +6865,12 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-12T00:46:20Z",
-  "missing_count": 211,
+  "last_updated": "2026-06-12T00:47:39Z",
+  "missing_count": 209,
   "last_update_source": "foto",
   "last_added": [
-    "BIH04",
-    "CAN09",
-    "CZE11",
-    "ECU10",
-    "HAI04",
-    "HAI07",
-    "HAI17",
-    "JPN10",
-    "NED11",
-    "SUI10",
-    "TUR05",
-    "TUR07"
+    "ENG19",
+    "NED19"
   ],
   "last_removed": []
 }
