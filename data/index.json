@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-12T00:39:56Z",
+  "last_updated": "2026-06-12T00:46:20Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -625,7 +625,7 @@
       "team_code": "BIH",
       "country": "Bósnia",
       "sticker_number": 4,
-      "owned": false
+      "owned": true
     },
     "BIH05": {
       "team_code": "BIH",
@@ -895,7 +895,7 @@
       "team_code": "CAN",
       "country": "Canadá",
       "sticker_number": 9,
-      "owned": false
+      "owned": true
     },
     "CAN10": {
       "team_code": "CAN",
@@ -1747,7 +1747,7 @@
       "team_code": "CZE",
       "country": "Rep. Tcheca",
       "sticker_number": 11,
-      "owned": false
+      "owned": true
     },
     "CZE12": {
       "team_code": "CZE",
@@ -1861,7 +1861,7 @@
       "team_code": "ECU",
       "country": "Equador",
       "sticker_number": 10,
-      "owned": false
+      "owned": true
     },
     "ECU11": {
       "team_code": "ECU",
@@ -2785,7 +2785,7 @@
       "team_code": "HAI",
       "country": "Haiti",
       "sticker_number": 4,
-      "owned": false
+      "owned": true
     },
     "HAI05": {
       "team_code": "HAI",
@@ -2803,7 +2803,7 @@
       "team_code": "HAI",
       "country": "Haiti",
       "sticker_number": 7,
-      "owned": false
+      "owned": true
     },
     "HAI08": {
       "team_code": "HAI",
@@ -2863,7 +2863,7 @@
       "team_code": "HAI",
       "country": "Haiti",
       "sticker_number": 17,
-      "owned": false
+      "owned": true
     },
     "HAI18": {
       "team_code": "HAI",
@@ -3301,7 +3301,7 @@
       "team_code": "JPN",
       "country": "Japão",
       "sticker_number": 10,
-      "owned": false
+      "owned": true
     },
     "JPN11": {
       "team_code": "JPN",
@@ -3907,7 +3907,7 @@
       "team_code": "NED",
       "country": "Holanda",
       "sticker_number": 11,
-      "owned": false
+      "owned": true
     },
     "NED12": {
       "team_code": "NED",
@@ -5101,7 +5101,7 @@
       "team_code": "SUI",
       "country": "Suíça",
       "sticker_number": 10,
-      "owned": false
+      "owned": true
     },
     "SUI11": {
       "team_code": "SUI",
@@ -5431,7 +5431,7 @@
       "team_code": "TUR",
       "country": "Turquia",
       "sticker_number": 5,
-      "owned": false
+      "owned": true
     },
     "TUR06": {
       "team_code": "TUR",
@@ -5443,7 +5443,7 @@
       "team_code": "TUR",
       "country": "Turquia",
       "sticker_number": 7,
-      "owned": false
+      "owned": true
     },
     "TUR08": {
       "team_code": "TUR",

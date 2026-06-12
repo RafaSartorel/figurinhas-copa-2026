@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 757,
+  "owned_count": 769,
   "stickers": [
     {
       "team_code": "ALG",
@@ -730,7 +730,7 @@
       "country": "Bósnia",
       "sticker_number": 4,
       "sticker_id": "BIH04",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "BIH",
@@ -1045,7 +1045,7 @@
       "country": "Canadá",
       "sticker_number": 9,
       "sticker_id": "CAN09",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CAN",
@@ -2039,7 +2039,7 @@
       "country": "Rep. Tcheca",
       "sticker_number": 11,
       "sticker_id": "CZE11",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CZE",
@@ -2172,7 +2172,7 @@
       "country": "Equador",
       "sticker_number": 10,
       "sticker_id": "ECU10",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ECU",
@@ -3250,7 +3250,7 @@
       "country": "Haiti",
       "sticker_number": 4,
       "sticker_id": "HAI04",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "HAI",
@@ -3271,7 +3271,7 @@
       "country": "Haiti",
       "sticker_number": 7,
       "sticker_id": "HAI07",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "HAI",
@@ -3341,7 +3341,7 @@
       "country": "Haiti",
       "sticker_number": 17,
       "sticker_id": "HAI17",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "HAI",
@@ -3852,7 +3852,7 @@
       "country": "Japão",
       "sticker_number": 10,
       "sticker_id": "JPN10",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "JPN",
@@ -4559,7 +4559,7 @@
       "country": "Holanda",
       "sticker_number": 11,
       "sticker_id": "NED11",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "NED",
@@ -5952,7 +5952,7 @@
       "country": "Suíça",
       "sticker_number": 10,
       "sticker_id": "SUI10",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "SUI",
@@ -6337,7 +6337,7 @@
       "country": "Turquia",
       "sticker_number": 5,
       "sticker_id": "TUR05",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "TUR",
@@ -6351,7 +6351,7 @@
       "country": "Turquia",
       "sticker_number": 7,
       "sticker_id": "TUR07",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "TUR",
@@ -6865,11 +6865,22 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-12T00:39:56Z",
-  "missing_count": 223,
-  "last_update_source": "chatgpt",
+  "last_updated": "2026-06-12T00:46:20Z",
+  "missing_count": 211,
+  "last_update_source": "foto",
   "last_added": [
-    "FWC11"
+    "BIH04",
+    "CAN09",
+    "CZE11",
+    "ECU10",
+    "HAI04",
+    "HAI07",
+    "HAI17",
+    "JPN10",
+    "NED11",
+    "SUI10",
+    "TUR05",
+    "TUR07"
   ],
   "last_removed": []
 }

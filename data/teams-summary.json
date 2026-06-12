@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-12T00:39:56Z",
+  "last_updated": "2026-06-12T00:46:20Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -161,12 +161,13 @@
       "team_code": "BIH",
       "country": "Bósnia",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "BIH01",
         "BIH02",
         "BIH03",
+        "BIH04",
         "BIH05",
         "BIH07",
         "BIH08",
@@ -183,7 +184,6 @@
         "BIH20"
       ],
       "missing": [
-        "BIH04",
         "BIH06",
         "BIH13"
       ]
@@ -223,8 +223,8 @@
       "team_code": "CAN",
       "country": "Canadá",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "CAN01",
         "CAN02",
@@ -234,6 +234,7 @@
         "CAN06",
         "CAN07",
         "CAN08",
+        "CAN09",
         "CAN10",
         "CAN11",
         "CAN12",
@@ -246,7 +247,6 @@
         "CAN20"
       ],
       "missing": [
-        "CAN09",
         "CAN15"
       ]
     },
@@ -440,8 +440,8 @@
       "team_code": "CZE",
       "country": "Rep. Tcheca",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "CZE01",
         "CZE02",
@@ -453,6 +453,7 @@
         "CZE08",
         "CZE09",
         "CZE10",
+        "CZE11",
         "CZE13",
         "CZE14",
         "CZE16",
@@ -462,7 +463,6 @@
         "CZE20"
       ],
       "missing": [
-        "CZE11",
         "CZE12",
         "CZE15"
       ]
@@ -471,8 +471,8 @@
       "team_code": "ECU",
       "country": "Equador",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
         "ECU01",
         "ECU02",
@@ -482,6 +482,7 @@
         "ECU07",
         "ECU08",
         "ECU09",
+        "ECU10",
         "ECU12",
         "ECU13",
         "ECU14",
@@ -492,7 +493,6 @@
       ],
       "missing": [
         "ECU06",
-        "ECU10",
         "ECU11",
         "ECU15",
         "ECU19"
@@ -719,30 +719,30 @@
       "team_code": "HAI",
       "country": "Haiti",
       "stickers_total": 20,
-      "owned_total": 12,
-      "missing_total": 8,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
         "HAI02",
         "HAI03",
+        "HAI04",
         "HAI05",
         "HAI06",
+        "HAI07",
         "HAI09",
         "HAI10",
         "HAI11",
         "HAI12",
         "HAI14",
         "HAI15",
+        "HAI17",
         "HAI19",
         "HAI20"
       ],
       "missing": [
         "HAI01",
-        "HAI04",
-        "HAI07",
         "HAI08",
         "HAI13",
         "HAI16",
-        "HAI17",
         "HAI18"
       ]
     },
@@ -843,8 +843,8 @@
       "team_code": "JPN",
       "country": "Japão",
       "stickers_total": 20,
-      "owned_total": 12,
-      "missing_total": 8,
+      "owned_total": 13,
+      "missing_total": 7,
       "owned": [
         "JPN02",
         "JPN03",
@@ -853,6 +853,7 @@
         "JPN07",
         "JPN08",
         "JPN09",
+        "JPN10",
         "JPN11",
         "JPN14",
         "JPN15",
@@ -862,7 +863,6 @@
       "missing": [
         "JPN01",
         "JPN04",
-        "JPN10",
         "JPN12",
         "JPN13",
         "JPN17",
@@ -998,8 +998,8 @@
       "team_code": "NED",
       "country": "Holanda",
       "stickers_total": 20,
-      "owned_total": 14,
-      "missing_total": 6,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
         "NED01",
         "NED02",
@@ -1010,6 +1010,7 @@
         "NED08",
         "NED09",
         "NED10",
+        "NED11",
         "NED12",
         "NED14",
         "NED15",
@@ -1018,7 +1019,6 @@
       ],
       "missing": [
         "NED07",
-        "NED11",
         "NED13",
         "NED16",
         "NED17",
@@ -1307,8 +1307,8 @@
       "team_code": "SUI",
       "country": "Suíça",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "SUI01",
         "SUI02",
@@ -1318,6 +1318,7 @@
         "SUI07",
         "SUI08",
         "SUI09",
+        "SUI10",
         "SUI11",
         "SUI12",
         "SUI13",
@@ -1330,8 +1331,7 @@
         "SUI20"
       ],
       "missing": [
-        "SUI04",
-        "SUI10"
+        "SUI04"
       ]
     },
     {
@@ -1400,13 +1400,15 @@
       "team_code": "TUR",
       "country": "Turquia",
       "stickers_total": 20,
-      "owned_total": 16,
-      "missing_total": 4,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "TUR01",
         "TUR03",
         "TUR04",
+        "TUR05",
         "TUR06",
+        "TUR07",
         "TUR08",
         "TUR09",
         "TUR10",
@@ -1422,8 +1424,6 @@
       ],
       "missing": [
         "TUR02",
-        "TUR05",
-        "TUR07",
         "TUR19"
       ]
     },

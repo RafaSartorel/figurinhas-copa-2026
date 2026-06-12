@@ -15,13 +15,11 @@ BEL01,BEL,Bélgica,1,False
 BEL04,BEL,Bélgica,4,False
 BEL19,BEL,Bélgica,19,False
 BEL20,BEL,Bélgica,20,False
-BIH04,BIH,Bósnia,4,False
 BIH06,BIH,Bósnia,6,False
 BIH13,BIH,Bósnia,13,False
 BRA01,BRA,Brasil,1,False
 BRA04,BRA,Brasil,4,False
 BRA08,BRA,Brasil,8,False
-CAN09,CAN,Canadá,9,False
 CAN15,CAN,Canadá,15,False
 CIV01,CIV,Costa do Marfim,1,False
 CIV04,CIV,Costa do Marfim,4,False
@@ -60,11 +58,9 @@ CUW02,CUW,Curaçao,2,False
 CUW05,CUW,Curaçao,5,False
 CUW10,CUW,Curaçao,10,False
 CUW20,CUW,Curaçao,20,False
-CZE11,CZE,Rep. Tcheca,11,False
 CZE12,CZE,Rep. Tcheca,12,False
 CZE15,CZE,Rep. Tcheca,15,False
 ECU06,ECU,Equador,6,False
-ECU10,ECU,Equador,10,False
 ECU11,ECU,Equador,11,False
 ECU15,ECU,Equador,15,False
 ECU19,ECU,Equador,19,False
@@ -113,12 +109,9 @@ GHA11,GHA,Gana,11,False
 GHA13,GHA,Gana,13,False
 GHA15,GHA,Gana,15,False
 HAI01,HAI,Haiti,1,False
-HAI04,HAI,Haiti,4,False
-HAI07,HAI,Haiti,7,False
 HAI08,HAI,Haiti,8,False
 HAI13,HAI,Haiti,13,False
 HAI16,HAI,Haiti,16,False
-HAI17,HAI,Haiti,17,False
 HAI18,HAI,Haiti,18,False
 IRN01,IRN,Irã,1,False
 IRN03,IRN,Irã,3,False
@@ -133,7 +126,6 @@ JOR02,JOR,Jordânia,2,False
 JOR03,JOR,Jordânia,3,False
 JPN01,JPN,Japão,1,False
 JPN04,JPN,Japão,4,False
-JPN10,JPN,Japão,10,False
 JPN12,JPN,Japão,12,False
 JPN13,JPN,Japão,13,False
 JPN17,JPN,Japão,17,False
@@ -155,7 +147,6 @@ MEX01,MEX,México,1,False
 MEX18,MEX,México,18,False
 MEX19,MEX,México,19,False
 NED07,NED,Holanda,7,False
-NED11,NED,Holanda,11,False
 NED13,NED,Holanda,13,False
 NED16,NED,Holanda,16,False
 NED17,NED,Holanda,17,False
@@ -194,7 +185,6 @@ SCO12,SCO,Escócia,12,False
 SEN01,SEN,Senegal,1,False
 SEN14,SEN,Senegal,14,False
 SUI04,SUI,Suíça,4,False
-SUI10,SUI,Suíça,10,False
 SWE13,SWE,Suécia,13,False
 SWE16,SWE,Suécia,16,False
 SWE18,SWE,Suécia,18,False
@@ -203,8 +193,6 @@ TUN04,TUN,Tunísia,4,False
 TUN07,TUN,Tunísia,7,False
 TUN20,TUN,Tunísia,20,False
 TUR02,TUR,Turquia,2,False
-TUR05,TUR,Turquia,5,False
-TUR07,TUR,Turquia,7,False
 TUR19,TUR,Turquia,19,False
 URU05,URU,Uruguai,5,False
 USA02,USA,Estados Unidos,2,False

@@ -86,6 +86,7 @@ BEL18,BEL,Bélgica,18,True
 BIH01,BIH,Bósnia,1,True
 BIH02,BIH,Bósnia,2,True
 BIH03,BIH,Bósnia,3,True
+BIH04,BIH,Bósnia,4,True
 BIH05,BIH,Bósnia,5,True
 BIH07,BIH,Bósnia,7,True
 BIH08,BIH,Bósnia,8,True
@@ -125,6 +126,7 @@ CAN05,CAN,Canadá,5,True
 CAN06,CAN,Canadá,6,True
 CAN07,CAN,Canadá,7,True
 CAN08,CAN,Canadá,8,True
+CAN09,CAN,Canadá,9,True
 CAN10,CAN,Canadá,10,True
 CAN11,CAN,Canadá,11,True
 CAN12,CAN,Canadá,12,True
@@ -228,6 +230,7 @@ CZE07,CZE,Rep. Tcheca,7,True
 CZE08,CZE,Rep. Tcheca,8,True
 CZE09,CZE,Rep. Tcheca,9,True
 CZE10,CZE,Rep. Tcheca,10,True
+CZE11,CZE,Rep. Tcheca,11,True
 CZE13,CZE,Rep. Tcheca,13,True
 CZE14,CZE,Rep. Tcheca,14,True
 CZE16,CZE,Rep. Tcheca,16,True
@@ -243,6 +246,7 @@ ECU05,ECU,Equador,5,True
 ECU07,ECU,Equador,7,True
 ECU08,ECU,Equador,8,True
 ECU09,ECU,Equador,9,True
+ECU10,ECU,Equador,10,True
 ECU12,ECU,Equador,12,True
 ECU13,ECU,Equador,13,True
 ECU14,ECU,Equador,14,True
@@ -348,14 +352,17 @@ GHA19,GHA,Gana,19,True
 GHA20,GHA,Gana,20,True
 HAI02,HAI,Haiti,2,True
 HAI03,HAI,Haiti,3,True
+HAI04,HAI,Haiti,4,True
 HAI05,HAI,Haiti,5,True
 HAI06,HAI,Haiti,6,True
+HAI07,HAI,Haiti,7,True
 HAI09,HAI,Haiti,9,True
 HAI10,HAI,Haiti,10,True
 HAI11,HAI,Haiti,11,True
 HAI12,HAI,Haiti,12,True
 HAI14,HAI,Haiti,14,True
 HAI15,HAI,Haiti,15,True
+HAI17,HAI,Haiti,17,True
 HAI19,HAI,Haiti,19,True
 HAI20,HAI,Haiti,20,True
 IRN02,IRN,Irã,2,True
@@ -414,6 +421,7 @@ JPN06,JPN,Japão,6,True
 JPN07,JPN,Japão,7,True
 JPN08,JPN,Japão,8,True
 JPN09,JPN,Japão,9,True
+JPN10,JPN,Japão,10,True
 JPN11,JPN,Japão,11,True
 JPN14,JPN,Japão,14,True
 JPN15,JPN,Japão,15,True
@@ -493,6 +501,7 @@ NED06,NED,Holanda,6,True
 NED08,NED,Holanda,8,True
 NED09,NED,Holanda,9,True
 NED10,NED,Holanda,10,True
+NED11,NED,Holanda,11,True
 NED12,NED,Holanda,12,True
 NED14,NED,Holanda,14,True
 NED15,NED,Holanda,15,True
@@ -653,6 +662,7 @@ SUI06,SUI,Suíça,6,True
 SUI07,SUI,Suíça,7,True
 SUI08,SUI,Suíça,8,True
 SUI09,SUI,Suíça,9,True
+SUI10,SUI,Suíça,10,True
 SUI11,SUI,Suíça,11,True
 SUI12,SUI,Suíça,12,True
 SUI13,SUI,Suíça,13,True
@@ -699,7 +709,9 @@ TUN19,TUN,Tunísia,19,True
 TUR01,TUR,Turquia,1,True
 TUR03,TUR,Turquia,3,True
 TUR04,TUR,Turquia,4,True
+TUR05,TUR,Turquia,5,True
 TUR06,TUR,Turquia,6,True
+TUR07,TUR,Turquia,7,True
 TUR08,TUR,Turquia,8,True
 TUR09,TUR,Turquia,9,True
 TUR10,TUR,Turquia,10,True
