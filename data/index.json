@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-11T23:48:13Z",
+  "last_updated": "2026-06-12T00:39:56Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -2473,7 +2473,7 @@
       "team_code": "FWC",
       "country": "FIFA World Cup",
       "sticker_number": 11,
-      "owned": false
+      "owned": true
     },
     "FWC12": {
       "team_code": "FWC",

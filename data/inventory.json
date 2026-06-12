@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 756,
+  "owned_count": 757,
   "stickers": [
     {
       "team_code": "ALG",
@@ -2886,7 +2886,7 @@
       "country": "FIFA World Cup",
       "sticker_number": 11,
       "sticker_id": "FWC11",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "FWC",
@@ -6865,13 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-11T23:48:13Z",
-  "missing_count": 224,
-  "last_update_source": "chat-image",
+  "last_updated": "2026-06-12T00:39:56Z",
+  "missing_count": 223,
+  "last_update_source": "chatgpt",
   "last_added": [
-    "ALG12",
-    "CIV10",
-    "SUI15"
+    "FWC11"
   ],
   "last_removed": []
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-11T23:48:13Z",
+  "last_updated": "2026-06-12T00:39:56Z",
   "stickers": [
     "ALG02",
     "ALG03",
@@ -313,6 +313,7 @@
     "FWC08",
     "FWC09",
     "FWC10",
+    "FWC11",
     "FWC12",
     "FWC13",
     "FWC14",
