@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-12T00:47:39Z",
+  "last_updated": "2026-06-12T13:53:42Z",
   "stickers": [
     "ALG01",
     "ALG05",
@@ -29,6 +29,7 @@
     "CIV04",
     "CIV07",
     "CIV08",
+    "CIV10",
     "CIV11",
     "CIV16",
     "CIV20",

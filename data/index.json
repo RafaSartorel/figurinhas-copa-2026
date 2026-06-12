@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-12T00:47:39Z",
+  "last_updated": "2026-06-12T13:53:42Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -1021,7 +1021,7 @@
       "team_code": "CIV",
       "country": "Costa do Marfim",
       "sticker_number": 10,
-      "owned": true
+      "owned": false
     },
     "CIV11": {
       "team_code": "CIV",

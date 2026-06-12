@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 771,
+  "owned_count": 770,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1192,7 +1192,7 @@
       "country": "Costa do Marfim",
       "sticker_number": 10,
       "sticker_id": "CIV10",
-      "owned": true
+      "owned": false
     },
     {
       "team_code": "CIV",
@@ -6865,12 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-12T00:47:39Z",
-  "missing_count": 209,
-  "last_update_source": "foto",
-  "last_added": [
-    "ENG19",
-    "NED19"
-  ],
-  "last_removed": []
+  "last_updated": "2026-06-12T13:53:42Z",
+  "missing_count": 210,
+  "last_update_source": "chatgpt",
+  "last_added": [],
+  "last_removed": [
+    "CIV10"
+  ]
 }
