@@ -1,22 +1,22 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-12T14:08:00Z",
+  "last_updated": "2026-06-12T14:08:14Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 768,
-    "missing_total": 212,
-    "progress_percent": 78.37
+    "owned_total": 767,
+    "missing_total": 213,
+    "progress_percent": 78.27
   },
   "last_update_result": {
     "operation": "remove",
     "requested": [
-      "PAN04"
+      "PAN08"
     ],
     "added": [],
     "removed": [
-      "PAN04"
+      "PAN08"
     ],
     "already_owned": [],
     "already_missing": [],

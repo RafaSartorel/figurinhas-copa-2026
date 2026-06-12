@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 768,
+  "owned_count": 767,
   "stickers": [
     {
       "team_code": "ALG",
@@ -4958,7 +4958,7 @@
       "country": "Panamá",
       "sticker_number": 8,
       "sticker_id": "PAN08",
-      "owned": true
+      "owned": false
     },
     {
       "team_code": "PAN",
@@ -6865,11 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-12T14:08:00Z",
-  "missing_count": 212,
+  "last_updated": "2026-06-12T14:08:14Z",
+  "missing_count": 213,
   "last_update_source": "chatgpt",
   "last_added": [],
   "last_removed": [
-    "PAN04"
+    "PAN08"
   ]
 }

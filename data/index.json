@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-12T14:08:00Z",
+  "last_updated": "2026-06-12T14:08:14Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -4249,7 +4249,7 @@
       "team_code": "PAN",
       "country": "Panamá",
       "sticker_number": 8,
-      "owned": true
+      "owned": false
     },
     "PAN09": {
       "team_code": "PAN",
