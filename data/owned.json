@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T18:15:56Z",
+  "last_updated": "2026-06-13T18:20:25Z",
   "stickers": [
     "ALG02",
     "ALG03",
@@ -351,6 +351,7 @@
     "GHA07",
     "GHA09",
     "GHA12",
+    "GHA13",
     "GHA14",
     "GHA16",
     "GHA17",

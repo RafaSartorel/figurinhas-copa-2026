@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T18:15:56Z",
+  "last_updated": "2026-06-13T18:20:25Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -688,8 +688,8 @@
       "team_code": "GHA",
       "country": "Gana",
       "stickers_total": 20,
-      "owned_total": 13,
-      "missing_total": 7,
+      "owned_total": 14,
+      "missing_total": 6,
       "owned": [
         "GHA03",
         "GHA04",
@@ -698,6 +698,7 @@
         "GHA07",
         "GHA09",
         "GHA12",
+        "GHA13",
         "GHA14",
         "GHA16",
         "GHA17",
@@ -711,7 +712,6 @@
         "GHA08",
         "GHA10",
         "GHA11",
-        "GHA13",
         "GHA15"
       ]
     },

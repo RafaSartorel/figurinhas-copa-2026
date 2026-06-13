@@ -1,21 +1,21 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T18:15:56Z",
+  "last_updated": "2026-06-13T18:20:25Z",
   "last_update_source": "foto",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 775,
-    "missing_total": 205,
-    "progress_percent": 79.08
+    "owned_total": 776,
+    "missing_total": 204,
+    "progress_percent": 79.18
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "KSA01"
+      "GHA13"
     ],
     "added": [
-      "KSA01"
+      "GHA13"
     ],
     "removed": [],
     "already_owned": [],
