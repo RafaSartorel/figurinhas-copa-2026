@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 822,
+  "owned_count": 826,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1283,7 +1283,7 @@
       "country": "Congo",
       "sticker_number": 3,
       "sticker_id": "COD03",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "COD",
@@ -1395,7 +1395,7 @@
       "country": "Congo",
       "sticker_number": 19,
       "sticker_id": "COD19",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "COD",
@@ -2046,7 +2046,7 @@
       "country": "Rep. Tcheca",
       "sticker_number": 12,
       "sticker_id": "CZE12",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CZE",
@@ -6435,7 +6435,7 @@
       "country": "Turquia",
       "sticker_number": 19,
       "sticker_id": "TUR19",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "TUR",
@@ -6865,11 +6865,14 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-13T21:50:12Z",
-  "missing_count": 158,
-  "last_update_source": "chatgpt",
+  "last_updated": "2026-06-13T21:54:09Z",
+  "missing_count": 154,
+  "last_update_source": "foto",
   "last_added": [
-    "IRQ07"
+    "COD03",
+    "COD19",
+    "CZE12",
+    "TUR19"
   ],
   "last_removed": []
 }

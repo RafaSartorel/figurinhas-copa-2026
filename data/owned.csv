@@ -157,6 +157,7 @@ CIV18,CIV,Costa do Marfim,18,True
 CIV19,CIV,Costa do Marfim,19,True
 COD01,COD,Congo,1,True
 COD02,COD,Congo,2,True
+COD03,COD,Congo,3,True
 COD04,COD,Congo,4,True
 COD05,COD,Congo,5,True
 COD06,COD,Congo,6,True
@@ -170,6 +171,7 @@ COD14,COD,Congo,14,True
 COD16,COD,Congo,16,True
 COD17,COD,Congo,17,True
 COD18,COD,Congo,18,True
+COD19,COD,Congo,19,True
 COD20,COD,Congo,20,True
 COL01,COL,Colômbia,1,True
 COL04,COL,Colômbia,4,True
@@ -242,6 +244,7 @@ CZE08,CZE,Rep. Tcheca,8,True
 CZE09,CZE,Rep. Tcheca,9,True
 CZE10,CZE,Rep. Tcheca,10,True
 CZE11,CZE,Rep. Tcheca,11,True
+CZE12,CZE,Rep. Tcheca,12,True
 CZE13,CZE,Rep. Tcheca,13,True
 CZE14,CZE,Rep. Tcheca,14,True
 CZE16,CZE,Rep. Tcheca,16,True
@@ -771,6 +774,7 @@ TUR15,TUR,Turquia,15,True
 TUR16,TUR,Turquia,16,True
 TUR17,TUR,Turquia,17,True
 TUR18,TUR,Turquia,18,True
+TUR19,TUR,Turquia,19,True
 TUR20,TUR,Turquia,20,True
 URU01,URU,Uruguai,1,True
 URU02,URU,Uruguai,2,True

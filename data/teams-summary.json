@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T21:50:12Z",
+  "last_updated": "2026-06-13T21:54:09Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -285,11 +285,12 @@
       "team_code": "COD",
       "country": "Congo",
       "stickers_total": 20,
-      "owned_total": 16,
-      "missing_total": 4,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "COD01",
         "COD02",
+        "COD03",
         "COD04",
         "COD05",
         "COD06",
@@ -303,13 +304,12 @@
         "COD16",
         "COD17",
         "COD18",
+        "COD19",
         "COD20"
       ],
       "missing": [
-        "COD03",
         "COD08",
-        "COD15",
-        "COD19"
+        "COD15"
       ]
     },
     {
@@ -440,8 +440,8 @@
       "team_code": "CZE",
       "country": "Rep. Tcheca",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "CZE01",
         "CZE02",
@@ -454,6 +454,7 @@
         "CZE09",
         "CZE10",
         "CZE11",
+        "CZE12",
         "CZE13",
         "CZE14",
         "CZE16",
@@ -463,7 +464,6 @@
         "CZE20"
       ],
       "missing": [
-        "CZE12",
         "CZE15"
       ]
     },
@@ -1399,8 +1399,8 @@
       "team_code": "TUR",
       "country": "Turquia",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "TUR01",
         "TUR02",
@@ -1420,11 +1420,10 @@
         "TUR16",
         "TUR17",
         "TUR18",
+        "TUR19",
         "TUR20"
       ],
-      "missing": [
-        "TUR19"
-      ]
+      "missing": []
     },
     {
       "team_code": "URU",

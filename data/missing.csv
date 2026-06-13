@@ -23,10 +23,8 @@ CIV04,CIV,Costa do Marfim,4,False
 CIV11,CIV,Costa do Marfim,11,False
 CIV16,CIV,Costa do Marfim,16,False
 CIV20,CIV,Costa do Marfim,20,False
-COD03,COD,Congo,3,False
 COD08,COD,Congo,8,False
 COD15,COD,Congo,15,False
-COD19,COD,Congo,19,False
 COL02,COL,Colômbia,2,False
 COL03,COL,Colômbia,3,False
 COL11,COL,Colômbia,11,False
@@ -47,7 +45,6 @@ CUW01,CUW,Curaçao,1,False
 CUW05,CUW,Curaçao,5,False
 CUW10,CUW,Curaçao,10,False
 CUW20,CUW,Curaçao,20,False
-CZE12,CZE,Rep. Tcheca,12,False
 CZE15,CZE,Rep. Tcheca,15,False
 ECU06,ECU,Equador,6,False
 ECU11,ECU,Equador,11,False
@@ -145,7 +142,6 @@ SWE13,SWE,Suécia,13,False
 SWE16,SWE,Suécia,16,False
 SWE18,SWE,Suécia,18,False
 TUN20,TUN,Tunísia,20,False
-TUR19,TUR,Turquia,19,False
 USA04,USA,Estados Unidos,4,False
 USA05,USA,Estados Unidos,5,False
 USA07,USA,Estados Unidos,7,False

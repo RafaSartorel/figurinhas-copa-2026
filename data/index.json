@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T21:50:12Z",
+  "last_updated": "2026-06-13T21:54:09Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -1099,7 +1099,7 @@
       "team_code": "COD",
       "country": "Congo",
       "sticker_number": 3,
-      "owned": false
+      "owned": true
     },
     "COD04": {
       "team_code": "COD",
@@ -1195,7 +1195,7 @@
       "team_code": "COD",
       "country": "Congo",
       "sticker_number": 19,
-      "owned": false
+      "owned": true
     },
     "COD20": {
       "team_code": "COD",
@@ -1753,7 +1753,7 @@
       "team_code": "CZE",
       "country": "Rep. Tcheca",
       "sticker_number": 12,
-      "owned": false
+      "owned": true
     },
     "CZE13": {
       "team_code": "CZE",
@@ -5515,7 +5515,7 @@
       "team_code": "TUR",
       "country": "Turquia",
       "sticker_number": 19,
-      "owned": false
+      "owned": true
     },
     "TUR20": {
       "team_code": "TUR",

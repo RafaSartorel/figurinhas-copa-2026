@@ -1,21 +1,27 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T21:50:12Z",
-  "last_update_source": "chatgpt",
+  "last_updated": "2026-06-13T21:54:09Z",
+  "last_update_source": "foto",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 822,
-    "missing_total": 158,
-    "progress_percent": 83.88
+    "owned_total": 826,
+    "missing_total": 154,
+    "progress_percent": 84.29
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "IRQ07"
+      "COD03",
+      "COD19",
+      "CZE12",
+      "TUR19"
     ],
     "added": [
-      "IRQ07"
+      "COD03",
+      "COD19",
+      "CZE12",
+      "TUR19"
     ],
     "removed": [],
     "already_owned": [],
