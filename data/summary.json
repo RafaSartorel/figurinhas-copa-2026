@@ -1,25 +1,27 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T22:59:03Z",
+  "last_updated": "2026-06-13T23:00:10Z",
   "last_update_source": "foto",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 829,
-    "missing_total": 151,
-    "progress_percent": 84.59
+    "owned_total": 833,
+    "missing_total": 147,
+    "progress_percent": 85.0
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "IRQ02",
-      "NED07",
-      "NZL16"
+      "AUS10",
+      "EGY01",
+      "ESP20",
+      "NED13"
     ],
     "added": [
-      "IRQ02",
-      "NED07",
-      "NZL16"
+      "AUS10",
+      "EGY01",
+      "ESP20",
+      "NED13"
     ],
     "removed": [],
     "already_owned": [],

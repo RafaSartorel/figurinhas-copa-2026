@@ -41,6 +41,7 @@ AUS06,AUS,Austrália,6,True
 AUS07,AUS,Austrália,7,True
 AUS08,AUS,Austrália,8,True
 AUS09,AUS,Austrália,9,True
+AUS10,AUS,Austrália,10,True
 AUS11,AUS,Austrália,11,True
 AUS12,AUS,Austrália,12,True
 AUS13,AUS,Austrália,13,True
@@ -268,6 +269,7 @@ ECU16,ECU,Equador,16,True
 ECU17,ECU,Equador,17,True
 ECU18,ECU,Equador,18,True
 ECU20,ECU,Equador,20,True
+EGY01,EGY,Egito,1,True
 EGY02,EGY,Egito,2,True
 EGY03,EGY,Egito,3,True
 EGY04,EGY,Egito,4,True
@@ -314,6 +316,7 @@ ESP11,ESP,Espanha,11,True
 ESP12,ESP,Espanha,12,True
 ESP15,ESP,Espanha,15,True
 ESP17,ESP,Espanha,17,True
+ESP20,ESP,Espanha,20,True
 FRA01,FRA,França,1,True
 FRA04,FRA,França,4,True
 FRA05,FRA,França,5,True
@@ -541,6 +544,7 @@ NED09,NED,Holanda,9,True
 NED10,NED,Holanda,10,True
 NED11,NED,Holanda,11,True
 NED12,NED,Holanda,12,True
+NED13,NED,Holanda,13,True
 NED14,NED,Holanda,14,True
 NED15,NED,Holanda,15,True
 NED17,NED,Holanda,17,True

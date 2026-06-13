@@ -6,7 +6,6 @@ ALG17,ALG,Argélia,17,False
 ARG04,ARG,Argentina,4,False
 ARG07,ARG,Argentina,7,False
 ARG11,ARG,Argentina,11,False
-AUS10,AUS,Austrália,10,False
 AUS16,AUS,Austrália,16,False
 AUS20,AUS,Austrália,20,False
 BEL01,BEL,Bélgica,1,False
@@ -50,7 +49,6 @@ ECU06,ECU,Equador,6,False
 ECU11,ECU,Equador,11,False
 ECU15,ECU,Equador,15,False
 ECU19,ECU,Equador,19,False
-EGY01,EGY,Egito,1,False
 EGY12,EGY,Egito,12,False
 EGY14,EGY,Egito,14,False
 EGY17,EGY,Egito,17,False
@@ -63,7 +61,6 @@ ESP14,ESP,Espanha,14,False
 ESP16,ESP,Espanha,16,False
 ESP18,ESP,Espanha,18,False
 ESP19,ESP,Espanha,19,False
-ESP20,ESP,Espanha,20,False
 FRA02,FRA,França,2,False
 FRA03,FRA,França,3,False
 FRA06,FRA,França,6,False
@@ -109,7 +106,6 @@ MAR13,MAR,Marrocos,13,False
 MEX01,MEX,México,1,False
 MEX18,MEX,México,18,False
 MEX19,MEX,México,19,False
-NED13,NED,Holanda,13,False
 NED16,NED,Holanda,16,False
 NOR01,NOR,Noruega,1,False
 NOR04,NOR,Noruega,4,False

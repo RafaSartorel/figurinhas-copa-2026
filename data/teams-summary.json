@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T22:59:03Z",
+  "last_updated": "2026-06-13T23:00:10Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -69,8 +69,8 @@
       "team_code": "AUS",
       "country": "Austrália",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "AUS01",
         "AUS02",
@@ -81,6 +81,7 @@
         "AUS07",
         "AUS08",
         "AUS09",
+        "AUS10",
         "AUS11",
         "AUS12",
         "AUS13",
@@ -91,7 +92,6 @@
         "AUS19"
       ],
       "missing": [
-        "AUS10",
         "AUS16",
         "AUS20"
       ]
@@ -502,9 +502,10 @@
       "team_code": "EGY",
       "country": "Egito",
       "stickers_total": 20,
-      "owned_total": 16,
-      "missing_total": 4,
+      "owned_total": 17,
+      "missing_total": 3,
       "owned": [
+        "EGY01",
         "EGY02",
         "EGY03",
         "EGY04",
@@ -523,7 +524,6 @@
         "EGY20"
       ],
       "missing": [
-        "EGY01",
         "EGY12",
         "EGY14",
         "EGY17"
@@ -564,8 +564,8 @@
       "team_code": "ESP",
       "country": "Espanha",
       "stickers_total": 20,
-      "owned_total": 12,
-      "missing_total": 8,
+      "owned_total": 13,
+      "missing_total": 7,
       "owned": [
         "ESP01",
         "ESP02",
@@ -578,7 +578,8 @@
         "ESP11",
         "ESP12",
         "ESP15",
-        "ESP17"
+        "ESP17",
+        "ESP20"
       ],
       "missing": [
         "ESP04",
@@ -587,8 +588,7 @@
         "ESP14",
         "ESP16",
         "ESP18",
-        "ESP19",
-        "ESP20"
+        "ESP19"
       ]
     },
     {
@@ -998,8 +998,8 @@
       "team_code": "NED",
       "country": "Holanda",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "NED01",
         "NED02",
@@ -1013,6 +1013,7 @@
         "NED10",
         "NED11",
         "NED12",
+        "NED13",
         "NED14",
         "NED15",
         "NED17",
@@ -1021,7 +1022,6 @@
         "NED20"
       ],
       "missing": [
-        "NED13",
         "NED16"
       ]
     },
