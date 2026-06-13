@@ -1,8 +1,13 @@
 sticker_id,team_code,country,sticker_number,quantity
+ALG11,ALG,Argélia,11,1
+ALG16,ALG,Argélia,16,1
 AUS09,AUS,Austrália,9,1
 AUS13,AUS,Austrália,13,1
 AUT08,AUT,Áustria,8,1
+AUT11,AUT,Áustria,11,1
 AUT13,AUT,Áustria,13,1
+BEL09,BEL,Bélgica,9,1
+BIH09,BIH,Bósnia,9,1
 BIH11,BIH,Bósnia,11,1
 BRA20,BRA,Brasil,20,1
 CAN13,CAN,Canadá,13,1
@@ -16,7 +21,7 @@ CRO04,CRO,Croácia,4,1
 CUW06,CUW,Curaçao,6,2
 CUW08,CUW,Curaçao,8,1
 CZE05,CZE,Rep. Tcheca,5,1
-CZE09,CZE,Rep. Tcheca,9,1
+CZE09,CZE,Rep. Tcheca,9,2
 CZE14,CZE,Rep. Tcheca,14,1
 ECU13,ECU,Equador,13,1
 FWC09,FWC,FIFA World Cup,9,2
@@ -29,12 +34,15 @@ IRN20,IRN,Irã,20,1
 IRQ20,IRQ,Iraque,20,1
 JOR09,JOR,Jordânia,9,1
 KOR07,KOR,Coreia do Sul,7,1
+KOR08,KOR,Coreia do Sul,8,1
 KOR12,KOR,Coreia do Sul,12,1
 KOR20,KOR,Coreia do Sul,20,2
 KSA05,KSA,Arábia Saudita,5,1
+KSA06,KSA,Arábia Saudita,6,1
 KSA16,KSA,Arábia Saudita,16,1
 MAR02,MAR,Marrocos,2,1
 MAR03,MAR,Marrocos,3,1
+MAR20,MAR,Marrocos,20,1
 NED14,NED,Holanda,14,1
 NOR12,NOR,Noruega,12,1
 NZL07,NZL,Nova Zelândia,7,1
@@ -46,23 +54,34 @@ QAT13,QAT,Catar,13,1
 QAT14,QAT,Catar,14,1
 QAT18,QAT,Catar,18,1
 RSA02,RSA,África do Sul,2,1
+RSA03,RSA,África do Sul,3,1
+RSA05,RSA,África do Sul,5,1
 RSA10,RSA,África do Sul,10,1
 RSA20,RSA,África do Sul,20,1
-SCO02,SCO,Escócia,2,1
+SCO02,SCO,Escócia,2,2
 SCO03,SCO,Escócia,3,1
+SCO11,SCO,Escócia,11,1
+SCO15,SCO,Escócia,15,1
 SCO17,SCO,Escócia,17,1
 SCO20,SCO,Escócia,20,1
+SEN05,SEN,Senegal,5,1
+SEN17,SEN,Senegal,17,1
 SUI07,SUI,Suíça,7,1
 SUI12,SUI,Suíça,12,1
+SUI16,SUI,Suíça,16,1
 SWE03,SWE,Suécia,3,1
 SWE05,SWE,Suécia,5,1
 SWE14,SWE,Suécia,14,1
 TUR12,TUR,Turquia,12,1
 URU08,URU,Uruguai,8,1
+URU09,URU,Uruguai,9,2
+URU12,URU,Uruguai,12,1
+URU15,URU,Uruguai,15,1
 USA12,USA,Estados Unidos,12,1
 USA18,USA,Estados Unidos,18,1
 UZB03,UZB,Uzbequistão,3,1
 UZB07,UZB,Uzbequistão,7,1
 UZB12,UZB,Uzbequistão,12,1
-UZB18,UZB,Uzbequistão,18,1
-UZB20,UZB,Uzbequistão,20,1
+UZB17,UZB,Uzbequistão,17,2
+UZB18,UZB,Uzbequistão,18,2
+UZB20,UZB,Uzbequistão,20,2
