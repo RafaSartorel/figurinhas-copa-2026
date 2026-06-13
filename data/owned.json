@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-12T14:08:14Z",
+  "last_updated": "2026-06-13T17:52:43Z",
   "stickers": [
     "ALG02",
     "ALG03",
@@ -166,6 +166,7 @@
     "COD16",
     "COD17",
     "COD18",
+    "COD20",
     "COL01",
     "COL04",
     "COL05",
@@ -539,6 +540,7 @@
     "NZL14",
     "NZL15",
     "NZL19",
+    "NZL20",
     "PAN02",
     "PAN03",
     "PAN05",
@@ -763,6 +765,7 @@
     "UZB07",
     "UZB08",
     "UZB10",
+    "UZB11",
     "UZB12",
     "UZB14",
     "UZB15",

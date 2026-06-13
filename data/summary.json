@@ -1,23 +1,27 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-12T14:08:14Z",
-  "last_update_source": "chatgpt",
+  "last_updated": "2026-06-13T17:52:43Z",
+  "last_update_source": "chatgpt-photo",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 767,
-    "missing_total": 213,
-    "progress_percent": 78.27
+    "owned_total": 770,
+    "missing_total": 210,
+    "progress_percent": 78.57
   },
   "last_update_result": {
-    "operation": "remove",
+    "operation": "add",
     "requested": [
-      "PAN08"
+      "COD20",
+      "NZL20",
+      "UZB11"
     ],
-    "added": [],
-    "removed": [
-      "PAN08"
+    "added": [
+      "COD20",
+      "NZL20",
+      "UZB11"
     ],
+    "removed": [],
     "already_owned": [],
     "already_missing": [],
     "not_found": [],

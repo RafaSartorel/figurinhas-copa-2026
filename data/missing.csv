@@ -35,7 +35,6 @@ COD08,COD,Congo,8,False
 COD13,COD,Congo,13,False
 COD15,COD,Congo,15,False
 COD19,COD,Congo,19,False
-COD20,COD,Congo,20,False
 COL02,COL,Colômbia,2,False
 COL03,COL,Colômbia,3,False
 COL11,COL,Colômbia,11,False
@@ -162,7 +161,6 @@ NZL04,NZL,Nova Zelândia,4,False
 NZL16,NZL,Nova Zelândia,16,False
 NZL17,NZL,Nova Zelândia,17,False
 NZL18,NZL,Nova Zelândia,18,False
-NZL20,NZL,Nova Zelândia,20,False
 PAN01,PAN,Panamá,1,False
 PAN04,PAN,Panamá,4,False
 PAN08,PAN,Panamá,8,False
@@ -209,6 +207,5 @@ USA19,USA,Estados Unidos,19,False
 UZB01,UZB,Uzbequistão,1,False
 UZB05,UZB,Uzbequistão,5,False
 UZB09,UZB,Uzbequistão,9,False
-UZB11,UZB,Uzbequistão,11,False
 UZB13,UZB,Uzbequistão,13,False
 UZB16,UZB,Uzbequistão,16,False

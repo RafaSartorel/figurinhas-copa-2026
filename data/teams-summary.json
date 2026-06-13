@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-12T14:08:14Z",
+  "last_updated": "2026-06-13T17:52:43Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -285,8 +285,8 @@
       "team_code": "COD",
       "country": "Congo",
       "stickers_total": 20,
-      "owned_total": 14,
-      "missing_total": 6,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
         "COD01",
         "COD02",
@@ -301,15 +301,15 @@
         "COD14",
         "COD16",
         "COD17",
-        "COD18"
+        "COD18",
+        "COD20"
       ],
       "missing": [
         "COD03",
         "COD08",
         "COD13",
         "COD15",
-        "COD19",
-        "COD20"
+        "COD19"
       ]
     },
     {
@@ -1060,8 +1060,8 @@
       "team_code": "NZL",
       "country": "Nova Zelândia",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
         "NZL01",
         "NZL02",
@@ -1077,14 +1077,14 @@
         "NZL13",
         "NZL14",
         "NZL15",
-        "NZL19"
+        "NZL19",
+        "NZL20"
       ],
       "missing": [
         "NZL04",
         "NZL16",
         "NZL17",
-        "NZL18",
-        "NZL20"
+        "NZL18"
       ]
     },
     {
@@ -1493,8 +1493,8 @@
       "team_code": "UZB",
       "country": "Uzbequistão",
       "stickers_total": 20,
-      "owned_total": 14,
-      "missing_total": 6,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
         "UZB02",
         "UZB03",
@@ -1503,6 +1503,7 @@
         "UZB07",
         "UZB08",
         "UZB10",
+        "UZB11",
         "UZB12",
         "UZB14",
         "UZB15",
@@ -1515,7 +1516,6 @@
         "UZB01",
         "UZB05",
         "UZB09",
-        "UZB11",
         "UZB13",
         "UZB16"
       ]
