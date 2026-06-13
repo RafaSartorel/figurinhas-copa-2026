@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T21:15:50Z",
+  "last_updated": "2026-06-13T21:50:12Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -3043,7 +3043,7 @@
       "team_code": "IRQ",
       "country": "Iraque",
       "sticker_number": 7,
-      "owned": false
+      "owned": true
     },
     "IRQ08": {
       "team_code": "IRQ",

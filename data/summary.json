@@ -1,29 +1,21 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T21:15:50Z",
-  "last_update_source": "foto",
+  "last_updated": "2026-06-13T21:50:12Z",
+  "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 821,
-    "missing_total": 159,
-    "progress_percent": 83.78
+    "owned_total": 822,
+    "missing_total": 158,
+    "progress_percent": 83.88
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "ENG01",
-      "IRN11",
-      "IRN16",
-      "PAN01",
-      "SEN01"
+      "IRQ07"
     ],
     "added": [
-      "ENG01",
-      "IRN11",
-      "IRN16",
-      "PAN01",
-      "SEN01"
+      "IRQ07"
     ],
     "removed": [],
     "already_owned": [],
