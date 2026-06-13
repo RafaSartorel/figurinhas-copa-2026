@@ -1,41 +1,24 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T19:24:37Z",
-  "last_update_source": "chat-photo-review",
+  "last_updated": "2026-06-13T19:36:43Z",
+  "last_update_source": "foto_chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 791,
-    "missing_total": 189,
-    "progress_percent": 80.71
+    "owned_total": 792,
+    "missing_total": 188,
+    "progress_percent": 80.82
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "COD13",
-      "CRO16",
-      "CRO20",
-      "IRQ20",
-      "JPN13",
-      "KOR14",
-      "NZL18",
-      "USA19",
-      "UZB05"
+      "ARG18"
     ],
     "added": [
-      "COD13",
-      "CRO16",
-      "CRO20",
-      "JPN13",
-      "KOR14",
-      "NZL18",
-      "USA19",
-      "UZB05"
+      "ARG18"
     ],
     "removed": [],
-    "already_owned": [
-      "IRQ20"
-    ],
+    "already_owned": [],
     "already_missing": [],
     "not_found": [],
     "invalid": []

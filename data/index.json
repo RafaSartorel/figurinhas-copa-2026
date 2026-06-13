@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T19:24:37Z",
+  "last_updated": "2026-06-13T19:36:43Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -229,7 +229,7 @@
       "team_code": "ARG",
       "country": "Argentina",
       "sticker_number": 18,
-      "owned": false
+      "owned": true
     },
     "ARG19": {
       "team_code": "ARG",

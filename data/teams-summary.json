@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T19:24:37Z",
+  "last_updated": "2026-06-13T19:36:43Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -38,8 +38,8 @@
       "team_code": "ARG",
       "country": "Argentina",
       "stickers_total": 20,
-      "owned_total": 16,
-      "missing_total": 4,
+      "owned_total": 17,
+      "missing_total": 3,
       "owned": [
         "ARG01",
         "ARG02",
@@ -55,14 +55,14 @@
         "ARG15",
         "ARG16",
         "ARG17",
+        "ARG18",
         "ARG19",
         "ARG20"
       ],
       "missing": [
         "ARG04",
         "ARG07",
-        "ARG11",
-        "ARG18"
+        "ARG11"
       ]
     },
     {

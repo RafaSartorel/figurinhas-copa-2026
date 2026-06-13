@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 791,
+  "owned_count": 792,
   "stickers": [
     {
       "team_code": "ALG",
@@ -268,7 +268,7 @@
       "country": "Argentina",
       "sticker_number": 18,
       "sticker_id": "ARG18",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ARG",
@@ -6865,18 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-13T19:24:37Z",
-  "missing_count": 189,
-  "last_update_source": "chat-photo-review",
+  "last_updated": "2026-06-13T19:36:43Z",
+  "missing_count": 188,
+  "last_update_source": "foto_chatgpt",
   "last_added": [
-    "COD13",
-    "CRO16",
-    "CRO20",
-    "JPN13",
-    "KOR14",
-    "NZL18",
-    "USA19",
-    "UZB05"
+    "ARG18"
   ],
   "last_removed": []
 }
