@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T23:03:40Z",
+  "last_updated": "2026-06-13T23:23:34Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -679,7 +679,7 @@
       "team_code": "BIH",
       "country": "Bósnia",
       "sticker_number": 13,
-      "owned": false
+      "owned": true
     },
     "BIH14": {
       "team_code": "BIH",
@@ -1525,7 +1525,7 @@
       "team_code": "CRO",
       "country": "Croácia",
       "sticker_number": 14,
-      "owned": false
+      "owned": true
     },
     "CRO15": {
       "team_code": "CRO",

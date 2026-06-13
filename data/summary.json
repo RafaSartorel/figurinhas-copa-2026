@@ -1,21 +1,23 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T23:03:40Z",
+  "last_updated": "2026-06-13T23:23:34Z",
   "last_update_source": "foto",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 834,
-    "missing_total": 146,
-    "progress_percent": 85.1
+    "owned_total": 836,
+    "missing_total": 144,
+    "progress_percent": 85.31
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "MEX01"
+      "BIH13",
+      "CRO14"
     ],
     "added": [
-      "MEX01"
+      "BIH13",
+      "CRO14"
     ],
     "removed": [],
     "already_owned": [],

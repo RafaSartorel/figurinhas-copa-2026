@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T23:03:40Z",
+  "last_updated": "2026-06-13T23:23:34Z",
   "stickers": [
     "ALG02",
     "ALG03",
@@ -102,6 +102,7 @@
     "BIH10",
     "BIH11",
     "BIH12",
+    "BIH13",
     "BIH14",
     "BIH15",
     "BIH16",
@@ -216,6 +217,7 @@
     "CRO09",
     "CRO10",
     "CRO12",
+    "CRO14",
     "CRO15",
     "CRO16",
     "CRO17",

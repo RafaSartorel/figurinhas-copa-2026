@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 834,
+  "owned_count": 836,
   "stickers": [
     {
       "team_code": "ALG",
@@ -793,7 +793,7 @@
       "country": "Bósnia",
       "sticker_number": 13,
       "sticker_id": "BIH13",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "BIH",
@@ -1780,7 +1780,7 @@
       "country": "Croácia",
       "sticker_number": 14,
       "sticker_id": "CRO14",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CRO",
@@ -6865,11 +6865,12 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-13T23:03:40Z",
-  "missing_count": 146,
+  "last_updated": "2026-06-13T23:23:34Z",
+  "missing_count": 144,
   "last_update_source": "foto",
   "last_added": [
-    "MEX01"
+    "BIH13",
+    "CRO14"
   ],
   "last_removed": []
 }
