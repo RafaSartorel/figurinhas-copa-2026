@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T21:54:09Z",
+  "last_updated": "2026-06-13T22:59:03Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -781,10 +781,11 @@
       "team_code": "IRQ",
       "country": "Iraque",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "IRQ01",
+        "IRQ02",
         "IRQ04",
         "IRQ05",
         "IRQ06",
@@ -803,7 +804,6 @@
         "IRQ20"
       ],
       "missing": [
-        "IRQ02",
         "IRQ03",
         "IRQ16"
       ]
@@ -998,8 +998,8 @@
       "team_code": "NED",
       "country": "Holanda",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "NED01",
         "NED02",
@@ -1007,6 +1007,7 @@
         "NED04",
         "NED05",
         "NED06",
+        "NED07",
         "NED08",
         "NED09",
         "NED10",
@@ -1020,7 +1021,6 @@
         "NED20"
       ],
       "missing": [
-        "NED07",
         "NED13",
         "NED16"
       ]
@@ -1060,8 +1060,8 @@
       "team_code": "NZL",
       "country": "Nova Zelândia",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "NZL01",
         "NZL02",
@@ -1077,13 +1077,13 @@
         "NZL13",
         "NZL14",
         "NZL15",
+        "NZL16",
         "NZL18",
         "NZL19",
         "NZL20"
       ],
       "missing": [
         "NZL04",
-        "NZL16",
         "NZL17"
       ]
     },

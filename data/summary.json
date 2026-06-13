@@ -1,27 +1,25 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T21:54:09Z",
+  "last_updated": "2026-06-13T22:59:03Z",
   "last_update_source": "foto",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 826,
-    "missing_total": 154,
-    "progress_percent": 84.29
+    "owned_total": 829,
+    "missing_total": 151,
+    "progress_percent": 84.59
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "COD03",
-      "COD19",
-      "CZE12",
-      "TUR19"
+      "IRQ02",
+      "NED07",
+      "NZL16"
     ],
     "added": [
-      "COD03",
-      "COD19",
-      "CZE12",
-      "TUR19"
+      "IRQ02",
+      "NED07",
+      "NZL16"
     ],
     "removed": [],
     "already_owned": [],

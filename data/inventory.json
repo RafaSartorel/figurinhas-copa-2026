@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 826,
+  "owned_count": 829,
   "stickers": [
     {
       "team_code": "ALG",
@@ -3516,7 +3516,7 @@
       "country": "Iraque",
       "sticker_number": 2,
       "sticker_id": "IRQ02",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "IRQ",
@@ -4531,7 +4531,7 @@
       "country": "Holanda",
       "sticker_number": 7,
       "sticker_id": "NED07",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "NED",
@@ -4874,7 +4874,7 @@
       "country": "Nova Zelândia",
       "sticker_number": 16,
       "sticker_id": "NZL16",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "NZL",
@@ -6865,14 +6865,13 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-13T21:54:09Z",
-  "missing_count": 154,
+  "last_updated": "2026-06-13T22:59:03Z",
+  "missing_count": 151,
   "last_update_source": "foto",
   "last_added": [
-    "COD03",
-    "COD19",
-    "CZE12",
-    "TUR19"
+    "IRQ02",
+    "NED07",
+    "NZL16"
   ],
   "last_removed": []
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T21:54:09Z",
+  "last_updated": "2026-06-13T22:59:03Z",
   "stickers": [
     "ALG02",
     "ALG03",
@@ -416,6 +416,7 @@
     "IRN18",
     "IRN20",
     "IRQ01",
+    "IRQ02",
     "IRQ04",
     "IRQ05",
     "IRQ06",
@@ -538,6 +539,7 @@
     "NED04",
     "NED05",
     "NED06",
+    "NED07",
     "NED08",
     "NED09",
     "NED10",
@@ -577,6 +579,7 @@
     "NZL13",
     "NZL14",
     "NZL15",
+    "NZL16",
     "NZL18",
     "NZL19",
     "NZL20",

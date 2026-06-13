@@ -87,7 +87,6 @@ HAI13,HAI,Haiti,13,False
 IRN01,IRN,Irã,1,False
 IRN03,IRN,Irã,3,False
 IRN19,IRN,Irã,19,False
-IRQ02,IRQ,Iraque,2,False
 IRQ03,IRQ,Iraque,3,False
 IRQ16,IRQ,Iraque,16,False
 JOR02,JOR,Jordânia,2,False
@@ -110,7 +109,6 @@ MAR13,MAR,Marrocos,13,False
 MEX01,MEX,México,1,False
 MEX18,MEX,México,18,False
 MEX19,MEX,México,19,False
-NED07,NED,Holanda,7,False
 NED13,NED,Holanda,13,False
 NED16,NED,Holanda,16,False
 NOR01,NOR,Noruega,1,False
@@ -120,7 +118,6 @@ NOR10,NOR,Noruega,10,False
 NOR15,NOR,Noruega,15,False
 NOR17,NOR,Noruega,17,False
 NZL04,NZL,Nova Zelândia,4,False
-NZL16,NZL,Nova Zelândia,16,False
 NZL17,NZL,Nova Zelândia,17,False
 PAN12,PAN,Panamá,12,False
 PAN17,PAN,Panamá,17,False

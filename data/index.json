@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T21:54:09Z",
+  "last_updated": "2026-06-13T22:59:03Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -3013,7 +3013,7 @@
       "team_code": "IRQ",
       "country": "Iraque",
       "sticker_number": 2,
-      "owned": false
+      "owned": true
     },
     "IRQ03": {
       "team_code": "IRQ",
@@ -3883,7 +3883,7 @@
       "team_code": "NED",
       "country": "Holanda",
       "sticker_number": 7,
-      "owned": false
+      "owned": true
     },
     "NED08": {
       "team_code": "NED",
@@ -4177,7 +4177,7 @@
       "team_code": "NZL",
       "country": "Nova Zelândia",
       "sticker_number": 16,
-      "owned": false
+      "owned": true
     },
     "NZL17": {
       "team_code": "NZL",
