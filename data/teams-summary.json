@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T17:52:43Z",
+  "last_updated": "2026-06-13T18:11:37Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -347,8 +347,8 @@
       "team_code": "CPV",
       "country": "Cabo Verde",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "CPV01",
         "CPV02",
@@ -363,6 +363,7 @@
         "CPV12",
         "CPV13",
         "CPV14",
+        "CPV15",
         "CPV16",
         "CPV17",
         "CPV18",
@@ -370,7 +371,6 @@
       ],
       "missing": [
         "CPV04",
-        "CPV15",
         "CPV19"
       ]
     },
@@ -502,8 +502,8 @@
       "team_code": "EGY",
       "country": "Egito",
       "stickers_total": 20,
-      "owned_total": 14,
-      "missing_total": 6,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
         "EGY02",
         "EGY03",
@@ -511,6 +511,7 @@
         "EGY05",
         "EGY06",
         "EGY07",
+        "EGY08",
         "EGY09",
         "EGY10",
         "EGY11",
@@ -522,7 +523,6 @@
       ],
       "missing": [
         "EGY01",
-        "EGY08",
         "EGY12",
         "EGY13",
         "EGY14",

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T17:52:43Z",
+  "last_updated": "2026-06-13T18:11:37Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -1411,7 +1411,7 @@
       "team_code": "CPV",
       "country": "Cabo Verde",
       "sticker_number": 15,
-      "owned": false
+      "owned": true
     },
     "CPV16": {
       "team_code": "CPV",
@@ -1969,7 +1969,7 @@
       "team_code": "EGY",
       "country": "Egito",
       "sticker_number": 8,
-      "owned": false
+      "owned": true
     },
     "EGY09": {
       "team_code": "EGY",

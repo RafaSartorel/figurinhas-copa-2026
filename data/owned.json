@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T17:52:43Z",
+  "last_updated": "2026-06-13T18:11:37Z",
   "stickers": [
     "ALG02",
     "ALG03",
@@ -195,6 +195,7 @@
     "CPV12",
     "CPV13",
     "CPV14",
+    "CPV15",
     "CPV16",
     "CPV17",
     "CPV18",
@@ -263,6 +264,7 @@
     "EGY05",
     "EGY06",
     "EGY07",
+    "EGY08",
     "EGY09",
     "EGY10",
     "EGY11",

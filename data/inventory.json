@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 770,
+  "owned_count": 772,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1647,7 +1647,7 @@
       "country": "Cabo Verde",
       "sticker_number": 15,
       "sticker_id": "CPV15",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CPV",
@@ -2298,7 +2298,7 @@
       "country": "Egito",
       "sticker_number": 8,
       "sticker_id": "EGY08",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "EGY",
@@ -6865,13 +6865,12 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-13T17:52:43Z",
-  "missing_count": 210,
-  "last_update_source": "chatgpt-photo",
+  "last_updated": "2026-06-13T18:11:37Z",
+  "missing_count": 208,
+  "last_update_source": "foto-chatgpt",
   "last_added": [
-    "COD20",
-    "NZL20",
-    "UZB11"
+    "CPV15",
+    "EGY08"
   ],
   "last_removed": []
 }

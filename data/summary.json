@@ -1,28 +1,63 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T17:52:43Z",
-  "last_update_source": "chatgpt-photo",
+  "last_updated": "2026-06-13T18:11:37Z",
+  "last_update_source": "foto-chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 770,
-    "missing_total": 210,
-    "progress_percent": 78.57
+    "owned_total": 772,
+    "missing_total": 208,
+    "progress_percent": 78.78
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "COD20",
-      "NZL20",
-      "UZB11"
+      "ALG02",
+      "AUT14",
+      "BIH03",
+      "CAN08",
+      "CAN17",
+      "COD01",
+      "COD04",
+      "COL15",
+      "CPV15",
+      "CZE09",
+      "ECU04",
+      "EGY08",
+      "ESP05",
+      "JOR17",
+      "SCO10",
+      "TUN03",
+      "TUR12",
+      "URU15",
+      "USA18",
+      "UZB19"
     ],
     "added": [
-      "COD20",
-      "NZL20",
-      "UZB11"
+      "CPV15",
+      "EGY08"
     ],
     "removed": [],
-    "already_owned": [],
+    "already_owned": [
+      "ALG02",
+      "AUT14",
+      "BIH03",
+      "CAN08",
+      "CAN17",
+      "COD01",
+      "COD04",
+      "COL15",
+      "CZE09",
+      "ECU04",
+      "ESP05",
+      "JOR17",
+      "SCO10",
+      "TUN03",
+      "TUR12",
+      "URU15",
+      "USA18",
+      "UZB19"
+    ],
     "already_missing": [],
     "not_found": [],
     "invalid": []
