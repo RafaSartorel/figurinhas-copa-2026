@@ -1,24 +1,27 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T19:36:43Z",
-  "last_update_source": "foto_chatgpt",
+  "last_updated": "2026-06-13T19:37:53Z",
+  "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 792,
-    "missing_total": 188,
-    "progress_percent": 80.82
+    "owned_total": 793,
+    "missing_total": 187,
+    "progress_percent": 80.92
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "ARG18"
+      "ALG09",
+      "ESP01"
     ],
     "added": [
-      "ARG18"
+      "ESP01"
     ],
     "removed": [],
-    "already_owned": [],
+    "already_owned": [
+      "ALG09"
+    ],
     "already_missing": [],
     "not_found": [],
     "invalid": []

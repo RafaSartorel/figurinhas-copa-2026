@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 792,
+  "owned_count": 793,
   "stickers": [
     {
       "team_code": "ALG",
@@ -2529,7 +2529,7 @@
       "country": "Espanha",
       "sticker_number": 1,
       "sticker_id": "ESP01",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ESP",
@@ -6865,11 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-13T19:36:43Z",
-  "missing_count": 188,
-  "last_update_source": "foto_chatgpt",
+  "last_updated": "2026-06-13T19:37:53Z",
+  "missing_count": 187,
+  "last_update_source": "chatgpt",
   "last_added": [
-    "ARG18"
+    "ESP01"
   ],
   "last_removed": []
 }
