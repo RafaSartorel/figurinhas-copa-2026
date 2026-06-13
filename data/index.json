@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T19:40:45Z",
+  "last_updated": "2026-06-13T20:46:44Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -505,7 +505,7 @@
       "team_code": "BEL",
       "country": "Bélgica",
       "sticker_number": 4,
-      "owned": false
+      "owned": true
     },
     "BEL05": {
       "team_code": "BEL",
@@ -1573,7 +1573,7 @@
       "team_code": "CUW",
       "country": "Curaçao",
       "sticker_number": 2,
-      "owned": false
+      "owned": true
     },
     "CUW03": {
       "team_code": "CUW",
@@ -2329,7 +2329,7 @@
       "team_code": "FRA",
       "country": "França",
       "sticker_number": 8,
-      "owned": false
+      "owned": true
     },
     "FRA09": {
       "team_code": "FRA",
@@ -4267,7 +4267,7 @@
       "team_code": "PAN",
       "country": "Panamá",
       "sticker_number": 11,
-      "owned": false
+      "owned": true
     },
     "PAN12": {
       "team_code": "PAN",
@@ -4459,7 +4459,7 @@
       "team_code": "POR",
       "country": "Portugal",
       "sticker_number": 3,
-      "owned": false
+      "owned": true
     },
     "POR04": {
       "team_code": "POR",
@@ -4723,7 +4723,7 @@
       "team_code": "RSA",
       "country": "África do Sul",
       "sticker_number": 7,
-      "owned": false
+      "owned": true
     },
     "RSA08": {
       "team_code": "RSA",
@@ -5551,7 +5551,7 @@
       "team_code": "URU",
       "country": "Uruguai",
       "sticker_number": 5,
-      "owned": false
+      "owned": true
     },
     "URU06": {
       "team_code": "URU",
@@ -5653,7 +5653,7 @@
       "team_code": "USA",
       "country": "Estados Unidos",
       "sticker_number": 2,
-      "owned": false
+      "owned": true
     },
     "USA03": {
       "team_code": "USA",

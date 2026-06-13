@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 803,
+  "owned_count": 811,
   "stickers": [
     {
       "team_code": "ALG",
@@ -590,7 +590,7 @@
       "country": "Bélgica",
       "sticker_number": 4,
       "sticker_id": "BEL04",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "BEL",
@@ -1836,7 +1836,7 @@
       "country": "Curaçao",
       "sticker_number": 2,
       "sticker_id": "CUW02",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CUW",
@@ -2718,7 +2718,7 @@
       "country": "França",
       "sticker_number": 8,
       "sticker_id": "FRA08",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "FRA",
@@ -4979,7 +4979,7 @@
       "country": "Panamá",
       "sticker_number": 11,
       "sticker_id": "PAN11",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "PAN",
@@ -5203,7 +5203,7 @@
       "country": "Portugal",
       "sticker_number": 3,
       "sticker_id": "POR03",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "POR",
@@ -5511,7 +5511,7 @@
       "country": "África do Sul",
       "sticker_number": 7,
       "sticker_id": "RSA07",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "RSA",
@@ -6477,7 +6477,7 @@
       "country": "Uruguai",
       "sticker_number": 5,
       "sticker_id": "URU05",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "URU",
@@ -6596,7 +6596,7 @@
       "country": "Estados Unidos",
       "sticker_number": 2,
       "sticker_id": "USA02",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "USA",
@@ -6865,12 +6865,18 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-13T19:40:45Z",
-  "missing_count": 177,
-  "last_update_source": "chatgpt",
+  "last_updated": "2026-06-13T20:46:44Z",
+  "missing_count": 169,
+  "last_update_source": "chat-photo-review",
   "last_added": [
-    "CIV01",
-    "JOR03"
+    "BEL04",
+    "CUW02",
+    "FRA08",
+    "PAN11",
+    "POR03",
+    "RSA07",
+    "URU05",
+    "USA02"
   ],
   "last_removed": []
 }

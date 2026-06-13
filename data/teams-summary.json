@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T19:40:45Z",
+  "last_updated": "2026-06-13T20:46:44Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -130,11 +130,12 @@
       "team_code": "BEL",
       "country": "Bélgica",
       "stickers_total": 20,
-      "owned_total": 16,
-      "missing_total": 4,
+      "owned_total": 17,
+      "missing_total": 3,
       "owned": [
         "BEL02",
         "BEL03",
+        "BEL04",
         "BEL05",
         "BEL06",
         "BEL07",
@@ -152,7 +153,6 @@
       ],
       "missing": [
         "BEL01",
-        "BEL04",
         "BEL19",
         "BEL20"
       ]
@@ -409,9 +409,10 @@
       "team_code": "CUW",
       "country": "Curaçao",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
+        "CUW02",
         "CUW03",
         "CUW04",
         "CUW06",
@@ -430,7 +431,6 @@
       ],
       "missing": [
         "CUW01",
-        "CUW02",
         "CUW05",
         "CUW10",
         "CUW20"
@@ -595,13 +595,14 @@
       "team_code": "FRA",
       "country": "França",
       "stickers_total": 20,
-      "owned_total": 14,
-      "missing_total": 6,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
         "FRA01",
         "FRA04",
         "FRA05",
         "FRA07",
+        "FRA08",
         "FRA09",
         "FRA10",
         "FRA11",
@@ -617,7 +618,6 @@
         "FRA02",
         "FRA03",
         "FRA06",
-        "FRA08",
         "FRA15",
         "FRA19"
       ]
@@ -1091,8 +1091,8 @@
       "team_code": "PAN",
       "country": "Panamá",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
         "PAN02",
         "PAN03",
@@ -1102,6 +1102,7 @@
         "PAN08",
         "PAN09",
         "PAN10",
+        "PAN11",
         "PAN13",
         "PAN14",
         "PAN15",
@@ -1113,7 +1114,6 @@
       "missing": [
         "PAN01",
         "PAN04",
-        "PAN11",
         "PAN12",
         "PAN17"
       ]
@@ -1153,10 +1153,11 @@
       "team_code": "POR",
       "country": "Portugal",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
         "POR01",
+        "POR03",
         "POR06",
         "POR07",
         "POR08",
@@ -1174,7 +1175,6 @@
       ],
       "missing": [
         "POR02",
-        "POR03",
         "POR04",
         "POR05",
         "POR17"
@@ -1214,8 +1214,8 @@
       "team_code": "RSA",
       "country": "África do Sul",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "RSA01",
         "RSA02",
@@ -1223,6 +1223,7 @@
         "RSA04",
         "RSA05",
         "RSA06",
+        "RSA07",
         "RSA08",
         "RSA09",
         "RSA10",
@@ -1236,7 +1237,6 @@
         "RSA20"
       ],
       "missing": [
-        "RSA07",
         "RSA15",
         "RSA16"
       ]
@@ -1431,13 +1431,14 @@
       "team_code": "URU",
       "country": "Uruguai",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "URU01",
         "URU02",
         "URU03",
         "URU04",
+        "URU05",
         "URU06",
         "URU07",
         "URU08",
@@ -1454,18 +1455,17 @@
         "URU19",
         "URU20"
       ],
-      "missing": [
-        "URU05"
-      ]
+      "missing": []
     },
     {
       "team_code": "USA",
       "country": "Estados Unidos",
       "stickers_total": 20,
-      "owned_total": 12,
-      "missing_total": 8,
+      "owned_total": 13,
+      "missing_total": 7,
       "owned": [
         "USA01",
+        "USA02",
         "USA03",
         "USA06",
         "USA10",
@@ -1479,7 +1479,6 @@
         "USA20"
       ],
       "missing": [
-        "USA02",
         "USA04",
         "USA05",
         "USA07",

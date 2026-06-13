@@ -10,7 +10,6 @@ AUS10,AUS,Austrália,10,False
 AUS16,AUS,Austrália,16,False
 AUS20,AUS,Austrália,20,False
 BEL01,BEL,Bélgica,1,False
-BEL04,BEL,Bélgica,4,False
 BEL19,BEL,Bélgica,19,False
 BEL20,BEL,Bélgica,20,False
 BIH06,BIH,Bósnia,6,False
@@ -45,7 +44,6 @@ CRO11,CRO,Croácia,11,False
 CRO13,CRO,Croácia,13,False
 CRO14,CRO,Croácia,14,False
 CUW01,CUW,Curaçao,1,False
-CUW02,CUW,Curaçao,2,False
 CUW05,CUW,Curaçao,5,False
 CUW10,CUW,Curaçao,10,False
 CUW20,CUW,Curaçao,20,False
@@ -73,7 +71,6 @@ ESP20,ESP,Espanha,20,False
 FRA02,FRA,França,2,False
 FRA03,FRA,França,3,False
 FRA06,FRA,França,6,False
-FRA08,FRA,França,8,False
 FRA15,FRA,França,15,False
 FRA19,FRA,França,19,False
 FWC06,FWC,FIFA World Cup,6,False
@@ -135,7 +132,6 @@ NZL16,NZL,Nova Zelândia,16,False
 NZL17,NZL,Nova Zelândia,17,False
 PAN01,PAN,Panamá,1,False
 PAN04,PAN,Panamá,4,False
-PAN11,PAN,Panamá,11,False
 PAN12,PAN,Panamá,12,False
 PAN17,PAN,Panamá,17,False
 PAR01,PAR,Paraguai,1,False
@@ -145,11 +141,9 @@ PAR14,PAR,Paraguai,14,False
 PAR18,PAR,Paraguai,18,False
 PAR19,PAR,Paraguai,19,False
 POR02,POR,Portugal,2,False
-POR03,POR,Portugal,3,False
 POR04,POR,Portugal,4,False
 POR05,POR,Portugal,5,False
 POR17,POR,Portugal,17,False
-RSA07,RSA,África do Sul,7,False
 RSA15,RSA,África do Sul,15,False
 RSA16,RSA,África do Sul,16,False
 SCO12,SCO,Escócia,12,False
@@ -163,8 +157,6 @@ TUN04,TUN,Tunísia,4,False
 TUN20,TUN,Tunísia,20,False
 TUR02,TUR,Turquia,2,False
 TUR19,TUR,Turquia,19,False
-URU05,URU,Uruguai,5,False
-USA02,USA,Estados Unidos,2,False
 USA04,USA,Estados Unidos,4,False
 USA05,USA,Estados Unidos,5,False
 USA07,USA,Estados Unidos,7,False

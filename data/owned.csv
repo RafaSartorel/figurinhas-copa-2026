@@ -71,6 +71,7 @@ AUT19,AUT,Áustria,19,True
 AUT20,AUT,Áustria,20,True
 BEL02,BEL,Bélgica,2,True
 BEL03,BEL,Bélgica,3,True
+BEL04,BEL,Bélgica,4,True
 BEL05,BEL,Bélgica,5,True
 BEL06,BEL,Bélgica,6,True
 BEL07,BEL,Bélgica,7,True
@@ -214,6 +215,7 @@ CRO17,CRO,Croácia,17,True
 CRO18,CRO,Croácia,18,True
 CRO19,CRO,Croácia,19,True
 CRO20,CRO,Croácia,20,True
+CUW02,CUW,Curaçao,2,True
 CUW03,CUW,Curaçao,3,True
 CUW04,CUW,Curaçao,4,True
 CUW06,CUW,Curaçao,6,True
@@ -312,6 +314,7 @@ FRA01,FRA,França,1,True
 FRA04,FRA,França,4,True
 FRA05,FRA,França,5,True
 FRA07,FRA,França,7,True
+FRA08,FRA,França,8,True
 FRA09,FRA,França,9,True
 FRA10,FRA,França,10,True
 FRA11,FRA,França,11,True
@@ -573,6 +576,7 @@ PAN07,PAN,Panamá,7,True
 PAN08,PAN,Panamá,8,True
 PAN09,PAN,Panamá,9,True
 PAN10,PAN,Panamá,10,True
+PAN11,PAN,Panamá,11,True
 PAN13,PAN,Panamá,13,True
 PAN14,PAN,Panamá,14,True
 PAN15,PAN,Panamá,15,True
@@ -595,6 +599,7 @@ PAR16,PAR,Paraguai,16,True
 PAR17,PAR,Paraguai,17,True
 PAR20,PAR,Paraguai,20,True
 POR01,POR,Portugal,1,True
+POR03,POR,Portugal,3,True
 POR06,POR,Portugal,6,True
 POR07,POR,Portugal,7,True
 POR08,POR,Portugal,8,True
@@ -635,6 +640,7 @@ RSA03,RSA,África do Sul,3,True
 RSA04,RSA,África do Sul,4,True
 RSA05,RSA,África do Sul,5,True
 RSA06,RSA,África do Sul,6,True
+RSA07,RSA,África do Sul,7,True
 RSA08,RSA,África do Sul,8,True
 RSA09,RSA,África do Sul,9,True
 RSA10,RSA,África do Sul,10,True
@@ -759,6 +765,7 @@ URU01,URU,Uruguai,1,True
 URU02,URU,Uruguai,2,True
 URU03,URU,Uruguai,3,True
 URU04,URU,Uruguai,4,True
+URU05,URU,Uruguai,5,True
 URU06,URU,Uruguai,6,True
 URU07,URU,Uruguai,7,True
 URU08,URU,Uruguai,8,True
@@ -775,6 +782,7 @@ URU18,URU,Uruguai,18,True
 URU19,URU,Uruguai,19,True
 URU20,URU,Uruguai,20,True
 USA01,USA,Estados Unidos,1,True
+USA02,USA,Estados Unidos,2,True
 USA03,USA,Estados Unidos,3,True
 USA06,USA,Estados Unidos,6,True
 USA10,USA,Estados Unidos,10,True
