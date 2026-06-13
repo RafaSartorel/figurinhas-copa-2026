@@ -1,4 +1,5 @@
 sticker_id,team_code,country,sticker_number,quantity
+ALG02,ALG,Argélia,2,1
 ALG11,ALG,Argélia,11,1
 ALG16,ALG,Argélia,16,1
 AUS09,AUS,Austrália,9,1
@@ -8,31 +9,42 @@ AUT02,AUT,Áustria,2,1
 AUT08,AUT,Áustria,8,1
 AUT11,AUT,Áustria,11,1
 AUT13,AUT,Áustria,13,1
+AUT14,AUT,Áustria,14,1
 BEL09,BEL,Bélgica,9,1
 BEL14,BEL,Bélgica,14,1
+BIH03,BIH,Bósnia,3,1
 BIH09,BIH,Bósnia,9,1
 BIH11,BIH,Bósnia,11,1
 BIH18,BIH,Bósnia,18,1
 BRA11,BRA,Brasil,11,1
 BRA20,BRA,Brasil,20,1
 CAN07,CAN,Canadá,7,1
+CAN08,CAN,Canadá,8,1
 CAN11,CAN,Canadá,11,1
 CAN13,CAN,Canadá,13,1
+CAN17,CAN,Canadá,17,1
 CIV17,CIV,Costa do Marfim,17,1
 CIV19,CIV,Costa do Marfim,19,2
+COD01,COD,Congo,1,1
+COD04,COD,Congo,4,1
 COD05,COD,Congo,5,2
 COD18,COD,Congo,18,1
+COL15,COL,Colômbia,15,1
 CPV06,CPV,Cabo Verde,6,1
 CPV11,CPV,Cabo Verde,11,1
 CPV14,CPV,Cabo Verde,14,1
+CPV15,CPV,Cabo Verde,15,1
 CRO04,CRO,Croácia,4,1
 CUW06,CUW,Curaçao,6,2
 CUW08,CUW,Curaçao,8,1
 CZE05,CZE,Rep. Tcheca,5,1
-CZE09,CZE,Rep. Tcheca,9,2
+CZE09,CZE,Rep. Tcheca,9,3
 CZE14,CZE,Rep. Tcheca,14,1
+ECU04,ECU,Equador,4,1
 ECU13,ECU,Equador,13,1
 ECU18,ECU,Equador,18,1
+EGY08,EGY,Egito,8,1
+ESP05,ESP,Espanha,5,1
 FRA07,FRA,França,7,1
 FWC01,FWC,FIFA World Cup,1,1
 FWC09,FWC,FIFA World Cup,9,2
@@ -47,6 +59,7 @@ IRN13,IRN,Irã,13,1
 IRN20,IRN,Irã,20,1
 IRQ20,IRQ,Iraque,20,1
 JOR09,JOR,Jordânia,9,1
+JOR17,JOR,Jordânia,17,1
 JPN14,JPN,Japão,14,1
 KOR07,KOR,Coreia do Sul,7,1
 KOR08,KOR,Coreia do Sul,8,1
@@ -80,6 +93,7 @@ RSA13,RSA,África do Sul,13,1
 RSA20,RSA,África do Sul,20,1
 SCO02,SCO,Escócia,2,2
 SCO03,SCO,Escócia,3,2
+SCO10,SCO,Escócia,10,1
 SCO11,SCO,Escócia,11,1
 SCO15,SCO,Escócia,15,1
 SCO17,SCO,Escócia,17,1
@@ -94,17 +108,18 @@ SWE03,SWE,Suécia,3,1
 SWE05,SWE,Suécia,5,1
 SWE14,SWE,Suécia,14,1
 SWE17,SWE,Suécia,17,1
-TUR12,TUR,Turquia,12,1
+TUN03,TUN,Tunísia,3,1
+TUR12,TUR,Turquia,12,2
 URU08,URU,Uruguai,8,1
 URU09,URU,Uruguai,9,2
 URU12,URU,Uruguai,12,1
-URU15,URU,Uruguai,15,1
+URU15,URU,Uruguai,15,2
 USA12,USA,Estados Unidos,12,1
-USA18,USA,Estados Unidos,18,1
+USA18,USA,Estados Unidos,18,2
 UZB03,UZB,Uzbequistão,3,1
 UZB07,UZB,Uzbequistão,7,1
 UZB12,UZB,Uzbequistão,12,1
 UZB17,UZB,Uzbequistão,17,2
 UZB18,UZB,Uzbequistão,18,2
-UZB19,UZB,Uzbequistão,19,1
+UZB19,UZB,Uzbequistão,19,2
 UZB20,UZB,Uzbequistão,20,2
