@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 801,
+  "owned_count": 803,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1129,7 +1129,7 @@
       "country": "Costa do Marfim",
       "sticker_number": 1,
       "sticker_id": "CIV01",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CIV",
@@ -3663,7 +3663,7 @@
       "country": "Jordânia",
       "sticker_number": 3,
       "sticker_id": "JOR03",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "JOR",
@@ -6865,15 +6865,12 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-13T19:40:22Z",
-  "missing_count": 179,
-  "last_update_source": "foto",
+  "last_updated": "2026-06-13T19:40:45Z",
+  "missing_count": 177,
+  "last_update_source": "chatgpt",
   "last_added": [
-    "CIV07",
-    "CIV10",
-    "ENG06",
-    "ENG13",
-    "FRA10"
+    "CIV01",
+    "JOR03"
   ],
   "last_removed": []
 }

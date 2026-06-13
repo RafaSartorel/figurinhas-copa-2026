@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T19:40:22Z",
+  "last_updated": "2026-06-13T19:40:45Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -967,7 +967,7 @@
       "team_code": "CIV",
       "country": "Costa do Marfim",
       "sticker_number": 1,
-      "owned": false
+      "owned": true
     },
     "CIV02": {
       "team_code": "CIV",
@@ -3139,7 +3139,7 @@
       "team_code": "JOR",
       "country": "Jordânia",
       "sticker_number": 3,
-      "owned": false
+      "owned": true
     },
     "JOR04": {
       "team_code": "JOR",

@@ -138,6 +138,7 @@ CAN16,CAN,Canadá,16,True
 CAN17,CAN,Canadá,17,True
 CAN19,CAN,Canadá,19,True
 CAN20,CAN,Canadá,20,True
+CIV01,CIV,Costa do Marfim,1,True
 CIV02,CIV,Costa do Marfim,2,True
 CIV03,CIV,Costa do Marfim,3,True
 CIV05,CIV,Costa do Marfim,5,True
@@ -417,6 +418,7 @@ IRQ18,IRQ,Iraque,18,True
 IRQ19,IRQ,Iraque,19,True
 IRQ20,IRQ,Iraque,20,True
 JOR01,JOR,Jordânia,1,True
+JOR03,JOR,Jordânia,3,True
 JOR04,JOR,Jordânia,4,True
 JOR05,JOR,Jordânia,5,True
 JOR06,JOR,Jordânia,6,True

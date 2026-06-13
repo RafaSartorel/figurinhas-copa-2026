@@ -1,29 +1,23 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T19:40:22Z",
-  "last_update_source": "foto",
+  "last_updated": "2026-06-13T19:40:45Z",
+  "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 801,
-    "missing_total": 179,
-    "progress_percent": 81.73
+    "owned_total": 803,
+    "missing_total": 177,
+    "progress_percent": 81.94
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "CIV07",
-      "CIV10",
-      "ENG06",
-      "ENG13",
-      "FRA10"
+      "CIV01",
+      "JOR03"
     ],
     "added": [
-      "CIV07",
-      "CIV10",
-      "ENG06",
-      "ENG13",
-      "FRA10"
+      "CIV01",
+      "JOR03"
     ],
     "removed": [],
     "already_owned": [],

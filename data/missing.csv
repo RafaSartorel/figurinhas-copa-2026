@@ -20,7 +20,6 @@ BRA04,BRA,Brasil,4,False
 BRA08,BRA,Brasil,8,False
 CAN15,CAN,Canadá,15,False
 CAN18,CAN,Canadá,18,False
-CIV01,CIV,Costa do Marfim,1,False
 CIV04,CIV,Costa do Marfim,4,False
 CIV11,CIV,Costa do Marfim,11,False
 CIV16,CIV,Costa do Marfim,16,False
@@ -103,7 +102,6 @@ IRQ03,IRQ,Iraque,3,False
 IRQ07,IRQ,Iraque,7,False
 IRQ16,IRQ,Iraque,16,False
 JOR02,JOR,Jordânia,2,False
-JOR03,JOR,Jordânia,3,False
 JPN01,JPN,Japão,1,False
 JPN04,JPN,Japão,4,False
 JPN12,JPN,Japão,12,False
