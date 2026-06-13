@@ -1,23 +1,21 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T18:12:46Z",
-  "last_update_source": "foto_chatgpt",
+  "last_updated": "2026-06-13T18:15:56Z",
+  "last_update_source": "foto",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 774,
-    "missing_total": 206,
-    "progress_percent": 78.98
+    "owned_total": 775,
+    "missing_total": 205,
+    "progress_percent": 79.08
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "AUS09",
-      "PAN08"
+      "KSA01"
     ],
     "added": [
-      "AUS09",
-      "PAN08"
+      "KSA01"
     ],
     "removed": [],
     "already_owned": [],

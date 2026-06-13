@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T18:12:46Z",
+  "last_updated": "2026-06-13T18:15:56Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -905,9 +905,10 @@
       "team_code": "KSA",
       "country": "Arábia Saudita",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
+        "KSA01",
         "KSA02",
         "KSA04",
         "KSA05",
@@ -927,7 +928,6 @@
         "KSA20"
       ],
       "missing": [
-        "KSA01",
         "KSA03",
         "KSA08"
       ]

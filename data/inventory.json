@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 774,
+  "owned_count": 775,
   "stickers": [
     {
       "team_code": "ALG",
@@ -4069,7 +4069,7 @@
       "country": "Arábia Saudita",
       "sticker_number": 1,
       "sticker_id": "KSA01",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "KSA",
@@ -6865,12 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-13T18:12:46Z",
-  "missing_count": 206,
-  "last_update_source": "foto_chatgpt",
+  "last_updated": "2026-06-13T18:15:56Z",
+  "missing_count": 205,
+  "last_update_source": "foto",
   "last_added": [
-    "AUS09",
-    "PAN08"
+    "KSA01"
   ],
   "last_removed": []
 }
