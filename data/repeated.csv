@@ -1,21 +1,45 @@
 sticker_id,team_code,country,sticker_number,quantity
 AUS13,AUS,Austrália,13,1
 AUT13,AUT,Áustria,13,1
+BIH11,BIH,Bósnia,11,1
 CAN13,CAN,Canadá,13,1
+CIV19,CIV,Costa do Marfim,19,2
 COD18,COD,Congo,18,1
+CPV06,CPV,Cabo Verde,6,1
+CRO04,CRO,Croácia,4,1
 CUW06,CUW,Curaçao,6,1
+CUW08,CUW,Curaçao,8,1
 ECU13,ECU,Equador,13,1
 FWC09,FWC,FIFA World Cup,9,2
 FWC10,FWC,FIFA World Cup,10,1
 FWC12,FWC,FIFA World Cup,12,1
 FWC17,FWC,FIFA World Cup,17,1
+GER12,GER,Alemanha,12,1
 IRN13,IRN,Irã,13,1
+IRN20,IRN,Irã,20,1
+KOR20,KOR,Coreia do Sul,20,1
+KSA05,KSA,Arábia Saudita,5,1
 MAR03,MAR,Marrocos,3,1
+NED14,NED,Holanda,14,1
+NOR12,NOR,Noruega,12,1
 NZL13,NZL,Nova Zelândia,13,1
+NZL14,NZL,Nova Zelândia,14,1
 QAT13,QAT,Catar,13,1
+QAT14,QAT,Catar,14,1
+RSA02,RSA,África do Sul,2,1
+RSA10,RSA,África do Sul,10,1
+RSA20,RSA,África do Sul,20,1
+SCO03,SCO,Escócia,3,1
 SCO20,SCO,Escócia,20,1
 SUI12,SUI,Suíça,12,1
 SWE03,SWE,Suécia,3,1
 SWE05,SWE,Suécia,5,1
+SWE14,SWE,Suécia,14,1
+URU08,URU,Uruguai,8,1
 USA12,USA,Estados Unidos,12,1
+USA18,USA,Estados Unidos,18,1
+UZB03,UZB,Uzbequistão,3,1
+UZB07,UZB,Uzbequistão,7,1
+UZB12,UZB,Uzbequistão,12,1
 UZB18,UZB,Uzbequistão,18,1
+UZB20,UZB,Uzbequistão,20,1
