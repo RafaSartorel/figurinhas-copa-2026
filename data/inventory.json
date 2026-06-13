@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 815,
+  "owned_count": 816,
   "stickers": [
     {
       "team_code": "ALG",
@@ -4930,7 +4930,7 @@
       "country": "Panamá",
       "sticker_number": 4,
       "sticker_id": "PAN04",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "PAN",
@@ -6865,12 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-13T21:05:59Z",
-  "missing_count": 165,
+  "last_updated": "2026-06-13T21:14:35Z",
+  "missing_count": 164,
   "last_update_source": "foto",
   "last_added": [
-    "HAI16",
-    "TUN04"
+    "PAN04"
   ],
   "last_removed": []
 }

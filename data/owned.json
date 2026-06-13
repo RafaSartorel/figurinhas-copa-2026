@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T21:05:59Z",
+  "last_updated": "2026-06-13T21:14:35Z",
   "stickers": [
     "ALG02",
     "ALG03",
@@ -575,6 +575,7 @@
     "NZL20",
     "PAN02",
     "PAN03",
+    "PAN04",
     "PAN05",
     "PAN06",
     "PAN07",

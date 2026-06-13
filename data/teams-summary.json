@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T21:05:59Z",
+  "last_updated": "2026-06-13T21:14:35Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -1091,11 +1091,12 @@
       "team_code": "PAN",
       "country": "Panamá",
       "stickers_total": 20,
-      "owned_total": 16,
-      "missing_total": 4,
+      "owned_total": 17,
+      "missing_total": 3,
       "owned": [
         "PAN02",
         "PAN03",
+        "PAN04",
         "PAN05",
         "PAN06",
         "PAN07",
@@ -1113,7 +1114,6 @@
       ],
       "missing": [
         "PAN01",
-        "PAN04",
         "PAN12",
         "PAN17"
       ]

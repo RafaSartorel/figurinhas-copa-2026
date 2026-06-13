@@ -1,23 +1,21 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T21:05:59Z",
+  "last_updated": "2026-06-13T21:14:35Z",
   "last_update_source": "foto",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 815,
-    "missing_total": 165,
-    "progress_percent": 83.16
+    "owned_total": 816,
+    "missing_total": 164,
+    "progress_percent": 83.27
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "HAI16",
-      "TUN04"
+      "PAN04"
     ],
     "added": [
-      "HAI16",
-      "TUN04"
+      "PAN04"
     ],
     "removed": [],
     "already_owned": [],
