@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T18:20:25Z",
+  "last_updated": "2026-06-13T18:21:10Z",
   "stickers": [
     "ALG01",
     "ALG05",
@@ -28,7 +28,6 @@
     "CIV01",
     "CIV04",
     "CIV07",
-    "CIV08",
     "CIV10",
     "CIV11",
     "CIV16",
@@ -93,7 +92,6 @@
     "FRA08",
     "FRA10",
     "FRA12",
-    "FRA13",
     "FRA15",
     "FRA19",
     "FWC06",
@@ -112,7 +110,6 @@
     "HAI08",
     "HAI13",
     "HAI16",
-    "HAI18",
     "IRN01",
     "IRN03",
     "IRN11",

@@ -24,7 +24,6 @@ CAN18,CAN,Canadá,18,False
 CIV01,CIV,Costa do Marfim,1,False
 CIV04,CIV,Costa do Marfim,4,False
 CIV07,CIV,Costa do Marfim,7,False
-CIV08,CIV,Costa do Marfim,8,False
 CIV10,CIV,Costa do Marfim,10,False
 CIV11,CIV,Costa do Marfim,11,False
 CIV16,CIV,Costa do Marfim,16,False
@@ -89,7 +88,6 @@ FRA06,FRA,França,6,False
 FRA08,FRA,França,8,False
 FRA10,FRA,França,10,False
 FRA12,FRA,França,12,False
-FRA13,FRA,França,13,False
 FRA15,FRA,França,15,False
 FRA19,FRA,França,19,False
 FWC06,FWC,FIFA World Cup,6,False
@@ -108,7 +106,6 @@ HAI01,HAI,Haiti,1,False
 HAI08,HAI,Haiti,8,False
 HAI13,HAI,Haiti,13,False
 HAI16,HAI,Haiti,16,False
-HAI18,HAI,Haiti,18,False
 IRN01,IRN,Irã,1,False
 IRN03,IRN,Irã,3,False
 IRN11,IRN,Irã,11,False

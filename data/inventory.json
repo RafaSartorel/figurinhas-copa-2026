@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 776,
+  "owned_count": 779,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1178,7 +1178,7 @@
       "country": "Costa do Marfim",
       "sticker_number": 8,
       "sticker_id": "CIV08",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CIV",
@@ -2753,7 +2753,7 @@
       "country": "França",
       "sticker_number": 13,
       "sticker_id": "FRA13",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "FRA",
@@ -3348,7 +3348,7 @@
       "country": "Haiti",
       "sticker_number": 18,
       "sticker_id": "HAI18",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "HAI",
@@ -6865,11 +6865,13 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-13T18:20:25Z",
-  "missing_count": 204,
+  "last_updated": "2026-06-13T18:21:10Z",
+  "missing_count": 201,
   "last_update_source": "foto",
   "last_added": [
-    "GHA13"
+    "CIV08",
+    "FRA13",
+    "HAI18"
   ],
   "last_removed": []
 }

@@ -141,6 +141,7 @@ CIV02,CIV,Costa do Marfim,2,True
 CIV03,CIV,Costa do Marfim,3,True
 CIV05,CIV,Costa do Marfim,5,True
 CIV06,CIV,Costa do Marfim,6,True
+CIV08,CIV,Costa do Marfim,8,True
 CIV09,CIV,Costa do Marfim,9,True
 CIV12,CIV,Costa do Marfim,12,True
 CIV13,CIV,Costa do Marfim,13,True
@@ -301,6 +302,7 @@ FRA05,FRA,França,5,True
 FRA07,FRA,França,7,True
 FRA09,FRA,França,9,True
 FRA11,FRA,França,11,True
+FRA13,FRA,França,13,True
 FRA14,FRA,França,14,True
 FRA16,FRA,França,16,True
 FRA17,FRA,França,17,True
@@ -367,6 +369,7 @@ HAI12,HAI,Haiti,12,True
 HAI14,HAI,Haiti,14,True
 HAI15,HAI,Haiti,15,True
 HAI17,HAI,Haiti,17,True
+HAI18,HAI,Haiti,18,True
 HAI19,HAI,Haiti,19,True
 HAI20,HAI,Haiti,20,True
 IRN02,IRN,Irã,2,True
