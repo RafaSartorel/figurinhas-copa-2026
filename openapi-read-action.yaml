@@ -1,0 +1,139 @@
+openapi: 3.1.0
+info:
+  title: Figurinhas Copa 2026 Read API
+  description: Consulta os arquivos atuais da base de figurinhas no GitHub para evitar usar contexto da conversa como fonte da verdade.
+  version: 1.0.0
+
+servers:
+  - url: https://raw.githubusercontent.com
+
+paths:
+  /RafaSartorel/figurinhas-copa-2026/main/data/summary.json:
+    get:
+      operationId: getCollectionSummary
+      summary: Consultar resumo da coleção principal
+      description: Retorna totais atuais da coleção principal, incluindo tenho, faltam e progresso.
+      responses:
+        "200":
+          description: Resumo da coleção principal.
+          content:
+            application/json:
+              schema:
+                type: object
+
+  /RafaSartorel/figurinhas-copa-2026/main/data/owned.json:
+    get:
+      operationId: getOwnedStickers
+      summary: Consultar figurinhas que tenho
+      description: Retorna a lista atual de sticker_id das figurinhas marcadas como tenho.
+      responses:
+        "200":
+          description: Lista de figurinhas que tenho.
+          content:
+            application/json:
+              schema:
+                type: object
+
+  /RafaSartorel/figurinhas-copa-2026/main/data/missing.json:
+    get:
+      operationId: getMissingStickers
+      summary: Consultar figurinhas que faltam
+      description: Retorna a lista atual de sticker_id das figurinhas que ainda faltam.
+      responses:
+        "200":
+          description: Lista de figurinhas que faltam.
+          content:
+            application/json:
+              schema:
+                type: object
+
+  /RafaSartorel/figurinhas-copa-2026/main/data/index.json:
+    get:
+      operationId: getStickerIndex
+      summary: Consultar índice completo por sticker_id
+      description: Retorna o índice atual de figurinhas por sticker_id, com seleção, país, número e status na coleção principal.
+      responses:
+        "200":
+          description: Índice completo por sticker_id.
+          content:
+            application/json:
+              schema:
+                type: object
+
+  /RafaSartorel/figurinhas-copa-2026/main/data/teams-summary.json:
+    get:
+      operationId: getTeamsSummary
+      summary: Consultar resumo por seleção
+      description: Retorna o progresso atual por seleção ou país.
+      responses:
+        "200":
+          description: Resumo por seleção.
+          content:
+            application/json:
+              schema:
+                type: object
+
+  /RafaSartorel/figurinhas-copa-2026/main/data/repeated.json:
+    get:
+      operationId: getRepeatedStickers
+      summary: Consultar base de repetidas
+      description: Retorna a lista atual de figurinhas repetidas, com quantity por sticker_id.
+      responses:
+        "200":
+          description: Base atual de repetidas.
+          content:
+            application/json:
+              schema:
+                type: object
+
+  /RafaSartorel/figurinhas-copa-2026/main/data/repeated-summary.json:
+    get:
+      operationId: getRepeatedSummary
+      summary: Consultar resumo das repetidas
+      description: Retorna totais atuais de repetidas e resumo por seleção.
+      responses:
+        "200":
+          description: Resumo da base de repetidas.
+          content:
+            application/json:
+              schema:
+                type: object
+
+  /RafaSartorel/figurinhas-copa-2026/main/data/owned.csv:
+    get:
+      operationId: getOwnedStickersCsv
+      summary: Consultar CSV de figurinhas que tenho
+      description: Retorna a exportação CSV atual das figurinhas que tenho.
+      responses:
+        "200":
+          description: CSV de figurinhas que tenho.
+          content:
+            text/csv:
+              schema:
+                type: string
+
+  /RafaSartorel/figurinhas-copa-2026/main/data/missing.csv:
+    get:
+      operationId: getMissingStickersCsv
+      summary: Consultar CSV de figurinhas que faltam
+      description: Retorna a exportação CSV atual das figurinhas que faltam.
+      responses:
+        "200":
+          description: CSV de figurinhas que faltam.
+          content:
+            text/csv:
+              schema:
+                type: string
+
+  /RafaSartorel/figurinhas-copa-2026/main/data/repeated.csv:
+    get:
+      operationId: getRepeatedStickersCsv
+      summary: Consultar CSV de repetidas
+      description: Retorna a exportação CSV atual das figurinhas repetidas.
+      responses:
+        "200":
+          description: CSV de figurinhas repetidas.
+          content:
+            text/csv:
+              schema:
+                type: string
