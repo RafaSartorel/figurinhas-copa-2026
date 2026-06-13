@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 836,
+  "owned_count": 837,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1108,7 +1108,7 @@
       "country": "Canadá",
       "sticker_number": 18,
       "sticker_id": "CAN18",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CAN",
@@ -6865,12 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-13T23:23:34Z",
-  "missing_count": 144,
+  "last_updated": "2026-06-13T23:33:29Z",
+  "missing_count": 143,
   "last_update_source": "foto",
   "last_added": [
-    "BIH13",
-    "CRO14"
+    "CAN18"
   ],
   "last_removed": []
 }

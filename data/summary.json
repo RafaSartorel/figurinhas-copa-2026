@@ -1,23 +1,21 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T23:23:34Z",
+  "last_updated": "2026-06-13T23:33:29Z",
   "last_update_source": "foto",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 836,
-    "missing_total": 144,
-    "progress_percent": 85.31
+    "owned_total": 837,
+    "missing_total": 143,
+    "progress_percent": 85.41
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "BIH13",
-      "CRO14"
+      "CAN18"
     ],
     "added": [
-      "BIH13",
-      "CRO14"
+      "CAN18"
     ],
     "removed": [],
     "already_owned": [],
