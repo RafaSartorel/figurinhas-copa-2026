@@ -1,21 +1,29 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T21:14:35Z",
+  "last_updated": "2026-06-13T21:15:50Z",
   "last_update_source": "foto",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 816,
-    "missing_total": 164,
-    "progress_percent": 83.27
+    "owned_total": 821,
+    "missing_total": 159,
+    "progress_percent": 83.78
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "PAN04"
+      "ENG01",
+      "IRN11",
+      "IRN16",
+      "PAN01",
+      "SEN01"
     ],
     "added": [
-      "PAN04"
+      "ENG01",
+      "IRN11",
+      "IRN16",
+      "PAN01",
+      "SEN01"
     ],
     "removed": [],
     "already_owned": [],

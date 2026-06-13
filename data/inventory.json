@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 816,
+  "owned_count": 821,
   "stickers": [
     {
       "team_code": "ALG",
@@ -2389,7 +2389,7 @@
       "country": "Inglaterra",
       "sticker_number": 1,
       "sticker_id": "ENG01",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ENG",
@@ -3439,7 +3439,7 @@
       "country": "Irã",
       "sticker_number": 11,
       "sticker_id": "IRN11",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "IRN",
@@ -3474,7 +3474,7 @@
       "country": "Irã",
       "sticker_number": 16,
       "sticker_id": "IRN16",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "IRN",
@@ -4909,7 +4909,7 @@
       "country": "Panamá",
       "sticker_number": 1,
       "sticker_id": "PAN01",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "PAN",
@@ -5749,7 +5749,7 @@
       "country": "Senegal",
       "sticker_number": 1,
       "sticker_id": "SEN01",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "SEN",
@@ -6865,11 +6865,15 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-13T21:14:35Z",
-  "missing_count": 164,
+  "last_updated": "2026-06-13T21:15:50Z",
+  "missing_count": 159,
   "last_update_source": "foto",
   "last_added": [
-    "PAN04"
+    "ENG01",
+    "IRN11",
+    "IRN16",
+    "PAN01",
+    "SEN01"
   ],
   "last_removed": []
 }

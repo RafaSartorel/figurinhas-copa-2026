@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T21:14:35Z",
+  "last_updated": "2026-06-13T21:15:50Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -533,9 +533,10 @@
       "team_code": "ENG",
       "country": "Inglaterra",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
+        "ENG01",
         "ENG03",
         "ENG04",
         "ENG05",
@@ -555,7 +556,6 @@
         "ENG19"
       ],
       "missing": [
-        "ENG01",
         "ENG02",
         "ENG20"
       ]
@@ -750,8 +750,8 @@
       "team_code": "IRN",
       "country": "Irã",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 17,
+      "missing_total": 3,
       "owned": [
         "IRN02",
         "IRN04",
@@ -761,10 +761,12 @@
         "IRN08",
         "IRN09",
         "IRN10",
+        "IRN11",
         "IRN12",
         "IRN13",
         "IRN14",
         "IRN15",
+        "IRN16",
         "IRN17",
         "IRN18",
         "IRN20"
@@ -772,8 +774,6 @@
       "missing": [
         "IRN01",
         "IRN03",
-        "IRN11",
-        "IRN16",
         "IRN19"
       ]
     },
@@ -1091,9 +1091,10 @@
       "team_code": "PAN",
       "country": "Panamá",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
+        "PAN01",
         "PAN02",
         "PAN03",
         "PAN04",
@@ -1113,7 +1114,6 @@
         "PAN20"
       ],
       "missing": [
-        "PAN01",
         "PAN12",
         "PAN17"
       ]
@@ -1276,9 +1276,10 @@
       "team_code": "SEN",
       "country": "Senegal",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
+        "SEN01",
         "SEN02",
         "SEN03",
         "SEN04",
@@ -1299,9 +1300,7 @@
         "SEN19",
         "SEN20"
       ],
-      "missing": [
-        "SEN01"
-      ]
+      "missing": []
     },
     {
       "team_code": "SUI",

@@ -57,7 +57,6 @@ EGY01,EGY,Egito,1,False
 EGY12,EGY,Egito,12,False
 EGY14,EGY,Egito,14,False
 EGY17,EGY,Egito,17,False
-ENG01,ENG,Inglaterra,1,False
 ENG02,ENG,Inglaterra,2,False
 ENG20,ENG,Inglaterra,20,False
 ESP04,ESP,Espanha,4,False
@@ -90,8 +89,6 @@ HAI08,HAI,Haiti,8,False
 HAI13,HAI,Haiti,13,False
 IRN01,IRN,Irã,1,False
 IRN03,IRN,Irã,3,False
-IRN11,IRN,Irã,11,False
-IRN16,IRN,Irã,16,False
 IRN19,IRN,Irã,19,False
 IRQ02,IRQ,Iraque,2,False
 IRQ03,IRQ,Iraque,3,False
@@ -129,7 +126,6 @@ NOR17,NOR,Noruega,17,False
 NZL04,NZL,Nova Zelândia,4,False
 NZL16,NZL,Nova Zelândia,16,False
 NZL17,NZL,Nova Zelândia,17,False
-PAN01,PAN,Panamá,1,False
 PAN12,PAN,Panamá,12,False
 PAN17,PAN,Panamá,17,False
 PAR01,PAR,Paraguai,1,False
@@ -145,7 +141,6 @@ POR17,POR,Portugal,17,False
 RSA15,RSA,África do Sul,15,False
 RSA16,RSA,África do Sul,16,False
 SCO12,SCO,Escócia,12,False
-SEN01,SEN,Senegal,1,False
 SUI04,SUI,Suíça,4,False
 SWE13,SWE,Suécia,13,False
 SWE16,SWE,Suécia,16,False
