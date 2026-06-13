@@ -34,9 +34,12 @@ CZE14,CZE,Rep. Tcheca,14,1
 ECU13,ECU,Equador,13,1
 ECU18,ECU,Equador,18,1
 FRA07,FRA,França,7,1
+FWC01,FWC,FIFA World Cup,1,1
 FWC09,FWC,FIFA World Cup,9,2
 FWC10,FWC,FIFA World Cup,10,1
 FWC12,FWC,FIFA World Cup,12,1
+FWC14,FWC,FIFA World Cup,14,1
+FWC15,FWC,FIFA World Cup,15,1
 FWC17,FWC,FIFA World Cup,17,1
 GER12,GER,Alemanha,12,1
 GER20,GER,Alemanha,20,1
@@ -52,6 +55,7 @@ KOR12,KOR,Coreia do Sul,12,1
 KOR20,KOR,Coreia do Sul,20,2
 KSA05,KSA,Arábia Saudita,5,1
 KSA06,KSA,Arábia Saudita,6,1
+KSA13,KSA,Arábia Saudita,13,1
 KSA16,KSA,Arábia Saudita,16,1
 MAR02,MAR,Marrocos,2,1
 MAR03,MAR,Marrocos,3,1
@@ -72,6 +76,7 @@ RSA02,RSA,África do Sul,2,1
 RSA03,RSA,África do Sul,3,1
 RSA05,RSA,África do Sul,5,1
 RSA10,RSA,África do Sul,10,1
+RSA13,RSA,África do Sul,13,1
 RSA20,RSA,África do Sul,20,1
 SCO02,SCO,Escócia,2,2
 SCO03,SCO,Escócia,3,2

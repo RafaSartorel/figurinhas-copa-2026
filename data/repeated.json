@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T18:25:44Z",
+  "last_updated": "2026-06-13T18:28:26Z",
   "last_update_source": "foto",
   "totals": {
-    "repeated_total": 116,
-    "unique_repeated_total": 104
+    "repeated_total": 121,
+    "unique_repeated_total": 109
   },
   "stickers": [
     {
@@ -254,6 +254,13 @@
       "quantity": 1
     },
     {
+      "sticker_id": "FWC01",
+      "team_code": "FWC",
+      "country": "FIFA World Cup",
+      "sticker_number": 1,
+      "quantity": 1
+    },
+    {
       "sticker_id": "FWC09",
       "team_code": "FWC",
       "country": "FIFA World Cup",
@@ -272,6 +279,20 @@
       "team_code": "FWC",
       "country": "FIFA World Cup",
       "sticker_number": 12,
+      "quantity": 1
+    },
+    {
+      "sticker_id": "FWC14",
+      "team_code": "FWC",
+      "country": "FIFA World Cup",
+      "sticker_number": 14,
+      "quantity": 1
+    },
+    {
+      "sticker_id": "FWC15",
+      "team_code": "FWC",
+      "country": "FIFA World Cup",
+      "sticker_number": 15,
       "quantity": 1
     },
     {
@@ -377,6 +398,13 @@
       "team_code": "KSA",
       "country": "Arábia Saudita",
       "sticker_number": 6,
+      "quantity": 1
+    },
+    {
+      "sticker_id": "KSA13",
+      "team_code": "KSA",
+      "country": "Arábia Saudita",
+      "sticker_number": 13,
       "quantity": 1
     },
     {
@@ -517,6 +545,13 @@
       "team_code": "RSA",
       "country": "África do Sul",
       "sticker_number": 10,
+      "quantity": 1
+    },
+    {
+      "sticker_id": "RSA13",
+      "team_code": "RSA",
+      "country": "África do Sul",
+      "sticker_number": 13,
       "quantity": 1
     },
     {
