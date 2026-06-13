@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T18:27:09Z",
+  "last_updated": "2026-06-13T19:24:37Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -285,8 +285,8 @@
       "team_code": "COD",
       "country": "Congo",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
         "COD01",
         "COD02",
@@ -298,6 +298,7 @@
         "COD10",
         "COD11",
         "COD12",
+        "COD13",
         "COD14",
         "COD16",
         "COD17",
@@ -307,7 +308,6 @@
       "missing": [
         "COD03",
         "COD08",
-        "COD13",
         "COD15",
         "COD19"
       ]
@@ -378,8 +378,8 @@
       "team_code": "CRO",
       "country": "Croácia",
       "stickers_total": 20,
-      "owned_total": 9,
-      "missing_total": 11,
+      "owned_total": 11,
+      "missing_total": 9,
       "owned": [
         "CRO04",
         "CRO08",
@@ -387,9 +387,11 @@
         "CRO10",
         "CRO12",
         "CRO15",
+        "CRO16",
         "CRO17",
         "CRO18",
-        "CRO19"
+        "CRO19",
+        "CRO20"
       ],
       "missing": [
         "CRO01",
@@ -400,9 +402,7 @@
         "CRO07",
         "CRO11",
         "CRO13",
-        "CRO14",
-        "CRO16",
-        "CRO20"
+        "CRO14"
       ]
     },
     {
@@ -843,8 +843,8 @@
       "team_code": "JPN",
       "country": "Japão",
       "stickers_total": 20,
-      "owned_total": 13,
-      "missing_total": 7,
+      "owned_total": 14,
+      "missing_total": 6,
       "owned": [
         "JPN02",
         "JPN03",
@@ -855,6 +855,7 @@
         "JPN09",
         "JPN10",
         "JPN11",
+        "JPN13",
         "JPN14",
         "JPN15",
         "JPN16",
@@ -864,7 +865,6 @@
         "JPN01",
         "JPN04",
         "JPN12",
-        "JPN13",
         "JPN17",
         "JPN19",
         "JPN20"
@@ -874,8 +874,8 @@
       "team_code": "KOR",
       "country": "Coreia do Sul",
       "stickers_total": 20,
-      "owned_total": 14,
-      "missing_total": 6,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
         "KOR01",
         "KOR03",
@@ -887,6 +887,7 @@
         "KOR11",
         "KOR12",
         "KOR13",
+        "KOR14",
         "KOR15",
         "KOR16",
         "KOR19",
@@ -896,7 +897,6 @@
         "KOR02",
         "KOR05",
         "KOR06",
-        "KOR14",
         "KOR17",
         "KOR18"
       ]
@@ -1060,8 +1060,8 @@
       "team_code": "NZL",
       "country": "Nova Zelândia",
       "stickers_total": 20,
-      "owned_total": 16,
-      "missing_total": 4,
+      "owned_total": 17,
+      "missing_total": 3,
       "owned": [
         "NZL01",
         "NZL02",
@@ -1077,14 +1077,14 @@
         "NZL13",
         "NZL14",
         "NZL15",
+        "NZL18",
         "NZL19",
         "NZL20"
       ],
       "missing": [
         "NZL04",
         "NZL16",
-        "NZL17",
-        "NZL18"
+        "NZL17"
       ]
     },
     {
@@ -1462,8 +1462,8 @@
       "team_code": "USA",
       "country": "Estados Unidos",
       "stickers_total": 20,
-      "owned_total": 11,
-      "missing_total": 9,
+      "owned_total": 12,
+      "missing_total": 8,
       "owned": [
         "USA01",
         "USA03",
@@ -1475,6 +1475,7 @@
         "USA16",
         "USA17",
         "USA18",
+        "USA19",
         "USA20"
       ],
       "missing": [
@@ -1485,20 +1486,20 @@
         "USA08",
         "USA09",
         "USA11",
-        "USA14",
-        "USA19"
+        "USA14"
       ]
     },
     {
       "team_code": "UZB",
       "country": "Uzbequistão",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
         "UZB02",
         "UZB03",
         "UZB04",
+        "UZB05",
         "UZB06",
         "UZB07",
         "UZB08",
@@ -1514,7 +1515,6 @@
       ],
       "missing": [
         "UZB01",
-        "UZB05",
         "UZB09",
         "UZB13",
         "UZB16"

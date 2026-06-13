@@ -1,30 +1,41 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T18:27:09Z",
-  "last_update_source": "foto",
+  "last_updated": "2026-06-13T19:24:37Z",
+  "last_update_source": "chat-photo-review",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 783,
-    "missing_total": 197,
-    "progress_percent": 79.9
+    "owned_total": 791,
+    "missing_total": 189,
+    "progress_percent": 80.71
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "EGY13",
-      "ENG12",
-      "FRA12",
-      "SEN14"
+      "COD13",
+      "CRO16",
+      "CRO20",
+      "IRQ20",
+      "JPN13",
+      "KOR14",
+      "NZL18",
+      "USA19",
+      "UZB05"
     ],
     "added": [
-      "EGY13",
-      "ENG12",
-      "FRA12",
-      "SEN14"
+      "COD13",
+      "CRO16",
+      "CRO20",
+      "JPN13",
+      "KOR14",
+      "NZL18",
+      "USA19",
+      "UZB05"
     ],
     "removed": [],
-    "already_owned": [],
+    "already_owned": [
+      "IRQ20"
+    ],
     "already_missing": [],
     "not_found": [],
     "invalid": []

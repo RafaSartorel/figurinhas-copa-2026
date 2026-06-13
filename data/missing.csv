@@ -30,7 +30,6 @@ CIV16,CIV,Costa do Marfim,16,False
 CIV20,CIV,Costa do Marfim,20,False
 COD03,COD,Congo,3,False
 COD08,COD,Congo,8,False
-COD13,COD,Congo,13,False
 COD15,COD,Congo,15,False
 COD19,COD,Congo,19,False
 COL02,COL,Colômbia,2,False
@@ -49,8 +48,6 @@ CRO07,CRO,Croácia,7,False
 CRO11,CRO,Croácia,11,False
 CRO13,CRO,Croácia,13,False
 CRO14,CRO,Croácia,14,False
-CRO16,CRO,Croácia,16,False
-CRO20,CRO,Croácia,20,False
 CUW01,CUW,Curaçao,1,False
 CUW02,CUW,Curaçao,2,False
 CUW05,CUW,Curaçao,5,False
@@ -117,14 +114,12 @@ JOR03,JOR,Jordânia,3,False
 JPN01,JPN,Japão,1,False
 JPN04,JPN,Japão,4,False
 JPN12,JPN,Japão,12,False
-JPN13,JPN,Japão,13,False
 JPN17,JPN,Japão,17,False
 JPN19,JPN,Japão,19,False
 JPN20,JPN,Japão,20,False
 KOR02,KOR,Coreia do Sul,2,False
 KOR05,KOR,Coreia do Sul,5,False
 KOR06,KOR,Coreia do Sul,6,False
-KOR14,KOR,Coreia do Sul,14,False
 KOR17,KOR,Coreia do Sul,17,False
 KOR18,KOR,Coreia do Sul,18,False
 KSA03,KSA,Arábia Saudita,3,False
@@ -149,7 +144,6 @@ NOR17,NOR,Noruega,17,False
 NZL04,NZL,Nova Zelândia,4,False
 NZL16,NZL,Nova Zelândia,16,False
 NZL17,NZL,Nova Zelândia,17,False
-NZL18,NZL,Nova Zelândia,18,False
 PAN01,PAN,Panamá,1,False
 PAN04,PAN,Panamá,4,False
 PAN11,PAN,Panamá,11,False
@@ -190,9 +184,7 @@ USA08,USA,Estados Unidos,8,False
 USA09,USA,Estados Unidos,9,False
 USA11,USA,Estados Unidos,11,False
 USA14,USA,Estados Unidos,14,False
-USA19,USA,Estados Unidos,19,False
 UZB01,UZB,Uzbequistão,1,False
-UZB05,UZB,Uzbequistão,5,False
 UZB09,UZB,Uzbequistão,9,False
 UZB13,UZB,Uzbequistão,13,False
 UZB16,UZB,Uzbequistão,16,False

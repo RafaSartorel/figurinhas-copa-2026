@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T18:27:09Z",
+  "last_updated": "2026-06-13T19:24:37Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -1159,7 +1159,7 @@
       "team_code": "COD",
       "country": "Congo",
       "sticker_number": 13,
-      "owned": false
+      "owned": true
     },
     "COD14": {
       "team_code": "COD",
@@ -1537,7 +1537,7 @@
       "team_code": "CRO",
       "country": "Croácia",
       "sticker_number": 16,
-      "owned": false
+      "owned": true
     },
     "CRO17": {
       "team_code": "CRO",
@@ -1561,7 +1561,7 @@
       "team_code": "CRO",
       "country": "Croácia",
       "sticker_number": 20,
-      "owned": false
+      "owned": true
     },
     "CUW01": {
       "team_code": "CUW",
@@ -3319,7 +3319,7 @@
       "team_code": "JPN",
       "country": "Japão",
       "sticker_number": 13,
-      "owned": false
+      "owned": true
     },
     "JPN14": {
       "team_code": "JPN",
@@ -3445,7 +3445,7 @@
       "team_code": "KOR",
       "country": "Coreia do Sul",
       "sticker_number": 14,
-      "owned": false
+      "owned": true
     },
     "KOR15": {
       "team_code": "KOR",
@@ -4189,7 +4189,7 @@
       "team_code": "NZL",
       "country": "Nova Zelândia",
       "sticker_number": 18,
-      "owned": false
+      "owned": true
     },
     "NZL19": {
       "team_code": "NZL",
@@ -5755,7 +5755,7 @@
       "team_code": "USA",
       "country": "Estados Unidos",
       "sticker_number": 19,
-      "owned": false
+      "owned": true
     },
     "USA20": {
       "team_code": "USA",
@@ -5791,7 +5791,7 @@
       "team_code": "UZB",
       "country": "Uzbequistão",
       "sticker_number": 5,
-      "owned": false
+      "owned": true
     },
     "UZB06": {
       "team_code": "UZB",

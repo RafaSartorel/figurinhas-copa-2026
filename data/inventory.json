@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 783,
+  "owned_count": 791,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1353,7 +1353,7 @@
       "country": "Congo",
       "sticker_number": 13,
       "sticker_id": "COD13",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "COD",
@@ -1794,7 +1794,7 @@
       "country": "Croácia",
       "sticker_number": 16,
       "sticker_id": "CRO16",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CRO",
@@ -1822,7 +1822,7 @@
       "country": "Croácia",
       "sticker_number": 20,
       "sticker_id": "CRO20",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CUW",
@@ -3873,7 +3873,7 @@
       "country": "Japão",
       "sticker_number": 13,
       "sticker_id": "JPN13",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "JPN",
@@ -4020,7 +4020,7 @@
       "country": "Coreia do Sul",
       "sticker_number": 14,
       "sticker_id": "KOR14",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "KOR",
@@ -4888,7 +4888,7 @@
       "country": "Nova Zelândia",
       "sticker_number": 18,
       "sticker_id": "NZL18",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "NZL",
@@ -6715,7 +6715,7 @@
       "country": "Estados Unidos",
       "sticker_number": 19,
       "sticker_id": "USA19",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "USA",
@@ -6757,7 +6757,7 @@
       "country": "Uzbequistão",
       "sticker_number": 5,
       "sticker_id": "UZB05",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "UZB",
@@ -6865,14 +6865,18 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-13T18:27:09Z",
-  "missing_count": 197,
-  "last_update_source": "foto",
+  "last_updated": "2026-06-13T19:24:37Z",
+  "missing_count": 189,
+  "last_update_source": "chat-photo-review",
   "last_added": [
-    "EGY13",
-    "ENG12",
-    "FRA12",
-    "SEN14"
+    "COD13",
+    "CRO16",
+    "CRO20",
+    "JPN13",
+    "KOR14",
+    "NZL18",
+    "USA19",
+    "UZB05"
   ],
   "last_removed": []
 }

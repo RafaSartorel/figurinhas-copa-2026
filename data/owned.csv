@@ -160,6 +160,7 @@ COD09,COD,Congo,9,True
 COD10,COD,Congo,10,True
 COD11,COD,Congo,11,True
 COD12,COD,Congo,12,True
+COD13,COD,Congo,13,True
 COD14,COD,Congo,14,True
 COD16,COD,Congo,16,True
 COD17,COD,Congo,17,True
@@ -204,9 +205,11 @@ CRO09,CRO,Croácia,9,True
 CRO10,CRO,Croácia,10,True
 CRO12,CRO,Croácia,12,True
 CRO15,CRO,Croácia,15,True
+CRO16,CRO,Croácia,16,True
 CRO17,CRO,Croácia,17,True
 CRO18,CRO,Croácia,18,True
 CRO19,CRO,Croácia,19,True
+CRO20,CRO,Croácia,20,True
 CUW03,CUW,Curaçao,3,True
 CUW04,CUW,Curaçao,4,True
 CUW06,CUW,Curaçao,6,True
@@ -433,6 +436,7 @@ JPN08,JPN,Japão,8,True
 JPN09,JPN,Japão,9,True
 JPN10,JPN,Japão,10,True
 JPN11,JPN,Japão,11,True
+JPN13,JPN,Japão,13,True
 JPN14,JPN,Japão,14,True
 JPN15,JPN,Japão,15,True
 JPN16,JPN,Japão,16,True
@@ -447,6 +451,7 @@ KOR10,KOR,Coreia do Sul,10,True
 KOR11,KOR,Coreia do Sul,11,True
 KOR12,KOR,Coreia do Sul,12,True
 KOR13,KOR,Coreia do Sul,13,True
+KOR14,KOR,Coreia do Sul,14,True
 KOR15,KOR,Coreia do Sul,15,True
 KOR16,KOR,Coreia do Sul,16,True
 KOR19,KOR,Coreia do Sul,19,True
@@ -546,6 +551,7 @@ NZL12,NZL,Nova Zelândia,12,True
 NZL13,NZL,Nova Zelândia,13,True
 NZL14,NZL,Nova Zelândia,14,True
 NZL15,NZL,Nova Zelândia,15,True
+NZL18,NZL,Nova Zelândia,18,True
 NZL19,NZL,Nova Zelândia,19,True
 NZL20,NZL,Nova Zelândia,20,True
 PAN02,PAN,Panamá,2,True
@@ -766,10 +772,12 @@ USA15,USA,Estados Unidos,15,True
 USA16,USA,Estados Unidos,16,True
 USA17,USA,Estados Unidos,17,True
 USA18,USA,Estados Unidos,18,True
+USA19,USA,Estados Unidos,19,True
 USA20,USA,Estados Unidos,20,True
 UZB02,UZB,Uzbequistão,2,True
 UZB03,UZB,Uzbequistão,3,True
 UZB04,UZB,Uzbequistão,4,True
+UZB05,UZB,Uzbequistão,5,True
 UZB06,UZB,Uzbequistão,6,True
 UZB07,UZB,Uzbequistão,7,True
 UZB08,UZB,Uzbequistão,8,True
