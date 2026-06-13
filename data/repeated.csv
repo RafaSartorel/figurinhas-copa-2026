@@ -1,14 +1,23 @@
 sticker_id,team_code,country,sticker_number,quantity
+AUS09,AUS,Austrália,9,1
 AUS13,AUS,Austrália,13,1
+AUT08,AUT,Áustria,8,1
 AUT13,AUT,Áustria,13,1
 BIH11,BIH,Bósnia,11,1
+BRA20,BRA,Brasil,20,1
 CAN13,CAN,Canadá,13,1
+CIV17,CIV,Costa do Marfim,17,1
 CIV19,CIV,Costa do Marfim,19,2
 COD18,COD,Congo,18,1
 CPV06,CPV,Cabo Verde,6,1
+CPV11,CPV,Cabo Verde,11,1
+CPV14,CPV,Cabo Verde,14,1
 CRO04,CRO,Croácia,4,1
-CUW06,CUW,Curaçao,6,1
+CUW06,CUW,Curaçao,6,2
 CUW08,CUW,Curaçao,8,1
+CZE05,CZE,Rep. Tcheca,5,1
+CZE09,CZE,Rep. Tcheca,9,1
+CZE14,CZE,Rep. Tcheca,14,1
 ECU13,ECU,Equador,13,1
 FWC09,FWC,FIFA World Cup,9,2
 FWC10,FWC,FIFA World Cup,10,1
@@ -17,24 +26,38 @@ FWC17,FWC,FIFA World Cup,17,1
 GER12,GER,Alemanha,12,1
 IRN13,IRN,Irã,13,1
 IRN20,IRN,Irã,20,1
-KOR20,KOR,Coreia do Sul,20,1
+IRQ20,IRQ,Iraque,20,1
+JOR09,JOR,Jordânia,9,1
+KOR07,KOR,Coreia do Sul,7,1
+KOR12,KOR,Coreia do Sul,12,1
+KOR20,KOR,Coreia do Sul,20,2
 KSA05,KSA,Arábia Saudita,5,1
+KSA16,KSA,Arábia Saudita,16,1
+MAR02,MAR,Marrocos,2,1
 MAR03,MAR,Marrocos,3,1
 NED14,NED,Holanda,14,1
 NOR12,NOR,Noruega,12,1
+NZL07,NZL,Nova Zelândia,7,1
+NZL11,NZL,Nova Zelândia,11,1
 NZL13,NZL,Nova Zelândia,13,1
 NZL14,NZL,Nova Zelândia,14,1
+PAN08,PAN,Panamá,8,1
 QAT13,QAT,Catar,13,1
 QAT14,QAT,Catar,14,1
+QAT18,QAT,Catar,18,1
 RSA02,RSA,África do Sul,2,1
 RSA10,RSA,África do Sul,10,1
 RSA20,RSA,África do Sul,20,1
+SCO02,SCO,Escócia,2,1
 SCO03,SCO,Escócia,3,1
+SCO17,SCO,Escócia,17,1
 SCO20,SCO,Escócia,20,1
+SUI07,SUI,Suíça,7,1
 SUI12,SUI,Suíça,12,1
 SWE03,SWE,Suécia,3,1
 SWE05,SWE,Suécia,5,1
 SWE14,SWE,Suécia,14,1
+TUR12,TUR,Turquia,12,1
 URU08,URU,Uruguai,8,1
 USA12,USA,Estados Unidos,12,1
 USA18,USA,Estados Unidos,18,1
