@@ -1,23 +1,29 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T19:38:40Z",
+  "last_updated": "2026-06-13T19:40:22Z",
   "last_update_source": "foto",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 796,
-    "missing_total": 184,
-    "progress_percent": 81.22
+    "owned_total": 801,
+    "missing_total": 179,
+    "progress_percent": 81.73
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "NED17",
-      "NOR02"
+      "CIV07",
+      "CIV10",
+      "ENG06",
+      "ENG13",
+      "FRA10"
     ],
     "added": [
-      "NED17",
-      "NOR02"
+      "CIV07",
+      "CIV10",
+      "ENG06",
+      "ENG13",
+      "FRA10"
     ],
     "removed": [],
     "already_owned": [],

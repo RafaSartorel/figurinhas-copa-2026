@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T19:38:40Z",
+  "last_updated": "2026-06-13T19:40:22Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -1003,7 +1003,7 @@
       "team_code": "CIV",
       "country": "Costa do Marfim",
       "sticker_number": 7,
-      "owned": false
+      "owned": true
     },
     "CIV08": {
       "team_code": "CIV",
@@ -1021,7 +1021,7 @@
       "team_code": "CIV",
       "country": "Costa do Marfim",
       "sticker_number": 10,
-      "owned": false
+      "owned": true
     },
     "CIV11": {
       "team_code": "CIV",
@@ -2077,7 +2077,7 @@
       "team_code": "ENG",
       "country": "Inglaterra",
       "sticker_number": 6,
-      "owned": false
+      "owned": true
     },
     "ENG07": {
       "team_code": "ENG",
@@ -2119,7 +2119,7 @@
       "team_code": "ENG",
       "country": "Inglaterra",
       "sticker_number": 13,
-      "owned": false
+      "owned": true
     },
     "ENG14": {
       "team_code": "ENG",
@@ -2341,7 +2341,7 @@
       "team_code": "FRA",
       "country": "França",
       "sticker_number": 10,
-      "owned": false
+      "owned": true
     },
     "FRA11": {
       "team_code": "FRA",

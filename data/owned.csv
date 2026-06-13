@@ -142,8 +142,10 @@ CIV02,CIV,Costa do Marfim,2,True
 CIV03,CIV,Costa do Marfim,3,True
 CIV05,CIV,Costa do Marfim,5,True
 CIV06,CIV,Costa do Marfim,6,True
+CIV07,CIV,Costa do Marfim,7,True
 CIV08,CIV,Costa do Marfim,8,True
 CIV09,CIV,Costa do Marfim,9,True
+CIV10,CIV,Costa do Marfim,10,True
 CIV12,CIV,Costa do Marfim,12,True
 CIV13,CIV,Costa do Marfim,13,True
 CIV14,CIV,Costa do Marfim,14,True
@@ -279,12 +281,14 @@ EGY20,EGY,Egito,20,True
 ENG03,ENG,Inglaterra,3,True
 ENG04,ENG,Inglaterra,4,True
 ENG05,ENG,Inglaterra,5,True
+ENG06,ENG,Inglaterra,6,True
 ENG07,ENG,Inglaterra,7,True
 ENG08,ENG,Inglaterra,8,True
 ENG09,ENG,Inglaterra,9,True
 ENG10,ENG,Inglaterra,10,True
 ENG11,ENG,Inglaterra,11,True
 ENG12,ENG,Inglaterra,12,True
+ENG13,ENG,Inglaterra,13,True
 ENG14,ENG,Inglaterra,14,True
 ENG15,ENG,Inglaterra,15,True
 ENG16,ENG,Inglaterra,16,True
@@ -308,6 +312,7 @@ FRA04,FRA,França,4,True
 FRA05,FRA,França,5,True
 FRA07,FRA,França,7,True
 FRA09,FRA,França,9,True
+FRA10,FRA,França,10,True
 FRA11,FRA,França,11,True
 FRA12,FRA,França,12,True
 FRA13,FRA,França,13,True

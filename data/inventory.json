@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 796,
+  "owned_count": 801,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1171,7 +1171,7 @@
       "country": "Costa do Marfim",
       "sticker_number": 7,
       "sticker_id": "CIV07",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CIV",
@@ -1192,7 +1192,7 @@
       "country": "Costa do Marfim",
       "sticker_number": 10,
       "sticker_id": "CIV10",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CIV",
@@ -2424,7 +2424,7 @@
       "country": "Inglaterra",
       "sticker_number": 6,
       "sticker_id": "ENG06",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ENG",
@@ -2473,7 +2473,7 @@
       "country": "Inglaterra",
       "sticker_number": 13,
       "sticker_id": "ENG13",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ENG",
@@ -2732,7 +2732,7 @@
       "country": "França",
       "sticker_number": 10,
       "sticker_id": "FRA10",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "FRA",
@@ -6865,12 +6865,15 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-13T19:38:40Z",
-  "missing_count": 184,
+  "last_updated": "2026-06-13T19:40:22Z",
+  "missing_count": 179,
   "last_update_source": "foto",
   "last_added": [
-    "NED17",
-    "NOR02"
+    "CIV07",
+    "CIV10",
+    "ENG06",
+    "ENG13",
+    "FRA10"
   ],
   "last_removed": []
 }
