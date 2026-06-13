@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T20:54:09Z",
+  "last_updated": "2026-06-13T21:05:59Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -719,8 +719,8 @@
       "team_code": "HAI",
       "country": "Haiti",
       "stickers_total": 20,
-      "owned_total": 16,
-      "missing_total": 4,
+      "owned_total": 17,
+      "missing_total": 3,
       "owned": [
         "HAI02",
         "HAI03",
@@ -734,6 +734,7 @@
         "HAI12",
         "HAI14",
         "HAI15",
+        "HAI16",
         "HAI17",
         "HAI18",
         "HAI19",
@@ -742,8 +743,7 @@
       "missing": [
         "HAI01",
         "HAI08",
-        "HAI13",
-        "HAI16"
+        "HAI13"
       ]
     },
     {
@@ -1369,12 +1369,13 @@
       "team_code": "TUN",
       "country": "Tunísia",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "TUN01",
         "TUN02",
         "TUN03",
+        "TUN04",
         "TUN05",
         "TUN06",
         "TUN07",
@@ -1392,7 +1393,6 @@
         "TUN19"
       ],
       "missing": [
-        "TUN04",
         "TUN20"
       ]
     },

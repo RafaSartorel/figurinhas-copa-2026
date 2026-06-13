@@ -385,6 +385,7 @@ HAI11,HAI,Haiti,11,True
 HAI12,HAI,Haiti,12,True
 HAI14,HAI,Haiti,14,True
 HAI15,HAI,Haiti,15,True
+HAI16,HAI,Haiti,16,True
 HAI17,HAI,Haiti,17,True
 HAI18,HAI,Haiti,18,True
 HAI19,HAI,Haiti,19,True
@@ -729,6 +730,7 @@ SWE20,SWE,Suécia,20,True
 TUN01,TUN,Tunísia,1,True
 TUN02,TUN,Tunísia,2,True
 TUN03,TUN,Tunísia,3,True
+TUN04,TUN,Tunísia,4,True
 TUN05,TUN,Tunísia,5,True
 TUN06,TUN,Tunísia,6,True
 TUN07,TUN,Tunísia,7,True

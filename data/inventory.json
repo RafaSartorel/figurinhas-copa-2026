@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 813,
+  "owned_count": 815,
   "stickers": [
     {
       "team_code": "ALG",
@@ -3334,7 +3334,7 @@
       "country": "Haiti",
       "sticker_number": 16,
       "sticker_id": "HAI16",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "HAI",
@@ -6190,7 +6190,7 @@
       "country": "Tunísia",
       "sticker_number": 4,
       "sticker_id": "TUN04",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "TUN",
@@ -6865,12 +6865,12 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-13T20:54:09Z",
-  "missing_count": 167,
-  "last_update_source": "chatgpt",
+  "last_updated": "2026-06-13T21:05:59Z",
+  "missing_count": 165,
+  "last_update_source": "foto",
   "last_added": [
-    "TUN02",
-    "TUR02"
+    "HAI16",
+    "TUN04"
   ],
   "last_removed": []
 }

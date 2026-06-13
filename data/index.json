@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T20:54:09Z",
+  "last_updated": "2026-06-13T21:05:59Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -2857,7 +2857,7 @@
       "team_code": "HAI",
       "country": "Haiti",
       "sticker_number": 16,
-      "owned": false
+      "owned": true
     },
     "HAI17": {
       "team_code": "HAI",
@@ -5305,7 +5305,7 @@
       "team_code": "TUN",
       "country": "Tunísia",
       "sticker_number": 4,
-      "owned": false
+      "owned": true
     },
     "TUN05": {
       "team_code": "TUN",

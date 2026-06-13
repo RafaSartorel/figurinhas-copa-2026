@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T20:54:09Z",
-  "last_update_source": "chatgpt",
+  "last_updated": "2026-06-13T21:05:59Z",
+  "last_update_source": "foto",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 813,
-    "missing_total": 167,
-    "progress_percent": 82.96
+    "owned_total": 815,
+    "missing_total": 165,
+    "progress_percent": 83.16
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "TUN02",
-      "TUR02"
+      "HAI16",
+      "TUN04"
     ],
     "added": [
-      "TUN02",
-      "TUR02"
+      "HAI16",
+      "TUN04"
     ],
     "removed": [],
     "already_owned": [],
