@@ -7,6 +7,7 @@ AUS13,AUS,Austrália,13,1
 AUS14,AUS,Austrália,14,1
 AUT02,AUT,Áustria,2,1
 AUT08,AUT,Áustria,8,1
+AUT09,AUT,Áustria,9,1
 AUT11,AUT,Áustria,11,1
 AUT13,AUT,Áustria,13,1
 AUT14,AUT,Áustria,14,1
@@ -17,33 +18,44 @@ BIH09,BIH,Bósnia,9,1
 BIH11,BIH,Bósnia,11,1
 BIH18,BIH,Bósnia,18,1
 BRA11,BRA,Brasil,11,1
+BRA12,BRA,Brasil,12,1
 BRA20,BRA,Brasil,20,1
+CAN05,CAN,Canadá,5,2
 CAN07,CAN,Canadá,7,1
 CAN08,CAN,Canadá,8,1
+CAN09,CAN,Canadá,9,1
 CAN11,CAN,Canadá,11,1
 CAN13,CAN,Canadá,13,1
 CAN17,CAN,Canadá,17,1
+CIV03,CIV,Costa do Marfim,3,1
 CIV17,CIV,Costa do Marfim,17,1
 CIV19,CIV,Costa do Marfim,19,2
 COD01,COD,Congo,1,1
 COD04,COD,Congo,4,1
 COD05,COD,Congo,5,2
+COD09,COD,Congo,9,1
 COD18,COD,Congo,18,1
 COL15,COL,Colômbia,15,1
-CPV06,CPV,Cabo Verde,6,1
+CPV06,CPV,Cabo Verde,6,2
 CPV11,CPV,Cabo Verde,11,1
 CPV14,CPV,Cabo Verde,14,1
 CPV15,CPV,Cabo Verde,15,1
 CRO04,CRO,Croácia,4,1
 CUW06,CUW,Curaçao,6,2
 CUW08,CUW,Curaçao,8,1
-CZE05,CZE,Rep. Tcheca,5,1
+CZE04,CZE,Rep. Tcheca,4,1
+CZE05,CZE,Rep. Tcheca,5,2
 CZE09,CZE,Rep. Tcheca,9,3
+CZE11,CZE,Rep. Tcheca,11,1
 CZE14,CZE,Rep. Tcheca,14,1
 ECU04,ECU,Equador,4,1
 ECU13,ECU,Equador,13,1
 ECU18,ECU,Equador,18,1
 EGY08,EGY,Egito,8,1
+EGY16,EGY,Egito,16,1
+ENG04,ENG,Inglaterra,4,1
+ENG15,ENG,Inglaterra,15,1
+ENG20,ENG,Inglaterra,20,1
 ESP05,ESP,Espanha,5,1
 FRA07,FRA,França,7,1
 FWC01,FWC,FIFA World Cup,1,1
@@ -57,15 +69,18 @@ GER12,GER,Alemanha,12,1
 GER20,GER,Alemanha,20,1
 IRN13,IRN,Irã,13,1
 IRN20,IRN,Irã,20,1
+IRQ08,IRQ,Iraque,8,1
 IRQ20,IRQ,Iraque,20,1
 JOR09,JOR,Jordânia,9,1
 JOR17,JOR,Jordânia,17,1
+JPN02,JPN,Japão,2,1
 JPN14,JPN,Japão,14,1
 KOR07,KOR,Coreia do Sul,7,1
 KOR08,KOR,Coreia do Sul,8,1
 KOR10,KOR,Coreia do Sul,10,1
 KOR12,KOR,Coreia do Sul,12,1
 KOR20,KOR,Coreia do Sul,20,2
+KSA01,KSA,Arábia Saudita,1,1
 KSA05,KSA,Arábia Saudita,5,1
 KSA06,KSA,Arábia Saudita,6,1
 KSA13,KSA,Arábia Saudita,13,1
@@ -73,8 +88,11 @@ KSA16,KSA,Arábia Saudita,16,1
 MAR02,MAR,Marrocos,2,1
 MAR03,MAR,Marrocos,3,1
 MAR20,MAR,Marrocos,20,1
+NED10,NED,Holanda,10,1
 NED14,NED,Holanda,14,1
 NED15,NED,Holanda,15,1
+NED18,NED,Holanda,18,1
+NOR11,NOR,Noruega,11,1
 NOR12,NOR,Noruega,12,1
 NZL07,NZL,Nova Zelândia,7,1
 NZL11,NZL,Nova Zelândia,11,1
@@ -85,9 +103,12 @@ PAN08,PAN,Panamá,8,1
 QAT13,QAT,Catar,13,1
 QAT14,QAT,Catar,14,1
 QAT18,QAT,Catar,18,1
+QAT19,QAT,Catar,19,1
 RSA02,RSA,África do Sul,2,1
 RSA03,RSA,África do Sul,3,1
+RSA04,RSA,África do Sul,4,1
 RSA05,RSA,África do Sul,5,1
+RSA08,RSA,África do Sul,8,1
 RSA10,RSA,África do Sul,10,1
 RSA13,RSA,África do Sul,13,1
 RSA20,RSA,África do Sul,20,1
@@ -104,11 +125,14 @@ SEN17,SEN,Senegal,17,1
 SUI07,SUI,Suíça,7,1
 SUI12,SUI,Suíça,12,1
 SUI16,SUI,Suíça,16,1
-SWE03,SWE,Suécia,3,1
+SUI18,SUI,Suíça,18,1
+SWE03,SWE,Suécia,3,2
 SWE05,SWE,Suécia,5,1
 SWE14,SWE,Suécia,14,1
 SWE17,SWE,Suécia,17,1
 TUN03,TUN,Tunísia,3,1
+TUR04,TUR,Turquia,4,1
+TUR09,TUR,Turquia,9,1
 TUR12,TUR,Turquia,12,2
 URU08,URU,Uruguai,8,1
 URU09,URU,Uruguai,9,2
@@ -116,9 +140,11 @@ URU12,URU,Uruguai,12,1
 URU15,URU,Uruguai,15,2
 USA12,USA,Estados Unidos,12,1
 USA18,USA,Estados Unidos,18,2
+USA20,USA,Estados Unidos,20,1
 UZB03,UZB,Uzbequistão,3,1
 UZB07,UZB,Uzbequistão,7,1
 UZB12,UZB,Uzbequistão,12,1
+UZB15,UZB,Uzbequistão,15,1
 UZB17,UZB,Uzbequistão,17,2
 UZB18,UZB,Uzbequistão,18,2
 UZB19,UZB,Uzbequistão,19,2
