@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 794,
+  "owned_count": 796,
   "stickers": [
     {
       "team_code": "ALG",
@@ -4601,7 +4601,7 @@
       "country": "Holanda",
       "sticker_number": 17,
       "sticker_id": "NED17",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "NED",
@@ -4636,7 +4636,7 @@
       "country": "Noruega",
       "sticker_number": 2,
       "sticker_id": "NOR02",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "NOR",
@@ -6865,11 +6865,12 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-13T19:38:04Z",
-  "missing_count": 186,
+  "last_updated": "2026-06-13T19:38:40Z",
+  "missing_count": 184,
   "last_update_source": "foto",
   "last_added": [
-    "TUN07"
+    "NED17",
+    "NOR02"
   ],
   "last_removed": []
 }

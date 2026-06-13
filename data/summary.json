@@ -1,21 +1,23 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T19:38:04Z",
+  "last_updated": "2026-06-13T19:38:40Z",
   "last_update_source": "foto",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 794,
-    "missing_total": 186,
-    "progress_percent": 81.02
+    "owned_total": 796,
+    "missing_total": 184,
+    "progress_percent": 81.22
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "TUN07"
+      "NED17",
+      "NOR02"
     ],
     "added": [
-      "TUN07"
+      "NED17",
+      "NOR02"
     ],
     "removed": [],
     "already_owned": [],

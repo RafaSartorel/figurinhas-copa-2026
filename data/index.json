@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T19:38:04Z",
+  "last_updated": "2026-06-13T19:38:40Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -3943,7 +3943,7 @@
       "team_code": "NED",
       "country": "Holanda",
       "sticker_number": 17,
-      "owned": false
+      "owned": true
     },
     "NED18": {
       "team_code": "NED",
@@ -3973,7 +3973,7 @@
       "team_code": "NOR",
       "country": "Noruega",
       "sticker_number": 2,
-      "owned": false
+      "owned": true
     },
     "NOR03": {
       "team_code": "NOR",

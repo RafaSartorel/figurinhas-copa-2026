@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T19:38:04Z",
+  "last_updated": "2026-06-13T19:38:40Z",
   "stickers": [
     "ALG02",
     "ALG03",
@@ -527,9 +527,11 @@
     "NED12",
     "NED14",
     "NED15",
+    "NED17",
     "NED18",
     "NED19",
     "NED20",
+    "NOR02",
     "NOR03",
     "NOR05",
     "NOR07",
