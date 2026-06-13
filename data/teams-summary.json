@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T18:21:10Z",
+  "last_updated": "2026-06-13T18:27:09Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -502,8 +502,8 @@
       "team_code": "EGY",
       "country": "Egito",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
         "EGY02",
         "EGY03",
@@ -515,6 +515,7 @@
         "EGY09",
         "EGY10",
         "EGY11",
+        "EGY13",
         "EGY15",
         "EGY16",
         "EGY18",
@@ -524,7 +525,6 @@
       "missing": [
         "EGY01",
         "EGY12",
-        "EGY13",
         "EGY14",
         "EGY17"
       ]
@@ -533,8 +533,8 @@
       "team_code": "ENG",
       "country": "Inglaterra",
       "stickers_total": 20,
-      "owned_total": 14,
-      "missing_total": 6,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
         "ENG03",
         "ENG04",
@@ -544,6 +544,7 @@
         "ENG09",
         "ENG10",
         "ENG11",
+        "ENG12",
         "ENG14",
         "ENG15",
         "ENG16",
@@ -555,7 +556,6 @@
         "ENG01",
         "ENG02",
         "ENG06",
-        "ENG12",
         "ENG13",
         "ENG20"
       ]
@@ -595,8 +595,8 @@
       "team_code": "FRA",
       "country": "França",
       "stickers_total": 20,
-      "owned_total": 12,
-      "missing_total": 8,
+      "owned_total": 13,
+      "missing_total": 7,
       "owned": [
         "FRA01",
         "FRA04",
@@ -604,6 +604,7 @@
         "FRA07",
         "FRA09",
         "FRA11",
+        "FRA12",
         "FRA13",
         "FRA14",
         "FRA16",
@@ -617,7 +618,6 @@
         "FRA06",
         "FRA08",
         "FRA10",
-        "FRA12",
         "FRA15",
         "FRA19"
       ]
@@ -1276,8 +1276,8 @@
       "team_code": "SEN",
       "country": "Senegal",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "SEN02",
         "SEN03",
@@ -1291,6 +1291,7 @@
         "SEN11",
         "SEN12",
         "SEN13",
+        "SEN14",
         "SEN15",
         "SEN16",
         "SEN17",
@@ -1299,8 +1300,7 @@
         "SEN20"
       ],
       "missing": [
-        "SEN01",
-        "SEN14"
+        "SEN01"
       ]
     },
     {

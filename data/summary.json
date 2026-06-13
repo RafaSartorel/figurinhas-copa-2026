@@ -1,25 +1,27 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T18:21:10Z",
+  "last_updated": "2026-06-13T18:27:09Z",
   "last_update_source": "foto",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 779,
-    "missing_total": 201,
-    "progress_percent": 79.49
+    "owned_total": 783,
+    "missing_total": 197,
+    "progress_percent": 79.9
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "CIV08",
-      "FRA13",
-      "HAI18"
+      "EGY13",
+      "ENG12",
+      "FRA12",
+      "SEN14"
     ],
     "added": [
-      "CIV08",
-      "FRA13",
-      "HAI18"
+      "EGY13",
+      "ENG12",
+      "FRA12",
+      "SEN14"
     ],
     "removed": [],
     "already_owned": [],

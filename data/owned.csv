@@ -266,6 +266,7 @@ EGY08,EGY,Egito,8,True
 EGY09,EGY,Egito,9,True
 EGY10,EGY,Egito,10,True
 EGY11,EGY,Egito,11,True
+EGY13,EGY,Egito,13,True
 EGY15,EGY,Egito,15,True
 EGY16,EGY,Egito,16,True
 EGY18,EGY,Egito,18,True
@@ -279,6 +280,7 @@ ENG08,ENG,Inglaterra,8,True
 ENG09,ENG,Inglaterra,9,True
 ENG10,ENG,Inglaterra,10,True
 ENG11,ENG,Inglaterra,11,True
+ENG12,ENG,Inglaterra,12,True
 ENG14,ENG,Inglaterra,14,True
 ENG15,ENG,Inglaterra,15,True
 ENG16,ENG,Inglaterra,16,True
@@ -302,6 +304,7 @@ FRA05,FRA,França,5,True
 FRA07,FRA,França,7,True
 FRA09,FRA,França,9,True
 FRA11,FRA,França,11,True
+FRA12,FRA,França,12,True
 FRA13,FRA,França,13,True
 FRA14,FRA,França,14,True
 FRA16,FRA,França,16,True
@@ -657,6 +660,7 @@ SEN10,SEN,Senegal,10,True
 SEN11,SEN,Senegal,11,True
 SEN12,SEN,Senegal,12,True
 SEN13,SEN,Senegal,13,True
+SEN14,SEN,Senegal,14,True
 SEN15,SEN,Senegal,15,True
 SEN16,SEN,Senegal,16,True
 SEN17,SEN,Senegal,17,True

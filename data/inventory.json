@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 779,
+  "owned_count": 783,
   "stickers": [
     {
       "team_code": "ALG",
@@ -2333,7 +2333,7 @@
       "country": "Egito",
       "sticker_number": 13,
       "sticker_id": "EGY13",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "EGY",
@@ -2466,7 +2466,7 @@
       "country": "Inglaterra",
       "sticker_number": 12,
       "sticker_id": "ENG12",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ENG",
@@ -2746,7 +2746,7 @@
       "country": "França",
       "sticker_number": 12,
       "sticker_id": "FRA12",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "FRA",
@@ -5840,7 +5840,7 @@
       "country": "Senegal",
       "sticker_number": 14,
       "sticker_id": "SEN14",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "SEN",
@@ -6865,13 +6865,14 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-13T18:21:10Z",
-  "missing_count": 201,
+  "last_updated": "2026-06-13T18:27:09Z",
+  "missing_count": 197,
   "last_update_source": "foto",
   "last_added": [
-    "CIV08",
-    "FRA13",
-    "HAI18"
+    "EGY13",
+    "ENG12",
+    "FRA12",
+    "SEN14"
   ],
   "last_removed": []
 }

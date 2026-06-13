@@ -64,13 +64,11 @@ ECU15,ECU,Equador,15,False
 ECU19,ECU,Equador,19,False
 EGY01,EGY,Egito,1,False
 EGY12,EGY,Egito,12,False
-EGY13,EGY,Egito,13,False
 EGY14,EGY,Egito,14,False
 EGY17,EGY,Egito,17,False
 ENG01,ENG,Inglaterra,1,False
 ENG02,ENG,Inglaterra,2,False
 ENG06,ENG,Inglaterra,6,False
-ENG12,ENG,Inglaterra,12,False
 ENG13,ENG,Inglaterra,13,False
 ENG20,ENG,Inglaterra,20,False
 ESP01,ESP,Espanha,1,False
@@ -87,7 +85,6 @@ FRA03,FRA,França,3,False
 FRA06,FRA,França,6,False
 FRA08,FRA,França,8,False
 FRA10,FRA,França,10,False
-FRA12,FRA,França,12,False
 FRA15,FRA,França,15,False
 FRA19,FRA,França,19,False
 FWC06,FWC,FIFA World Cup,6,False
@@ -174,7 +171,6 @@ RSA15,RSA,África do Sul,15,False
 RSA16,RSA,África do Sul,16,False
 SCO12,SCO,Escócia,12,False
 SEN01,SEN,Senegal,1,False
-SEN14,SEN,Senegal,14,False
 SUI04,SUI,Suíça,4,False
 SWE13,SWE,Suécia,13,False
 SWE16,SWE,Suécia,16,False

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T18:21:10Z",
+  "last_updated": "2026-06-13T18:27:09Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -1999,7 +1999,7 @@
       "team_code": "EGY",
       "country": "Egito",
       "sticker_number": 13,
-      "owned": false
+      "owned": true
     },
     "EGY14": {
       "team_code": "EGY",
@@ -2113,7 +2113,7 @@
       "team_code": "ENG",
       "country": "Inglaterra",
       "sticker_number": 12,
-      "owned": false
+      "owned": true
     },
     "ENG13": {
       "team_code": "ENG",
@@ -2353,7 +2353,7 @@
       "team_code": "FRA",
       "country": "França",
       "sticker_number": 12,
-      "owned": false
+      "owned": true
     },
     "FRA13": {
       "team_code": "FRA",
@@ -5005,7 +5005,7 @@
       "team_code": "SEN",
       "country": "Senegal",
       "sticker_number": 14,
-      "owned": false
+      "owned": true
     },
     "SEN15": {
       "team_code": "SEN",
