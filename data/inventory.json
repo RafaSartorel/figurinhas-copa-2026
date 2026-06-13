@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 772,
+  "owned_count": 774,
   "stickers": [
     {
       "team_code": "ALG",
@@ -345,7 +345,7 @@
       "country": "Austrália",
       "sticker_number": 9,
       "sticker_id": "AUS09",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "AUS",
@@ -4958,7 +4958,7 @@
       "country": "Panamá",
       "sticker_number": 8,
       "sticker_id": "PAN08",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "PAN",
@@ -6865,12 +6865,12 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-13T18:11:37Z",
-  "missing_count": 208,
-  "last_update_source": "foto-chatgpt",
+  "last_updated": "2026-06-13T18:12:46Z",
+  "missing_count": 206,
+  "last_update_source": "foto_chatgpt",
   "last_added": [
-    "CPV15",
-    "EGY08"
+    "AUS09",
+    "PAN08"
   ],
   "last_removed": []
 }

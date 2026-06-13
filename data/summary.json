@@ -1,63 +1,26 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T18:11:37Z",
-  "last_update_source": "foto-chatgpt",
+  "last_updated": "2026-06-13T18:12:46Z",
+  "last_update_source": "foto_chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 772,
-    "missing_total": 208,
-    "progress_percent": 78.78
+    "owned_total": 774,
+    "missing_total": 206,
+    "progress_percent": 78.98
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "ALG02",
-      "AUT14",
-      "BIH03",
-      "CAN08",
-      "CAN17",
-      "COD01",
-      "COD04",
-      "COL15",
-      "CPV15",
-      "CZE09",
-      "ECU04",
-      "EGY08",
-      "ESP05",
-      "JOR17",
-      "SCO10",
-      "TUN03",
-      "TUR12",
-      "URU15",
-      "USA18",
-      "UZB19"
+      "AUS09",
+      "PAN08"
     ],
     "added": [
-      "CPV15",
-      "EGY08"
+      "AUS09",
+      "PAN08"
     ],
     "removed": [],
-    "already_owned": [
-      "ALG02",
-      "AUT14",
-      "BIH03",
-      "CAN08",
-      "CAN17",
-      "COD01",
-      "COD04",
-      "COL15",
-      "CZE09",
-      "ECU04",
-      "ESP05",
-      "JOR17",
-      "SCO10",
-      "TUN03",
-      "TUR12",
-      "URU15",
-      "USA18",
-      "UZB19"
-    ],
+    "already_owned": [],
     "already_missing": [],
     "not_found": [],
     "invalid": []

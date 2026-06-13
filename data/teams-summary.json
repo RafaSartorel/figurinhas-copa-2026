@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T18:11:37Z",
+  "last_updated": "2026-06-13T18:12:46Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -69,8 +69,8 @@
       "team_code": "AUS",
       "country": "Austrália",
       "stickers_total": 20,
-      "owned_total": 16,
-      "missing_total": 4,
+      "owned_total": 17,
+      "missing_total": 3,
       "owned": [
         "AUS01",
         "AUS02",
@@ -80,6 +80,7 @@
         "AUS06",
         "AUS07",
         "AUS08",
+        "AUS09",
         "AUS11",
         "AUS12",
         "AUS13",
@@ -90,7 +91,6 @@
         "AUS19"
       ],
       "missing": [
-        "AUS09",
         "AUS10",
         "AUS16",
         "AUS20"
@@ -1091,14 +1091,15 @@
       "team_code": "PAN",
       "country": "Panamá",
       "stickers_total": 20,
-      "owned_total": 14,
-      "missing_total": 6,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
         "PAN02",
         "PAN03",
         "PAN05",
         "PAN06",
         "PAN07",
+        "PAN08",
         "PAN09",
         "PAN10",
         "PAN13",
@@ -1112,7 +1113,6 @@
       "missing": [
         "PAN01",
         "PAN04",
-        "PAN08",
         "PAN11",
         "PAN12",
         "PAN17"

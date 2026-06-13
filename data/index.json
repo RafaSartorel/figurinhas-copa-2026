@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T18:11:37Z",
+  "last_updated": "2026-06-13T18:12:46Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -295,7 +295,7 @@
       "team_code": "AUS",
       "country": "Austrália",
       "sticker_number": 9,
-      "owned": false
+      "owned": true
     },
     "AUS10": {
       "team_code": "AUS",
@@ -4249,7 +4249,7 @@
       "team_code": "PAN",
       "country": "Panamá",
       "sticker_number": 8,
-      "owned": false
+      "owned": true
     },
     "PAN09": {
       "team_code": "PAN",

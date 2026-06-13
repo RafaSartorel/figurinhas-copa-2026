@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T18:11:37Z",
+  "last_updated": "2026-06-13T18:12:46Z",
   "stickers": [
     "ALG02",
     "ALG03",
@@ -43,6 +43,7 @@
     "AUS06",
     "AUS07",
     "AUS08",
+    "AUS09",
     "AUS11",
     "AUS12",
     "AUS13",
@@ -548,6 +549,7 @@
     "PAN05",
     "PAN06",
     "PAN07",
+    "PAN08",
     "PAN09",
     "PAN10",
     "PAN13",
