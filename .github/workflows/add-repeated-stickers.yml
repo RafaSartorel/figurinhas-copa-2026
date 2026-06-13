@@ -1,10 +1,10 @@
-name: Remove owned stickers
+name: Add repeated stickers
 
 on:
   workflow_dispatch:
     inputs:
       stickers:
-        description: 'JSON array of sticker IDs to mark as missing. Example: ["BEL12","SCO10"]'
+        description: 'JSON array of repeated sticker IDs or objects with quantity. Example: ["BEL12", {"sticker_id":"SCO10","quantity":2}]'
         required: true
         type: string
       source:
@@ -21,7 +21,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  remove-stickers:
+  add-repeated-stickers:
     runs-on: ubuntu-latest
 
     steps:
@@ -33,17 +33,17 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Update sticker files
+      - name: Update repeated sticker files
         env:
           STICKERS: ${{ inputs.stickers }}
           SOURCE: ${{ inputs.source }}
         run: |
-          python scripts/update_stickers.py remove "$STICKERS" "$SOURCE"
+          python scripts/update_repeated_stickers.py add "$STICKERS" "$SOURCE"
 
       - name: Commit changes
         run: |
           git config user.name "Gerenciador Figurinhas Copa 2026"
           git config user.email "actions@github.com"
-          git add data/
-          git commit -m "Atualiza coleção: remove figurinhas" || echo "No changes to commit"
+          git add data/repeated.json data/repeated-summary.json data/repeated.csv
+          git commit -m "Atualiza repetidas: adiciona figurinhas" || echo "No changes to commit"
           git push

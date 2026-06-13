@@ -3,13 +3,27 @@ Você está trabalhando no repositório GitHub:
 RafaSartorel/figurinhas-copa-2026
 
 Objetivo:
-Editar a base oficial da coleção de figurinhas da Copa 2026, atualizando quais figurinhas eu tenho e quais eu não tenho.
+Gerenciar a coleção oficial de figurinhas da Copa 2026 e uma base separada de figurinhas repetidas.
 
-A base oficial fica na pasta:
+Existem duas bases:
 
-data/
+1. Coleção principal
+- Diz quais figurinhas eu tenho e quais eu não tenho.
+- A base mestre fica em data/inventory.json.
+- Quando uma figurinha está marcada como owned=true, significa que eu tenho essa figurinha.
+- Quando uma figurinha está marcada como owned=false, ausente, null ou qualquer valor diferente de true, significa que eu não tenho essa figurinha.
 
-Arquivos que devem ser mantidos sincronizados:
+2. Base separada de repetidas
+- Diz quais figurinhas extras eu tenho para troca ou controle.
+- Não substitui a coleção principal.
+- Não altera automaticamente tenho/não tenho.
+- A base de repetidas guarda quantidade por figurinha, porque posso ter mais de uma cópia repetida do mesmo sticker_id.
+
+Use linguagem natural comigo:
+- Diga “tenho”, “não tenho” e “repetida”.
+- Não use “owned=true” ou “owned=false” nas mensagens finais, exceto se estiver explicando alteração técnica no código.
+
+Arquivos da coleção principal que devem ser mantidos sincronizados:
 - data/inventory.json
 - data/summary.json
 - data/owned.json
@@ -19,14 +33,42 @@ Arquivos que devem ser mantidos sincronizados:
 - data/owned.csv
 - data/missing.csv
 
-Nunca atualize apenas um arquivo isolado.
-Sempre que alterar a posse de figurinhas, regenere todos os arquivos derivados para manter a base consistente.
+Arquivos da base de repetidas:
+- data/repeated.json
+- data/repeated-summary.json
+- data/repeated.csv
 
-Conceito principal:
-- Quando uma figurinha está marcada como owned=true em inventory.json, significa que eu tenho essa figurinha.
-- Quando uma figurinha está marcada como owned=false, ausente, null ou qualquer valor diferente de true, significa que eu não tenho essa figurinha.
-- Para comunicação comigo, use linguagem natural: “tenho” e “não tenho”.
-- Não use “owned=true” ou “owned=false” nas mensagens finais, exceto se estiver explicando alteração técnica no código.
+Nunca atualize apenas um arquivo isolado.
+Sempre que alterar a coleção principal, regenere todos os arquivos derivados da coleção.
+Sempre que alterar repetidas, regenere todos os arquivos da base de repetidas.
+
+Regra obrigatória de consulta da base:
+
+Em toda pergunta, conferência, foto, adição, remoção ou resumo envolvendo figurinhas, consulte a base disponível naquele momento antes de responder ou agir.
+
+Nunca use como fonte da verdade:
+- memória da conversa;
+- contexto anterior do chat;
+- respostas anteriores;
+- totais lembrados;
+- listas de figurinhas mencionadas anteriormente;
+- suposições sobre o que eu tenho, não tenho ou tenho repetido.
+
+O contexto da conversa pode ser usado apenas para entender a intenção do pedido.
+A fonte da verdade sempre deve ser a base consultada na hora.
+
+Para consultas sobre a coleção principal:
+- consulte data/index.json para verificar uma figurinha específica;
+- consulte data/owned.json, data/missing.json, data/summary.json e data/teams-summary.json quando precisar de listas, totais ou resumo por seleção;
+- consulte data/inventory.json quando precisar validar a existência oficial de sticker_id ou conferir metadados completos.
+
+Para consultas sobre repetidas:
+- consulte data/repeated.json para saber se uma figurinha está repetida e qual é a quantity atual;
+- consulte data/repeated-summary.json para totais e resumo por seleção;
+- consulte data/repeated.csv somente como apoio tabular, não como substituto da base JSON.
+
+Se você não conseguir consultar a base atual, não responda como se soubesse.
+Nesse caso, diga que não conseguiu verificar a base e peça para eu reenviar, atualizar ou liberar o arquivo/fonte necessária.
 
 Formato do ID da figurinha:
 Sempre normalize os códigos para o padrão:
@@ -44,6 +86,39 @@ Exemplos:
 - BEL12 → BEL12
 - SCO 5 → SCO05
 
+Figurinhas especiais:
+- FWC00 a FWC19 são figurinhas especiais FIFA World Cup.
+
+Preferência de repetidas na conversa:
+
+No início de cada conversa, eu posso definir como você deve tratar repetidas em fotos, por exemplo:
+- “Nesta conversa, adicione repetidas automaticamente.”
+- “Nesta conversa, não adicione repetidas.”
+- “Sempre pergunte antes de adicionar repetidas.”
+
+Mantenha essa preferência somente durante a conversa atual.
+
+Valores possíveis:
+- perguntar: padrão quando eu não definir nada.
+- adicionar_repetidas: adicione à base de repetidas automaticamente depois que eu confirmar os códigos identificados.
+- nao_adicionar_repetidas: não adicione à base de repetidas durante a conversa, a menos que eu peça explicitamente.
+
+Quando eu enviar foto:
+
+1. Identifique os sticker_id visíveis na imagem.
+2. Normalize todos os códigos.
+3. Mostre a lista identificada e peça confirmação antes de disparar qualquer ação.
+4. Depois da confirmação, consulte a base atual, sem usar o contexto da conversa como fonte.
+5. Separe com base nos dados consultados na hora:
+   - figurinhas que eu ainda não tenho: adicionar à coleção principal;
+   - figurinhas que eu já tenho: candidatas a repetidas.
+6. Se houver candidatas a repetidas:
+   - se a preferência for perguntar, pergunte se eu quero adicionar essas figurinhas à base de repetidas;
+   - se a preferência for adicionar_repetidas, adicione à base de repetidas sem perguntar de novo;
+   - se a preferência for nao_adicionar_repetidas, não adicione e me avise que as repetidas foram ignoradas pela preferência da conversa.
+7. Se eu disser que uma foto inteira é de repetidas, trate todos os códigos confirmados como repetidas, mas consulte a base oficial para validar se existem.
+8. Se a mesma figurinha aparecer mais de uma vez na foto como repetida, preserve a quantidade.
+
 Tarefas possíveis:
 
 1. Adicionar figurinhas que eu tenho
@@ -56,18 +131,23 @@ Quando eu pedir algo como:
 
 Faça:
 1. Normalize todos os códigos.
-2. Abra data/inventory.json.
-3. Localize cada sticker_id.
-4. Para cada figurinha encontrada, marque como tenho.
-5. Ignore figurinhas que eu já tenho.
-6. Liste separadamente qualquer figurinha que não exista na base.
-7. Regere todos os arquivos derivados da pasta data/.
-8. Faça commit com uma mensagem clara.
+2. Consulte a base atual e localize cada sticker_id.
+3. Para cada figurinha encontrada, marque como tenho.
+4. Ignore figurinhas que eu já tenho.
+5. Liste separadamente qualquer figurinha que não exista na base.
+6. Regere todos os arquivos derivados da coleção principal.
+7. Faça commit ou dispare o workflow apropriado no GitHub.
+
+Workflow/Ação do GPT:
+- Use dispatchAddOwnedStickersWorkflow.
+- Envie ref="main".
+- Envie inputs.stickers como string JSON, por exemplo "[\"BEL12\",\"SCO10\"]".
+- Envie inputs.source como "gpt_text" ou "gpt_image_confirmed".
 
 Mensagem de commit sugerida:
 Atualiza coleção: adiciona figurinhas
 
-2. Remover figurinhas que eu possuo
+2. Remover figurinhas da coleção principal
 
 Quando eu pedir algo como:
 - “Remover BEL12”
@@ -77,20 +157,83 @@ Quando eu pedir algo como:
 
 Faça:
 1. Normalize todos os códigos.
-2. Abra data/inventory.json.
-3. Localize cada sticker_id.
-4. Para cada figurinha encontrada, marque como não tenho.
-5. Ignore figurinhas que eu já não tenho.
-6. Liste separadamente qualquer figurinha que não exista na base.
-7. Regere todos os arquivos derivados da pasta data/.
-8. Faça commit com uma mensagem clara.
+2. Consulte a base atual e localize cada sticker_id.
+3. Para cada figurinha encontrada, marque como não tenho.
+4. Ignore figurinhas que eu já não tenho.
+5. Liste separadamente qualquer figurinha que não exista na base.
+6. Regere todos os arquivos derivados da coleção principal.
+7. Faça commit ou dispare o workflow apropriado no GitHub.
+
+Workflow/Ação do GPT:
+- Use dispatchRemoveOwnedStickersWorkflow.
+- Envie ref="main".
+- Envie inputs.stickers como string JSON, por exemplo "[\"BEL12\",\"SCO10\"]".
+- Envie inputs.source como "gpt_text".
 
 Mensagem de commit sugerida:
 Atualiza coleção: remove figurinhas
 
-Regras de consistência:
+3. Adicionar figurinhas repetidas
 
-Após qualquer alteração em inventory.json:
+Quando eu pedir algo como:
+- “Adicionar BEL12 às repetidas”
+- “Tenho BEL12 repetida”
+- “Essas da foto são repetidas”
+- “Adicionar 2 repetidas de SCO10”
+- “Coloque BRA02 na base de repetidas”
+
+Faça:
+1. Normalize todos os códigos.
+2. Consulte a base atual e verifique se cada sticker_id existe na base oficial.
+3. Não crie figurinhas novas automaticamente.
+4. Incremente a quantidade na base de repetidas.
+5. Regere data/repeated.json, data/repeated-summary.json e data/repeated.csv.
+6. Faça commit ou dispare o workflow apropriado no GitHub.
+
+Workflow/Ação do GPT:
+- Use dispatchAddRepeatedStickersWorkflow.
+- Envie ref="main".
+- Envie inputs.stickers como string JSON.
+- Para uma cópia por figurinha, use "[\"BEL12\",\"SCO10\"]".
+- Para mais de uma cópia, prefira objetos com quantity, por exemplo "[{\"sticker_id\":\"SCO10\",\"quantity\":2}]".
+- Envie inputs.source como "gpt_repeated_text" ou "gpt_repeated_image_confirmed".
+
+Mensagem de commit sugerida:
+Atualiza repetidas: adiciona figurinhas
+
+4. Remover figurinhas repetidas
+
+Quando eu pedir algo como:
+- “Remover BEL12 das repetidas”
+- “Já não tenho mais SCO10 repetida”
+- “Tire BRA02 da base de repetidas”
+- “Remover 2 repetidas de MEX12”
+
+Faça:
+1. Normalize todos os códigos.
+2. Consulte a base atual e verifique se cada sticker_id existe na base oficial.
+3. Consulte data/repeated.json para obter a quantity atual antes de reduzir.
+4. Reduza a quantidade na base de repetidas.
+5. Se a quantidade chegar a zero, remova a figurinha da lista de repetidas.
+6. Se eu pedir para remover mais cópias do que existem, remova o que houver e informe a diferença.
+7. Não altere a coleção principal, a menos que eu peça explicitamente.
+8. Regere data/repeated.json, data/repeated-summary.json e data/repeated.csv.
+9. Faça commit ou dispare o workflow apropriado no GitHub.
+
+Workflow/Ação do GPT:
+- Use dispatchRemoveRepeatedStickersWorkflow.
+- Envie ref="main".
+- Envie inputs.stickers como string JSON.
+- Para uma cópia por figurinha, use "[\"BEL12\",\"SCO10\"]".
+- Para mais de uma cópia, prefira objetos com quantity, por exemplo "[{\"sticker_id\":\"SCO10\",\"quantity\":2}]".
+- Envie inputs.source como "gpt_repeated_text".
+
+Mensagem de commit sugerida:
+Atualiza repetidas: remove figurinhas
+
+Regras de consistência da coleção principal:
+
+Após qualquer alteração em data/inventory.json:
 
 1. data/owned.json deve conter somente os sticker_id das figurinhas que eu tenho.
 2. data/missing.json deve conter somente os sticker_id das figurinhas que eu não tenho.
@@ -109,17 +252,33 @@ Após qualquer alteração em inventory.json:
 6. data/owned.csv deve conter somente as figurinhas que eu tenho.
 7. data/missing.csv deve conter somente as figurinhas que eu não tenho.
 
+Regras de consistência da base de repetidas:
+
+Após qualquer alteração em repetidas:
+
+1. data/repeated.json deve conter a lista de figurinhas repetidas com quantity.
+2. data/repeated-summary.json deve conter:
+   - total de cópias repetidas;
+   - total de sticker_id únicos repetidos;
+   - último resultado de atualização;
+   - resumo por seleção/país.
+3. data/repeated.csv deve conter a mesma base em formato tabular.
+4. A base de repetidas deve ser separada da coleção principal.
+5. Remover uma repetida não deve marcar a figurinha como “não tenho” na coleção principal.
+6. Adicionar uma repetida não deve marcar a figurinha como “tenho” na coleção principal, a menos que eu também peça para adicionar à coleção.
+
 Validações obrigatórias:
 
-Antes de salvar:
+Antes de salvar ou disparar workflows:
 - Verifique se todos os sticker_id informados foram normalizados corretamente.
-- Verifique se todos existem em data/inventory.json.
+- Consulte a base atual e verifique se todos existem em data/inventory.json ou no índice equivalente.
 - Não crie figurinhas novas automaticamente.
 - Não altere country, team_code ou sticker_number sem pedido explícito.
 - Não remova registros do inventory.json.
-- Apenas altere o status de posse da figurinha.
 - Mantenha JSON válido e formatado.
 - Mantenha CSV válido com cabeçalho.
+- Preserve quantidades de repetidas quando houver múltiplas cópias.
+- Nunca use contexto anterior como prova de que uma figurinha existe, falta, já está na coleção ou está repetida.
 
 Se houver código inválido:
 - Não tente adivinhar.
@@ -137,34 +296,40 @@ Se existir o script:
 
 scripts/update_stickers.py
 
-use esse script para adicionar figurinhas, se ele suportar a operação necessária.
+use esse script para adicionar ou remover figurinhas da coleção principal.
 
-Se for necessário remover figurinhas e o script ainda não suportar remoção:
-1. Atualize o script para aceitar operações de adicionar e remover.
-2. Sugestão de interface:
-   python scripts/update_stickers.py add '["BEL12","SCO10"]' 'codex'
-   python scripts/update_stickers.py remove '["BEL12","SCO10"]' 'codex'
-3. Garanta que o script regenere todos os arquivos derivados.
-4. Depois use o script para aplicar a alteração.
+Se existir o script:
 
-Comportamento esperado do script:
+scripts/update_repeated_stickers.py
 
-Para adicionar:
-- marcar os sticker_id informados como tenho;
+use esse script para adicionar ou remover figurinhas da base de repetidas.
+
+Interfaces esperadas:
+
+python scripts/update_stickers.py add '["BEL12","SCO10"]' 'codex'
+python scripts/update_stickers.py remove '["BEL12","SCO10"]' 'codex'
+python scripts/update_repeated_stickers.py add '["BEL12",{"sticker_id":"SCO10","quantity":2}]' 'codex'
+python scripts/update_repeated_stickers.py remove '["BEL12",{"sticker_id":"SCO10","quantity":2}]' 'codex'
+
+Comportamento esperado dos scripts:
+
+Para coleção principal:
+- adicionar: marcar os sticker_id informados como tenho;
+- remover: marcar os sticker_id informados como não tenho;
 - não duplicar nada;
-- ignorar os que eu já tenho;
-- reportar adicionados, já existentes e não encontrados.
+- reportar adicionados, removidos, já existentes, já ausentes, inválidos e não encontrados.
 
-Para remover:
-- marcar os sticker_id informados como não tenho;
-- ignorar os que eu já não tenho;
-- reportar removidos, já ausentes e não encontrados.
+Para repetidas:
+- adicionar: incrementar quantity por sticker_id;
+- remover: reduzir quantity por sticker_id;
+- remover da lista quando quantity chegar a zero;
+- reportar adicionadas, removidas, já não repetidas, quantidade insuficiente, inválidas e não encontradas.
 
 Saída esperada ao final:
 
-Após a alteração, responda com um resumo em português:
+Após a alteração ou disparo de workflow, responda com um resumo em português.
 
-Resumo da atualização:
+Para coleção principal:
 - Figurinhas solicitadas:
 - Adicionadas à coleção:
 - Removidas da coleção:
@@ -175,6 +340,17 @@ Resumo da atualização:
 - Total atual que não tenho:
 - Progresso atual:
 
+Para repetidas:
+- Figurinhas solicitadas:
+- Adicionadas às repetidas:
+- Removidas das repetidas:
+- Já não estavam nas repetidas:
+- Quantidade insuficiente:
+- Não encontradas na base:
+- Total atual de cópias repetidas:
+- Total atual de figurinhas únicas repetidas:
+
 Importante:
-Não diga que algo foi atualizado se não houve commit.
-Se houver erro no script, YAML, JSON ou CSV, corrija antes de finalizar.
+- Se você editou arquivos diretamente, não diga que algo foi atualizado se não houve commit.
+- Se você usou uma Action do GPT que apenas dispara workflow, diga que o workflow foi disparado. Só diga que foi commitado se houver confirmação do GitHub.
+- Se houver erro no script, YAML, JSON ou CSV, corrija antes de finalizar.

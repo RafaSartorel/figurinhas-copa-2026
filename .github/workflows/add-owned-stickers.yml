@@ -16,6 +16,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: figurinhas-data-updates
+  cancel-in-progress: false
+
 jobs:
   update-stickers:
     runs-on: ubuntu-latest
@@ -30,8 +34,11 @@ jobs:
           python-version: '3.12'
 
       - name: Update sticker files
+        env:
+          STICKERS: ${{ inputs.stickers }}
+          SOURCE: ${{ inputs.source }}
         run: |
-          python scripts/update_stickers.py '${{ inputs.stickers }}' '${{ inputs.source }}'
+          python scripts/update_stickers.py add "$STICKERS" "$SOURCE"
 
       - name: Commit changes
         run: |

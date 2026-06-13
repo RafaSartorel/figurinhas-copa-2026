@@ -1,8 +1,8 @@
 openapi: 3.1.0
 info:
   title: Figurinhas Copa 2026 GitHub Workflow API
-  description: Dispara workflows no GitHub para adicionar ou remover figurinhas da coleção.
-  version: 1.1.0
+  description: Dispara workflows no GitHub para adicionar ou remover figurinhas da coleção e da base separada de repetidas.
+  version: 1.2.0
 
 servers:
   - url: https://api.github.com
@@ -38,6 +38,36 @@ paths:
         "204":
           description: Workflow de remoção disparado com sucesso.
 
+  /repos/RafaSartorel/figurinhas-copa-2026/actions/workflows/add-repeated-stickers.yml/dispatches:
+    post:
+      operationId: dispatchAddRepeatedStickersWorkflow
+      summary: Adicionar figurinhas à base de repetidas
+      description: Dispara o workflow add-repeated-stickers.yml para incrementar a quantidade de figurinhas repetidas.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/WorkflowDispatchRequest"
+      responses:
+        "204":
+          description: Workflow de adição de repetidas disparado com sucesso.
+
+  /repos/RafaSartorel/figurinhas-copa-2026/actions/workflows/remove-repeated-stickers.yml/dispatches:
+    post:
+      operationId: dispatchRemoveRepeatedStickersWorkflow
+      summary: Remover figurinhas da base de repetidas
+      description: Dispara o workflow remove-repeated-stickers.yml para reduzir ou remover figurinhas repetidas que não estão mais disponíveis.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/WorkflowDispatchRequest"
+      responses:
+        "204":
+          description: Workflow de remoção de repetidas disparado com sucesso.
+
 components:
   schemas:
     WorkflowDispatchRequest:
@@ -57,8 +87,8 @@ components:
           properties:
             stickers:
               type: string
-              description: Lista JSON, em string, com os IDs das figurinhas, incluindo especiais FWC00 a FWC19.
-              example: "[\"BEL12\",\"SCO10\",\"FWC00\"]"
+              description: Lista JSON, em string, com os IDs das figurinhas, incluindo especiais FWC00 a FWC19. Para repetidas, envie IDs repetidos ou objetos com quantity quando houver mais de uma cópia.
+              example: "[\"BEL12\",{\"sticker_id\":\"SCO10\",\"quantity\":2}]"
             source:
               type: string
               description: Origem da atualização.

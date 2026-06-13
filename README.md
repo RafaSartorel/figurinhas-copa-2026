@@ -10,13 +10,17 @@ Este pacote foi gerado a partir da base oficial `inventory.json`.
 - `data/missing.json`: lista pequena com as figurinhas que ainda faltam (`owned=false`).
 - `data/index.json`: índice por `sticker_id`, com país, número e status.
 - `data/teams-summary.json`: progresso por seleção/país.
+- `data/repeated.json`: base separada das figurinhas repetidas, com quantidade por `sticker_id`.
+- `data/repeated-summary.json`: resumo das repetidas, incluindo totais e visão por seleção/país.
+- `data/repeated.csv`: exportação tabular da base de repetidas.
 
 ## Totais desta versão
 
 - Total de figurinhas: 980
-- Já tenho: 599
-- Faltam: 381
-- Progresso: 61.12%
+- Já tenho: 602
+- Faltam: 378
+- Progresso: 61.43%
+- Repetidas: 0 cópias em 0 figurinhas únicas
 
 ## Conjuntos especiais
 
@@ -30,4 +34,7 @@ https://raw.githubusercontent.com/RafaSartorel/figurinhas-copa-2026/main/data/ow
 https://raw.githubusercontent.com/RafaSartorel/figurinhas-copa-2026/main/data/missing.json
 https://raw.githubusercontent.com/RafaSartorel/figurinhas-copa-2026/main/data/index.json
 https://raw.githubusercontent.com/RafaSartorel/figurinhas-copa-2026/main/data/teams-summary.json
+https://raw.githubusercontent.com/RafaSartorel/figurinhas-copa-2026/main/data/repeated.json
+https://raw.githubusercontent.com/RafaSartorel/figurinhas-copa-2026/main/data/repeated-summary.json
+https://raw.githubusercontent.com/RafaSartorel/figurinhas-copa-2026/main/data/repeated.csv
 ```
