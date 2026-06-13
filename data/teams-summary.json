@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T19:37:53Z",
+  "last_updated": "2026-06-13T19:38:04Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -1369,13 +1369,14 @@
       "team_code": "TUN",
       "country": "Tunísia",
       "stickers_total": 20,
-      "owned_total": 16,
-      "missing_total": 4,
+      "owned_total": 17,
+      "missing_total": 3,
       "owned": [
         "TUN01",
         "TUN03",
         "TUN05",
         "TUN06",
+        "TUN07",
         "TUN08",
         "TUN09",
         "TUN10",
@@ -1392,7 +1393,6 @@
       "missing": [
         "TUN02",
         "TUN04",
-        "TUN07",
         "TUN20"
       ]
     },

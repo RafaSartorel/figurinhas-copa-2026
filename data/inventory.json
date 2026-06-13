@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 793,
+  "owned_count": 794,
   "stickers": [
     {
       "team_code": "ALG",
@@ -6211,7 +6211,7 @@
       "country": "Tunísia",
       "sticker_number": 7,
       "sticker_id": "TUN07",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "TUN",
@@ -6865,11 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-13T19:37:53Z",
-  "missing_count": 187,
-  "last_update_source": "chatgpt",
+  "last_updated": "2026-06-13T19:38:04Z",
+  "missing_count": 186,
+  "last_update_source": "foto",
   "last_added": [
-    "ESP01"
+    "TUN07"
   ],
   "last_removed": []
 }

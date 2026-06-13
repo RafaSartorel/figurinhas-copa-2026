@@ -1,27 +1,24 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T19:37:53Z",
-  "last_update_source": "chatgpt",
+  "last_updated": "2026-06-13T19:38:04Z",
+  "last_update_source": "foto",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 793,
-    "missing_total": 187,
-    "progress_percent": 80.92
+    "owned_total": 794,
+    "missing_total": 186,
+    "progress_percent": 81.02
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "ALG09",
-      "ESP01"
+      "TUN07"
     ],
     "added": [
-      "ESP01"
+      "TUN07"
     ],
     "removed": [],
-    "already_owned": [
-      "ALG09"
-    ],
+    "already_owned": [],
     "already_missing": [],
     "not_found": [],
     "invalid": []
