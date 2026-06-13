@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T20:46:44Z",
+  "last_updated": "2026-06-13T20:54:09Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -1369,10 +1369,11 @@
       "team_code": "TUN",
       "country": "Tunísia",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "TUN01",
+        "TUN02",
         "TUN03",
         "TUN05",
         "TUN06",
@@ -1391,7 +1392,6 @@
         "TUN19"
       ],
       "missing": [
-        "TUN02",
         "TUN04",
         "TUN20"
       ]
@@ -1400,10 +1400,11 @@
       "team_code": "TUR",
       "country": "Turquia",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "TUR01",
+        "TUR02",
         "TUR03",
         "TUR04",
         "TUR05",
@@ -1423,7 +1424,6 @@
         "TUR20"
       ],
       "missing": [
-        "TUR02",
         "TUR19"
       ]
     },

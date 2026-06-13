@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 811,
+  "owned_count": 813,
   "stickers": [
     {
       "team_code": "ALG",
@@ -6176,7 +6176,7 @@
       "country": "Tunísia",
       "sticker_number": 2,
       "sticker_id": "TUN02",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "TUN",
@@ -6316,7 +6316,7 @@
       "country": "Turquia",
       "sticker_number": 2,
       "sticker_id": "TUR02",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "TUR",
@@ -6865,18 +6865,12 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-13T20:46:44Z",
-  "missing_count": 169,
-  "last_update_source": "chat-photo-review",
+  "last_updated": "2026-06-13T20:54:09Z",
+  "missing_count": 167,
+  "last_update_source": "chatgpt",
   "last_added": [
-    "BEL04",
-    "CUW02",
-    "FRA08",
-    "PAN11",
-    "POR03",
-    "RSA07",
-    "URU05",
-    "USA02"
+    "TUN02",
+    "TUR02"
   ],
   "last_removed": []
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T20:46:44Z",
+  "last_updated": "2026-06-13T20:54:09Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -5293,7 +5293,7 @@
       "team_code": "TUN",
       "country": "Tunísia",
       "sticker_number": 2,
-      "owned": false
+      "owned": true
     },
     "TUN03": {
       "team_code": "TUN",
@@ -5413,7 +5413,7 @@
       "team_code": "TUR",
       "country": "Turquia",
       "sticker_number": 2,
-      "owned": false
+      "owned": true
     },
     "TUR03": {
       "team_code": "TUR",

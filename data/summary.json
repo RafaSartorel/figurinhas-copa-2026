@@ -1,35 +1,23 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T20:46:44Z",
-  "last_update_source": "chat-photo-review",
+  "last_updated": "2026-06-13T20:54:09Z",
+  "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 811,
-    "missing_total": 169,
-    "progress_percent": 82.76
+    "owned_total": 813,
+    "missing_total": 167,
+    "progress_percent": 82.96
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "BEL04",
-      "CUW02",
-      "FRA08",
-      "PAN11",
-      "POR03",
-      "RSA07",
-      "URU05",
-      "USA02"
+      "TUN02",
+      "TUR02"
     ],
     "added": [
-      "BEL04",
-      "CUW02",
-      "FRA08",
-      "PAN11",
-      "POR03",
-      "RSA07",
-      "URU05",
-      "USA02"
+      "TUN02",
+      "TUR02"
     ],
     "removed": [],
     "already_owned": [],

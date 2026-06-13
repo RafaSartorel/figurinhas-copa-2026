@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T20:46:44Z",
+  "last_updated": "2026-06-13T20:54:09Z",
   "stickers": [
     "ALG02",
     "ALG03",
@@ -731,6 +731,7 @@
     "SWE19",
     "SWE20",
     "TUN01",
+    "TUN02",
     "TUN03",
     "TUN05",
     "TUN06",
@@ -748,6 +749,7 @@
     "TUN18",
     "TUN19",
     "TUR01",
+    "TUR02",
     "TUR03",
     "TUR04",
     "TUR05",
