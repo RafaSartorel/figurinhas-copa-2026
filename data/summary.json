@@ -1,27 +1,21 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T23:00:10Z",
+  "last_updated": "2026-06-13T23:03:40Z",
   "last_update_source": "foto",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 833,
-    "missing_total": 147,
-    "progress_percent": 85.0
+    "owned_total": 834,
+    "missing_total": 146,
+    "progress_percent": 85.1
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "AUS10",
-      "EGY01",
-      "ESP20",
-      "NED13"
+      "MEX01"
     ],
     "added": [
-      "AUS10",
-      "EGY01",
-      "ESP20",
-      "NED13"
+      "MEX01"
     ],
     "removed": [],
     "already_owned": [],

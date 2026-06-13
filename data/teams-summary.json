@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T23:00:10Z",
+  "last_updated": "2026-06-13T23:03:40Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -967,9 +967,10 @@
       "team_code": "MEX",
       "country": "México",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
+        "MEX01",
         "MEX02",
         "MEX03",
         "MEX04",
@@ -989,7 +990,6 @@
         "MEX20"
       ],
       "missing": [
-        "MEX01",
         "MEX18",
         "MEX19"
       ]

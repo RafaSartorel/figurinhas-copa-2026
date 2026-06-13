@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T23:00:10Z",
+  "last_updated": "2026-06-13T23:03:40Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -3727,7 +3727,7 @@
       "team_code": "MEX",
       "country": "México",
       "sticker_number": 1,
-      "owned": false
+      "owned": true
     },
     "MEX02": {
       "team_code": "MEX",
