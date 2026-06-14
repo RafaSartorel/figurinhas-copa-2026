@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 838,
+  "owned_count": 839,
   "stickers": [
     {
       "team_code": "ALG",
@@ -3089,7 +3089,7 @@
       "country": "Gana",
       "sticker_number": 1,
       "sticker_id": "GHA01",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "GHA",
@@ -6865,11 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-14T01:22:35Z",
-  "missing_count": 142,
+  "last_updated": "2026-06-14T01:25:16Z",
+  "missing_count": 141,
   "last_update_source": "chatgpt",
   "last_added": [
-    "NZL04"
+    "GHA01"
   ],
   "last_removed": []
 }
