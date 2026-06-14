@@ -1,21 +1,21 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-13T23:33:29Z",
-  "last_update_source": "foto",
+  "last_updated": "2026-06-14T01:22:35Z",
+  "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 837,
-    "missing_total": 143,
-    "progress_percent": 85.41
+    "owned_total": 838,
+    "missing_total": 142,
+    "progress_percent": 85.51
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "CAN18"
+      "NZL04"
     ],
     "added": [
-      "CAN18"
+      "NZL04"
     ],
     "removed": [],
     "already_owned": [],
