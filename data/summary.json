@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-14T01:25:16Z",
+  "last_updated": "2026-06-14T01:27:35Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 839,
-    "missing_total": 141,
-    "progress_percent": 85.61
+    "owned_total": 838,
+    "missing_total": 142,
+    "progress_percent": 85.51
   },
   "last_update_result": {
-    "operation": "add",
+    "operation": "remove",
     "requested": [
-      "GHA01"
+      "NZL08"
     ],
-    "added": [
-      "GHA01"
+    "added": [],
+    "removed": [
+      "NZL08"
     ],
-    "removed": [],
     "already_owned": [],
     "already_missing": [],
     "not_found": [],

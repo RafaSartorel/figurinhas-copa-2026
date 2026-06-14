@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 839,
+  "owned_count": 838,
   "stickers": [
     {
       "team_code": "ALG",
@@ -4818,7 +4818,7 @@
       "country": "Nova Zelândia",
       "sticker_number": 8,
       "sticker_id": "NZL08",
-      "owned": true
+      "owned": false
     },
     {
       "team_code": "NZL",
@@ -6865,11 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-14T01:25:16Z",
-  "missing_count": 141,
+  "last_updated": "2026-06-14T01:27:35Z",
+  "missing_count": 142,
   "last_update_source": "chatgpt",
-  "last_added": [
-    "GHA01"
-  ],
-  "last_removed": []
+  "last_added": [],
+  "last_removed": [
+    "NZL08"
+  ]
 }

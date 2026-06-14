@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-14T01:25:16Z",
+  "last_updated": "2026-06-14T01:27:35Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -1060,8 +1060,8 @@
       "team_code": "NZL",
       "country": "Nova Zelândia",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "NZL01",
         "NZL02",
@@ -1070,7 +1070,6 @@
         "NZL05",
         "NZL06",
         "NZL07",
-        "NZL08",
         "NZL09",
         "NZL10",
         "NZL11",
@@ -1084,6 +1083,7 @@
         "NZL20"
       ],
       "missing": [
+        "NZL08",
         "NZL17"
       ]
     },
