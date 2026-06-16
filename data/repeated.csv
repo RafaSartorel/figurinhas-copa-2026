@@ -16,11 +16,12 @@ AUT03,AUT,Áustria,3,1
 AUT07,AUT,Áustria,7,1
 AUT09,AUT,Áustria,9,1
 AUT12,AUT,Áustria,12,1
-BIH09,BIH,Bósnia,9,1
+BIH05,BIH,Bósnia,5,1
+BIH09,BIH,Bósnia,9,2
 BIH11,BIH,Bósnia,11,1
 BIH12,BIH,Bósnia,12,1
 BIH17,BIH,Bósnia,17,1
-BIH18,BIH,Bósnia,18,2
+BIH18,BIH,Bósnia,18,3
 BIH19,BIH,Bósnia,19,1
 BRA06,BRA,Brasil,6,1
 CAN14,CAN,Canadá,14,1
@@ -28,14 +29,17 @@ CAN16,CAN,Canadá,16,1
 CAN17,CAN,Canadá,17,1
 CAN20,CAN,Canadá,20,1
 CIV02,CIV,Costa do Marfim,2,1
+CIV03,CIV,Costa do Marfim,3,1
 CIV05,CIV,Costa do Marfim,5,1
 CIV09,CIV,Costa do Marfim,9,1
 CIV14,CIV,Costa do Marfim,14,1
+CIV19,CIV,Costa do Marfim,19,2
 COD03,COD,Congo,3,1
 COD04,COD,Congo,4,1
 COD06,COD,Congo,6,1
 COD09,COD,Congo,9,1
 COD11,COD,Congo,11,1
+COL15,COL,Colômbia,15,1
 CPV03,CPV,Cabo Verde,3,2
 CPV06,CPV,Cabo Verde,6,1
 CPV07,CPV,Cabo Verde,7,1
@@ -53,6 +57,7 @@ CZE05,CZE,Rep. Tcheca,5,2
 CZE07,CZE,Rep. Tcheca,7,1
 CZE08,CZE,Rep. Tcheca,8,1
 CZE09,CZE,Rep. Tcheca,9,3
+CZE10,CZE,Rep. Tcheca,10,1
 CZE19,CZE,Rep. Tcheca,19,1
 ECU03,ECU,Equador,3,1
 ECU07,ECU,Equador,7,1
@@ -78,6 +83,7 @@ IRN05,IRN,Irã,5,1
 IRN07,IRN,Irã,7,1
 IRN20,IRN,Irã,20,2
 IRQ04,IRQ,Iraque,4,1
+IRQ05,IRQ,Iraque,5,1
 IRQ06,IRQ,Iraque,6,1
 IRQ10,IRQ,Iraque,10,1
 IRQ12,IRQ,Iraque,12,1
@@ -101,6 +107,7 @@ KSA11,KSA,Arábia Saudita,11,1
 KSA14,KSA,Arábia Saudita,14,1
 KSA16,KSA,Arábia Saudita,16,1
 KSA18,KSA,Arábia Saudita,18,1
+MAR03,MAR,Marrocos,3,1
 MAR07,MAR,Marrocos,7,1
 MAR11,MAR,Marrocos,11,1
 MEX05,MEX,México,5,1
@@ -118,7 +125,7 @@ NZL07,NZL,Nova Zelândia,7,1
 NZL11,NZL,Nova Zelândia,11,1
 PAN03,PAN,Panamá,3,1
 PAN07,PAN,Panamá,7,1
-PAN11,PAN,Panamá,11,1
+PAN11,PAN,Panamá,11,2
 PAN16,PAN,Panamá,16,1
 PAN20,PAN,Panamá,20,1
 PAR10,PAR,Paraguai,10,1
@@ -128,6 +135,7 @@ POR20,POR,Portugal,20,1
 QAT01,QAT,Catar,1,1
 QAT05,QAT,Catar,5,1
 QAT06,QAT,Catar,6,1
+QAT10,QAT,Catar,10,1
 QAT14,QAT,Catar,14,1
 QAT15,QAT,Catar,15,1
 QAT18,QAT,Catar,18,1
@@ -138,12 +146,14 @@ RSA05,RSA,África do Sul,5,2
 RSA08,RSA,África do Sul,8,1
 RSA09,RSA,África do Sul,9,1
 RSA10,RSA,África do Sul,10,1
+RSA11,RSA,África do Sul,11,1
 RSA19,RSA,África do Sul,19,3
 RSA20,RSA,África do Sul,20,1
 SCO02,SCO,Escócia,2,2
 SCO03,SCO,Escócia,3,2
 SCO10,SCO,Escócia,10,1
 SCO11,SCO,Escócia,11,1
+SEN03,SEN,Senegal,3,1
 SEN04,SEN,Senegal,4,1
 SEN05,SEN,Senegal,5,1
 SEN06,SEN,Senegal,6,1
@@ -157,14 +167,17 @@ SUI02,SUI,Suíça,2,1
 SUI03,SUI,Suíça,3,1
 SUI06,SUI,Suíça,6,1
 SUI07,SUI,Suíça,7,1
-SUI11,SUI,Suíça,11,1
+SUI11,SUI,Suíça,11,2
 SUI12,SUI,Suíça,12,1
-SUI15,SUI,Suíça,15,1
+SUI15,SUI,Suíça,15,2
 SUI16,SUI,Suíça,16,1
 SUI18,SUI,Suíça,18,1
+SUI20,SUI,Suíça,20,1
 SWE01,SWE,Suécia,1,1
-SWE05,SWE,Suécia,5,1
+SWE03,SWE,Suécia,3,1
+SWE05,SWE,Suécia,5,2
 SWE07,SWE,Suécia,7,1
+SWE11,SWE,Suécia,11,1
 SWE14,SWE,Suécia,14,1
 SWE17,SWE,Suécia,17,2
 TUN10,TUN,Tunísia,10,1
@@ -177,7 +190,7 @@ TUR12,TUR,Turquia,12,1
 TUR14,TUR,Turquia,14,6
 TUR15,TUR,Turquia,15,1
 TUR17,TUR,Turquia,17,1
-TUR18,TUR,Turquia,18,2
+TUR18,TUR,Turquia,18,3
 URU02,URU,Uruguai,2,1
 URU03,URU,Uruguai,3,1
 URU06,URU,Uruguai,6,1
@@ -193,6 +206,8 @@ USA10,USA,Estados Unidos,10,1
 USA12,USA,Estados Unidos,12,2
 USA15,USA,Estados Unidos,15,1
 USA16,USA,Estados Unidos,16,1
+USA18,USA,Estados Unidos,18,2
+USA20,USA,Estados Unidos,20,1
 UZB02,UZB,Uzbequistão,2,1
 UZB03,UZB,Uzbequistão,3,1
 UZB12,UZB,Uzbequistão,12,1
