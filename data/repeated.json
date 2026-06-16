@@ -1,27 +1,13 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-16T19:35:22Z",
-  "last_update_source": "chatgpt-batch-clear-2",
+  "last_updated": "2026-06-16T19:36:40Z",
+  "last_update_source": "chatgpt-batch-clear-3",
   "totals": {
-    "repeated_total": 162,
-    "unique_repeated_total": 131
+    "repeated_total": 158,
+    "unique_repeated_total": 129
   },
   "stickers": [
-    {
-      "sticker_id": "ENG15",
-      "team_code": "ENG",
-      "country": "Inglaterra",
-      "sticker_number": 15,
-      "quantity": 2
-    },
-    {
-      "sticker_id": "ENG20",
-      "team_code": "ENG",
-      "country": "Inglaterra",
-      "sticker_number": 20,
-      "quantity": 2
-    },
     {
       "sticker_id": "ESP05",
       "team_code": "ESP",
