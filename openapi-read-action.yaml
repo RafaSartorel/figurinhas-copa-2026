@@ -60,6 +60,19 @@ paths:
               schema:
                 type: object
 
+  /RafaSartorel/figurinhas-copa-2026/main/data/inventory.json:
+    get:
+      operationId: getInventory
+      summary: Consultar base mestre completa
+      description: Retorna a base mestre completa de figurinhas para validar existência oficial e metadados completos.
+      responses:
+        "200":
+          description: Base mestre completa.
+          content:
+            application/json:
+              schema:
+                type: object
+
   /RafaSartorel/figurinhas-copa-2026/main/data/teams-summary.json:
     get:
       operationId: getTeamsSummary
