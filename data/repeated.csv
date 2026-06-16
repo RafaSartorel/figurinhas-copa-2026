@@ -9,7 +9,9 @@ ARG03,ARG,Argentina,3,1
 ARG06,ARG,Argentina,6,1
 AUS08,AUS,Austrália,8,1
 AUS12,AUS,Austrália,12,1
+AUS17,AUS,Austrália,17,1
 AUT01,AUT,Áustria,1,1
+AUT02,AUT,Áustria,2,1
 AUT03,AUT,Áustria,3,1
 AUT07,AUT,Áustria,7,1
 AUT09,AUT,Áustria,9,1
@@ -17,14 +19,18 @@ AUT12,AUT,Áustria,12,1
 BIH09,BIH,Bósnia,9,1
 BIH11,BIH,Bósnia,11,1
 BIH12,BIH,Bósnia,12,1
-BIH18,BIH,Bósnia,18,1
+BIH17,BIH,Bósnia,17,1
+BIH18,BIH,Bósnia,18,2
 BIH19,BIH,Bósnia,19,1
 BRA06,BRA,Brasil,6,1
 CAN14,CAN,Canadá,14,1
 CAN16,CAN,Canadá,16,1
+CAN17,CAN,Canadá,17,1
+CAN20,CAN,Canadá,20,1
 CIV02,CIV,Costa do Marfim,2,1
 CIV05,CIV,Costa do Marfim,5,1
 CIV09,CIV,Costa do Marfim,9,1
+CIV14,CIV,Costa do Marfim,14,1
 COD03,COD,Congo,3,1
 COD04,COD,Congo,4,1
 COD06,COD,Congo,6,1
@@ -40,12 +46,13 @@ CRO12,CRO,Croácia,12,1
 CRO17,CRO,Croácia,17,1
 CUW07,CUW,Curaçao,7,1
 CUW09,CUW,Curaçao,9,1
+CUW14,CUW,Curaçao,14,1
 CUW18,CUW,Curaçao,18,1
 CZE04,CZE,Rep. Tcheca,4,1
 CZE05,CZE,Rep. Tcheca,5,2
 CZE07,CZE,Rep. Tcheca,7,1
 CZE08,CZE,Rep. Tcheca,8,1
-CZE09,CZE,Rep. Tcheca,9,2
+CZE09,CZE,Rep. Tcheca,9,3
 CZE19,CZE,Rep. Tcheca,19,1
 ECU03,ECU,Equador,3,1
 ECU07,ECU,Equador,7,1
@@ -55,6 +62,7 @@ EGY16,EGY,Egito,16,1
 EGY20,EGY,Egito,20,1
 ENG05,ENG,Inglaterra,5,1
 ESP01,ESP,Espanha,1,1
+ESP11,ESP,Espanha,11,1
 FRA05,FRA,França,5,1
 FRA09,FRA,França,9,1
 FRA14,FRA,França,14,1
@@ -63,11 +71,12 @@ GER02,GER,Alemanha,2,1
 GER06,GER,Alemanha,6,1
 GER10,GER,Alemanha,10,1
 GER12,GER,Alemanha,12,1
+GER15,GER,Alemanha,15,1
 GER16,GER,Alemanha,16,2
 HAI20,HAI,Haiti,20,1
 IRN05,IRN,Irã,5,1
 IRN07,IRN,Irã,7,1
-IRN20,IRN,Irã,20,1
+IRN20,IRN,Irã,20,2
 IRQ04,IRQ,Iraque,4,1
 IRQ06,IRQ,Iraque,6,1
 IRQ10,IRQ,Iraque,10,1
@@ -75,16 +84,17 @@ IRQ12,IRQ,Iraque,12,1
 IRQ15,IRQ,Iraque,15,1
 IRQ17,IRQ,Iraque,17,2
 IRQ20,IRQ,Iraque,20,2
+JOR01,JOR,Jordânia,1,1
 JOR03,JOR,Jordânia,3,1
 JOR07,JOR,Jordânia,7,1
 JOR11,JOR,Jordânia,11,1
 JOR16,JOR,Jordânia,16,1
 JOR20,JOR,Jordânia,20,1
-KOR01,KOR,Coreia do Sul,1,1
+KOR01,KOR,Coreia do Sul,1,2
 KOR12,KOR,Coreia do Sul,12,1
 KOR17,KOR,Coreia do Sul,17,1
 KOR20,KOR,Coreia do Sul,20,1
-KSA05,KSA,Arábia Saudita,5,1
+KSA05,KSA,Arábia Saudita,5,2
 KSA06,KSA,Arábia Saudita,6,1
 KSA08,KSA,Arábia Saudita,8,1
 KSA11,KSA,Arábia Saudita,11,1
@@ -94,12 +104,15 @@ KSA18,KSA,Arábia Saudita,18,1
 MAR07,MAR,Marrocos,7,1
 MAR11,MAR,Marrocos,11,1
 MEX05,MEX,México,5,1
+MEX09,MEX,México,9,1
 MEX14,MEX,México,14,1
 MEX16,MEX,México,16,1
 MEX17,MEX,México,17,1
+MEX20,MEX,México,20,1
 NED02,NED,Holanda,2,1
 NED05,NED,Holanda,5,1
 NED06,NED,Holanda,6,1
+NED14,NED,Holanda,14,1
 NOR08,NOR,Noruega,8,1
 NZL07,NZL,Nova Zelândia,7,1
 NZL11,NZL,Nova Zelândia,11,1
@@ -111,6 +124,7 @@ PAN20,PAN,Panamá,20,1
 PAR10,PAR,Paraguai,10,1
 POR12,POR,Portugal,12,1
 POR14,POR,Portugal,14,1
+POR20,POR,Portugal,20,1
 QAT01,QAT,Catar,1,1
 QAT05,QAT,Catar,5,1
 QAT06,QAT,Catar,6,1
@@ -132,10 +146,12 @@ SCO10,SCO,Escócia,10,1
 SCO11,SCO,Escócia,11,1
 SEN04,SEN,Senegal,4,1
 SEN05,SEN,Senegal,5,1
+SEN06,SEN,Senegal,6,1
 SEN08,SEN,Senegal,8,3
 SEN09,SEN,Senegal,9,2
+SEN12,SEN,Senegal,12,1
 SEN14,SEN,Senegal,14,1
-SEN17,SEN,Senegal,17,3
+SEN17,SEN,Senegal,17,4
 SEN18,SEN,Senegal,18,2
 SUI02,SUI,Suíça,2,1
 SUI03,SUI,Suíça,3,1
@@ -147,33 +163,38 @@ SUI15,SUI,Suíça,15,1
 SUI16,SUI,Suíça,16,1
 SUI18,SUI,Suíça,18,1
 SWE01,SWE,Suécia,1,1
+SWE05,SWE,Suécia,5,1
 SWE07,SWE,Suécia,7,1
+SWE14,SWE,Suécia,14,1
 SWE17,SWE,Suécia,17,2
 TUN10,TUN,Tunísia,10,1
+TUR02,TUR,Turquia,2,1
 TUR05,TUR,Turquia,5,1
 TUR06,TUR,Turquia,6,1
 TUR09,TUR,Turquia,9,1
 TUR10,TUR,Turquia,10,1
 TUR12,TUR,Turquia,12,1
-TUR14,TUR,Turquia,14,5
+TUR14,TUR,Turquia,14,6
 TUR15,TUR,Turquia,15,1
 TUR17,TUR,Turquia,17,1
 TUR18,TUR,Turquia,18,2
 URU02,URU,Uruguai,2,1
+URU03,URU,Uruguai,3,1
 URU06,URU,Uruguai,6,1
 URU07,URU,Uruguai,7,1
 URU08,URU,Uruguai,8,1
 URU10,URU,Uruguai,10,1
 URU14,URU,Uruguai,14,1
-URU15,URU,Uruguai,15,2
+URU15,URU,Uruguai,15,3
 URU16,URU,Uruguai,16,1
 URU19,URU,Uruguai,19,1
 URU20,URU,Uruguai,20,1
 USA10,USA,Estados Unidos,10,1
-USA12,USA,Estados Unidos,12,1
+USA12,USA,Estados Unidos,12,2
 USA15,USA,Estados Unidos,15,1
 USA16,USA,Estados Unidos,16,1
 UZB02,UZB,Uzbequistão,2,1
 UZB03,UZB,Uzbequistão,3,1
 UZB12,UZB,Uzbequistão,12,1
 UZB17,UZB,Uzbequistão,17,1
+UZB18,UZB,Uzbequistão,18,1
