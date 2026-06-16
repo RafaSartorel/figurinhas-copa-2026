@@ -1,22 +1,51 @@
 sticker_id,team_code,country,sticker_number,quantity
 ALG06,ALG,Argélia,6,1
 ALG10,ALG,Argélia,10,1
+ALG18,ALG,Argélia,18,1
+ARG02,ARG,Argentina,2,1
+ARG03,ARG,Argentina,3,1
+AUT12,AUT,Áustria,12,1
 BIH12,BIH,Bósnia,12,1
 BIH18,BIH,Bósnia,18,1
+CAN14,CAN,Canadá,14,1
+COD03,COD,Congo,3,1
+COD04,COD,Congo,4,1
 COD06,COD,Congo,6,1
+CPV03,CPV,Cabo Verde,3,1
+CPV07,CPV,Cabo Verde,7,1
+CPV11,CPV,Cabo Verde,11,1
+CRO12,CRO,Croácia,12,1
+CUW07,CUW,Curaçao,7,1
 CZE04,CZE,Rep. Tcheca,4,1
 CZE08,CZE,Rep. Tcheca,8,1
+EGY02,EGY,Egito,2,1
 EGY11,EGY,Egito,11,1
+EGY20,EGY,Egito,20,1
 FRA09,FRA,França,9,1
+GER16,GER,Alemanha,16,1
 HAI20,HAI,Haiti,20,1
+IRQ06,IRQ,Iraque,6,1
 IRQ10,IRQ,Iraque,10,1
 IRQ15,IRQ,Iraque,15,1
+IRQ17,IRQ,Iraque,17,1
+JOR07,JOR,Jordânia,7,1
+JOR16,JOR,Jordânia,16,1
+KOR17,KOR,Coreia do Sul,17,1
+KOR20,KOR,Coreia do Sul,20,1
 KSA05,KSA,Arábia Saudita,5,1
 NED06,NED,Holanda,6,1
+NZL07,NZL,Nova Zelândia,7,1
+NZL11,NZL,Nova Zelândia,11,1
+RSA02,RSA,África do Sul,2,2
+RSA03,RSA,África do Sul,3,1
 RSA19,RSA,África do Sul,19,1
+SEN08,SEN,Senegal,8,1
+SEN09,SEN,Senegal,9,1
 SEN14,SEN,Senegal,14,1
 SEN17,SEN,Senegal,17,1
-SEN18,SEN,Senegal,18,1
+SEN18,SEN,Senegal,18,2
+SUI03,SUI,Suíça,3,1
+SUI06,SUI,Suíça,6,1
 SUI07,SUI,Suíça,7,1
 SUI12,SUI,Suíça,12,1
 SUI15,SUI,Suíça,15,1
@@ -24,8 +53,13 @@ SUI18,SUI,Suíça,18,1
 SWE01,SWE,Suécia,1,1
 SWE17,SWE,Suécia,17,1
 TUN10,TUN,Tunísia,10,1
+TUR05,TUR,Turquia,5,1
+TUR09,TUR,Turquia,9,1
 TUR10,TUR,Turquia,10,1
 TUR15,TUR,Turquia,15,1
+URU07,URU,Uruguai,7,1
 URU08,URU,Uruguai,8,1
 URU20,URU,Uruguai,20,1
+USA10,USA,Estados Unidos,10,1
+USA12,USA,Estados Unidos,12,1
 USA15,USA,Estados Unidos,15,1
