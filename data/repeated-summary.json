@@ -1,69 +1,101 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-16T20:06:38Z",
+  "last_updated": "2026-06-16T20:12:03Z",
   "last_update_source": "foto-chat",
   "totals": {
-    "repeated_total": 179,
-    "unique_repeated_total": 155
+    "repeated_total": 204,
+    "unique_repeated_total": 178
   },
   "last_update_result": {
     "operation": "add",
     "requested_counts": [
       {
-        "sticker_id": "ALG09",
+        "sticker_id": "AUS08",
         "quantity": 1
       },
       {
-        "sticker_id": "BRA06",
+        "sticker_id": "AUS12",
         "quantity": 1
       },
       {
-        "sticker_id": "COD11",
+        "sticker_id": "CAN16",
         "quantity": 1
       },
       {
-        "sticker_id": "IRQ04",
+        "sticker_id": "CIV09",
         "quantity": 1
       },
       {
-        "sticker_id": "IRQ20",
+        "sticker_id": "CUW09",
         "quantity": 1
       },
       {
-        "sticker_id": "JOR03",
+        "sticker_id": "CUW18",
         "quantity": 1
       },
       {
-        "sticker_id": "NED02",
+        "sticker_id": "ECU03",
         "quantity": 1
       },
       {
-        "sticker_id": "PAN11",
+        "sticker_id": "ECU07",
         "quantity": 1
       },
       {
-        "sticker_id": "QAT01",
+        "sticker_id": "FWC04",
         "quantity": 1
       },
       {
-        "sticker_id": "QAT15",
+        "sticker_id": "IRN20",
         "quantity": 1
       },
       {
-        "sticker_id": "RSA03",
+        "sticker_id": "KSA11",
         "quantity": 1
       },
       {
-        "sticker_id": "RSA19",
+        "sticker_id": "KSA14",
         "quantity": 1
       },
       {
-        "sticker_id": "SCO03",
+        "sticker_id": "KSA18",
         "quantity": 1
       },
       {
-        "sticker_id": "SCO11",
+        "sticker_id": "MAR07",
+        "quantity": 1
+      },
+      {
+        "sticker_id": "MAR11",
+        "quantity": 1
+      },
+      {
+        "sticker_id": "MEX14",
+        "quantity": 1
+      },
+      {
+        "sticker_id": "MEX16",
+        "quantity": 1
+      },
+      {
+        "sticker_id": "NED05",
+        "quantity": 1
+      },
+      {
+        "sticker_id": "PAN03",
+        "quantity": 1
+      },
+      {
+        "sticker_id": "PAN07",
+        "quantity": 1
+      },
+      {
+        "sticker_id": "PAN20",
+        "quantity": 1
+      },
+      {
+        "sticker_id": "QAT06",
         "quantity": 1
       },
       {
@@ -71,142 +103,137 @@
         "quantity": 1
       },
       {
-        "sticker_id": "SEN17",
+        "sticker_id": "SWE17",
         "quantity": 1
       },
       {
-        "sticker_id": "SUI11",
-        "quantity": 1
-      },
-      {
-        "sticker_id": "TUR12",
-        "quantity": 1
-      },
-      {
-        "sticker_id": "TUR14",
-        "quantity": 2
-      },
-      {
-        "sticker_id": "UZB02",
-        "quantity": 1
-      },
-      {
-        "sticker_id": "UZB03",
-        "quantity": 1
-      },
-      {
-        "sticker_id": "UZB17",
+        "sticker_id": "USA16",
         "quantity": 1
       }
     ],
     "added": [
       {
-        "sticker_id": "ALG09",
+        "sticker_id": "AUS08",
         "quantity": 1,
         "new_quantity": 1
       },
       {
-        "sticker_id": "BRA06",
+        "sticker_id": "AUS12",
         "quantity": 1,
         "new_quantity": 1
       },
       {
-        "sticker_id": "COD11",
+        "sticker_id": "CAN16",
         "quantity": 1,
         "new_quantity": 1
       },
       {
-        "sticker_id": "IRQ04",
+        "sticker_id": "CIV09",
         "quantity": 1,
         "new_quantity": 1
       },
       {
-        "sticker_id": "IRQ20",
-        "quantity": 1,
-        "new_quantity": 2
-      },
-      {
-        "sticker_id": "JOR03",
+        "sticker_id": "CUW09",
         "quantity": 1,
         "new_quantity": 1
       },
       {
-        "sticker_id": "NED02",
+        "sticker_id": "CUW18",
         "quantity": 1,
         "new_quantity": 1
       },
       {
-        "sticker_id": "PAN11",
+        "sticker_id": "ECU03",
         "quantity": 1,
         "new_quantity": 1
       },
       {
-        "sticker_id": "QAT01",
+        "sticker_id": "ECU07",
         "quantity": 1,
         "new_quantity": 1
       },
       {
-        "sticker_id": "QAT15",
+        "sticker_id": "FWC04",
         "quantity": 1,
         "new_quantity": 1
       },
       {
-        "sticker_id": "RSA03",
+        "sticker_id": "IRN20",
         "quantity": 1,
-        "new_quantity": 2
+        "new_quantity": 1
       },
       {
-        "sticker_id": "RSA19",
+        "sticker_id": "KSA11",
         "quantity": 1,
-        "new_quantity": 3
+        "new_quantity": 1
       },
       {
-        "sticker_id": "SCO03",
+        "sticker_id": "KSA14",
         "quantity": 1,
-        "new_quantity": 2
+        "new_quantity": 1
       },
       {
-        "sticker_id": "SCO11",
+        "sticker_id": "KSA18",
+        "quantity": 1,
+        "new_quantity": 1
+      },
+      {
+        "sticker_id": "MAR07",
+        "quantity": 1,
+        "new_quantity": 1
+      },
+      {
+        "sticker_id": "MAR11",
+        "quantity": 1,
+        "new_quantity": 1
+      },
+      {
+        "sticker_id": "MEX14",
+        "quantity": 1,
+        "new_quantity": 1
+      },
+      {
+        "sticker_id": "MEX16",
+        "quantity": 1,
+        "new_quantity": 1
+      },
+      {
+        "sticker_id": "NED05",
+        "quantity": 1,
+        "new_quantity": 1
+      },
+      {
+        "sticker_id": "PAN03",
+        "quantity": 1,
+        "new_quantity": 1
+      },
+      {
+        "sticker_id": "PAN07",
+        "quantity": 1,
+        "new_quantity": 1
+      },
+      {
+        "sticker_id": "PAN20",
+        "quantity": 1,
+        "new_quantity": 1
+      },
+      {
+        "sticker_id": "QAT06",
         "quantity": 1,
         "new_quantity": 1
       },
       {
         "sticker_id": "SEN08",
         "quantity": 1,
-        "new_quantity": 2
-      },
-      {
-        "sticker_id": "SEN17",
-        "quantity": 1,
         "new_quantity": 3
       },
       {
-        "sticker_id": "SUI11",
+        "sticker_id": "SWE17",
         "quantity": 1,
-        "new_quantity": 1
+        "new_quantity": 2
       },
       {
-        "sticker_id": "TUR12",
-        "quantity": 1,
-        "new_quantity": 1
-      },
-      {
-        "sticker_id": "TUR14",
-        "quantity": 2,
-        "new_quantity": 5
-      },
-      {
-        "sticker_id": "UZB02",
-        "quantity": 1,
-        "new_quantity": 1
-      },
-      {
-        "sticker_id": "UZB03",
-        "quantity": 1,
-        "new_quantity": 1
-      },
-      {
-        "sticker_id": "UZB17",
+        "sticker_id": "USA16",
         "quantity": 1,
         "new_quantity": 1
       }
@@ -270,6 +297,24 @@
         {
           "sticker_id": "ARG06",
           "sticker_number": 6,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "team_code": "AUS",
+      "country": "Austrália",
+      "repeated_total": 2,
+      "unique_repeated_total": 2,
+      "stickers": [
+        {
+          "sticker_id": "AUS08",
+          "sticker_number": 8,
+          "quantity": 1
+        },
+        {
+          "sticker_id": "AUS12",
+          "sticker_number": 12,
           "quantity": 1
         }
       ]
@@ -356,12 +401,17 @@
     {
       "team_code": "CAN",
       "country": "Canadá",
-      "repeated_total": 1,
-      "unique_repeated_total": 1,
+      "repeated_total": 2,
+      "unique_repeated_total": 2,
       "stickers": [
         {
           "sticker_id": "CAN14",
           "sticker_number": 14,
+          "quantity": 1
+        },
+        {
+          "sticker_id": "CAN16",
+          "sticker_number": 16,
           "quantity": 1
         }
       ]
@@ -369,8 +419,8 @@
     {
       "team_code": "CIV",
       "country": "Costa do Marfim",
-      "repeated_total": 2,
-      "unique_repeated_total": 2,
+      "repeated_total": 3,
+      "unique_repeated_total": 3,
       "stickers": [
         {
           "sticker_id": "CIV02",
@@ -380,6 +430,11 @@
         {
           "sticker_id": "CIV05",
           "sticker_number": 5,
+          "quantity": 1
+        },
+        {
+          "sticker_id": "CIV09",
+          "sticker_number": 9,
           "quantity": 1
         }
       ]
@@ -476,12 +531,22 @@
     {
       "team_code": "CUW",
       "country": "Curaçao",
-      "repeated_total": 1,
-      "unique_repeated_total": 1,
+      "repeated_total": 3,
+      "unique_repeated_total": 3,
       "stickers": [
         {
           "sticker_id": "CUW07",
           "sticker_number": 7,
+          "quantity": 1
+        },
+        {
+          "sticker_id": "CUW09",
+          "sticker_number": 9,
+          "quantity": 1
+        },
+        {
+          "sticker_id": "CUW18",
+          "sticker_number": 18,
           "quantity": 1
         }
       ]
@@ -520,6 +585,24 @@
         {
           "sticker_id": "CZE19",
           "sticker_number": 19,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "team_code": "ECU",
+      "country": "Equador",
+      "repeated_total": 2,
+      "unique_repeated_total": 2,
+      "stickers": [
+        {
+          "sticker_id": "ECU03",
+          "sticker_number": 3,
+          "quantity": 1
+        },
+        {
+          "sticker_id": "ECU07",
+          "sticker_number": 7,
           "quantity": 1
         }
       ]
@@ -602,6 +685,19 @@
       ]
     },
     {
+      "team_code": "FWC",
+      "country": "FIFA World Cup",
+      "repeated_total": 1,
+      "unique_repeated_total": 1,
+      "stickers": [
+        {
+          "sticker_id": "FWC04",
+          "sticker_number": 4,
+          "quantity": 1
+        }
+      ]
+    },
+    {
       "team_code": "GER",
       "country": "Alemanha",
       "repeated_total": 6,
@@ -650,8 +746,8 @@
     {
       "team_code": "IRN",
       "country": "Irã",
-      "repeated_total": 2,
-      "unique_repeated_total": 2,
+      "repeated_total": 3,
+      "unique_repeated_total": 3,
       "stickers": [
         {
           "sticker_id": "IRN05",
@@ -661,6 +757,11 @@
         {
           "sticker_id": "IRN07",
           "sticker_number": 7,
+          "quantity": 1
+        },
+        {
+          "sticker_id": "IRN20",
+          "sticker_number": 20,
           "quantity": 1
         }
       ]
@@ -772,8 +873,8 @@
     {
       "team_code": "KSA",
       "country": "Arábia Saudita",
-      "repeated_total": 4,
-      "unique_repeated_total": 4,
+      "repeated_total": 7,
+      "unique_repeated_total": 7,
       "stickers": [
         {
           "sticker_id": "KSA05",
@@ -791,8 +892,41 @@
           "quantity": 1
         },
         {
+          "sticker_id": "KSA11",
+          "sticker_number": 11,
+          "quantity": 1
+        },
+        {
+          "sticker_id": "KSA14",
+          "sticker_number": 14,
+          "quantity": 1
+        },
+        {
           "sticker_id": "KSA16",
           "sticker_number": 16,
+          "quantity": 1
+        },
+        {
+          "sticker_id": "KSA18",
+          "sticker_number": 18,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "team_code": "MAR",
+      "country": "Marrocos",
+      "repeated_total": 2,
+      "unique_repeated_total": 2,
+      "stickers": [
+        {
+          "sticker_id": "MAR07",
+          "sticker_number": 7,
+          "quantity": 1
+        },
+        {
+          "sticker_id": "MAR11",
+          "sticker_number": 11,
           "quantity": 1
         }
       ]
@@ -800,12 +934,22 @@
     {
       "team_code": "MEX",
       "country": "México",
-      "repeated_total": 2,
-      "unique_repeated_total": 2,
+      "repeated_total": 4,
+      "unique_repeated_total": 4,
       "stickers": [
         {
           "sticker_id": "MEX05",
           "sticker_number": 5,
+          "quantity": 1
+        },
+        {
+          "sticker_id": "MEX14",
+          "sticker_number": 14,
+          "quantity": 1
+        },
+        {
+          "sticker_id": "MEX16",
+          "sticker_number": 16,
           "quantity": 1
         },
         {
@@ -818,12 +962,17 @@
     {
       "team_code": "NED",
       "country": "Holanda",
-      "repeated_total": 2,
-      "unique_repeated_total": 2,
+      "repeated_total": 3,
+      "unique_repeated_total": 3,
       "stickers": [
         {
           "sticker_id": "NED02",
           "sticker_number": 2,
+          "quantity": 1
+        },
+        {
+          "sticker_id": "NED05",
+          "sticker_number": 5,
           "quantity": 1
         },
         {
@@ -867,9 +1016,19 @@
     {
       "team_code": "PAN",
       "country": "Panamá",
-      "repeated_total": 2,
-      "unique_repeated_total": 2,
+      "repeated_total": 5,
+      "unique_repeated_total": 5,
       "stickers": [
+        {
+          "sticker_id": "PAN03",
+          "sticker_number": 3,
+          "quantity": 1
+        },
+        {
+          "sticker_id": "PAN07",
+          "sticker_number": 7,
+          "quantity": 1
+        },
         {
           "sticker_id": "PAN11",
           "sticker_number": 11,
@@ -878,6 +1037,11 @@
         {
           "sticker_id": "PAN16",
           "sticker_number": 16,
+          "quantity": 1
+        },
+        {
+          "sticker_id": "PAN20",
+          "sticker_number": 20,
           "quantity": 1
         }
       ]
@@ -916,8 +1080,8 @@
     {
       "team_code": "QAT",
       "country": "Catar",
-      "repeated_total": 5,
-      "unique_repeated_total": 5,
+      "repeated_total": 6,
+      "unique_repeated_total": 6,
       "stickers": [
         {
           "sticker_id": "QAT01",
@@ -927,6 +1091,11 @@
         {
           "sticker_id": "QAT05",
           "sticker_number": 5,
+          "quantity": 1
+        },
+        {
+          "sticker_id": "QAT06",
+          "sticker_number": 6,
           "quantity": 1
         },
         {
@@ -1030,7 +1199,7 @@
     {
       "team_code": "SEN",
       "country": "Senegal",
-      "repeated_total": 12,
+      "repeated_total": 13,
       "unique_repeated_total": 7,
       "stickers": [
         {
@@ -1046,7 +1215,7 @@
         {
           "sticker_id": "SEN08",
           "sticker_number": 8,
-          "quantity": 2
+          "quantity": 3
         },
         {
           "sticker_id": "SEN09",
@@ -1126,7 +1295,7 @@
     {
       "team_code": "SWE",
       "country": "Suécia",
-      "repeated_total": 3,
+      "repeated_total": 4,
       "unique_repeated_total": 3,
       "stickers": [
         {
@@ -1142,7 +1311,7 @@
         {
           "sticker_id": "SWE17",
           "sticker_number": 17,
-          "quantity": 1
+          "quantity": 2
         }
       ]
     },
@@ -1273,8 +1442,8 @@
     {
       "team_code": "USA",
       "country": "Estados Unidos",
-      "repeated_total": 3,
-      "unique_repeated_total": 3,
+      "repeated_total": 4,
+      "unique_repeated_total": 4,
       "stickers": [
         {
           "sticker_id": "USA10",
@@ -1289,6 +1458,11 @@
         {
           "sticker_id": "USA15",
           "sticker_number": 15,
+          "quantity": 1
+        },
+        {
+          "sticker_id": "USA16",
+          "sticker_number": 16,
           "quantity": 1
         }
       ]
