@@ -1,49 +1,70 @@
 sticker_id,team_code,country,sticker_number,quantity
+ALG02,ALG,Argélia,2,1
 ALG06,ALG,Argélia,6,1
 ALG10,ALG,Argélia,10,1
 ALG18,ALG,Argélia,18,1
 ARG02,ARG,Argentina,2,1
 ARG03,ARG,Argentina,3,1
+AUT01,AUT,Áustria,1,1
+AUT03,AUT,Áustria,3,1
+AUT07,AUT,Áustria,7,1
 AUT12,AUT,Áustria,12,1
 BIH12,BIH,Bósnia,12,1
 BIH18,BIH,Bósnia,18,1
+BIH19,BIH,Bósnia,19,1
 CAN14,CAN,Canadá,14,1
 COD03,COD,Congo,3,1
 COD04,COD,Congo,4,1
 COD06,COD,Congo,6,1
-CPV03,CPV,Cabo Verde,3,1
+CPV03,CPV,Cabo Verde,3,2
 CPV07,CPV,Cabo Verde,7,1
 CPV11,CPV,Cabo Verde,11,1
+CPV20,CPV,Cabo Verde,20,1
 CRO12,CRO,Croácia,12,1
+CRO17,CRO,Croácia,17,1
 CUW07,CUW,Curaçao,7,1
 CZE04,CZE,Rep. Tcheca,4,1
 CZE08,CZE,Rep. Tcheca,8,1
+CZE19,CZE,Rep. Tcheca,19,1
 EGY02,EGY,Egito,2,1
 EGY11,EGY,Egito,11,1
+EGY16,EGY,Egito,16,1
 EGY20,EGY,Egito,20,1
+ENG05,ENG,Inglaterra,5,1
+FRA05,FRA,França,5,1
 FRA09,FRA,França,9,1
+FRA14,FRA,França,14,1
 GER16,GER,Alemanha,16,1
 HAI20,HAI,Haiti,20,1
 IRQ06,IRQ,Iraque,6,1
 IRQ10,IRQ,Iraque,10,1
+IRQ12,IRQ,Iraque,12,1
 IRQ15,IRQ,Iraque,15,1
-IRQ17,IRQ,Iraque,17,1
+IRQ17,IRQ,Iraque,17,2
 JOR07,JOR,Jordânia,7,1
+JOR11,JOR,Jordânia,11,1
 JOR16,JOR,Jordânia,16,1
+JOR20,JOR,Jordânia,20,1
 KOR17,KOR,Coreia do Sul,17,1
 KOR20,KOR,Coreia do Sul,20,1
 KSA05,KSA,Arábia Saudita,5,1
+KSA08,KSA,Arábia Saudita,8,1
 NED06,NED,Holanda,6,1
 NZL07,NZL,Nova Zelândia,7,1
 NZL11,NZL,Nova Zelândia,11,1
+PAR10,PAR,Paraguai,10,1
+POR12,POR,Portugal,12,1
+POR14,POR,Portugal,14,1
 RSA02,RSA,África do Sul,2,2
 RSA03,RSA,África do Sul,3,1
+RSA09,RSA,África do Sul,9,1
 RSA19,RSA,África do Sul,19,1
 SEN08,SEN,Senegal,8,1
-SEN09,SEN,Senegal,9,1
+SEN09,SEN,Senegal,9,2
 SEN14,SEN,Senegal,14,1
-SEN17,SEN,Senegal,17,1
+SEN17,SEN,Senegal,17,2
 SEN18,SEN,Senegal,18,2
+SUI02,SUI,Suíça,2,1
 SUI03,SUI,Suíça,3,1
 SUI06,SUI,Suíça,6,1
 SUI07,SUI,Suíça,7,1
@@ -57,8 +78,13 @@ TUR05,TUR,Turquia,5,1
 TUR09,TUR,Turquia,9,1
 TUR10,TUR,Turquia,10,1
 TUR15,TUR,Turquia,15,1
+TUR17,TUR,Turquia,17,1
+URU02,URU,Uruguai,2,1
+URU06,URU,Uruguai,6,1
 URU07,URU,Uruguai,7,1
 URU08,URU,Uruguai,8,1
+URU10,URU,Uruguai,10,1
+URU14,URU,Uruguai,14,1
 URU20,URU,Uruguai,20,1
 USA10,USA,Estados Unidos,10,1
 USA12,USA,Estados Unidos,12,1
