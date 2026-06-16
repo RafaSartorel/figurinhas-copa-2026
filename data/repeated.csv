@@ -9,6 +9,7 @@ AUT01,AUT,Áustria,1,1
 AUT03,AUT,Áustria,3,1
 AUT07,AUT,Áustria,7,1
 AUT12,AUT,Áustria,12,1
+BIH09,BIH,Bósnia,9,1
 BIH12,BIH,Bósnia,12,1
 BIH18,BIH,Bósnia,18,1
 BIH19,BIH,Bósnia,19,1
@@ -16,15 +17,20 @@ CAN14,CAN,Canadá,14,1
 COD03,COD,Congo,3,1
 COD04,COD,Congo,4,1
 COD06,COD,Congo,6,1
+COD09,COD,Congo,9,1
 CPV03,CPV,Cabo Verde,3,2
 CPV07,CPV,Cabo Verde,7,1
 CPV11,CPV,Cabo Verde,11,1
+CPV14,CPV,Cabo Verde,14,1
 CPV20,CPV,Cabo Verde,20,1
 CRO12,CRO,Croácia,12,1
 CRO17,CRO,Croácia,17,1
 CUW07,CUW,Curaçao,7,1
 CZE04,CZE,Rep. Tcheca,4,1
+CZE05,CZE,Rep. Tcheca,5,2
+CZE07,CZE,Rep. Tcheca,7,1
 CZE08,CZE,Rep. Tcheca,8,1
+CZE09,CZE,Rep. Tcheca,9,2
 CZE19,CZE,Rep. Tcheca,19,1
 EGY02,EGY,Egito,2,1
 EGY11,EGY,Egito,11,1
@@ -41,24 +47,37 @@ IRQ10,IRQ,Iraque,10,1
 IRQ12,IRQ,Iraque,12,1
 IRQ15,IRQ,Iraque,15,1
 IRQ17,IRQ,Iraque,17,2
+IRQ20,IRQ,Iraque,20,1
 JOR07,JOR,Jordânia,7,1
 JOR11,JOR,Jordânia,11,1
 JOR16,JOR,Jordânia,16,1
 JOR20,JOR,Jordânia,20,1
+KOR01,KOR,Coreia do Sul,1,1
+KOR12,KOR,Coreia do Sul,12,1
 KOR17,KOR,Coreia do Sul,17,1
 KOR20,KOR,Coreia do Sul,20,1
 KSA05,KSA,Arábia Saudita,5,1
+KSA06,KSA,Arábia Saudita,6,1
 KSA08,KSA,Arábia Saudita,8,1
+KSA16,KSA,Arábia Saudita,16,1
 NED06,NED,Holanda,6,1
+NOR08,NOR,Noruega,8,1
 NZL07,NZL,Nova Zelândia,7,1
 NZL11,NZL,Nova Zelândia,11,1
 PAR10,PAR,Paraguai,10,1
 POR12,POR,Portugal,12,1
 POR14,POR,Portugal,14,1
+QAT14,QAT,Catar,14,1
+QAT18,QAT,Catar,18,1
 RSA02,RSA,África do Sul,2,2
 RSA03,RSA,África do Sul,3,1
+RSA08,RSA,África do Sul,8,1
 RSA09,RSA,África do Sul,9,1
-RSA19,RSA,África do Sul,19,1
+RSA19,RSA,África do Sul,19,2
+SCO02,SCO,Escócia,2,2
+SCO03,SCO,Escócia,3,1
+SCO10,SCO,Escócia,10,1
+SEN05,SEN,Senegal,5,1
 SEN08,SEN,Senegal,8,1
 SEN09,SEN,Senegal,9,2
 SEN14,SEN,Senegal,14,1
@@ -72,19 +91,24 @@ SUI12,SUI,Suíça,12,1
 SUI15,SUI,Suíça,15,1
 SUI18,SUI,Suíça,18,1
 SWE01,SWE,Suécia,1,1
+SWE07,SWE,Suécia,7,1
 SWE17,SWE,Suécia,17,1
 TUN10,TUN,Tunísia,10,1
 TUR05,TUR,Turquia,5,1
 TUR09,TUR,Turquia,9,1
 TUR10,TUR,Turquia,10,1
+TUR14,TUR,Turquia,14,2
 TUR15,TUR,Turquia,15,1
 TUR17,TUR,Turquia,17,1
+TUR18,TUR,Turquia,18,2
 URU02,URU,Uruguai,2,1
 URU06,URU,Uruguai,6,1
 URU07,URU,Uruguai,7,1
 URU08,URU,Uruguai,8,1
 URU10,URU,Uruguai,10,1
 URU14,URU,Uruguai,14,1
+URU15,URU,Uruguai,15,1
+URU16,URU,Uruguai,16,1
 URU20,URU,Uruguai,20,1
 USA10,USA,Estados Unidos,10,1
 USA12,USA,Estados Unidos,12,1

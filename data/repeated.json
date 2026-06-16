@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-16T19:51:26Z",
+  "last_updated": "2026-06-16T19:55:35Z",
   "last_update_source": "foto-chat",
   "totals": {
-    "repeated_total": 96,
-    "unique_repeated_total": 90
+    "repeated_total": 126,
+    "unique_repeated_total": 114
   },
   "stickers": [
     {
@@ -79,6 +79,13 @@
       "quantity": 1
     },
     {
+      "sticker_id": "BIH09",
+      "team_code": "BIH",
+      "country": "Bósnia",
+      "sticker_number": 9,
+      "quantity": 1
+    },
+    {
       "sticker_id": "BIH12",
       "team_code": "BIH",
       "country": "Bósnia",
@@ -128,6 +135,13 @@
       "quantity": 1
     },
     {
+      "sticker_id": "COD09",
+      "team_code": "COD",
+      "country": "Congo",
+      "sticker_number": 9,
+      "quantity": 1
+    },
+    {
       "sticker_id": "CPV03",
       "team_code": "CPV",
       "country": "Cabo Verde",
@@ -146,6 +160,13 @@
       "team_code": "CPV",
       "country": "Cabo Verde",
       "sticker_number": 11,
+      "quantity": 1
+    },
+    {
+      "sticker_id": "CPV14",
+      "team_code": "CPV",
+      "country": "Cabo Verde",
+      "sticker_number": 14,
       "quantity": 1
     },
     {
@@ -184,11 +205,32 @@
       "quantity": 1
     },
     {
+      "sticker_id": "CZE05",
+      "team_code": "CZE",
+      "country": "Rep. Tcheca",
+      "sticker_number": 5,
+      "quantity": 2
+    },
+    {
+      "sticker_id": "CZE07",
+      "team_code": "CZE",
+      "country": "Rep. Tcheca",
+      "sticker_number": 7,
+      "quantity": 1
+    },
+    {
       "sticker_id": "CZE08",
       "team_code": "CZE",
       "country": "Rep. Tcheca",
       "sticker_number": 8,
       "quantity": 1
+    },
+    {
+      "sticker_id": "CZE09",
+      "team_code": "CZE",
+      "country": "Rep. Tcheca",
+      "sticker_number": 9,
+      "quantity": 2
     },
     {
       "sticker_id": "CZE19",
@@ -303,6 +345,13 @@
       "quantity": 2
     },
     {
+      "sticker_id": "IRQ20",
+      "team_code": "IRQ",
+      "country": "Iraque",
+      "sticker_number": 20,
+      "quantity": 1
+    },
+    {
       "sticker_id": "JOR07",
       "team_code": "JOR",
       "country": "Jordânia",
@@ -331,6 +380,20 @@
       "quantity": 1
     },
     {
+      "sticker_id": "KOR01",
+      "team_code": "KOR",
+      "country": "Coreia do Sul",
+      "sticker_number": 1,
+      "quantity": 1
+    },
+    {
+      "sticker_id": "KOR12",
+      "team_code": "KOR",
+      "country": "Coreia do Sul",
+      "sticker_number": 12,
+      "quantity": 1
+    },
+    {
       "sticker_id": "KOR17",
       "team_code": "KOR",
       "country": "Coreia do Sul",
@@ -352,6 +415,13 @@
       "quantity": 1
     },
     {
+      "sticker_id": "KSA06",
+      "team_code": "KSA",
+      "country": "Arábia Saudita",
+      "sticker_number": 6,
+      "quantity": 1
+    },
+    {
       "sticker_id": "KSA08",
       "team_code": "KSA",
       "country": "Arábia Saudita",
@@ -359,10 +429,24 @@
       "quantity": 1
     },
     {
+      "sticker_id": "KSA16",
+      "team_code": "KSA",
+      "country": "Arábia Saudita",
+      "sticker_number": 16,
+      "quantity": 1
+    },
+    {
       "sticker_id": "NED06",
       "team_code": "NED",
       "country": "Holanda",
       "sticker_number": 6,
+      "quantity": 1
+    },
+    {
+      "sticker_id": "NOR08",
+      "team_code": "NOR",
+      "country": "Noruega",
+      "sticker_number": 8,
       "quantity": 1
     },
     {
@@ -401,6 +485,20 @@
       "quantity": 1
     },
     {
+      "sticker_id": "QAT14",
+      "team_code": "QAT",
+      "country": "Catar",
+      "sticker_number": 14,
+      "quantity": 1
+    },
+    {
+      "sticker_id": "QAT18",
+      "team_code": "QAT",
+      "country": "Catar",
+      "sticker_number": 18,
+      "quantity": 1
+    },
+    {
       "sticker_id": "RSA02",
       "team_code": "RSA",
       "country": "África do Sul",
@@ -415,6 +513,13 @@
       "quantity": 1
     },
     {
+      "sticker_id": "RSA08",
+      "team_code": "RSA",
+      "country": "África do Sul",
+      "sticker_number": 8,
+      "quantity": 1
+    },
+    {
       "sticker_id": "RSA09",
       "team_code": "RSA",
       "country": "África do Sul",
@@ -426,6 +531,34 @@
       "team_code": "RSA",
       "country": "África do Sul",
       "sticker_number": 19,
+      "quantity": 2
+    },
+    {
+      "sticker_id": "SCO02",
+      "team_code": "SCO",
+      "country": "Escócia",
+      "sticker_number": 2,
+      "quantity": 2
+    },
+    {
+      "sticker_id": "SCO03",
+      "team_code": "SCO",
+      "country": "Escócia",
+      "sticker_number": 3,
+      "quantity": 1
+    },
+    {
+      "sticker_id": "SCO10",
+      "team_code": "SCO",
+      "country": "Escócia",
+      "sticker_number": 10,
+      "quantity": 1
+    },
+    {
+      "sticker_id": "SEN05",
+      "team_code": "SEN",
+      "country": "Senegal",
+      "sticker_number": 5,
       "quantity": 1
     },
     {
@@ -520,6 +653,13 @@
       "quantity": 1
     },
     {
+      "sticker_id": "SWE07",
+      "team_code": "SWE",
+      "country": "Suécia",
+      "sticker_number": 7,
+      "quantity": 1
+    },
+    {
       "sticker_id": "SWE17",
       "team_code": "SWE",
       "country": "Suécia",
@@ -555,6 +695,13 @@
       "quantity": 1
     },
     {
+      "sticker_id": "TUR14",
+      "team_code": "TUR",
+      "country": "Turquia",
+      "sticker_number": 14,
+      "quantity": 2
+    },
+    {
       "sticker_id": "TUR15",
       "team_code": "TUR",
       "country": "Turquia",
@@ -567,6 +714,13 @@
       "country": "Turquia",
       "sticker_number": 17,
       "quantity": 1
+    },
+    {
+      "sticker_id": "TUR18",
+      "team_code": "TUR",
+      "country": "Turquia",
+      "sticker_number": 18,
+      "quantity": 2
     },
     {
       "sticker_id": "URU02",
@@ -608,6 +762,20 @@
       "team_code": "URU",
       "country": "Uruguai",
       "sticker_number": 14,
+      "quantity": 1
+    },
+    {
+      "sticker_id": "URU15",
+      "team_code": "URU",
+      "country": "Uruguai",
+      "sticker_number": 15,
+      "quantity": 1
+    },
+    {
+      "sticker_id": "URU16",
+      "team_code": "URU",
+      "country": "Uruguai",
+      "sticker_number": 16,
       "quantity": 1
     },
     {
