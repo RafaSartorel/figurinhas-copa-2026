@@ -137,6 +137,7 @@ CAN11,CAN,Canadá,11,True
 CAN12,CAN,Canadá,12,True
 CAN13,CAN,Canadá,13,True
 CAN14,CAN,Canadá,14,True
+CAN15,CAN,Canadá,15,True
 CAN16,CAN,Canadá,16,True
 CAN17,CAN,Canadá,17,True
 CAN18,CAN,Canadá,18,True
@@ -171,6 +172,7 @@ COD11,COD,Congo,11,True
 COD12,COD,Congo,12,True
 COD13,COD,Congo,13,True
 COD14,COD,Congo,14,True
+COD15,COD,Congo,15,True
 COD16,COD,Congo,16,True
 COD17,COD,Congo,17,True
 COD18,COD,Congo,18,True
@@ -224,6 +226,7 @@ CRO20,CRO,Croácia,20,True
 CUW02,CUW,Curaçao,2,True
 CUW03,CUW,Curaçao,3,True
 CUW04,CUW,Curaçao,4,True
+CUW05,CUW,Curaçao,5,True
 CUW06,CUW,Curaçao,6,True
 CUW07,CUW,Curaçao,7,True
 CUW08,CUW,Curaçao,8,True
@@ -265,6 +268,7 @@ ECU07,ECU,Equador,7,True
 ECU08,ECU,Equador,8,True
 ECU09,ECU,Equador,9,True
 ECU10,ECU,Equador,10,True
+ECU11,ECU,Equador,11,True
 ECU12,ECU,Equador,12,True
 ECU13,ECU,Equador,13,True
 ECU14,ECU,Equador,14,True
@@ -310,6 +314,7 @@ ENG19,ENG,Inglaterra,19,True
 ESP01,ESP,Espanha,1,True
 ESP02,ESP,Espanha,2,True
 ESP03,ESP,Espanha,3,True
+ESP04,ESP,Espanha,4,True
 ESP05,ESP,Espanha,5,True
 ESP07,ESP,Espanha,7,True
 ESP08,ESP,Espanha,8,True
@@ -321,6 +326,7 @@ ESP15,ESP,Espanha,15,True
 ESP17,ESP,Espanha,17,True
 ESP20,ESP,Espanha,20,True
 FRA01,FRA,França,1,True
+FRA02,FRA,França,2,True
 FRA04,FRA,França,4,True
 FRA05,FRA,França,5,True
 FRA07,FRA,França,7,True
@@ -356,6 +362,7 @@ FWC18,FWC,FIFA World Cup,18,True
 FWC19,FWC,FIFA World Cup,19,True
 GER01,GER,Alemanha,1,True
 GER02,GER,Alemanha,2,True
+GER03,GER,Alemanha,3,True
 GER04,GER,Alemanha,4,True
 GER05,GER,Alemanha,5,True
 GER06,GER,Alemanha,6,True
@@ -464,6 +471,7 @@ JPN08,JPN,Japão,8,True
 JPN09,JPN,Japão,9,True
 JPN10,JPN,Japão,10,True
 JPN11,JPN,Japão,11,True
+JPN12,JPN,Japão,12,True
 JPN13,JPN,Japão,13,True
 JPN14,JPN,Japão,14,True
 JPN15,JPN,Japão,15,True
@@ -472,6 +480,7 @@ JPN18,JPN,Japão,18,True
 KOR01,KOR,Coreia do Sul,1,True
 KOR03,KOR,Coreia do Sul,3,True
 KOR04,KOR,Coreia do Sul,4,True
+KOR06,KOR,Coreia do Sul,6,True
 KOR07,KOR,Coreia do Sul,7,True
 KOR08,KOR,Coreia do Sul,8,True
 KOR09,KOR,Coreia do Sul,9,True
@@ -482,6 +491,7 @@ KOR13,KOR,Coreia do Sul,13,True
 KOR14,KOR,Coreia do Sul,14,True
 KOR15,KOR,Coreia do Sul,15,True
 KOR16,KOR,Coreia do Sul,16,True
+KOR17,KOR,Coreia do Sul,17,True
 KOR19,KOR,Coreia do Sul,19,True
 KOR20,KOR,Coreia do Sul,20,True
 KSA01,KSA,Arábia Saudita,1,True
@@ -512,6 +522,7 @@ MAR08,MAR,Marrocos,8,True
 MAR09,MAR,Marrocos,9,True
 MAR10,MAR,Marrocos,10,True
 MAR11,MAR,Marrocos,11,True
+MAR13,MAR,Marrocos,13,True
 MAR14,MAR,Marrocos,14,True
 MAR15,MAR,Marrocos,15,True
 MAR16,MAR,Marrocos,16,True
@@ -599,6 +610,7 @@ PAN08,PAN,Panamá,8,True
 PAN09,PAN,Panamá,9,True
 PAN10,PAN,Panamá,10,True
 PAN11,PAN,Panamá,11,True
+PAN12,PAN,Panamá,12,True
 PAN13,PAN,Panamá,13,True
 PAN14,PAN,Panamá,14,True
 PAN15,PAN,Panamá,15,True
@@ -619,8 +631,10 @@ PAR13,PAR,Paraguai,13,True
 PAR15,PAR,Paraguai,15,True
 PAR16,PAR,Paraguai,16,True
 PAR17,PAR,Paraguai,17,True
+PAR19,PAR,Paraguai,19,True
 PAR20,PAR,Paraguai,20,True
 POR01,POR,Portugal,1,True
+POR02,POR,Portugal,2,True
 POR03,POR,Portugal,3,True
 POR06,POR,Portugal,6,True
 POR07,POR,Portugal,7,True
@@ -716,6 +730,7 @@ SEN20,SEN,Senegal,20,True
 SUI01,SUI,Suíça,1,True
 SUI02,SUI,Suíça,2,True
 SUI03,SUI,Suíça,3,True
+SUI04,SUI,Suíça,4,True
 SUI05,SUI,Suíça,5,True
 SUI06,SUI,Suíça,6,True
 SUI07,SUI,Suíça,7,True
@@ -812,6 +827,7 @@ USA01,USA,Estados Unidos,1,True
 USA02,USA,Estados Unidos,2,True
 USA03,USA,Estados Unidos,3,True
 USA06,USA,Estados Unidos,6,True
+USA07,USA,Estados Unidos,7,True
 USA10,USA,Estados Unidos,10,True
 USA12,USA,Estados Unidos,12,True
 USA13,USA,Estados Unidos,13,True

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-14T01:27:35Z",
+  "last_updated": "2026-06-17T00:57:36Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -931,7 +931,7 @@
       "team_code": "CAN",
       "country": "Canadá",
       "sticker_number": 15,
-      "owned": false
+      "owned": true
     },
     "CAN16": {
       "team_code": "CAN",
@@ -1171,7 +1171,7 @@
       "team_code": "COD",
       "country": "Congo",
       "sticker_number": 15,
-      "owned": false
+      "owned": true
     },
     "COD16": {
       "team_code": "COD",
@@ -1591,7 +1591,7 @@
       "team_code": "CUW",
       "country": "Curaçao",
       "sticker_number": 5,
-      "owned": false
+      "owned": true
     },
     "CUW06": {
       "team_code": "CUW",
@@ -1867,7 +1867,7 @@
       "team_code": "ECU",
       "country": "Equador",
       "sticker_number": 11,
-      "owned": false
+      "owned": true
     },
     "ECU12": {
       "team_code": "ECU",
@@ -2185,7 +2185,7 @@
       "team_code": "ESP",
       "country": "Espanha",
       "sticker_number": 4,
-      "owned": false
+      "owned": true
     },
     "ESP05": {
       "team_code": "ESP",
@@ -2293,7 +2293,7 @@
       "team_code": "FRA",
       "country": "França",
       "sticker_number": 2,
-      "owned": false
+      "owned": true
     },
     "FRA03": {
       "team_code": "FRA",
@@ -2539,7 +2539,7 @@
       "team_code": "GER",
       "country": "Alemanha",
       "sticker_number": 3,
-      "owned": false
+      "owned": true
     },
     "GER04": {
       "team_code": "GER",
@@ -3313,7 +3313,7 @@
       "team_code": "JPN",
       "country": "Japão",
       "sticker_number": 12,
-      "owned": false
+      "owned": true
     },
     "JPN13": {
       "team_code": "JPN",
@@ -3397,7 +3397,7 @@
       "team_code": "KOR",
       "country": "Coreia do Sul",
       "sticker_number": 6,
-      "owned": false
+      "owned": true
     },
     "KOR07": {
       "team_code": "KOR",
@@ -3463,7 +3463,7 @@
       "team_code": "KOR",
       "country": "Coreia do Sul",
       "sticker_number": 17,
-      "owned": false
+      "owned": true
     },
     "KOR18": {
       "team_code": "KOR",
@@ -3679,7 +3679,7 @@
       "team_code": "MAR",
       "country": "Marrocos",
       "sticker_number": 13,
-      "owned": false
+      "owned": true
     },
     "MAR14": {
       "team_code": "MAR",
@@ -4273,7 +4273,7 @@
       "team_code": "PAN",
       "country": "Panamá",
       "sticker_number": 12,
-      "owned": false
+      "owned": true
     },
     "PAN13": {
       "team_code": "PAN",
@@ -4435,7 +4435,7 @@
       "team_code": "PAR",
       "country": "Paraguai",
       "sticker_number": 19,
-      "owned": false
+      "owned": true
     },
     "PAR20": {
       "team_code": "PAR",
@@ -4453,7 +4453,7 @@
       "team_code": "POR",
       "country": "Portugal",
       "sticker_number": 2,
-      "owned": false
+      "owned": true
     },
     "POR03": {
       "team_code": "POR",
@@ -5065,7 +5065,7 @@
       "team_code": "SUI",
       "country": "Suíça",
       "sticker_number": 4,
-      "owned": false
+      "owned": true
     },
     "SUI05": {
       "team_code": "SUI",
@@ -5683,7 +5683,7 @@
       "team_code": "USA",
       "country": "Estados Unidos",
       "sticker_number": 7,
-      "owned": false
+      "owned": true
     },
     "USA08": {
       "team_code": "USA",
