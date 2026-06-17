@@ -1,56 +1,35 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-17T20:50:10Z",
+  "last_updated": "2026-06-17T20:51:36Z",
   "last_update_source": "foto",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 880,
-    "missing_total": 100,
-    "progress_percent": 89.8
+    "owned_total": 885,
+    "missing_total": 95,
+    "progress_percent": 90.31
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "ARG07",
-      "ARG11",
-      "CIV20",
-      "CRO11",
-      "CUW10",
-      "GER13",
-      "GER17",
-      "GHA02",
-      "GHA10",
-      "JPN19",
-      "NED16",
+      "CPV19",
+      "EGY17",
+      "IRN03",
+      "KOR05",
       "NOR01",
-      "NOR06",
-      "NOR10",
-      "RSA15",
-      "SCO12",
-      "SWE16"
+      "NOR15"
     ],
     "added": [
-      "ARG07",
-      "ARG11",
-      "CIV20",
-      "CRO11",
-      "CUW10",
-      "GER13",
-      "GER17",
-      "GHA02",
-      "GHA10",
-      "JPN19",
-      "NED16",
-      "NOR01",
-      "NOR06",
-      "NOR10",
-      "RSA15",
-      "SCO12",
-      "SWE16"
+      "CPV19",
+      "EGY17",
+      "IRN03",
+      "KOR05",
+      "NOR15"
     ],
     "removed": [],
-    "already_owned": [],
+    "already_owned": [
+      "NOR01"
+    ],
     "already_missing": [],
     "not_found": [],
     "invalid": []

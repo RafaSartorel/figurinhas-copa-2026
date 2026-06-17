@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-17T20:50:10Z",
+  "last_updated": "2026-06-17T20:51:36Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -1435,7 +1435,7 @@
       "team_code": "CPV",
       "country": "Cabo Verde",
       "sticker_number": 19,
-      "owned": false
+      "owned": true
     },
     "CPV20": {
       "team_code": "CPV",
@@ -2023,7 +2023,7 @@
       "team_code": "EGY",
       "country": "Egito",
       "sticker_number": 17,
-      "owned": false
+      "owned": true
     },
     "EGY18": {
       "team_code": "EGY",
@@ -2899,7 +2899,7 @@
       "team_code": "IRN",
       "country": "Irã",
       "sticker_number": 3,
-      "owned": false
+      "owned": true
     },
     "IRN04": {
       "team_code": "IRN",
@@ -3391,7 +3391,7 @@
       "team_code": "KOR",
       "country": "Coreia do Sul",
       "sticker_number": 5,
-      "owned": false
+      "owned": true
     },
     "KOR06": {
       "team_code": "KOR",
@@ -4051,7 +4051,7 @@
       "team_code": "NOR",
       "country": "Noruega",
       "sticker_number": 15,
-      "owned": false
+      "owned": true
     },
     "NOR16": {
       "team_code": "NOR",

@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 880,
+  "owned_count": 885,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1675,7 +1675,7 @@
       "country": "Cabo Verde",
       "sticker_number": 19,
       "sticker_id": "CPV19",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CPV",
@@ -2361,7 +2361,7 @@
       "country": "Egito",
       "sticker_number": 17,
       "sticker_id": "EGY17",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "EGY",
@@ -3383,7 +3383,7 @@
       "country": "Irã",
       "sticker_number": 3,
       "sticker_id": "IRN03",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "IRN",
@@ -3957,7 +3957,7 @@
       "country": "Coreia do Sul",
       "sticker_number": 5,
       "sticker_id": "KOR05",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "KOR",
@@ -4727,7 +4727,7 @@
       "country": "Noruega",
       "sticker_number": 15,
       "sticker_id": "NOR15",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "NOR",
@@ -6865,27 +6865,15 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-17T20:50:10Z",
-  "missing_count": 100,
+  "last_updated": "2026-06-17T20:51:36Z",
+  "missing_count": 95,
   "last_update_source": "foto",
   "last_added": [
-    "ARG07",
-    "ARG11",
-    "CIV20",
-    "CRO11",
-    "CUW10",
-    "GER13",
-    "GER17",
-    "GHA02",
-    "GHA10",
-    "JPN19",
-    "NED16",
-    "NOR01",
-    "NOR06",
-    "NOR10",
-    "RSA15",
-    "SCO12",
-    "SWE16"
+    "CPV19",
+    "EGY17",
+    "IRN03",
+    "KOR05",
+    "NOR15"
   ],
   "last_removed": []
 }

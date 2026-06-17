@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-17T20:50:10Z",
+  "last_updated": "2026-06-17T20:51:36Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -345,8 +345,8 @@
       "team_code": "CPV",
       "country": "Cabo Verde",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "CPV01",
         "CPV02",
@@ -365,11 +365,11 @@
         "CPV16",
         "CPV17",
         "CPV18",
+        "CPV19",
         "CPV20"
       ],
       "missing": [
-        "CPV04",
-        "CPV19"
+        "CPV04"
       ]
     },
     {
@@ -500,8 +500,8 @@
       "team_code": "EGY",
       "country": "Egito",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "EGY01",
         "EGY02",
@@ -517,14 +517,14 @@
         "EGY13",
         "EGY15",
         "EGY16",
+        "EGY17",
         "EGY18",
         "EGY19",
         "EGY20"
       ],
       "missing": [
         "EGY12",
-        "EGY14",
-        "EGY17"
+        "EGY14"
       ]
     },
     {
@@ -748,10 +748,11 @@
       "team_code": "IRN",
       "country": "Irã",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "IRN02",
+        "IRN03",
         "IRN04",
         "IRN05",
         "IRN06",
@@ -771,7 +772,6 @@
       ],
       "missing": [
         "IRN01",
-        "IRN03",
         "IRN19"
       ]
     },
@@ -872,13 +872,14 @@
       "team_code": "KOR",
       "country": "Coreia do Sul",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "KOR01",
         "KOR02",
         "KOR03",
         "KOR04",
+        "KOR05",
         "KOR06",
         "KOR07",
         "KOR08",
@@ -895,7 +896,6 @@
         "KOR20"
       ],
       "missing": [
-        "KOR05",
         "KOR18"
       ]
     },
@@ -1026,8 +1026,8 @@
       "team_code": "NOR",
       "country": "Noruega",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "NOR01",
         "NOR02",
@@ -1042,6 +1042,7 @@
         "NOR12",
         "NOR13",
         "NOR14",
+        "NOR15",
         "NOR16",
         "NOR18",
         "NOR19",
@@ -1049,7 +1050,6 @@
       ],
       "missing": [
         "NOR04",
-        "NOR15",
         "NOR17"
       ]
     },
