@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-17T20:51:36Z",
+  "last_updated": "2026-06-17T21:20:47Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -130,8 +130,8 @@
       "team_code": "BEL",
       "country": "Bélgica",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "BEL02",
         "BEL03",
@@ -149,11 +149,11 @@
         "BEL15",
         "BEL16",
         "BEL17",
-        "BEL18"
+        "BEL18",
+        "BEL19"
       ],
       "missing": [
         "BEL01",
-        "BEL19",
         "BEL20"
       ]
     },
@@ -345,12 +345,13 @@
       "team_code": "CPV",
       "country": "Cabo Verde",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "CPV01",
         "CPV02",
         "CPV03",
+        "CPV04",
         "CPV05",
         "CPV06",
         "CPV07",
@@ -368,23 +369,23 @@
         "CPV19",
         "CPV20"
       ],
-      "missing": [
-        "CPV04"
-      ]
+      "missing": []
     },
     {
       "team_code": "CRO",
       "country": "Croácia",
       "stickers_total": 20,
-      "owned_total": 13,
-      "missing_total": 7,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
         "CRO04",
+        "CRO05",
         "CRO08",
         "CRO09",
         "CRO10",
         "CRO11",
         "CRO12",
+        "CRO13",
         "CRO14",
         "CRO15",
         "CRO16",
@@ -397,10 +398,8 @@
         "CRO01",
         "CRO02",
         "CRO03",
-        "CRO05",
         "CRO06",
-        "CRO07",
-        "CRO13"
+        "CRO07"
       ]
     },
     {
@@ -438,8 +437,8 @@
       "team_code": "CZE",
       "country": "Rep. Tcheca",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "CZE01",
         "CZE02",
@@ -455,15 +454,14 @@
         "CZE12",
         "CZE13",
         "CZE14",
+        "CZE15",
         "CZE16",
         "CZE17",
         "CZE18",
         "CZE19",
         "CZE20"
       ],
-      "missing": [
-        "CZE15"
-      ]
+      "missing": []
     },
     {
       "team_code": "ECU",
@@ -562,8 +560,8 @@
       "team_code": "ESP",
       "country": "Espanha",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 17,
+      "missing_total": 3,
       "owned": [
         "ESP01",
         "ESP02",
@@ -577,14 +575,14 @@
         "ESP10",
         "ESP11",
         "ESP12",
+        "ESP13",
         "ESP15",
+        "ESP16",
         "ESP17",
         "ESP20"
       ],
       "missing": [
-        "ESP13",
         "ESP14",
-        "ESP16",
         "ESP18",
         "ESP19"
       ]
@@ -748,8 +746,8 @@
       "team_code": "IRN",
       "country": "Irã",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "IRN02",
         "IRN03",
@@ -768,11 +766,11 @@
         "IRN16",
         "IRN17",
         "IRN18",
+        "IRN19",
         "IRN20"
       ],
       "missing": [
-        "IRN01",
-        "IRN19"
+        "IRN01"
       ]
     },
     {
@@ -1484,8 +1482,8 @@
       "team_code": "UZB",
       "country": "Uzbequistão",
       "stickers_total": 20,
-      "owned_total": 16,
-      "missing_total": 4,
+      "owned_total": 17,
+      "missing_total": 3,
       "owned": [
         "UZB02",
         "UZB03",
@@ -1499,6 +1497,7 @@
         "UZB12",
         "UZB14",
         "UZB15",
+        "UZB16",
         "UZB17",
         "UZB18",
         "UZB19",
@@ -1507,8 +1506,7 @@
       "missing": [
         "UZB01",
         "UZB09",
-        "UZB13",
-        "UZB16"
+        "UZB13"
       ]
     }
   ]

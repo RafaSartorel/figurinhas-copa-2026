@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-17T20:51:36Z",
+  "last_updated": "2026-06-17T21:20:47Z",
   "stickers": [
     "ALG01",
     "ALG05",
@@ -11,7 +11,6 @@
     "AUS16",
     "AUS20",
     "BEL01",
-    "BEL19",
     "BEL20",
     "BIH06",
     "BRA01",
@@ -24,17 +23,13 @@
     "COL11",
     "COL16",
     "COL19",
-    "CPV04",
     "CRO01",
     "CRO02",
     "CRO03",
-    "CRO05",
     "CRO06",
     "CRO07",
-    "CRO13",
     "CUW01",
     "CUW20",
-    "CZE15",
     "ECU06",
     "ECU15",
     "ECU19",
@@ -42,9 +37,7 @@
     "EGY14",
     "ENG02",
     "ENG20",
-    "ESP13",
     "ESP14",
-    "ESP16",
     "ESP18",
     "ESP19",
     "FRA03",
@@ -60,7 +53,6 @@
     "HAI08",
     "HAI13",
     "IRN01",
-    "IRN19",
     "IRQ03",
     "IRQ16",
     "JOR02",
@@ -96,7 +88,6 @@
     "USA14",
     "UZB01",
     "UZB09",
-    "UZB13",
-    "UZB16"
+    "UZB13"
   ]
 }

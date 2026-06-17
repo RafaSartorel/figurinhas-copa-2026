@@ -1,35 +1,40 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-17T20:51:36Z",
-  "last_update_source": "foto",
+  "last_updated": "2026-06-17T21:20:47Z",
+  "last_update_source": "chatgpt-photo-verification",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 885,
-    "missing_total": 95,
-    "progress_percent": 90.31
+    "owned_total": 894,
+    "missing_total": 86,
+    "progress_percent": 91.22
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "CPV19",
-      "EGY17",
-      "IRN03",
-      "KOR05",
-      "NOR01",
-      "NOR15"
+      "BEL19",
+      "CPV04",
+      "CRO05",
+      "CRO13",
+      "CZE15",
+      "ESP13",
+      "ESP16",
+      "IRN19",
+      "UZB16"
     ],
     "added": [
-      "CPV19",
-      "EGY17",
-      "IRN03",
-      "KOR05",
-      "NOR15"
+      "BEL19",
+      "CPV04",
+      "CRO05",
+      "CRO13",
+      "CZE15",
+      "ESP13",
+      "ESP16",
+      "IRN19",
+      "UZB16"
     ],
     "removed": [],
-    "already_owned": [
-      "NOR01"
-    ],
+    "already_owned": [],
     "already_missing": [],
     "not_found": [],
     "invalid": []

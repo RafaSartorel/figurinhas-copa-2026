@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 885,
+  "owned_count": 894,
   "stickers": [
     {
       "team_code": "ALG",
@@ -695,7 +695,7 @@
       "country": "Bélgica",
       "sticker_number": 19,
       "sticker_id": "BEL19",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "BEL",
@@ -1570,7 +1570,7 @@
       "country": "Cabo Verde",
       "sticker_number": 4,
       "sticker_id": "CPV04",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CPV",
@@ -1717,7 +1717,7 @@
       "country": "Croácia",
       "sticker_number": 5,
       "sticker_id": "CRO05",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CRO",
@@ -1773,7 +1773,7 @@
       "country": "Croácia",
       "sticker_number": 13,
       "sticker_id": "CRO13",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CRO",
@@ -2067,7 +2067,7 @@
       "country": "Rep. Tcheca",
       "sticker_number": 15,
       "sticker_id": "CZE15",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CZE",
@@ -2613,7 +2613,7 @@
       "country": "Espanha",
       "sticker_number": 13,
       "sticker_id": "ESP13",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ESP",
@@ -2634,7 +2634,7 @@
       "country": "Espanha",
       "sticker_number": 16,
       "sticker_id": "ESP16",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ESP",
@@ -3495,7 +3495,7 @@
       "country": "Irã",
       "sticker_number": 19,
       "sticker_id": "IRN19",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "IRN",
@@ -6834,7 +6834,7 @@
       "country": "Uzbequistão",
       "sticker_number": 16,
       "sticker_id": "UZB16",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "UZB",
@@ -6865,15 +6865,19 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-17T20:51:36Z",
-  "missing_count": 95,
-  "last_update_source": "foto",
+  "last_updated": "2026-06-17T21:20:47Z",
+  "missing_count": 86,
+  "last_update_source": "chatgpt-photo-verification",
   "last_added": [
-    "CPV19",
-    "EGY17",
-    "IRN03",
-    "KOR05",
-    "NOR15"
+    "BEL19",
+    "CPV04",
+    "CRO05",
+    "CRO13",
+    "CZE15",
+    "ESP13",
+    "ESP16",
+    "IRN19",
+    "UZB16"
   ],
   "last_removed": []
 }

@@ -89,6 +89,7 @@ BEL15,BEL,Bélgica,15,True
 BEL16,BEL,Bélgica,16,True
 BEL17,BEL,Bélgica,17,True
 BEL18,BEL,Bélgica,18,True
+BEL19,BEL,Bélgica,19,True
 BIH01,BIH,Bósnia,1,True
 BIH02,BIH,Bósnia,2,True
 BIH03,BIH,Bósnia,3,True
@@ -201,6 +202,7 @@ COL20,COL,Colômbia,20,True
 CPV01,CPV,Cabo Verde,1,True
 CPV02,CPV,Cabo Verde,2,True
 CPV03,CPV,Cabo Verde,3,True
+CPV04,CPV,Cabo Verde,4,True
 CPV05,CPV,Cabo Verde,5,True
 CPV06,CPV,Cabo Verde,6,True
 CPV07,CPV,Cabo Verde,7,True
@@ -218,11 +220,13 @@ CPV18,CPV,Cabo Verde,18,True
 CPV19,CPV,Cabo Verde,19,True
 CPV20,CPV,Cabo Verde,20,True
 CRO04,CRO,Croácia,4,True
+CRO05,CRO,Croácia,5,True
 CRO08,CRO,Croácia,8,True
 CRO09,CRO,Croácia,9,True
 CRO10,CRO,Croácia,10,True
 CRO11,CRO,Croácia,11,True
 CRO12,CRO,Croácia,12,True
+CRO13,CRO,Croácia,13,True
 CRO14,CRO,Croácia,14,True
 CRO15,CRO,Croácia,15,True
 CRO16,CRO,Croácia,16,True
@@ -262,6 +266,7 @@ CZE11,CZE,Rep. Tcheca,11,True
 CZE12,CZE,Rep. Tcheca,12,True
 CZE13,CZE,Rep. Tcheca,13,True
 CZE14,CZE,Rep. Tcheca,14,True
+CZE15,CZE,Rep. Tcheca,15,True
 CZE16,CZE,Rep. Tcheca,16,True
 CZE17,CZE,Rep. Tcheca,17,True
 CZE18,CZE,Rep. Tcheca,18,True
@@ -332,7 +337,9 @@ ESP09,ESP,Espanha,9,True
 ESP10,ESP,Espanha,10,True
 ESP11,ESP,Espanha,11,True
 ESP12,ESP,Espanha,12,True
+ESP13,ESP,Espanha,13,True
 ESP15,ESP,Espanha,15,True
+ESP16,ESP,Espanha,16,True
 ESP17,ESP,Espanha,17,True
 ESP20,ESP,Espanha,20,True
 FRA01,FRA,França,1,True
@@ -440,6 +447,7 @@ IRN15,IRN,Irã,15,True
 IRN16,IRN,Irã,16,True
 IRN17,IRN,Irã,17,True
 IRN18,IRN,Irã,18,True
+IRN19,IRN,Irã,19,True
 IRN20,IRN,Irã,20,True
 IRQ01,IRQ,Iraque,1,True
 IRQ02,IRQ,Iraque,2,True
@@ -880,6 +888,7 @@ UZB11,UZB,Uzbequistão,11,True
 UZB12,UZB,Uzbequistão,12,True
 UZB14,UZB,Uzbequistão,14,True
 UZB15,UZB,Uzbequistão,15,True
+UZB16,UZB,Uzbequistão,16,True
 UZB17,UZB,Uzbequistão,17,True
 UZB18,UZB,Uzbequistão,18,True
 UZB19,UZB,Uzbequistão,19,True

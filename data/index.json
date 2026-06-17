@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-17T20:51:36Z",
+  "last_updated": "2026-06-17T21:20:47Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -595,7 +595,7 @@
       "team_code": "BEL",
       "country": "Bélgica",
       "sticker_number": 19,
-      "owned": false
+      "owned": true
     },
     "BEL20": {
       "team_code": "BEL",
@@ -1345,7 +1345,7 @@
       "team_code": "CPV",
       "country": "Cabo Verde",
       "sticker_number": 4,
-      "owned": false
+      "owned": true
     },
     "CPV05": {
       "team_code": "CPV",
@@ -1471,7 +1471,7 @@
       "team_code": "CRO",
       "country": "Croácia",
       "sticker_number": 5,
-      "owned": false
+      "owned": true
     },
     "CRO06": {
       "team_code": "CRO",
@@ -1519,7 +1519,7 @@
       "team_code": "CRO",
       "country": "Croácia",
       "sticker_number": 13,
-      "owned": false
+      "owned": true
     },
     "CRO14": {
       "team_code": "CRO",
@@ -1771,7 +1771,7 @@
       "team_code": "CZE",
       "country": "Rep. Tcheca",
       "sticker_number": 15,
-      "owned": false
+      "owned": true
     },
     "CZE16": {
       "team_code": "CZE",
@@ -2239,7 +2239,7 @@
       "team_code": "ESP",
       "country": "Espanha",
       "sticker_number": 13,
-      "owned": false
+      "owned": true
     },
     "ESP14": {
       "team_code": "ESP",
@@ -2257,7 +2257,7 @@
       "team_code": "ESP",
       "country": "Espanha",
       "sticker_number": 16,
-      "owned": false
+      "owned": true
     },
     "ESP17": {
       "team_code": "ESP",
@@ -2995,7 +2995,7 @@
       "team_code": "IRN",
       "country": "Irã",
       "sticker_number": 19,
-      "owned": false
+      "owned": true
     },
     "IRN20": {
       "team_code": "IRN",
@@ -5857,7 +5857,7 @@
       "team_code": "UZB",
       "country": "Uzbequistão",
       "sticker_number": 16,
-      "owned": false
+      "owned": true
     },
     "UZB17": {
       "team_code": "UZB",
