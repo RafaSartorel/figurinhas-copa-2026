@@ -1,51 +1,21 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-17T00:57:36Z",
-  "last_update_source": "foto",
+  "last_updated": "2026-06-17T19:27:16Z",
+  "last_update_source": "chat",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 854,
-    "missing_total": 126,
-    "progress_percent": 87.14
+    "owned_total": 855,
+    "missing_total": 125,
+    "progress_percent": 87.24
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "CAN15",
-      "COD15",
-      "CUW05",
-      "ECU11",
-      "ESP04",
-      "FRA02",
-      "GER03",
-      "JPN12",
-      "KOR06",
-      "KOR17",
-      "MAR13",
-      "PAN12",
-      "PAR19",
-      "POR02",
-      "SUI04",
-      "USA07"
+      "KOR02"
     ],
     "added": [
-      "CAN15",
-      "COD15",
-      "CUW05",
-      "ECU11",
-      "ESP04",
-      "FRA02",
-      "GER03",
-      "JPN12",
-      "KOR06",
-      "KOR17",
-      "MAR13",
-      "PAN12",
-      "PAR19",
-      "POR02",
-      "SUI04",
-      "USA07"
+      "KOR02"
     ],
     "removed": [],
     "already_owned": [],

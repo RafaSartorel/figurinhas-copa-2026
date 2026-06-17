@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-17T00:57:36Z",
+  "last_updated": "2026-06-17T19:27:16Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -3373,7 +3373,7 @@
       "team_code": "KOR",
       "country": "Coreia do Sul",
       "sticker_number": 2,
-      "owned": false
+      "owned": true
     },
     "KOR03": {
       "team_code": "KOR",

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-17T00:57:36Z",
+  "last_updated": "2026-06-17T19:27:16Z",
   "stickers": [
     "ALG02",
     "ALG03",
@@ -482,6 +482,7 @@
     "JPN16",
     "JPN18",
     "KOR01",
+    "KOR02",
     "KOR03",
     "KOR04",
     "KOR06",
