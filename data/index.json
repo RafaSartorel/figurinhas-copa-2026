@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-17T23:05:04Z",
+  "last_updated": "2026-06-17T23:21:58Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -727,7 +727,7 @@
       "team_code": "BRA",
       "country": "Brasil",
       "sticker_number": 1,
-      "owned": false
+      "owned": true
     },
     "BRA02": {
       "team_code": "BRA",
