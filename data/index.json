@@ -1,13 +1,13 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-17T21:20:47Z",
+  "last_updated": "2026-06-17T21:43:49Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
       "country": "Argélia",
       "sticker_number": 1,
-      "owned": false
+      "owned": true
     },
     "ALG02": {
       "team_code": "ALG",
@@ -145,7 +145,7 @@
       "team_code": "ARG",
       "country": "Argentina",
       "sticker_number": 4,
-      "owned": false
+      "owned": true
     },
     "ARG05": {
       "team_code": "ARG",
@@ -1315,7 +1315,7 @@
       "team_code": "COL",
       "country": "Colômbia",
       "sticker_number": 19,
-      "owned": false
+      "owned": true
     },
     "COL20": {
       "team_code": "COL",
@@ -1837,7 +1837,7 @@
       "team_code": "ECU",
       "country": "Equador",
       "sticker_number": 6,
-      "owned": false
+      "owned": true
     },
     "ECU07": {
       "team_code": "ECU",
@@ -1915,7 +1915,7 @@
       "team_code": "ECU",
       "country": "Equador",
       "sticker_number": 19,
-      "owned": false
+      "owned": true
     },
     "ECU20": {
       "team_code": "ECU",
@@ -2689,7 +2689,7 @@
       "team_code": "GHA",
       "country": "Gana",
       "sticker_number": 8,
-      "owned": false
+      "owned": true
     },
     "GHA09": {
       "team_code": "GHA",
@@ -3361,7 +3361,7 @@
       "team_code": "JPN",
       "country": "Japão",
       "sticker_number": 20,
-      "owned": false
+      "owned": true
     },
     "KOR01": {
       "team_code": "KOR",
@@ -4303,7 +4303,7 @@
       "team_code": "PAN",
       "country": "Panamá",
       "sticker_number": 17,
-      "owned": false
+      "owned": true
     },
     "PAN18": {
       "team_code": "PAN",

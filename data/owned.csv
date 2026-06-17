@@ -1,4 +1,5 @@
 sticker_id,team_code,country,sticker_number,owned
+ALG01,ALG,Argélia,1,True
 ALG02,ALG,Argélia,2,True
 ALG03,ALG,Argélia,3,True
 ALG04,ALG,Argélia,4,True
@@ -18,6 +19,7 @@ ALG20,ALG,Argélia,20,True
 ARG01,ARG,Argentina,1,True
 ARG02,ARG,Argentina,2,True
 ARG03,ARG,Argentina,3,True
+ARG04,ARG,Argentina,4,True
 ARG05,ARG,Argentina,5,True
 ARG06,ARG,Argentina,6,True
 ARG07,ARG,Argentina,7,True
@@ -198,6 +200,7 @@ COL14,COL,Colômbia,14,True
 COL15,COL,Colômbia,15,True
 COL17,COL,Colômbia,17,True
 COL18,COL,Colômbia,18,True
+COL19,COL,Colômbia,19,True
 COL20,COL,Colômbia,20,True
 CPV01,CPV,Cabo Verde,1,True
 CPV02,CPV,Cabo Verde,2,True
@@ -277,6 +280,7 @@ ECU02,ECU,Equador,2,True
 ECU03,ECU,Equador,3,True
 ECU04,ECU,Equador,4,True
 ECU05,ECU,Equador,5,True
+ECU06,ECU,Equador,6,True
 ECU07,ECU,Equador,7,True
 ECU08,ECU,Equador,8,True
 ECU09,ECU,Equador,9,True
@@ -288,6 +292,7 @@ ECU14,ECU,Equador,14,True
 ECU16,ECU,Equador,16,True
 ECU17,ECU,Equador,17,True
 ECU18,ECU,Equador,18,True
+ECU19,ECU,Equador,19,True
 ECU20,ECU,Equador,20,True
 EGY01,EGY,Egito,1,True
 EGY02,EGY,Egito,2,True
@@ -403,6 +408,7 @@ GHA04,GHA,Gana,4,True
 GHA05,GHA,Gana,5,True
 GHA06,GHA,Gana,6,True
 GHA07,GHA,Gana,7,True
+GHA08,GHA,Gana,8,True
 GHA09,GHA,Gana,9,True
 GHA10,GHA,Gana,10,True
 GHA12,GHA,Gana,12,True
@@ -503,6 +509,7 @@ JPN15,JPN,Japão,15,True
 JPN16,JPN,Japão,16,True
 JPN18,JPN,Japão,18,True
 JPN19,JPN,Japão,19,True
+JPN20,JPN,Japão,20,True
 KOR01,KOR,Coreia do Sul,1,True
 KOR02,KOR,Coreia do Sul,2,True
 KOR03,KOR,Coreia do Sul,3,True
@@ -648,6 +655,7 @@ PAN13,PAN,Panamá,13,True
 PAN14,PAN,Panamá,14,True
 PAN15,PAN,Panamá,15,True
 PAN16,PAN,Panamá,16,True
+PAN17,PAN,Panamá,17,True
 PAN18,PAN,Panamá,18,True
 PAN19,PAN,Panamá,19,True
 PAN20,PAN,Panamá,20,True

@@ -2,14 +2,14 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 894,
+  "owned_count": 902,
   "stickers": [
     {
       "team_code": "ALG",
       "country": "Argélia",
       "sticker_number": 1,
       "sticker_id": "ALG01",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ALG",
@@ -170,7 +170,7 @@
       "country": "Argentina",
       "sticker_number": 4,
       "sticker_id": "ARG04",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ARG",
@@ -1535,7 +1535,7 @@
       "country": "Colômbia",
       "sticker_number": 19,
       "sticker_id": "COL19",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "COL",
@@ -2144,7 +2144,7 @@
       "country": "Equador",
       "sticker_number": 6,
       "sticker_id": "ECU06",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ECU",
@@ -2235,7 +2235,7 @@
       "country": "Equador",
       "sticker_number": 19,
       "sticker_id": "ECU19",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ECU",
@@ -3138,7 +3138,7 @@
       "country": "Gana",
       "sticker_number": 8,
       "sticker_id": "GHA08",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "GHA",
@@ -3922,7 +3922,7 @@
       "country": "Japão",
       "sticker_number": 20,
       "sticker_id": "JPN20",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "KOR",
@@ -5021,7 +5021,7 @@
       "country": "Panamá",
       "sticker_number": 17,
       "sticker_id": "PAN17",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "PAN",
@@ -6865,19 +6865,18 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-17T21:20:47Z",
-  "missing_count": 86,
+  "last_updated": "2026-06-17T21:43:49Z",
+  "missing_count": 78,
   "last_update_source": "chatgpt-photo-verification",
   "last_added": [
-    "BEL19",
-    "CPV04",
-    "CRO05",
-    "CRO13",
-    "CZE15",
-    "ESP13",
-    "ESP16",
-    "IRN19",
-    "UZB16"
+    "ALG01",
+    "ARG04",
+    "COL19",
+    "ECU06",
+    "ECU19",
+    "GHA08",
+    "JPN20",
+    "PAN17"
   ],
   "last_removed": []
 }
