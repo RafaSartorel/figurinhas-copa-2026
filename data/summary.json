@@ -1,27 +1,35 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-17T22:22:11Z",
-  "last_update_source": "chatgpt",
+  "last_updated": "2026-06-17T23:05:04Z",
+  "last_update_source": "foto",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 906,
-    "missing_total": 74,
-    "progress_percent": 92.45
+    "owned_total": 914,
+    "missing_total": 66,
+    "progress_percent": 93.27
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "EGY12",
-      "KOR18",
-      "KSA03",
-      "MAR05"
+      "CIV04",
+      "CUW20",
+      "FRA03",
+      "GER09",
+      "HAI08",
+      "IRQ03",
+      "JPN04",
+      "USA05"
     ],
     "added": [
-      "EGY12",
-      "KOR18",
-      "KSA03",
-      "MAR05"
+      "CIV04",
+      "CUW20",
+      "FRA03",
+      "GER09",
+      "HAI08",
+      "IRQ03",
+      "JPN04",
+      "USA05"
     ],
     "removed": [],
     "already_owned": [],

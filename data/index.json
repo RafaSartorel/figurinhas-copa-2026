@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-17T22:22:11Z",
+  "last_updated": "2026-06-17T23:05:04Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -985,7 +985,7 @@
       "team_code": "CIV",
       "country": "Costa do Marfim",
       "sticker_number": 4,
-      "owned": false
+      "owned": true
     },
     "CIV05": {
       "team_code": "CIV",
@@ -1681,7 +1681,7 @@
       "team_code": "CUW",
       "country": "Curaçao",
       "sticker_number": 20,
-      "owned": false
+      "owned": true
     },
     "CZE01": {
       "team_code": "CZE",
@@ -2299,7 +2299,7 @@
       "team_code": "FRA",
       "country": "França",
       "sticker_number": 3,
-      "owned": false
+      "owned": true
     },
     "FRA04": {
       "team_code": "FRA",
@@ -2575,7 +2575,7 @@
       "team_code": "GER",
       "country": "Alemanha",
       "sticker_number": 9,
-      "owned": false
+      "owned": true
     },
     "GER10": {
       "team_code": "GER",
@@ -2809,7 +2809,7 @@
       "team_code": "HAI",
       "country": "Haiti",
       "sticker_number": 8,
-      "owned": false
+      "owned": true
     },
     "HAI09": {
       "team_code": "HAI",
@@ -3019,7 +3019,7 @@
       "team_code": "IRQ",
       "country": "Iraque",
       "sticker_number": 3,
-      "owned": false
+      "owned": true
     },
     "IRQ04": {
       "team_code": "IRQ",
@@ -3265,7 +3265,7 @@
       "team_code": "JPN",
       "country": "Japão",
       "sticker_number": 4,
-      "owned": false
+      "owned": true
     },
     "JPN05": {
       "team_code": "JPN",
@@ -5671,7 +5671,7 @@
       "team_code": "USA",
       "country": "Estados Unidos",
       "sticker_number": 5,
-      "owned": false
+      "owned": true
     },
     "USA06": {
       "team_code": "USA",

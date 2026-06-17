@@ -151,6 +151,7 @@ CAN20,CAN,Canadá,20,True
 CIV01,CIV,Costa do Marfim,1,True
 CIV02,CIV,Costa do Marfim,2,True
 CIV03,CIV,Costa do Marfim,3,True
+CIV04,CIV,Costa do Marfim,4,True
 CIV05,CIV,Costa do Marfim,5,True
 CIV06,CIV,Costa do Marfim,6,True
 CIV07,CIV,Costa do Marfim,7,True
@@ -255,6 +256,7 @@ CUW16,CUW,Curaçao,16,True
 CUW17,CUW,Curaçao,17,True
 CUW18,CUW,Curaçao,18,True
 CUW19,CUW,Curaçao,19,True
+CUW20,CUW,Curaçao,20,True
 CZE01,CZE,Rep. Tcheca,1,True
 CZE02,CZE,Rep. Tcheca,2,True
 CZE03,CZE,Rep. Tcheca,3,True
@@ -350,6 +352,7 @@ ESP17,ESP,Espanha,17,True
 ESP20,ESP,Espanha,20,True
 FRA01,FRA,França,1,True
 FRA02,FRA,França,2,True
+FRA03,FRA,França,3,True
 FRA04,FRA,França,4,True
 FRA05,FRA,França,5,True
 FRA07,FRA,França,7,True
@@ -392,6 +395,7 @@ GER05,GER,Alemanha,5,True
 GER06,GER,Alemanha,6,True
 GER07,GER,Alemanha,7,True
 GER08,GER,Alemanha,8,True
+GER09,GER,Alemanha,9,True
 GER10,GER,Alemanha,10,True
 GER11,GER,Alemanha,11,True
 GER12,GER,Alemanha,12,True
@@ -426,6 +430,7 @@ HAI04,HAI,Haiti,4,True
 HAI05,HAI,Haiti,5,True
 HAI06,HAI,Haiti,6,True
 HAI07,HAI,Haiti,7,True
+HAI08,HAI,Haiti,8,True
 HAI09,HAI,Haiti,9,True
 HAI10,HAI,Haiti,10,True
 HAI11,HAI,Haiti,11,True
@@ -458,6 +463,7 @@ IRN19,IRN,Irã,19,True
 IRN20,IRN,Irã,20,True
 IRQ01,IRQ,Iraque,1,True
 IRQ02,IRQ,Iraque,2,True
+IRQ03,IRQ,Iraque,3,True
 IRQ04,IRQ,Iraque,4,True
 IRQ05,IRQ,Iraque,5,True
 IRQ06,IRQ,Iraque,6,True
@@ -496,6 +502,7 @@ JOR20,JOR,Jordânia,20,True
 JPN01,JPN,Japão,1,True
 JPN02,JPN,Japão,2,True
 JPN03,JPN,Japão,3,True
+JPN04,JPN,Japão,4,True
 JPN05,JPN,Japão,5,True
 JPN06,JPN,Japão,6,True
 JPN07,JPN,Japão,7,True
@@ -877,6 +884,7 @@ URU20,URU,Uruguai,20,True
 USA01,USA,Estados Unidos,1,True
 USA02,USA,Estados Unidos,2,True
 USA03,USA,Estados Unidos,3,True
+USA05,USA,Estados Unidos,5,True
 USA06,USA,Estados Unidos,6,True
 USA07,USA,Estados Unidos,7,True
 USA10,USA,Estados Unidos,10,True

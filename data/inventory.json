@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 906,
+  "owned_count": 914,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1150,7 +1150,7 @@
       "country": "Costa do Marfim",
       "sticker_number": 4,
       "sticker_id": "CIV04",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CIV",
@@ -1962,7 +1962,7 @@
       "country": "Curaçao",
       "sticker_number": 20,
       "sticker_id": "CUW20",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CZE",
@@ -2683,7 +2683,7 @@
       "country": "França",
       "sticker_number": 3,
       "sticker_id": "FRA03",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "FRA",
@@ -3005,7 +3005,7 @@
       "country": "Alemanha",
       "sticker_number": 9,
       "sticker_id": "GER09",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "GER",
@@ -3278,7 +3278,7 @@
       "country": "Haiti",
       "sticker_number": 8,
       "sticker_id": "HAI08",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "HAI",
@@ -3523,7 +3523,7 @@
       "country": "Iraque",
       "sticker_number": 3,
       "sticker_id": "IRQ03",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "IRQ",
@@ -3810,7 +3810,7 @@
       "country": "Japão",
       "sticker_number": 4,
       "sticker_id": "JPN04",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "JPN",
@@ -6617,7 +6617,7 @@
       "country": "Estados Unidos",
       "sticker_number": 5,
       "sticker_id": "USA05",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "USA",
@@ -6865,14 +6865,18 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-17T22:22:11Z",
-  "missing_count": 74,
-  "last_update_source": "chatgpt",
+  "last_updated": "2026-06-17T23:05:04Z",
+  "missing_count": 66,
+  "last_update_source": "foto",
   "last_added": [
-    "EGY12",
-    "KOR18",
-    "KSA03",
-    "MAR05"
+    "CIV04",
+    "CUW20",
+    "FRA03",
+    "GER09",
+    "HAI08",
+    "IRQ03",
+    "JPN04",
+    "USA05"
   ],
   "last_removed": []
 }
