@@ -305,6 +305,7 @@ EGY08,EGY,Egito,8,True
 EGY09,EGY,Egito,9,True
 EGY10,EGY,Egito,10,True
 EGY11,EGY,Egito,11,True
+EGY12,EGY,Egito,12,True
 EGY13,EGY,Egito,13,True
 EGY15,EGY,Egito,15,True
 EGY16,EGY,Egito,16,True
@@ -527,10 +528,12 @@ KOR14,KOR,Coreia do Sul,14,True
 KOR15,KOR,Coreia do Sul,15,True
 KOR16,KOR,Coreia do Sul,16,True
 KOR17,KOR,Coreia do Sul,17,True
+KOR18,KOR,Coreia do Sul,18,True
 KOR19,KOR,Coreia do Sul,19,True
 KOR20,KOR,Coreia do Sul,20,True
 KSA01,KSA,Arábia Saudita,1,True
 KSA02,KSA,Arábia Saudita,2,True
+KSA03,KSA,Arábia Saudita,3,True
 KSA04,KSA,Arábia Saudita,4,True
 KSA05,KSA,Arábia Saudita,5,True
 KSA06,KSA,Arábia Saudita,6,True
@@ -551,6 +554,7 @@ MAR01,MAR,Marrocos,1,True
 MAR02,MAR,Marrocos,2,True
 MAR03,MAR,Marrocos,3,True
 MAR04,MAR,Marrocos,4,True
+MAR05,MAR,Marrocos,5,True
 MAR06,MAR,Marrocos,6,True
 MAR07,MAR,Marrocos,7,True
 MAR08,MAR,Marrocos,8,True

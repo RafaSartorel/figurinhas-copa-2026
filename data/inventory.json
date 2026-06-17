@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 902,
+  "owned_count": 906,
   "stickers": [
     {
       "team_code": "ALG",
@@ -2326,7 +2326,7 @@
       "country": "Egito",
       "sticker_number": 12,
       "sticker_id": "EGY12",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "EGY",
@@ -4048,7 +4048,7 @@
       "country": "Coreia do Sul",
       "sticker_number": 18,
       "sticker_id": "KOR18",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "KOR",
@@ -4083,7 +4083,7 @@
       "country": "Arábia Saudita",
       "sticker_number": 3,
       "sticker_id": "KSA03",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "KSA",
@@ -4237,7 +4237,7 @@
       "country": "Marrocos",
       "sticker_number": 5,
       "sticker_id": "MAR05",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "MAR",
@@ -6865,18 +6865,14 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-17T21:43:49Z",
-  "missing_count": 78,
-  "last_update_source": "chatgpt-photo-verification",
+  "last_updated": "2026-06-17T22:22:11Z",
+  "missing_count": 74,
+  "last_update_source": "chatgpt",
   "last_added": [
-    "ALG01",
-    "ARG04",
-    "COL19",
-    "ECU06",
-    "ECU19",
-    "GHA08",
-    "JPN20",
-    "PAN17"
+    "EGY12",
+    "KOR18",
+    "KSA03",
+    "MAR05"
   ],
   "last_removed": []
 }

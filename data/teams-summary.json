@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-17T21:43:49Z",
+  "last_updated": "2026-06-17T22:22:11Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -497,8 +497,8 @@
       "team_code": "EGY",
       "country": "Egito",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "EGY01",
         "EGY02",
@@ -511,6 +511,7 @@
         "EGY09",
         "EGY10",
         "EGY11",
+        "EGY12",
         "EGY13",
         "EGY15",
         "EGY16",
@@ -520,7 +521,6 @@
         "EGY20"
       ],
       "missing": [
-        "EGY12",
         "EGY14"
       ]
     },
@@ -869,8 +869,8 @@
       "team_code": "KOR",
       "country": "Coreia do Sul",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "KOR01",
         "KOR02",
@@ -889,22 +889,22 @@
         "KOR15",
         "KOR16",
         "KOR17",
+        "KOR18",
         "KOR19",
         "KOR20"
       ],
-      "missing": [
-        "KOR18"
-      ]
+      "missing": []
     },
     {
       "team_code": "KSA",
       "country": "Arábia Saudita",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "KSA01",
         "KSA02",
+        "KSA03",
         "KSA04",
         "KSA05",
         "KSA06",
@@ -923,7 +923,6 @@
         "KSA20"
       ],
       "missing": [
-        "KSA03",
         "KSA08"
       ]
     },
@@ -931,13 +930,14 @@
       "team_code": "MAR",
       "country": "Marrocos",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "MAR01",
         "MAR02",
         "MAR03",
         "MAR04",
+        "MAR05",
         "MAR06",
         "MAR07",
         "MAR08",
@@ -954,7 +954,6 @@
         "MAR20"
       ],
       "missing": [
-        "MAR05",
         "MAR12"
       ]
     },
