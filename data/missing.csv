@@ -4,8 +4,6 @@ ALG05,ALG,Argélia,5,False
 ALG08,ALG,Argélia,8,False
 ALG17,ALG,Argélia,17,False
 ARG04,ARG,Argentina,4,False
-ARG07,ARG,Argentina,7,False
-ARG11,ARG,Argentina,11,False
 AUS16,AUS,Austrália,16,False
 AUS20,AUS,Austrália,20,False
 BEL01,BEL,Bélgica,1,False
@@ -17,7 +15,6 @@ BRA04,BRA,Brasil,4,False
 BRA08,BRA,Brasil,8,False
 CIV04,CIV,Costa do Marfim,4,False
 CIV11,CIV,Costa do Marfim,11,False
-CIV20,CIV,Costa do Marfim,20,False
 COL02,COL,Colômbia,2,False
 COL03,COL,Colômbia,3,False
 COL11,COL,Colômbia,11,False
@@ -31,10 +28,8 @@ CRO03,CRO,Croácia,3,False
 CRO05,CRO,Croácia,5,False
 CRO06,CRO,Croácia,6,False
 CRO07,CRO,Croácia,7,False
-CRO11,CRO,Croácia,11,False
 CRO13,CRO,Croácia,13,False
 CUW01,CUW,Curaçao,1,False
-CUW10,CUW,Curaçao,10,False
 CUW20,CUW,Curaçao,20,False
 CZE15,CZE,Rep. Tcheca,15,False
 ECU06,ECU,Equador,6,False
@@ -55,12 +50,8 @@ FRA06,FRA,França,6,False
 FRA15,FRA,França,15,False
 FWC06,FWC,FIFA World Cup,6,False
 GER09,GER,Alemanha,9,False
-GER13,GER,Alemanha,13,False
 GER14,GER,Alemanha,14,False
-GER17,GER,Alemanha,17,False
-GHA02,GHA,Gana,2,False
 GHA08,GHA,Gana,8,False
-GHA10,GHA,Gana,10,False
 GHA11,GHA,Gana,11,False
 GHA15,GHA,Gana,15,False
 HAI01,HAI,Haiti,1,False
@@ -74,7 +65,6 @@ IRQ16,IRQ,Iraque,16,False
 JOR02,JOR,Jordânia,2,False
 JPN04,JPN,Japão,4,False
 JPN17,JPN,Japão,17,False
-JPN19,JPN,Japão,19,False
 JPN20,JPN,Japão,20,False
 KOR05,KOR,Coreia do Sul,5,False
 KOR18,KOR,Coreia do Sul,18,False
@@ -84,11 +74,7 @@ MAR05,MAR,Marrocos,5,False
 MAR12,MAR,Marrocos,12,False
 MEX18,MEX,México,18,False
 MEX19,MEX,México,19,False
-NED16,NED,Holanda,16,False
-NOR01,NOR,Noruega,1,False
 NOR04,NOR,Noruega,4,False
-NOR06,NOR,Noruega,6,False
-NOR10,NOR,Noruega,10,False
 NOR15,NOR,Noruega,15,False
 NOR17,NOR,Noruega,17,False
 NZL08,NZL,Nova Zelândia,8,False
@@ -101,9 +87,6 @@ PAR18,PAR,Paraguai,18,False
 POR04,POR,Portugal,4,False
 POR05,POR,Portugal,5,False
 POR17,POR,Portugal,17,False
-RSA15,RSA,África do Sul,15,False
-SCO12,SCO,Escócia,12,False
-SWE16,SWE,Suécia,16,False
 SWE18,SWE,Suécia,18,False
 TUN20,TUN,Tunísia,20,False
 USA04,USA,Estados Unidos,4,False

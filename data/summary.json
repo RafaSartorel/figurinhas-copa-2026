@@ -1,23 +1,53 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-17T20:45:17Z",
-  "last_update_source": "chat-photo",
+  "last_updated": "2026-06-17T20:50:10Z",
+  "last_update_source": "foto",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 863,
-    "missing_total": 117,
-    "progress_percent": 88.06
+    "owned_total": 880,
+    "missing_total": 100,
+    "progress_percent": 89.8
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "COD08",
-      "SWE13"
+      "ARG07",
+      "ARG11",
+      "CIV20",
+      "CRO11",
+      "CUW10",
+      "GER13",
+      "GER17",
+      "GHA02",
+      "GHA10",
+      "JPN19",
+      "NED16",
+      "NOR01",
+      "NOR06",
+      "NOR10",
+      "RSA15",
+      "SCO12",
+      "SWE16"
     ],
     "added": [
-      "COD08",
-      "SWE13"
+      "ARG07",
+      "ARG11",
+      "CIV20",
+      "CRO11",
+      "CUW10",
+      "GER13",
+      "GER17",
+      "GHA02",
+      "GHA10",
+      "JPN19",
+      "NED16",
+      "NOR01",
+      "NOR06",
+      "NOR10",
+      "RSA15",
+      "SCO12",
+      "SWE16"
     ],
     "removed": [],
     "already_owned": [],

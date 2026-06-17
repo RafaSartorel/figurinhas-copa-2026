@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-17T20:45:17Z",
+  "last_updated": "2026-06-17T20:50:10Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -38,17 +38,19 @@
       "team_code": "ARG",
       "country": "Argentina",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "ARG01",
         "ARG02",
         "ARG03",
         "ARG05",
         "ARG06",
+        "ARG07",
         "ARG08",
         "ARG09",
         "ARG10",
+        "ARG11",
         "ARG12",
         "ARG13",
         "ARG14",
@@ -60,9 +62,7 @@
         "ARG20"
       ],
       "missing": [
-        "ARG04",
-        "ARG07",
-        "ARG11"
+        "ARG04"
       ]
     },
     {
@@ -253,8 +253,8 @@
       "team_code": "CIV",
       "country": "Costa do Marfim",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "CIV01",
         "CIV02",
@@ -272,12 +272,12 @@
         "CIV16",
         "CIV17",
         "CIV18",
-        "CIV19"
+        "CIV19",
+        "CIV20"
       ],
       "missing": [
         "CIV04",
-        "CIV11",
-        "CIV20"
+        "CIV11"
       ]
     },
     {
@@ -376,13 +376,14 @@
       "team_code": "CRO",
       "country": "Croácia",
       "stickers_total": 20,
-      "owned_total": 12,
-      "missing_total": 8,
+      "owned_total": 13,
+      "missing_total": 7,
       "owned": [
         "CRO04",
         "CRO08",
         "CRO09",
         "CRO10",
+        "CRO11",
         "CRO12",
         "CRO14",
         "CRO15",
@@ -399,7 +400,6 @@
         "CRO05",
         "CRO06",
         "CRO07",
-        "CRO11",
         "CRO13"
       ]
     },
@@ -407,8 +407,8 @@
       "team_code": "CUW",
       "country": "Curaçao",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "CUW02",
         "CUW03",
@@ -418,6 +418,7 @@
         "CUW07",
         "CUW08",
         "CUW09",
+        "CUW10",
         "CUW11",
         "CUW12",
         "CUW13",
@@ -430,7 +431,6 @@
       ],
       "missing": [
         "CUW01",
-        "CUW10",
         "CUW20"
       ]
     },
@@ -655,8 +655,8 @@
       "team_code": "GER",
       "country": "Alemanha",
       "stickers_total": 20,
-      "owned_total": 16,
-      "missing_total": 4,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "GER01",
         "GER02",
@@ -669,33 +669,35 @@
         "GER10",
         "GER11",
         "GER12",
+        "GER13",
         "GER15",
         "GER16",
+        "GER17",
         "GER18",
         "GER19",
         "GER20"
       ],
       "missing": [
         "GER09",
-        "GER13",
-        "GER14",
-        "GER17"
+        "GER14"
       ]
     },
     {
       "team_code": "GHA",
       "country": "Gana",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 17,
+      "missing_total": 3,
       "owned": [
         "GHA01",
+        "GHA02",
         "GHA03",
         "GHA04",
         "GHA05",
         "GHA06",
         "GHA07",
         "GHA09",
+        "GHA10",
         "GHA12",
         "GHA13",
         "GHA14",
@@ -706,9 +708,7 @@
         "GHA20"
       ],
       "missing": [
-        "GHA02",
         "GHA08",
-        "GHA10",
         "GHA11",
         "GHA15"
       ]
@@ -841,8 +841,8 @@
       "team_code": "JPN",
       "country": "Japão",
       "stickers_total": 20,
-      "owned_total": 16,
-      "missing_total": 4,
+      "owned_total": 17,
+      "missing_total": 3,
       "owned": [
         "JPN01",
         "JPN02",
@@ -859,12 +859,12 @@
         "JPN14",
         "JPN15",
         "JPN16",
-        "JPN18"
+        "JPN18",
+        "JPN19"
       ],
       "missing": [
         "JPN04",
         "JPN17",
-        "JPN19",
         "JPN20"
       ]
     },
@@ -996,8 +996,8 @@
       "team_code": "NED",
       "country": "Holanda",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "NED01",
         "NED02",
@@ -1014,28 +1014,30 @@
         "NED13",
         "NED14",
         "NED15",
+        "NED16",
         "NED17",
         "NED18",
         "NED19",
         "NED20"
       ],
-      "missing": [
-        "NED16"
-      ]
+      "missing": []
     },
     {
       "team_code": "NOR",
       "country": "Noruega",
       "stickers_total": 20,
-      "owned_total": 14,
-      "missing_total": 6,
+      "owned_total": 17,
+      "missing_total": 3,
       "owned": [
+        "NOR01",
         "NOR02",
         "NOR03",
         "NOR05",
+        "NOR06",
         "NOR07",
         "NOR08",
         "NOR09",
+        "NOR10",
         "NOR11",
         "NOR12",
         "NOR13",
@@ -1046,10 +1048,7 @@
         "NOR20"
       ],
       "missing": [
-        "NOR01",
         "NOR04",
-        "NOR06",
-        "NOR10",
         "NOR15",
         "NOR17"
       ]
@@ -1212,8 +1211,8 @@
       "team_code": "RSA",
       "country": "África do Sul",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "RSA01",
         "RSA02",
@@ -1229,22 +1228,21 @@
         "RSA12",
         "RSA13",
         "RSA14",
+        "RSA15",
         "RSA16",
         "RSA17",
         "RSA18",
         "RSA19",
         "RSA20"
       ],
-      "missing": [
-        "RSA15"
-      ]
+      "missing": []
     },
     {
       "team_code": "SCO",
       "country": "Escócia",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "SCO01",
         "SCO02",
@@ -1257,6 +1255,7 @@
         "SCO09",
         "SCO10",
         "SCO11",
+        "SCO12",
         "SCO13",
         "SCO14",
         "SCO15",
@@ -1266,9 +1265,7 @@
         "SCO19",
         "SCO20"
       ],
-      "missing": [
-        "SCO12"
-      ]
+      "missing": []
     },
     {
       "team_code": "SEN",
@@ -1334,8 +1331,8 @@
       "team_code": "SWE",
       "country": "Suécia",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "SWE01",
         "SWE02",
@@ -1352,12 +1349,12 @@
         "SWE13",
         "SWE14",
         "SWE15",
+        "SWE16",
         "SWE17",
         "SWE19",
         "SWE20"
       ],
       "missing": [
-        "SWE16",
         "SWE18"
       ]
     },

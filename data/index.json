@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-17T20:45:17Z",
+  "last_updated": "2026-06-17T20:50:10Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -163,7 +163,7 @@
       "team_code": "ARG",
       "country": "Argentina",
       "sticker_number": 7,
-      "owned": false
+      "owned": true
     },
     "ARG08": {
       "team_code": "ARG",
@@ -187,7 +187,7 @@
       "team_code": "ARG",
       "country": "Argentina",
       "sticker_number": 11,
-      "owned": false
+      "owned": true
     },
     "ARG12": {
       "team_code": "ARG",
@@ -1081,7 +1081,7 @@
       "team_code": "CIV",
       "country": "Costa do Marfim",
       "sticker_number": 20,
-      "owned": false
+      "owned": true
     },
     "COD01": {
       "team_code": "COD",
@@ -1507,7 +1507,7 @@
       "team_code": "CRO",
       "country": "Croácia",
       "sticker_number": 11,
-      "owned": false
+      "owned": true
     },
     "CRO12": {
       "team_code": "CRO",
@@ -1621,7 +1621,7 @@
       "team_code": "CUW",
       "country": "Curaçao",
       "sticker_number": 10,
-      "owned": false
+      "owned": true
     },
     "CUW11": {
       "team_code": "CUW",
@@ -2599,7 +2599,7 @@
       "team_code": "GER",
       "country": "Alemanha",
       "sticker_number": 13,
-      "owned": false
+      "owned": true
     },
     "GER14": {
       "team_code": "GER",
@@ -2623,7 +2623,7 @@
       "team_code": "GER",
       "country": "Alemanha",
       "sticker_number": 17,
-      "owned": false
+      "owned": true
     },
     "GER18": {
       "team_code": "GER",
@@ -2653,7 +2653,7 @@
       "team_code": "GHA",
       "country": "Gana",
       "sticker_number": 2,
-      "owned": false
+      "owned": true
     },
     "GHA03": {
       "team_code": "GHA",
@@ -2701,7 +2701,7 @@
       "team_code": "GHA",
       "country": "Gana",
       "sticker_number": 10,
-      "owned": false
+      "owned": true
     },
     "GHA11": {
       "team_code": "GHA",
@@ -3355,7 +3355,7 @@
       "team_code": "JPN",
       "country": "Japão",
       "sticker_number": 19,
-      "owned": false
+      "owned": true
     },
     "JPN20": {
       "team_code": "JPN",
@@ -3937,7 +3937,7 @@
       "team_code": "NED",
       "country": "Holanda",
       "sticker_number": 16,
-      "owned": false
+      "owned": true
     },
     "NED17": {
       "team_code": "NED",
@@ -3967,7 +3967,7 @@
       "team_code": "NOR",
       "country": "Noruega",
       "sticker_number": 1,
-      "owned": false
+      "owned": true
     },
     "NOR02": {
       "team_code": "NOR",
@@ -3997,7 +3997,7 @@
       "team_code": "NOR",
       "country": "Noruega",
       "sticker_number": 6,
-      "owned": false
+      "owned": true
     },
     "NOR07": {
       "team_code": "NOR",
@@ -4021,7 +4021,7 @@
       "team_code": "NOR",
       "country": "Noruega",
       "sticker_number": 10,
-      "owned": false
+      "owned": true
     },
     "NOR11": {
       "team_code": "NOR",
@@ -4771,7 +4771,7 @@
       "team_code": "RSA",
       "country": "África do Sul",
       "sticker_number": 15,
-      "owned": false
+      "owned": true
     },
     "RSA16": {
       "team_code": "RSA",
@@ -4873,7 +4873,7 @@
       "team_code": "SCO",
       "country": "Escócia",
       "sticker_number": 12,
-      "owned": false
+      "owned": true
     },
     "SCO13": {
       "team_code": "SCO",
@@ -5257,7 +5257,7 @@
       "team_code": "SWE",
       "country": "Suécia",
       "sticker_number": 16,
-      "owned": false
+      "owned": true
     },
     "SWE17": {
       "team_code": "SWE",

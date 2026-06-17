@@ -20,9 +20,11 @@ ARG02,ARG,Argentina,2,True
 ARG03,ARG,Argentina,3,True
 ARG05,ARG,Argentina,5,True
 ARG06,ARG,Argentina,6,True
+ARG07,ARG,Argentina,7,True
 ARG08,ARG,Argentina,8,True
 ARG09,ARG,Argentina,9,True
 ARG10,ARG,Argentina,10,True
+ARG11,ARG,Argentina,11,True
 ARG12,ARG,Argentina,12,True
 ARG13,ARG,Argentina,13,True
 ARG14,ARG,Argentina,14,True
@@ -160,6 +162,7 @@ CIV16,CIV,Costa do Marfim,16,True
 CIV17,CIV,Costa do Marfim,17,True
 CIV18,CIV,Costa do Marfim,18,True
 CIV19,CIV,Costa do Marfim,19,True
+CIV20,CIV,Costa do Marfim,20,True
 COD01,COD,Congo,1,True
 COD02,COD,Congo,2,True
 COD03,COD,Congo,3,True
@@ -217,6 +220,7 @@ CRO04,CRO,Croácia,4,True
 CRO08,CRO,Croácia,8,True
 CRO09,CRO,Croácia,9,True
 CRO10,CRO,Croácia,10,True
+CRO11,CRO,Croácia,11,True
 CRO12,CRO,Croácia,12,True
 CRO14,CRO,Croácia,14,True
 CRO15,CRO,Croácia,15,True
@@ -233,6 +237,7 @@ CUW06,CUW,Curaçao,6,True
 CUW07,CUW,Curaçao,7,True
 CUW08,CUW,Curaçao,8,True
 CUW09,CUW,Curaçao,9,True
+CUW10,CUW,Curaçao,10,True
 CUW11,CUW,Curaçao,11,True
 CUW12,CUW,Curaçao,12,True
 CUW13,CUW,Curaçao,13,True
@@ -375,18 +380,22 @@ GER08,GER,Alemanha,8,True
 GER10,GER,Alemanha,10,True
 GER11,GER,Alemanha,11,True
 GER12,GER,Alemanha,12,True
+GER13,GER,Alemanha,13,True
 GER15,GER,Alemanha,15,True
 GER16,GER,Alemanha,16,True
+GER17,GER,Alemanha,17,True
 GER18,GER,Alemanha,18,True
 GER19,GER,Alemanha,19,True
 GER20,GER,Alemanha,20,True
 GHA01,GHA,Gana,1,True
+GHA02,GHA,Gana,2,True
 GHA03,GHA,Gana,3,True
 GHA04,GHA,Gana,4,True
 GHA05,GHA,Gana,5,True
 GHA06,GHA,Gana,6,True
 GHA07,GHA,Gana,7,True
 GHA09,GHA,Gana,9,True
+GHA10,GHA,Gana,10,True
 GHA12,GHA,Gana,12,True
 GHA13,GHA,Gana,13,True
 GHA14,GHA,Gana,14,True
@@ -482,6 +491,7 @@ JPN14,JPN,Japão,14,True
 JPN15,JPN,Japão,15,True
 JPN16,JPN,Japão,16,True
 JPN18,JPN,Japão,18,True
+JPN19,JPN,Japão,19,True
 KOR01,KOR,Coreia do Sul,1,True
 KOR02,KOR,Coreia do Sul,2,True
 KOR03,KOR,Coreia do Sul,3,True
@@ -569,16 +579,20 @@ NED12,NED,Holanda,12,True
 NED13,NED,Holanda,13,True
 NED14,NED,Holanda,14,True
 NED15,NED,Holanda,15,True
+NED16,NED,Holanda,16,True
 NED17,NED,Holanda,17,True
 NED18,NED,Holanda,18,True
 NED19,NED,Holanda,19,True
 NED20,NED,Holanda,20,True
+NOR01,NOR,Noruega,1,True
 NOR02,NOR,Noruega,2,True
 NOR03,NOR,Noruega,3,True
 NOR05,NOR,Noruega,5,True
+NOR06,NOR,Noruega,6,True
 NOR07,NOR,Noruega,7,True
 NOR08,NOR,Noruega,8,True
 NOR09,NOR,Noruega,9,True
+NOR10,NOR,Noruega,10,True
 NOR11,NOR,Noruega,11,True
 NOR12,NOR,Noruega,12,True
 NOR13,NOR,Noruega,13,True
@@ -691,6 +705,7 @@ RSA11,RSA,África do Sul,11,True
 RSA12,RSA,África do Sul,12,True
 RSA13,RSA,África do Sul,13,True
 RSA14,RSA,África do Sul,14,True
+RSA15,RSA,África do Sul,15,True
 RSA16,RSA,África do Sul,16,True
 RSA17,RSA,África do Sul,17,True
 RSA18,RSA,África do Sul,18,True
@@ -707,6 +722,7 @@ SCO08,SCO,Escócia,8,True
 SCO09,SCO,Escócia,9,True
 SCO10,SCO,Escócia,10,True
 SCO11,SCO,Escócia,11,True
+SCO12,SCO,Escócia,12,True
 SCO13,SCO,Escócia,13,True
 SCO14,SCO,Escócia,14,True
 SCO15,SCO,Escócia,15,True
@@ -770,6 +786,7 @@ SWE12,SWE,Suécia,12,True
 SWE13,SWE,Suécia,13,True
 SWE14,SWE,Suécia,14,True
 SWE15,SWE,Suécia,15,True
+SWE16,SWE,Suécia,16,True
 SWE17,SWE,Suécia,17,True
 SWE19,SWE,Suécia,19,True
 SWE20,SWE,Suécia,20,True
