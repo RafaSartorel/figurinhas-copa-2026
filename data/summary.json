@@ -1,37 +1,26 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-17T20:16:27Z",
-  "last_update_source": "chatgpt",
+  "last_updated": "2026-06-17T20:45:17Z",
+  "last_update_source": "chat-photo",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 861,
-    "missing_total": 119,
-    "progress_percent": 87.86
+    "owned_total": 863,
+    "missing_total": 117,
+    "progress_percent": 88.06
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "CIV16",
-      "ESP06",
-      "FRA19",
-      "FWC11",
-      "JPN01",
-      "PAR14",
-      "RSA16"
+      "COD08",
+      "SWE13"
     ],
     "added": [
-      "CIV16",
-      "ESP06",
-      "FRA19",
-      "JPN01",
-      "PAR14",
-      "RSA16"
+      "COD08",
+      "SWE13"
     ],
     "removed": [],
-    "already_owned": [
-      "FWC11"
-    ],
+    "already_owned": [],
     "already_missing": [],
     "not_found": [],
     "invalid": []

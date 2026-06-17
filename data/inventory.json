@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 861,
+  "owned_count": 863,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1318,7 +1318,7 @@
       "country": "Congo",
       "sticker_number": 8,
       "sticker_id": "COD08",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "COD",
@@ -6113,7 +6113,7 @@
       "country": "Suécia",
       "sticker_number": 13,
       "sticker_id": "SWE13",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "SWE",
@@ -6865,16 +6865,12 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-17T20:16:27Z",
-  "missing_count": 119,
-  "last_update_source": "chatgpt",
+  "last_updated": "2026-06-17T20:45:17Z",
+  "missing_count": 117,
+  "last_update_source": "chat-photo",
   "last_added": [
-    "CIV16",
-    "ESP06",
-    "FRA19",
-    "JPN01",
-    "PAR14",
-    "RSA16"
+    "COD08",
+    "SWE13"
   ],
   "last_removed": []
 }

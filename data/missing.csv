@@ -18,7 +18,6 @@ BRA08,BRA,Brasil,8,False
 CIV04,CIV,Costa do Marfim,4,False
 CIV11,CIV,Costa do Marfim,11,False
 CIV20,CIV,Costa do Marfim,20,False
-COD08,COD,Congo,8,False
 COL02,COL,Colômbia,2,False
 COL03,COL,Colômbia,3,False
 COL11,COL,Colômbia,11,False
@@ -104,7 +103,6 @@ POR05,POR,Portugal,5,False
 POR17,POR,Portugal,17,False
 RSA15,RSA,África do Sul,15,False
 SCO12,SCO,Escócia,12,False
-SWE13,SWE,Suécia,13,False
 SWE16,SWE,Suécia,16,False
 SWE18,SWE,Suécia,18,False
 TUN20,TUN,Tunísia,20,False

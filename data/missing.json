@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-17T20:16:27Z",
+  "last_updated": "2026-06-17T20:45:17Z",
   "stickers": [
     "ALG01",
     "ALG05",
@@ -22,7 +22,6 @@
     "CIV04",
     "CIV11",
     "CIV20",
-    "COD08",
     "COL02",
     "COL03",
     "COL11",
@@ -108,7 +107,6 @@
     "POR17",
     "RSA15",
     "SCO12",
-    "SWE13",
     "SWE16",
     "SWE18",
     "TUN20",

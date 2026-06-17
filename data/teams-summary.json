@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-17T20:16:27Z",
+  "last_updated": "2026-06-17T20:45:17Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -284,8 +284,8 @@
       "team_code": "COD",
       "country": "Congo",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "COD01",
         "COD02",
@@ -294,6 +294,7 @@
         "COD05",
         "COD06",
         "COD07",
+        "COD08",
         "COD09",
         "COD10",
         "COD11",
@@ -307,9 +308,7 @@
         "COD19",
         "COD20"
       ],
-      "missing": [
-        "COD08"
-      ]
+      "missing": []
     },
     {
       "team_code": "COL",
@@ -1335,8 +1334,8 @@
       "team_code": "SWE",
       "country": "Suécia",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "SWE01",
         "SWE02",
@@ -1350,6 +1349,7 @@
         "SWE10",
         "SWE11",
         "SWE12",
+        "SWE13",
         "SWE14",
         "SWE15",
         "SWE17",
@@ -1357,7 +1357,6 @@
         "SWE20"
       ],
       "missing": [
-        "SWE13",
         "SWE16",
         "SWE18"
       ]
