@@ -1,24 +1,37 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-17T19:27:16Z",
-  "last_update_source": "chat",
+  "last_updated": "2026-06-17T20:16:27Z",
+  "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 855,
-    "missing_total": 125,
-    "progress_percent": 87.24
+    "owned_total": 861,
+    "missing_total": 119,
+    "progress_percent": 87.86
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "KOR02"
+      "CIV16",
+      "ESP06",
+      "FRA19",
+      "FWC11",
+      "JPN01",
+      "PAR14",
+      "RSA16"
     ],
     "added": [
-      "KOR02"
+      "CIV16",
+      "ESP06",
+      "FRA19",
+      "JPN01",
+      "PAR14",
+      "RSA16"
     ],
     "removed": [],
-    "already_owned": [],
+    "already_owned": [
+      "FWC11"
+    ],
     "already_missing": [],
     "not_found": [],
     "invalid": []

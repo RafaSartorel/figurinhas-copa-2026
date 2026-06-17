@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-17T19:27:16Z",
+  "last_updated": "2026-06-17T20:16:27Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -253,8 +253,8 @@
       "team_code": "CIV",
       "country": "Costa do Marfim",
       "stickers_total": 20,
-      "owned_total": 16,
-      "missing_total": 4,
+      "owned_total": 17,
+      "missing_total": 3,
       "owned": [
         "CIV01",
         "CIV02",
@@ -269,6 +269,7 @@
         "CIV13",
         "CIV14",
         "CIV15",
+        "CIV16",
         "CIV17",
         "CIV18",
         "CIV19"
@@ -276,7 +277,6 @@
       "missing": [
         "CIV04",
         "CIV11",
-        "CIV16",
         "CIV20"
       ]
     },
@@ -563,14 +563,15 @@
       "team_code": "ESP",
       "country": "Espanha",
       "stickers_total": 20,
-      "owned_total": 14,
-      "missing_total": 6,
+      "owned_total": 15,
+      "missing_total": 5,
       "owned": [
         "ESP01",
         "ESP02",
         "ESP03",
         "ESP04",
         "ESP05",
+        "ESP06",
         "ESP07",
         "ESP08",
         "ESP09",
@@ -582,7 +583,6 @@
         "ESP20"
       ],
       "missing": [
-        "ESP06",
         "ESP13",
         "ESP14",
         "ESP16",
@@ -594,8 +594,8 @@
       "team_code": "FRA",
       "country": "França",
       "stickers_total": 20,
-      "owned_total": 16,
-      "missing_total": 4,
+      "owned_total": 17,
+      "missing_total": 3,
       "owned": [
         "FRA01",
         "FRA02",
@@ -612,13 +612,13 @@
         "FRA16",
         "FRA17",
         "FRA18",
+        "FRA19",
         "FRA20"
       ],
       "missing": [
         "FRA03",
         "FRA06",
-        "FRA15",
-        "FRA19"
+        "FRA15"
       ]
     },
     {
@@ -842,9 +842,10 @@
       "team_code": "JPN",
       "country": "Japão",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
+        "JPN01",
         "JPN02",
         "JPN03",
         "JPN05",
@@ -862,7 +863,6 @@
         "JPN18"
       ],
       "missing": [
-        "JPN01",
         "JPN04",
         "JPN17",
         "JPN19",
@@ -1121,8 +1121,8 @@
       "team_code": "PAR",
       "country": "Paraguai",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
         "PAR02",
         "PAR03",
@@ -1134,6 +1134,7 @@
         "PAR10",
         "PAR11",
         "PAR13",
+        "PAR14",
         "PAR15",
         "PAR16",
         "PAR17",
@@ -1144,7 +1145,6 @@
         "PAR01",
         "PAR09",
         "PAR12",
-        "PAR14",
         "PAR18"
       ]
     },
@@ -1213,8 +1213,8 @@
       "team_code": "RSA",
       "country": "África do Sul",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "RSA01",
         "RSA02",
@@ -1230,14 +1230,14 @@
         "RSA12",
         "RSA13",
         "RSA14",
+        "RSA16",
         "RSA17",
         "RSA18",
         "RSA19",
         "RSA20"
       ],
       "missing": [
-        "RSA15",
-        "RSA16"
+        "RSA15"
       ]
     },
     {

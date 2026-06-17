@@ -156,6 +156,7 @@ CIV12,CIV,Costa do Marfim,12,True
 CIV13,CIV,Costa do Marfim,13,True
 CIV14,CIV,Costa do Marfim,14,True
 CIV15,CIV,Costa do Marfim,15,True
+CIV16,CIV,Costa do Marfim,16,True
 CIV17,CIV,Costa do Marfim,17,True
 CIV18,CIV,Costa do Marfim,18,True
 CIV19,CIV,Costa do Marfim,19,True
@@ -316,6 +317,7 @@ ESP02,ESP,Espanha,2,True
 ESP03,ESP,Espanha,3,True
 ESP04,ESP,Espanha,4,True
 ESP05,ESP,Espanha,5,True
+ESP06,ESP,Espanha,6,True
 ESP07,ESP,Espanha,7,True
 ESP08,ESP,Espanha,8,True
 ESP09,ESP,Espanha,9,True
@@ -340,6 +342,7 @@ FRA14,FRA,França,14,True
 FRA16,FRA,França,16,True
 FRA17,FRA,França,17,True
 FRA18,FRA,França,18,True
+FRA19,FRA,França,19,True
 FRA20,FRA,França,20,True
 FWC00,FWC,FIFA World Cup,0,True
 FWC01,FWC,FIFA World Cup,1,True
@@ -462,6 +465,7 @@ JOR17,JOR,Jordânia,17,True
 JOR18,JOR,Jordânia,18,True
 JOR19,JOR,Jordânia,19,True
 JOR20,JOR,Jordânia,20,True
+JPN01,JPN,Japão,1,True
 JPN02,JPN,Japão,2,True
 JPN03,JPN,Japão,3,True
 JPN05,JPN,Japão,5,True
@@ -629,6 +633,7 @@ PAR08,PAR,Paraguai,8,True
 PAR10,PAR,Paraguai,10,True
 PAR11,PAR,Paraguai,11,True
 PAR13,PAR,Paraguai,13,True
+PAR14,PAR,Paraguai,14,True
 PAR15,PAR,Paraguai,15,True
 PAR16,PAR,Paraguai,16,True
 PAR17,PAR,Paraguai,17,True
@@ -685,6 +690,7 @@ RSA11,RSA,África do Sul,11,True
 RSA12,RSA,África do Sul,12,True
 RSA13,RSA,África do Sul,13,True
 RSA14,RSA,África do Sul,14,True
+RSA16,RSA,África do Sul,16,True
 RSA17,RSA,África do Sul,17,True
 RSA18,RSA,África do Sul,18,True
 RSA19,RSA,África do Sul,19,True

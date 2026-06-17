@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-17T19:27:16Z",
+  "last_updated": "2026-06-17T20:16:27Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -1057,7 +1057,7 @@
       "team_code": "CIV",
       "country": "Costa do Marfim",
       "sticker_number": 16,
-      "owned": false
+      "owned": true
     },
     "CIV17": {
       "team_code": "CIV",
@@ -2197,7 +2197,7 @@
       "team_code": "ESP",
       "country": "Espanha",
       "sticker_number": 6,
-      "owned": false
+      "owned": true
     },
     "ESP07": {
       "team_code": "ESP",
@@ -2395,7 +2395,7 @@
       "team_code": "FRA",
       "country": "França",
       "sticker_number": 19,
-      "owned": false
+      "owned": true
     },
     "FRA20": {
       "team_code": "FRA",
@@ -3247,7 +3247,7 @@
       "team_code": "JPN",
       "country": "Japão",
       "sticker_number": 1,
-      "owned": false
+      "owned": true
     },
     "JPN02": {
       "team_code": "JPN",
@@ -4405,7 +4405,7 @@
       "team_code": "PAR",
       "country": "Paraguai",
       "sticker_number": 14,
-      "owned": false
+      "owned": true
     },
     "PAR15": {
       "team_code": "PAR",
@@ -4777,7 +4777,7 @@
       "team_code": "RSA",
       "country": "África do Sul",
       "sticker_number": 16,
-      "owned": false
+      "owned": true
     },
     "RSA17": {
       "team_code": "RSA",

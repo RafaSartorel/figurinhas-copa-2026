@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 855,
+  "owned_count": 861,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1234,7 +1234,7 @@
       "country": "Costa do Marfim",
       "sticker_number": 16,
       "sticker_id": "CIV16",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CIV",
@@ -2564,7 +2564,7 @@
       "country": "Espanha",
       "sticker_number": 6,
       "sticker_id": "ESP06",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ESP",
@@ -2795,7 +2795,7 @@
       "country": "França",
       "sticker_number": 19,
       "sticker_id": "FRA19",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "FRA",
@@ -3789,7 +3789,7 @@
       "country": "Japão",
       "sticker_number": 1,
       "sticker_id": "JPN01",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "JPN",
@@ -5140,7 +5140,7 @@
       "country": "Paraguai",
       "sticker_number": 14,
       "sticker_id": "PAR14",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "PAR",
@@ -5574,7 +5574,7 @@
       "country": "África do Sul",
       "sticker_number": 16,
       "sticker_id": "RSA16",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "RSA",
@@ -6865,11 +6865,16 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-17T19:27:16Z",
-  "missing_count": 125,
-  "last_update_source": "chat",
+  "last_updated": "2026-06-17T20:16:27Z",
+  "missing_count": 119,
+  "last_update_source": "chatgpt",
   "last_added": [
-    "KOR02"
+    "CIV16",
+    "ESP06",
+    "FRA19",
+    "JPN01",
+    "PAR14",
+    "RSA16"
   ],
   "last_removed": []
 }
