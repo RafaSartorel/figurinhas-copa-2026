@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-18T01:04:53Z",
+  "last_updated": "2026-06-18T01:07:54Z",
   "stickers": [
     "ALG05",
     "ALG08",
@@ -26,6 +26,7 @@
     "CUW01",
     "ECU15",
     "ENG02",
+    "ENG16",
     "ENG20",
     "ESP14",
     "ESP18",
