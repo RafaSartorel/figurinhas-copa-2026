@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-18T01:07:54Z",
+  "last_updated": "2026-06-18T01:24:37Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -2053,7 +2053,7 @@
       "team_code": "ENG",
       "country": "Inglaterra",
       "sticker_number": 2,
-      "owned": false
+      "owned": true
     },
     "ENG03": {
       "team_code": "ENG",
@@ -4129,7 +4129,7 @@
       "team_code": "NZL",
       "country": "Nova Zelândia",
       "sticker_number": 8,
-      "owned": false
+      "owned": true
     },
     "NZL09": {
       "team_code": "NZL",
@@ -4183,7 +4183,7 @@
       "team_code": "NZL",
       "country": "Nova Zelândia",
       "sticker_number": 17,
-      "owned": false
+      "owned": true
     },
     "NZL18": {
       "team_code": "NZL",

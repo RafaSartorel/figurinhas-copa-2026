@@ -1,23 +1,27 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-18T01:07:54Z",
-  "last_update_source": "chatgpt",
+  "last_updated": "2026-06-18T01:24:37Z",
+  "last_update_source": "photo-chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 914,
-    "missing_total": 66,
-    "progress_percent": 93.27
+    "owned_total": 917,
+    "missing_total": 63,
+    "progress_percent": 93.57
   },
   "last_update_result": {
-    "operation": "remove",
+    "operation": "add",
     "requested": [
-      "ENG16"
+      "ENG02",
+      "NZL08",
+      "NZL17"
     ],
-    "added": [],
-    "removed": [
-      "ENG16"
+    "added": [
+      "ENG02",
+      "NZL08",
+      "NZL17"
     ],
+    "removed": [],
     "already_owned": [],
     "already_missing": [],
     "not_found": [],

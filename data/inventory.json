@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 914,
+  "owned_count": 917,
   "stickers": [
     {
       "team_code": "ALG",
@@ -2396,7 +2396,7 @@
       "country": "Inglaterra",
       "sticker_number": 2,
       "sticker_id": "ENG02",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ENG",
@@ -4818,7 +4818,7 @@
       "country": "Nova Zelândia",
       "sticker_number": 8,
       "sticker_id": "NZL08",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "NZL",
@@ -4881,7 +4881,7 @@
       "country": "Nova Zelândia",
       "sticker_number": 17,
       "sticker_id": "NZL17",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "NZL",
@@ -6865,11 +6865,13 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-18T01:07:54Z",
-  "missing_count": 66,
-  "last_update_source": "chatgpt",
-  "last_added": [],
-  "last_removed": [
-    "ENG16"
-  ]
+  "last_updated": "2026-06-18T01:24:37Z",
+  "missing_count": 63,
+  "last_update_source": "photo-chatgpt",
+  "last_added": [
+    "ENG02",
+    "NZL08",
+    "NZL17"
+  ],
+  "last_removed": []
 }

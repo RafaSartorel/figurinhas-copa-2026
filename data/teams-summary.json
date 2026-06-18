@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-18T01:07:54Z",
+  "last_updated": "2026-06-18T01:24:37Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -527,10 +527,11 @@
       "team_code": "ENG",
       "country": "Inglaterra",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "ENG01",
+        "ENG02",
         "ENG03",
         "ENG04",
         "ENG05",
@@ -549,7 +550,6 @@
         "ENG19"
       ],
       "missing": [
-        "ENG02",
         "ENG16",
         "ENG20"
       ]
@@ -1053,8 +1053,8 @@
       "team_code": "NZL",
       "country": "Nova Zelândia",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "NZL01",
         "NZL02",
@@ -1063,6 +1063,7 @@
         "NZL05",
         "NZL06",
         "NZL07",
+        "NZL08",
         "NZL09",
         "NZL10",
         "NZL11",
@@ -1071,14 +1072,12 @@
         "NZL14",
         "NZL15",
         "NZL16",
+        "NZL17",
         "NZL18",
         "NZL19",
         "NZL20"
       ],
-      "missing": [
-        "NZL08",
-        "NZL17"
-      ]
+      "missing": []
     },
     {
       "team_code": "PAN",
