@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 915,
+  "owned_count": 914,
   "stickers": [
     {
       "team_code": "ALG",
@@ -3936,7 +3936,7 @@
       "country": "Coreia do Sul",
       "sticker_number": 2,
       "sticker_id": "KOR02",
-      "owned": true
+      "owned": false
     },
     {
       "team_code": "KOR",
@@ -6865,11 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-17T23:21:58Z",
-  "missing_count": 65,
+  "last_updated": "2026-06-18T01:00:31Z",
+  "missing_count": 66,
   "last_update_source": "chatgpt",
-  "last_added": [
-    "BRA01"
-  ],
-  "last_removed": []
+  "last_added": [],
+  "last_removed": [
+    "KOR02"
+  ]
 }

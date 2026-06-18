@@ -1,23 +1,23 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-17T23:21:58Z",
+  "last_updated": "2026-06-18T01:00:31Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 915,
-    "missing_total": 65,
-    "progress_percent": 93.37
+    "owned_total": 914,
+    "missing_total": 66,
+    "progress_percent": 93.27
   },
   "last_update_result": {
-    "operation": "add",
+    "operation": "remove",
     "requested": [
-      "BRA01"
+      "KOR02"
     ],
-    "added": [
-      "BRA01"
+    "added": [],
+    "removed": [
+      "KOR02"
     ],
-    "removed": [],
     "already_owned": [],
     "already_missing": [],
     "not_found": [],

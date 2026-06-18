@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-17T23:21:58Z",
+  "last_updated": "2026-06-18T01:00:31Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -869,11 +869,10 @@
       "team_code": "KOR",
       "country": "Coreia do Sul",
       "stickers_total": 20,
-      "owned_total": 20,
-      "missing_total": 0,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "KOR01",
-        "KOR02",
         "KOR03",
         "KOR04",
         "KOR05",
@@ -893,7 +892,9 @@
         "KOR19",
         "KOR20"
       ],
-      "missing": []
+      "missing": [
+        "KOR02"
+      ]
     },
     {
       "team_code": "KSA",
