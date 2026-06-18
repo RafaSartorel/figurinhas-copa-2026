@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-18T01:24:37Z",
+  "last_updated": "2026-06-18T19:09:03Z",
   "stickers": [
     "ALG01",
     "ALG02",
@@ -355,6 +355,7 @@
     "ESP15",
     "ESP16",
     "ESP17",
+    "ESP19",
     "ESP20",
     "FRA01",
     "FRA02",

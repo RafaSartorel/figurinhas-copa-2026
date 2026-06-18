@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-18T01:24:37Z",
+  "last_updated": "2026-06-18T19:09:03Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -2275,7 +2275,7 @@
       "team_code": "ESP",
       "country": "Espanha",
       "sticker_number": 19,
-      "owned": false
+      "owned": true
     },
     "ESP20": {
       "team_code": "ESP",

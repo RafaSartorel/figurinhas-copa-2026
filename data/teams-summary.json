@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-18T01:24:37Z",
+  "last_updated": "2026-06-18T19:09:03Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -558,8 +558,8 @@
       "team_code": "ESP",
       "country": "Espanha",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "ESP01",
         "ESP02",
@@ -577,12 +577,12 @@
         "ESP15",
         "ESP16",
         "ESP17",
+        "ESP19",
         "ESP20"
       ],
       "missing": [
         "ESP14",
-        "ESP18",
-        "ESP19"
+        "ESP18"
       ]
     },
     {
