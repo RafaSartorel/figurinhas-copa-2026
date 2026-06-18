@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-18T01:00:31Z",
+  "last_updated": "2026-06-18T01:04:53Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -497,8 +497,8 @@
       "team_code": "EGY",
       "country": "Egito",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "EGY01",
         "EGY02",
@@ -513,6 +513,7 @@
         "EGY11",
         "EGY12",
         "EGY13",
+        "EGY14",
         "EGY15",
         "EGY16",
         "EGY17",
@@ -520,9 +521,7 @@
         "EGY19",
         "EGY20"
       ],
-      "missing": [
-        "EGY14"
-      ]
+      "missing": []
     },
     {
       "team_code": "ENG",
