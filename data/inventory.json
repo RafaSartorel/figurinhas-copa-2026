@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 918,
+  "owned_count": 925,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1689,7 +1689,7 @@
       "country": "Croácia",
       "sticker_number": 1,
       "sticker_id": "CRO01",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CRO",
@@ -2207,7 +2207,7 @@
       "country": "Equador",
       "sticker_number": 15,
       "sticker_id": "ECU15",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ECU",
@@ -2522,7 +2522,7 @@
       "country": "Inglaterra",
       "sticker_number": 20,
       "sticker_id": "ENG20",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ESP",
@@ -3187,7 +3187,7 @@
       "country": "Gana",
       "sticker_number": 15,
       "sticker_id": "GHA15",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "GHA",
@@ -3369,7 +3369,7 @@
       "country": "Irã",
       "sticker_number": 1,
       "sticker_id": "IRN01",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "IRN",
@@ -3936,7 +3936,7 @@
       "country": "Coreia do Sul",
       "sticker_number": 2,
       "sticker_id": "KOR02",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "KOR",
@@ -6659,7 +6659,7 @@
       "country": "Estados Unidos",
       "sticker_number": 11,
       "sticker_id": "USA11",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "USA",
@@ -6865,11 +6865,17 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-18T19:09:03Z",
-  "missing_count": 62,
-  "last_update_source": "chatgpt",
+  "last_updated": "2026-06-18T23:13:32Z",
+  "missing_count": 55,
+  "last_update_source": "foto",
   "last_added": [
-    "ESP19"
+    "CRO01",
+    "ECU15",
+    "ENG20",
+    "GHA15",
+    "IRN01",
+    "KOR02",
+    "USA11"
   ],
   "last_removed": []
 }

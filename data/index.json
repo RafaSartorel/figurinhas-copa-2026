@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-18T19:09:03Z",
+  "last_updated": "2026-06-18T23:13:32Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -1447,7 +1447,7 @@
       "team_code": "CRO",
       "country": "Croácia",
       "sticker_number": 1,
-      "owned": false
+      "owned": true
     },
     "CRO02": {
       "team_code": "CRO",
@@ -1891,7 +1891,7 @@
       "team_code": "ECU",
       "country": "Equador",
       "sticker_number": 15,
-      "owned": false
+      "owned": true
     },
     "ECU16": {
       "team_code": "ECU",
@@ -2161,7 +2161,7 @@
       "team_code": "ENG",
       "country": "Inglaterra",
       "sticker_number": 20,
-      "owned": false
+      "owned": true
     },
     "ESP01": {
       "team_code": "ESP",
@@ -2731,7 +2731,7 @@
       "team_code": "GHA",
       "country": "Gana",
       "sticker_number": 15,
-      "owned": false
+      "owned": true
     },
     "GHA16": {
       "team_code": "GHA",
@@ -2887,7 +2887,7 @@
       "team_code": "IRN",
       "country": "Irã",
       "sticker_number": 1,
-      "owned": false
+      "owned": true
     },
     "IRN02": {
       "team_code": "IRN",
@@ -3373,7 +3373,7 @@
       "team_code": "KOR",
       "country": "Coreia do Sul",
       "sticker_number": 2,
-      "owned": false
+      "owned": true
     },
     "KOR03": {
       "team_code": "KOR",
@@ -5707,7 +5707,7 @@
       "team_code": "USA",
       "country": "Estados Unidos",
       "sticker_number": 11,
-      "owned": false
+      "owned": true
     },
     "USA12": {
       "team_code": "USA",

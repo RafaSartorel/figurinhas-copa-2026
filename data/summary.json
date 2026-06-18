@@ -1,21 +1,33 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-18T19:09:03Z",
-  "last_update_source": "chatgpt",
+  "last_updated": "2026-06-18T23:13:32Z",
+  "last_update_source": "foto",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 918,
-    "missing_total": 62,
-    "progress_percent": 93.67
+    "owned_total": 925,
+    "missing_total": 55,
+    "progress_percent": 94.39
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "ESP19"
+      "CRO01",
+      "ECU15",
+      "ENG20",
+      "GHA15",
+      "IRN01",
+      "KOR02",
+      "USA11"
     ],
     "added": [
-      "ESP19"
+      "CRO01",
+      "ECU15",
+      "ENG20",
+      "GHA15",
+      "IRN01",
+      "KOR02",
+      "USA11"
     ],
     "removed": [],
     "already_owned": [],

@@ -224,6 +224,7 @@ CPV17,CPV,Cabo Verde,17,True
 CPV18,CPV,Cabo Verde,18,True
 CPV19,CPV,Cabo Verde,19,True
 CPV20,CPV,Cabo Verde,20,True
+CRO01,CRO,Croácia,1,True
 CRO04,CRO,Croácia,4,True
 CRO05,CRO,Croácia,5,True
 CRO08,CRO,Croácia,8,True
@@ -292,6 +293,7 @@ ECU11,ECU,Equador,11,True
 ECU12,ECU,Equador,12,True
 ECU13,ECU,Equador,13,True
 ECU14,ECU,Equador,14,True
+ECU15,ECU,Equador,15,True
 ECU16,ECU,Equador,16,True
 ECU17,ECU,Equador,17,True
 ECU18,ECU,Equador,18,True
@@ -335,6 +337,7 @@ ENG15,ENG,Inglaterra,15,True
 ENG17,ENG,Inglaterra,17,True
 ENG18,ENG,Inglaterra,18,True
 ENG19,ENG,Inglaterra,19,True
+ENG20,ENG,Inglaterra,20,True
 ESP01,ESP,Espanha,1,True
 ESP02,ESP,Espanha,2,True
 ESP03,ESP,Espanha,3,True
@@ -422,6 +425,7 @@ GHA10,GHA,Gana,10,True
 GHA12,GHA,Gana,12,True
 GHA13,GHA,Gana,13,True
 GHA14,GHA,Gana,14,True
+GHA15,GHA,Gana,15,True
 GHA16,GHA,Gana,16,True
 GHA17,GHA,Gana,17,True
 GHA18,GHA,Gana,18,True
@@ -445,6 +449,7 @@ HAI17,HAI,Haiti,17,True
 HAI18,HAI,Haiti,18,True
 HAI19,HAI,Haiti,19,True
 HAI20,HAI,Haiti,20,True
+IRN01,IRN,Irã,1,True
 IRN02,IRN,Irã,2,True
 IRN03,IRN,Irã,3,True
 IRN04,IRN,Irã,4,True
@@ -522,6 +527,7 @@ JPN18,JPN,Japão,18,True
 JPN19,JPN,Japão,19,True
 JPN20,JPN,Japão,20,True
 KOR01,KOR,Coreia do Sul,1,True
+KOR02,KOR,Coreia do Sul,2,True
 KOR03,KOR,Coreia do Sul,3,True
 KOR04,KOR,Coreia do Sul,4,True
 KOR05,KOR,Coreia do Sul,5,True
@@ -892,6 +898,7 @@ USA05,USA,Estados Unidos,5,True
 USA06,USA,Estados Unidos,6,True
 USA07,USA,Estados Unidos,7,True
 USA10,USA,Estados Unidos,10,True
+USA11,USA,Estados Unidos,11,True
 USA12,USA,Estados Unidos,12,True
 USA13,USA,Estados Unidos,13,True
 USA15,USA,Estados Unidos,15,True

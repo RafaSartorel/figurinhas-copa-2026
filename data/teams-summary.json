@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-18T19:09:03Z",
+  "last_updated": "2026-06-18T23:13:32Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -374,9 +374,10 @@
       "team_code": "CRO",
       "country": "Croácia",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
+        "CRO01",
         "CRO04",
         "CRO05",
         "CRO08",
@@ -394,7 +395,6 @@
         "CRO20"
       ],
       "missing": [
-        "CRO01",
         "CRO02",
         "CRO03",
         "CRO06",
@@ -466,8 +466,8 @@
       "team_code": "ECU",
       "country": "Equador",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "ECU01",
         "ECU02",
@@ -483,15 +483,14 @@
         "ECU12",
         "ECU13",
         "ECU14",
+        "ECU15",
         "ECU16",
         "ECU17",
         "ECU18",
         "ECU19",
         "ECU20"
       ],
-      "missing": [
-        "ECU15"
-      ]
+      "missing": []
     },
     {
       "team_code": "EGY",
@@ -527,8 +526,8 @@
       "team_code": "ENG",
       "country": "Inglaterra",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "ENG01",
         "ENG02",
@@ -547,11 +546,11 @@
         "ENG15",
         "ENG17",
         "ENG18",
-        "ENG19"
+        "ENG19",
+        "ENG20"
       ],
       "missing": [
-        "ENG16",
-        "ENG20"
+        "ENG16"
       ]
     },
     {
@@ -682,8 +681,8 @@
       "team_code": "GHA",
       "country": "Gana",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "GHA01",
         "GHA02",
@@ -698,6 +697,7 @@
         "GHA12",
         "GHA13",
         "GHA14",
+        "GHA15",
         "GHA16",
         "GHA17",
         "GHA18",
@@ -705,8 +705,7 @@
         "GHA20"
       ],
       "missing": [
-        "GHA11",
-        "GHA15"
+        "GHA11"
       ]
     },
     {
@@ -744,9 +743,10 @@
       "team_code": "IRN",
       "country": "Irã",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
+        "IRN01",
         "IRN02",
         "IRN03",
         "IRN04",
@@ -767,9 +767,7 @@
         "IRN19",
         "IRN20"
       ],
-      "missing": [
-        "IRN01"
-      ]
+      "missing": []
     },
     {
       "team_code": "IRQ",
@@ -868,10 +866,11 @@
       "team_code": "KOR",
       "country": "Coreia do Sul",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "KOR01",
+        "KOR02",
         "KOR03",
         "KOR04",
         "KOR05",
@@ -891,9 +890,7 @@
         "KOR19",
         "KOR20"
       ],
-      "missing": [
-        "KOR02"
-      ]
+      "missing": []
     },
     {
       "team_code": "KSA",
@@ -1447,8 +1444,8 @@
       "team_code": "USA",
       "country": "Estados Unidos",
       "stickers_total": 20,
-      "owned_total": 15,
-      "missing_total": 5,
+      "owned_total": 16,
+      "missing_total": 4,
       "owned": [
         "USA01",
         "USA02",
@@ -1457,6 +1454,7 @@
         "USA06",
         "USA07",
         "USA10",
+        "USA11",
         "USA12",
         "USA13",
         "USA15",
@@ -1470,7 +1468,6 @@
         "USA04",
         "USA08",
         "USA09",
-        "USA11",
         "USA14"
       ]
     },
