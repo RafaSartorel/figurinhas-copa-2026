@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-20T02:10:42Z",
+  "last_updated": "2026-06-20T20:34:15Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -1140,8 +1140,8 @@
       "team_code": "POR",
       "country": "Portugal",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "POR01",
         "POR02",
@@ -1157,14 +1157,14 @@
         "POR14",
         "POR15",
         "POR16",
+        "POR17",
         "POR18",
         "POR19",
         "POR20"
       ],
       "missing": [
         "POR04",
-        "POR05",
-        "POR17"
+        "POR05"
       ]
     },
     {

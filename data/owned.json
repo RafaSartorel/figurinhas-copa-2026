@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-20T02:10:42Z",
+  "last_updated": "2026-06-20T20:34:15Z",
   "stickers": [
     "ALG01",
     "ALG02",
@@ -716,6 +716,7 @@
     "POR14",
     "POR15",
     "POR16",
+    "POR17",
     "POR18",
     "POR19",
     "POR20",

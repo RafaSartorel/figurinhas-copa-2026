@@ -1,29 +1,21 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-20T02:10:42Z",
-  "last_update_source": "foto_chatgpt",
+  "last_updated": "2026-06-20T20:34:15Z",
+  "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 930,
-    "missing_total": 50,
-    "progress_percent": 94.9
+    "owned_total": 931,
+    "missing_total": 49,
+    "progress_percent": 95.0
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "ALG17",
-      "BIH06",
-      "USA08",
-      "USA14",
-      "UZB01"
+      "POR17"
     ],
     "added": [
-      "ALG17",
-      "BIH06",
-      "USA08",
-      "USA14",
-      "UZB01"
+      "POR17"
     ],
     "removed": [],
     "already_owned": [],

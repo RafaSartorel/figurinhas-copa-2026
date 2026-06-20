@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 930,
+  "owned_count": 931,
   "stickers": [
     {
       "team_code": "ALG",
@@ -5301,7 +5301,7 @@
       "country": "Portugal",
       "sticker_number": 17,
       "sticker_id": "POR17",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "POR",
@@ -6865,15 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-20T02:10:42Z",
-  "missing_count": 50,
-  "last_update_source": "foto_chatgpt",
+  "last_updated": "2026-06-20T20:34:15Z",
+  "missing_count": 49,
+  "last_update_source": "chatgpt",
   "last_added": [
-    "ALG17",
-    "BIH06",
-    "USA08",
-    "USA14",
-    "UZB01"
+    "POR17"
   ],
   "last_removed": []
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-20T02:10:42Z",
+  "last_updated": "2026-06-20T20:34:15Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -4543,7 +4543,7 @@
       "team_code": "POR",
       "country": "Portugal",
       "sticker_number": 17,
-      "owned": false
+      "owned": true
     },
     "POR18": {
       "team_code": "POR",
