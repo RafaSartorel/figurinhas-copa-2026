@@ -1,16 +1,14 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-18T23:13:32Z",
+  "last_updated": "2026-06-20T02:10:42Z",
   "stickers": [
     "ALG05",
     "ALG08",
-    "ALG17",
     "AUS16",
     "AUS20",
     "BEL01",
     "BEL20",
-    "BIH06",
     "BRA04",
     "BRA08",
     "CIV11",
@@ -52,10 +50,7 @@
     "SWE18",
     "TUN20",
     "USA04",
-    "USA08",
     "USA09",
-    "USA14",
-    "UZB01",
     "UZB09",
     "UZB13"
   ]

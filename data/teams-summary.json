@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-18T23:13:32Z",
+  "last_updated": "2026-06-20T02:10:42Z",
   "teams": [
     {
       "team_code": "ALG",
       "country": "Argélia",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "ALG01",
         "ALG02",
@@ -24,14 +24,14 @@
         "ALG14",
         "ALG15",
         "ALG16",
+        "ALG17",
         "ALG18",
         "ALG19",
         "ALG20"
       ],
       "missing": [
         "ALG05",
-        "ALG08",
-        "ALG17"
+        "ALG08"
       ]
     },
     {
@@ -160,14 +160,15 @@
       "team_code": "BIH",
       "country": "Bósnia",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "BIH01",
         "BIH02",
         "BIH03",
         "BIH04",
         "BIH05",
+        "BIH06",
         "BIH07",
         "BIH08",
         "BIH09",
@@ -183,9 +184,7 @@
         "BIH19",
         "BIH20"
       ],
-      "missing": [
-        "BIH06"
-      ]
+      "missing": []
     },
     {
       "team_code": "BRA",
@@ -1444,8 +1443,8 @@
       "team_code": "USA",
       "country": "Estados Unidos",
       "stickers_total": 20,
-      "owned_total": 16,
-      "missing_total": 4,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "USA01",
         "USA02",
@@ -1453,10 +1452,12 @@
         "USA05",
         "USA06",
         "USA07",
+        "USA08",
         "USA10",
         "USA11",
         "USA12",
         "USA13",
+        "USA14",
         "USA15",
         "USA16",
         "USA17",
@@ -1466,18 +1467,17 @@
       ],
       "missing": [
         "USA04",
-        "USA08",
-        "USA09",
-        "USA14"
+        "USA09"
       ]
     },
     {
       "team_code": "UZB",
       "country": "Uzbequistão",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
+        "UZB01",
         "UZB02",
         "UZB03",
         "UZB04",
@@ -1497,7 +1497,6 @@
         "UZB20"
       ],
       "missing": [
-        "UZB01",
         "UZB09",
         "UZB13"
       ]

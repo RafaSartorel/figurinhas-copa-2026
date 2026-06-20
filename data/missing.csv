@@ -1,12 +1,10 @@
 sticker_id,team_code,country,sticker_number,owned
 ALG05,ALG,Argélia,5,False
 ALG08,ALG,Argélia,8,False
-ALG17,ALG,Argélia,17,False
 AUS16,AUS,Austrália,16,False
 AUS20,AUS,Austrália,20,False
 BEL01,BEL,Bélgica,1,False
 BEL20,BEL,Bélgica,20,False
-BIH06,BIH,Bósnia,6,False
 BRA04,BRA,Brasil,4,False
 BRA08,BRA,Brasil,8,False
 CIV11,CIV,Costa do Marfim,11,False
@@ -48,9 +46,6 @@ POR17,POR,Portugal,17,False
 SWE18,SWE,Suécia,18,False
 TUN20,TUN,Tunísia,20,False
 USA04,USA,Estados Unidos,4,False
-USA08,USA,Estados Unidos,8,False
 USA09,USA,Estados Unidos,9,False
-USA14,USA,Estados Unidos,14,False
-UZB01,UZB,Uzbequistão,1,False
 UZB09,UZB,Uzbequistão,9,False
 UZB13,UZB,Uzbequistão,13,False

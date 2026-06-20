@@ -13,6 +13,7 @@ ALG13,ALG,Argélia,13,True
 ALG14,ALG,Argélia,14,True
 ALG15,ALG,Argélia,15,True
 ALG16,ALG,Argélia,16,True
+ALG17,ALG,Argélia,17,True
 ALG18,ALG,Argélia,18,True
 ALG19,ALG,Argélia,19,True
 ALG20,ALG,Argélia,20,True
@@ -97,6 +98,7 @@ BIH02,BIH,Bósnia,2,True
 BIH03,BIH,Bósnia,3,True
 BIH04,BIH,Bósnia,4,True
 BIH05,BIH,Bósnia,5,True
+BIH06,BIH,Bósnia,6,True
 BIH07,BIH,Bósnia,7,True
 BIH08,BIH,Bósnia,8,True
 BIH09,BIH,Bósnia,9,True
@@ -897,16 +899,19 @@ USA03,USA,Estados Unidos,3,True
 USA05,USA,Estados Unidos,5,True
 USA06,USA,Estados Unidos,6,True
 USA07,USA,Estados Unidos,7,True
+USA08,USA,Estados Unidos,8,True
 USA10,USA,Estados Unidos,10,True
 USA11,USA,Estados Unidos,11,True
 USA12,USA,Estados Unidos,12,True
 USA13,USA,Estados Unidos,13,True
+USA14,USA,Estados Unidos,14,True
 USA15,USA,Estados Unidos,15,True
 USA16,USA,Estados Unidos,16,True
 USA17,USA,Estados Unidos,17,True
 USA18,USA,Estados Unidos,18,True
 USA19,USA,Estados Unidos,19,True
 USA20,USA,Estados Unidos,20,True
+UZB01,UZB,Uzbequistão,1,True
 UZB02,UZB,Uzbequistão,2,True
 UZB03,UZB,Uzbequistão,3,True
 UZB04,UZB,Uzbequistão,4,True

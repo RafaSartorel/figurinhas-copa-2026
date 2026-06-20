@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 925,
+  "owned_count": 930,
   "stickers": [
     {
       "team_code": "ALG",
@@ -121,7 +121,7 @@
       "country": "Argélia",
       "sticker_number": 17,
       "sticker_id": "ALG17",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ALG",
@@ -744,7 +744,7 @@
       "country": "Bósnia",
       "sticker_number": 6,
       "sticker_id": "BIH06",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "BIH",
@@ -6638,7 +6638,7 @@
       "country": "Estados Unidos",
       "sticker_number": 8,
       "sticker_id": "USA08",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "USA",
@@ -6680,7 +6680,7 @@
       "country": "Estados Unidos",
       "sticker_number": 14,
       "sticker_id": "USA14",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "USA",
@@ -6729,7 +6729,7 @@
       "country": "Uzbequistão",
       "sticker_number": 1,
       "sticker_id": "UZB01",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "UZB",
@@ -6865,17 +6865,15 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-18T23:13:32Z",
-  "missing_count": 55,
-  "last_update_source": "foto",
+  "last_updated": "2026-06-20T02:10:42Z",
+  "missing_count": 50,
+  "last_update_source": "foto_chatgpt",
   "last_added": [
-    "CRO01",
-    "ECU15",
-    "ENG20",
-    "GHA15",
-    "IRN01",
-    "KOR02",
-    "USA11"
+    "ALG17",
+    "BIH06",
+    "USA08",
+    "USA14",
+    "UZB01"
   ],
   "last_removed": []
 }

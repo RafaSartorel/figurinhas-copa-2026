@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-18T23:13:32Z",
+  "last_updated": "2026-06-20T02:10:42Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -103,7 +103,7 @@
       "team_code": "ALG",
       "country": "Argélia",
       "sticker_number": 17,
-      "owned": false
+      "owned": true
     },
     "ALG18": {
       "team_code": "ALG",
@@ -637,7 +637,7 @@
       "team_code": "BIH",
       "country": "Bósnia",
       "sticker_number": 6,
-      "owned": false
+      "owned": true
     },
     "BIH07": {
       "team_code": "BIH",
@@ -5689,7 +5689,7 @@
       "team_code": "USA",
       "country": "Estados Unidos",
       "sticker_number": 8,
-      "owned": false
+      "owned": true
     },
     "USA09": {
       "team_code": "USA",
@@ -5725,7 +5725,7 @@
       "team_code": "USA",
       "country": "Estados Unidos",
       "sticker_number": 14,
-      "owned": false
+      "owned": true
     },
     "USA15": {
       "team_code": "USA",
@@ -5767,7 +5767,7 @@
       "team_code": "UZB",
       "country": "Uzbequistão",
       "sticker_number": 1,
-      "owned": false
+      "owned": true
     },
     "UZB02": {
       "team_code": "UZB",
