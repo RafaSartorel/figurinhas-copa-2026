@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-20T20:34:15Z",
+  "last_updated": "2026-06-21T21:29:50Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -68,8 +68,8 @@
       "team_code": "AUS",
       "country": "Austrália",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "AUS01",
         "AUS02",
@@ -88,11 +88,11 @@
         "AUS15",
         "AUS17",
         "AUS18",
-        "AUS19"
+        "AUS19",
+        "AUS20"
       ],
       "missing": [
-        "AUS16",
-        "AUS20"
+        "AUS16"
       ]
     },
     {

@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 931,
+  "owned_count": 932,
   "stickers": [
     {
       "team_code": "ALG",
@@ -422,7 +422,7 @@
       "country": "Austrália",
       "sticker_number": 20,
       "sticker_id": "AUS20",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "AUT",
@@ -6865,11 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-20T20:34:15Z",
-  "missing_count": 49,
+  "last_updated": "2026-06-21T21:29:50Z",
+  "missing_count": 48,
   "last_update_source": "chatgpt",
   "last_added": [
-    "POR17"
+    "AUS20"
   ],
   "last_removed": []
 }

@@ -1,21 +1,21 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-20T20:34:15Z",
+  "last_updated": "2026-06-21T21:29:50Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 931,
-    "missing_total": 49,
-    "progress_percent": 95.0
+    "owned_total": 932,
+    "missing_total": 48,
+    "progress_percent": 95.1
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "POR17"
+      "AUS20"
     ],
     "added": [
-      "POR17"
+      "AUS20"
     ],
     "removed": [],
     "already_owned": [],
