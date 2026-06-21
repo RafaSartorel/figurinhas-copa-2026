@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 932,
+  "owned_count": 933,
   "stickers": [
     {
       "team_code": "ALG",
@@ -5126,7 +5126,7 @@
       "country": "Paraguai",
       "sticker_number": 12,
       "sticker_id": "PAR12",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "PAR",
@@ -6865,11 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-21T21:29:50Z",
-  "missing_count": 48,
+  "last_updated": "2026-06-21T21:34:02Z",
+  "missing_count": 47,
   "last_update_source": "chatgpt",
   "last_added": [
-    "AUS20"
+    "PAR12"
   ],
   "last_removed": []
 }
