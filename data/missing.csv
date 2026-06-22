@@ -8,25 +8,21 @@ BRA04,BRA,Brasil,4,False
 BRA08,BRA,Brasil,8,False
 CIV11,CIV,Costa do Marfim,11,False
 COL02,COL,Colômbia,2,False
-COL03,COL,Colômbia,3,False
 COL11,COL,Colômbia,11,False
 COL16,COL,Colômbia,16,False
 CRO02,CRO,Croácia,2,False
 CRO03,CRO,Croácia,3,False
 CRO06,CRO,Croácia,6,False
-CRO07,CRO,Croácia,7,False
 CUW01,CUW,Curaçao,1,False
 ENG16,ENG,Inglaterra,16,False
 ESP14,ESP,Espanha,14,False
 ESP18,ESP,Espanha,18,False
-FRA06,FRA,França,6,False
 FRA15,FRA,França,15,False
 FWC06,FWC,FIFA World Cup,6,False
 GER14,GER,Alemanha,14,False
 GHA11,GHA,Gana,11,False
 HAI01,HAI,Haiti,1,False
 HAI13,HAI,Haiti,13,False
-IRQ16,IRQ,Iraque,16,False
 JOR02,JOR,Jordânia,2,False
 JPN17,JPN,Japão,17,False
 KSA08,KSA,Arábia Saudita,8,False
@@ -36,13 +32,9 @@ MEX19,MEX,México,19,False
 NOR04,NOR,Noruega,4,False
 NOR17,NOR,Noruega,17,False
 PAR01,PAR,Paraguai,1,False
-PAR09,PAR,Paraguai,9,False
 PAR18,PAR,Paraguai,18,False
-POR04,POR,Portugal,4,False
 POR05,POR,Portugal,5,False
 SWE18,SWE,Suécia,18,False
-TUN20,TUN,Tunísia,20,False
 USA04,USA,Estados Unidos,4,False
 USA09,USA,Estados Unidos,9,False
-UZB09,UZB,Uzbequistão,9,False
 UZB13,UZB,Uzbequistão,13,False

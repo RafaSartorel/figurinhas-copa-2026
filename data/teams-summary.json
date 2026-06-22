@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-21T21:34:02Z",
+  "last_updated": "2026-06-22T22:32:00Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -312,10 +312,11 @@
       "team_code": "COL",
       "country": "Colômbia",
       "stickers_total": 20,
-      "owned_total": 16,
-      "missing_total": 4,
+      "owned_total": 17,
+      "missing_total": 3,
       "owned": [
         "COL01",
+        "COL03",
         "COL04",
         "COL05",
         "COL06",
@@ -334,7 +335,6 @@
       ],
       "missing": [
         "COL02",
-        "COL03",
         "COL11",
         "COL16"
       ]
@@ -373,12 +373,13 @@
       "team_code": "CRO",
       "country": "Croácia",
       "stickers_total": 20,
-      "owned_total": 16,
-      "missing_total": 4,
+      "owned_total": 17,
+      "missing_total": 3,
       "owned": [
         "CRO01",
         "CRO04",
         "CRO05",
+        "CRO07",
         "CRO08",
         "CRO09",
         "CRO10",
@@ -396,8 +397,7 @@
       "missing": [
         "CRO02",
         "CRO03",
-        "CRO06",
-        "CRO07"
+        "CRO06"
       ]
     },
     {
@@ -587,14 +587,15 @@
       "team_code": "FRA",
       "country": "França",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "FRA01",
         "FRA02",
         "FRA03",
         "FRA04",
         "FRA05",
+        "FRA06",
         "FRA07",
         "FRA08",
         "FRA09",
@@ -610,7 +611,6 @@
         "FRA20"
       ],
       "missing": [
-        "FRA06",
         "FRA15"
       ]
     },
@@ -772,8 +772,8 @@
       "team_code": "IRQ",
       "country": "Iraque",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "IRQ01",
         "IRQ02",
@@ -790,14 +790,13 @@
         "IRQ13",
         "IRQ14",
         "IRQ15",
+        "IRQ16",
         "IRQ17",
         "IRQ18",
         "IRQ19",
         "IRQ20"
       ],
-      "missing": [
-        "IRQ16"
-      ]
+      "missing": []
     },
     {
       "team_code": "JOR",
@@ -1109,8 +1108,8 @@
       "team_code": "PAR",
       "country": "Paraguai",
       "stickers_total": 20,
-      "owned_total": 17,
-      "missing_total": 3,
+      "owned_total": 18,
+      "missing_total": 2,
       "owned": [
         "PAR02",
         "PAR03",
@@ -1119,6 +1118,7 @@
         "PAR06",
         "PAR07",
         "PAR08",
+        "PAR09",
         "PAR10",
         "PAR11",
         "PAR12",
@@ -1132,7 +1132,6 @@
       ],
       "missing": [
         "PAR01",
-        "PAR09",
         "PAR18"
       ]
     },
@@ -1140,12 +1139,13 @@
       "team_code": "POR",
       "country": "Portugal",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "POR01",
         "POR02",
         "POR03",
+        "POR04",
         "POR06",
         "POR07",
         "POR08",
@@ -1163,7 +1163,6 @@
         "POR20"
       ],
       "missing": [
-        "POR04",
         "POR05"
       ]
     },
@@ -1352,8 +1351,8 @@
       "team_code": "TUN",
       "country": "Tunísia",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "TUN01",
         "TUN02",
@@ -1373,11 +1372,10 @@
         "TUN16",
         "TUN17",
         "TUN18",
-        "TUN19"
-      ],
-      "missing": [
+        "TUN19",
         "TUN20"
-      ]
+      ],
+      "missing": []
     },
     {
       "team_code": "TUR",
@@ -1474,8 +1472,8 @@
       "team_code": "UZB",
       "country": "Uzbequistão",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "UZB01",
         "UZB02",
@@ -1485,6 +1483,7 @@
         "UZB06",
         "UZB07",
         "UZB08",
+        "UZB09",
         "UZB10",
         "UZB11",
         "UZB12",
@@ -1497,7 +1496,6 @@
         "UZB20"
       ],
       "missing": [
-        "UZB09",
         "UZB13"
       ]
     }

@@ -192,6 +192,7 @@ COD18,COD,Congo,18,True
 COD19,COD,Congo,19,True
 COD20,COD,Congo,20,True
 COL01,COL,Colômbia,1,True
+COL03,COL,Colômbia,3,True
 COL04,COL,Colômbia,4,True
 COL05,COL,Colômbia,5,True
 COL06,COL,Colômbia,6,True
@@ -230,6 +231,7 @@ CPV20,CPV,Cabo Verde,20,True
 CRO01,CRO,Croácia,1,True
 CRO04,CRO,Croácia,4,True
 CRO05,CRO,Croácia,5,True
+CRO07,CRO,Croácia,7,True
 CRO08,CRO,Croácia,8,True
 CRO09,CRO,Croácia,9,True
 CRO10,CRO,Croácia,10,True
@@ -364,6 +366,7 @@ FRA02,FRA,França,2,True
 FRA03,FRA,França,3,True
 FRA04,FRA,França,4,True
 FRA05,FRA,França,5,True
+FRA06,FRA,França,6,True
 FRA07,FRA,França,7,True
 FRA08,FRA,França,8,True
 FRA09,FRA,França,9,True
@@ -487,6 +490,7 @@ IRQ12,IRQ,Iraque,12,True
 IRQ13,IRQ,Iraque,13,True
 IRQ14,IRQ,Iraque,14,True
 IRQ15,IRQ,Iraque,15,True
+IRQ16,IRQ,Iraque,16,True
 IRQ17,IRQ,Iraque,17,True
 IRQ18,IRQ,Iraque,18,True
 IRQ19,IRQ,Iraque,19,True
@@ -690,6 +694,7 @@ PAR05,PAR,Paraguai,5,True
 PAR06,PAR,Paraguai,6,True
 PAR07,PAR,Paraguai,7,True
 PAR08,PAR,Paraguai,8,True
+PAR09,PAR,Paraguai,9,True
 PAR10,PAR,Paraguai,10,True
 PAR11,PAR,Paraguai,11,True
 PAR12,PAR,Paraguai,12,True
@@ -703,6 +708,7 @@ PAR20,PAR,Paraguai,20,True
 POR01,POR,Portugal,1,True
 POR02,POR,Portugal,2,True
 POR03,POR,Portugal,3,True
+POR04,POR,Portugal,4,True
 POR06,POR,Portugal,6,True
 POR07,POR,Portugal,7,True
 POR08,POR,Portugal,8,True
@@ -856,6 +862,7 @@ TUN16,TUN,Tunísia,16,True
 TUN17,TUN,Tunísia,17,True
 TUN18,TUN,Tunísia,18,True
 TUN19,TUN,Tunísia,19,True
+TUN20,TUN,Tunísia,20,True
 TUR01,TUR,Turquia,1,True
 TUR02,TUR,Turquia,2,True
 TUR03,TUR,Turquia,3,True
@@ -922,6 +929,7 @@ UZB05,UZB,Uzbequistão,5,True
 UZB06,UZB,Uzbequistão,6,True
 UZB07,UZB,Uzbequistão,7,True
 UZB08,UZB,Uzbequistão,8,True
+UZB09,UZB,Uzbequistão,9,True
 UZB10,UZB,Uzbequistão,10,True
 UZB11,UZB,Uzbequistão,11,True
 UZB12,UZB,Uzbequistão,12,True

@@ -1,21 +1,35 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-21T21:34:02Z",
-  "last_update_source": "chatgpt",
+  "last_updated": "2026-06-22T22:32:00Z",
+  "last_update_source": "chatgpt-photo-missing-stickers",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 933,
-    "missing_total": 47,
-    "progress_percent": 95.2
+    "owned_total": 941,
+    "missing_total": 39,
+    "progress_percent": 96.02
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "PAR12"
+      "COL03",
+      "CRO07",
+      "FRA06",
+      "IRQ16",
+      "PAR09",
+      "POR04",
+      "TUN20",
+      "UZB09"
     ],
     "added": [
-      "PAR12"
+      "COL03",
+      "CRO07",
+      "FRA06",
+      "IRQ16",
+      "PAR09",
+      "POR04",
+      "TUN20",
+      "UZB09"
     ],
     "removed": [],
     "already_owned": [],

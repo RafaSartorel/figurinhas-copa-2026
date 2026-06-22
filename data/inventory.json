@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 933,
+  "owned_count": 941,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1423,7 +1423,7 @@
       "country": "Colômbia",
       "sticker_number": 3,
       "sticker_id": "COL03",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "COL",
@@ -1731,7 +1731,7 @@
       "country": "Croácia",
       "sticker_number": 7,
       "sticker_id": "CRO07",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CRO",
@@ -2704,7 +2704,7 @@
       "country": "França",
       "sticker_number": 6,
       "sticker_id": "FRA06",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "FRA",
@@ -3614,7 +3614,7 @@
       "country": "Iraque",
       "sticker_number": 16,
       "sticker_id": "IRQ16",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "IRQ",
@@ -5105,7 +5105,7 @@
       "country": "Paraguai",
       "sticker_number": 9,
       "sticker_id": "PAR09",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "PAR",
@@ -5210,7 +5210,7 @@
       "country": "Portugal",
       "sticker_number": 4,
       "sticker_id": "POR04",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "POR",
@@ -6302,7 +6302,7 @@
       "country": "Tunísia",
       "sticker_number": 20,
       "sticker_id": "TUN20",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "TUR",
@@ -6785,7 +6785,7 @@
       "country": "Uzbequistão",
       "sticker_number": 9,
       "sticker_id": "UZB09",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "UZB",
@@ -6865,11 +6865,18 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-21T21:34:02Z",
-  "missing_count": 47,
-  "last_update_source": "chatgpt",
+  "last_updated": "2026-06-22T22:32:00Z",
+  "missing_count": 39,
+  "last_update_source": "chatgpt-photo-missing-stickers",
   "last_added": [
-    "PAR12"
+    "COL03",
+    "CRO07",
+    "FRA06",
+    "IRQ16",
+    "PAR09",
+    "POR04",
+    "TUN20",
+    "UZB09"
   ],
   "last_removed": []
 }
