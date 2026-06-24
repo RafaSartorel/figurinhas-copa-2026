@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-22T22:32:00Z",
+  "last_updated": "2026-06-24T02:12:28Z",
   "stickers": [
     "ALG01",
     "ALG02",
@@ -98,6 +98,7 @@
     "BEL17",
     "BEL18",
     "BEL19",
+    "BEL20",
     "BIH01",
     "BIH02",
     "BIH03",
@@ -432,6 +433,7 @@
     "GHA08",
     "GHA09",
     "GHA10",
+    "GHA11",
     "GHA12",
     "GHA13",
     "GHA14",
@@ -707,6 +709,7 @@
     "PAR15",
     "PAR16",
     "PAR17",
+    "PAR18",
     "PAR19",
     "PAR20",
     "POR01",

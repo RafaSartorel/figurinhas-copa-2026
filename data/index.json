@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-22T22:32:00Z",
+  "last_updated": "2026-06-24T02:12:28Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -601,7 +601,7 @@
       "team_code": "BEL",
       "country": "Bélgica",
       "sticker_number": 20,
-      "owned": false
+      "owned": true
     },
     "BIH01": {
       "team_code": "BIH",
@@ -2707,7 +2707,7 @@
       "team_code": "GHA",
       "country": "Gana",
       "sticker_number": 11,
-      "owned": false
+      "owned": true
     },
     "GHA12": {
       "team_code": "GHA",
@@ -4429,7 +4429,7 @@
       "team_code": "PAR",
       "country": "Paraguai",
       "sticker_number": 18,
-      "owned": false
+      "owned": true
     },
     "PAR19": {
       "team_code": "PAR",

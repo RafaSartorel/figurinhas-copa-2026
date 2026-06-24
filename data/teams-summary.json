@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-22T22:32:00Z",
+  "last_updated": "2026-06-24T02:12:28Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -129,8 +129,8 @@
       "team_code": "BEL",
       "country": "Bélgica",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "BEL02",
         "BEL03",
@@ -149,11 +149,11 @@
         "BEL16",
         "BEL17",
         "BEL18",
-        "BEL19"
+        "BEL19",
+        "BEL20"
       ],
       "missing": [
-        "BEL01",
-        "BEL20"
+        "BEL01"
       ]
     },
     {
@@ -680,8 +680,8 @@
       "team_code": "GHA",
       "country": "Gana",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "GHA01",
         "GHA02",
@@ -693,6 +693,7 @@
         "GHA08",
         "GHA09",
         "GHA10",
+        "GHA11",
         "GHA12",
         "GHA13",
         "GHA14",
@@ -703,9 +704,7 @@
         "GHA19",
         "GHA20"
       ],
-      "missing": [
-        "GHA11"
-      ]
+      "missing": []
     },
     {
       "team_code": "HAI",
@@ -1108,8 +1107,8 @@
       "team_code": "PAR",
       "country": "Paraguai",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "PAR02",
         "PAR03",
@@ -1127,12 +1126,12 @@
         "PAR15",
         "PAR16",
         "PAR17",
+        "PAR18",
         "PAR19",
         "PAR20"
       ],
       "missing": [
-        "PAR01",
-        "PAR18"
+        "PAR01"
       ]
     },
     {

@@ -94,6 +94,7 @@ BEL16,BEL,Bélgica,16,True
 BEL17,BEL,Bélgica,17,True
 BEL18,BEL,Bélgica,18,True
 BEL19,BEL,Bélgica,19,True
+BEL20,BEL,Bélgica,20,True
 BIH01,BIH,Bósnia,1,True
 BIH02,BIH,Bósnia,2,True
 BIH03,BIH,Bósnia,3,True
@@ -428,6 +429,7 @@ GHA07,GHA,Gana,7,True
 GHA08,GHA,Gana,8,True
 GHA09,GHA,Gana,9,True
 GHA10,GHA,Gana,10,True
+GHA11,GHA,Gana,11,True
 GHA12,GHA,Gana,12,True
 GHA13,GHA,Gana,13,True
 GHA14,GHA,Gana,14,True
@@ -703,6 +705,7 @@ PAR14,PAR,Paraguai,14,True
 PAR15,PAR,Paraguai,15,True
 PAR16,PAR,Paraguai,16,True
 PAR17,PAR,Paraguai,17,True
+PAR18,PAR,Paraguai,18,True
 PAR19,PAR,Paraguai,19,True
 PAR20,PAR,Paraguai,20,True
 POR01,POR,Portugal,1,True

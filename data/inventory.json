@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 941,
+  "owned_count": 944,
   "stickers": [
     {
       "team_code": "ALG",
@@ -702,7 +702,7 @@
       "country": "Bélgica",
       "sticker_number": 20,
       "sticker_id": "BEL20",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "BIH",
@@ -3159,7 +3159,7 @@
       "country": "Gana",
       "sticker_number": 11,
       "sticker_id": "GHA11",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "GHA",
@@ -5168,7 +5168,7 @@
       "country": "Paraguai",
       "sticker_number": 18,
       "sticker_id": "PAR18",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "PAR",
@@ -6865,18 +6865,13 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-22T22:32:00Z",
-  "missing_count": 39,
-  "last_update_source": "chatgpt-photo-missing-stickers",
+  "last_updated": "2026-06-24T02:12:28Z",
+  "missing_count": 36,
+  "last_update_source": "chatgpt",
   "last_added": [
-    "COL03",
-    "CRO07",
-    "FRA06",
-    "IRQ16",
-    "PAR09",
-    "POR04",
-    "TUN20",
-    "UZB09"
+    "BEL20",
+    "GHA11",
+    "PAR18"
   ],
   "last_removed": []
 }
