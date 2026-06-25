@@ -3,13 +3,9 @@ ALG05,ALG,Argélia,5,False
 ALG08,ALG,Argélia,8,False
 AUS16,AUS,Austrália,16,False
 BEL01,BEL,Bélgica,1,False
-BRA04,BRA,Brasil,4,False
 BRA08,BRA,Brasil,8,False
 CIV11,CIV,Costa do Marfim,11,False
 COL02,COL,Colômbia,2,False
-COL11,COL,Colômbia,11,False
-COL16,COL,Colômbia,16,False
-CRO02,CRO,Croácia,2,False
 CRO03,CRO,Croácia,3,False
 CRO06,CRO,Croácia,6,False
 CUW01,CUW,Curaçao,1,False
@@ -25,13 +21,9 @@ JOR02,JOR,Jordânia,2,False
 JPN17,JPN,Japão,17,False
 KSA08,KSA,Arábia Saudita,8,False
 MAR12,MAR,Marrocos,12,False
-MEX18,MEX,México,18,False
 MEX19,MEX,México,19,False
 NOR04,NOR,Noruega,4,False
 NOR17,NOR,Noruega,17,False
 PAR01,PAR,Paraguai,1,False
-POR05,POR,Portugal,5,False
-SWE18,SWE,Suécia,18,False
 USA04,USA,Estados Unidos,4,False
 USA09,USA,Estados Unidos,9,False
-UZB13,UZB,Uzbequistão,13,False

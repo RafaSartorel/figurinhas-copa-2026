@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 944,
+  "owned_count": 952,
   "stickers": [
     {
       "team_code": "ALG",
@@ -870,7 +870,7 @@
       "country": "Brasil",
       "sticker_number": 4,
       "sticker_id": "BRA04",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "BRA",
@@ -1479,7 +1479,7 @@
       "country": "Colômbia",
       "sticker_number": 11,
       "sticker_id": "COL11",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "COL",
@@ -1514,7 +1514,7 @@
       "country": "Colômbia",
       "sticker_number": 16,
       "sticker_id": "COL16",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "COL",
@@ -1696,7 +1696,7 @@
       "country": "Croácia",
       "sticker_number": 2,
       "sticker_id": "CRO02",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CRO",
@@ -4468,7 +4468,7 @@
       "country": "México",
       "sticker_number": 18,
       "sticker_id": "MEX18",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "MEX",
@@ -5217,7 +5217,7 @@
       "country": "Portugal",
       "sticker_number": 5,
       "sticker_id": "POR05",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "POR",
@@ -6148,7 +6148,7 @@
       "country": "Suécia",
       "sticker_number": 18,
       "sticker_id": "SWE18",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "SWE",
@@ -6813,7 +6813,7 @@
       "country": "Uzbequistão",
       "sticker_number": 13,
       "sticker_id": "UZB13",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "UZB",
@@ -6865,13 +6865,18 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-24T02:12:28Z",
-  "missing_count": 36,
-  "last_update_source": "chatgpt",
+  "last_updated": "2026-06-25T00:39:55Z",
+  "missing_count": 28,
+  "last_update_source": "chatgpt-image-confirmation",
   "last_added": [
-    "BEL20",
-    "GHA11",
-    "PAR18"
+    "BRA04",
+    "COL11",
+    "COL16",
+    "CRO02",
+    "MEX18",
+    "POR05",
+    "SWE18",
+    "UZB13"
   ],
   "last_removed": []
 }

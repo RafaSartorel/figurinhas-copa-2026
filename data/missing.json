@@ -1,19 +1,15 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-24T02:12:28Z",
+  "last_updated": "2026-06-25T00:39:55Z",
   "stickers": [
     "ALG05",
     "ALG08",
     "AUS16",
     "BEL01",
-    "BRA04",
     "BRA08",
     "CIV11",
     "COL02",
-    "COL11",
-    "COL16",
-    "CRO02",
     "CRO03",
     "CRO06",
     "CUW01",
@@ -29,15 +25,11 @@
     "JPN17",
     "KSA08",
     "MAR12",
-    "MEX18",
     "MEX19",
     "NOR04",
     "NOR17",
     "PAR01",
-    "POR05",
-    "SWE18",
     "USA04",
-    "USA09",
-    "UZB13"
+    "USA09"
   ]
 }

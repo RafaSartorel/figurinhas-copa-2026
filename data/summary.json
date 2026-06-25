@@ -1,25 +1,35 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-24T02:12:28Z",
-  "last_update_source": "chatgpt",
+  "last_updated": "2026-06-25T00:39:55Z",
+  "last_update_source": "chatgpt-image-confirmation",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 944,
-    "missing_total": 36,
-    "progress_percent": 96.33
+    "owned_total": 952,
+    "missing_total": 28,
+    "progress_percent": 97.14
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "BEL20",
-      "GHA11",
-      "PAR18"
+      "BRA04",
+      "COL11",
+      "COL16",
+      "CRO02",
+      "MEX18",
+      "POR05",
+      "SWE18",
+      "UZB13"
     ],
     "added": [
-      "BEL20",
-      "GHA11",
-      "PAR18"
+      "BRA04",
+      "COL11",
+      "COL16",
+      "CRO02",
+      "MEX18",
+      "POR05",
+      "SWE18",
+      "UZB13"
     ],
     "removed": [],
     "already_owned": [],

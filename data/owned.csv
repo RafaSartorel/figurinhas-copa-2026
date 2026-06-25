@@ -118,6 +118,7 @@ BIH20,BIH,Bósnia,20,True
 BRA01,BRA,Brasil,1,True
 BRA02,BRA,Brasil,2,True
 BRA03,BRA,Brasil,3,True
+BRA04,BRA,Brasil,4,True
 BRA05,BRA,Brasil,5,True
 BRA06,BRA,Brasil,6,True
 BRA07,BRA,Brasil,7,True
@@ -201,10 +202,12 @@ COL07,COL,Colômbia,7,True
 COL08,COL,Colômbia,8,True
 COL09,COL,Colômbia,9,True
 COL10,COL,Colômbia,10,True
+COL11,COL,Colômbia,11,True
 COL12,COL,Colômbia,12,True
 COL13,COL,Colômbia,13,True
 COL14,COL,Colômbia,14,True
 COL15,COL,Colômbia,15,True
+COL16,COL,Colômbia,16,True
 COL17,COL,Colômbia,17,True
 COL18,COL,Colômbia,18,True
 COL19,COL,Colômbia,19,True
@@ -230,6 +233,7 @@ CPV18,CPV,Cabo Verde,18,True
 CPV19,CPV,Cabo Verde,19,True
 CPV20,CPV,Cabo Verde,20,True
 CRO01,CRO,Croácia,1,True
+CRO02,CRO,Croácia,2,True
 CRO04,CRO,Croácia,4,True
 CRO05,CRO,Croácia,5,True
 CRO07,CRO,Croácia,7,True
@@ -610,6 +614,7 @@ MEX14,MEX,México,14,True
 MEX15,MEX,México,15,True
 MEX16,MEX,México,16,True
 MEX17,MEX,México,17,True
+MEX18,MEX,México,18,True
 MEX20,MEX,México,20,True
 NED01,NED,Holanda,1,True
 NED02,NED,Holanda,2,True
@@ -712,6 +717,7 @@ POR01,POR,Portugal,1,True
 POR02,POR,Portugal,2,True
 POR03,POR,Portugal,3,True
 POR04,POR,Portugal,4,True
+POR05,POR,Portugal,5,True
 POR06,POR,Portugal,6,True
 POR07,POR,Portugal,7,True
 POR08,POR,Portugal,8,True
@@ -844,6 +850,7 @@ SWE14,SWE,Suécia,14,True
 SWE15,SWE,Suécia,15,True
 SWE16,SWE,Suécia,16,True
 SWE17,SWE,Suécia,17,True
+SWE18,SWE,Suécia,18,True
 SWE19,SWE,Suécia,19,True
 SWE20,SWE,Suécia,20,True
 TUN01,TUN,Tunísia,1,True
@@ -936,6 +943,7 @@ UZB09,UZB,Uzbequistão,9,True
 UZB10,UZB,Uzbequistão,10,True
 UZB11,UZB,Uzbequistão,11,True
 UZB12,UZB,Uzbequistão,12,True
+UZB13,UZB,Uzbequistão,13,True
 UZB14,UZB,Uzbequistão,14,True
 UZB15,UZB,Uzbequistão,15,True
 UZB16,UZB,Uzbequistão,16,True
