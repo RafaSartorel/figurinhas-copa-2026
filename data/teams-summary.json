@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-25T00:39:55Z",
+  "last_updated": "2026-06-29T20:47:21Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -373,13 +373,14 @@
       "team_code": "CRO",
       "country": "Croácia",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "CRO01",
         "CRO02",
         "CRO04",
         "CRO05",
+        "CRO06",
         "CRO07",
         "CRO08",
         "CRO09",
@@ -396,8 +397,7 @@
         "CRO20"
       ],
       "missing": [
-        "CRO03",
-        "CRO06"
+        "CRO03"
       ]
     },
     {
@@ -924,8 +924,8 @@
       "team_code": "MAR",
       "country": "Marrocos",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "MAR01",
         "MAR02",
@@ -938,6 +938,7 @@
         "MAR09",
         "MAR10",
         "MAR11",
+        "MAR12",
         "MAR13",
         "MAR14",
         "MAR15",
@@ -947,16 +948,14 @@
         "MAR19",
         "MAR20"
       ],
-      "missing": [
-        "MAR12"
-      ]
+      "missing": []
     },
     {
       "team_code": "MEX",
       "country": "México",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "MEX01",
         "MEX02",
@@ -976,11 +975,10 @@
         "MEX16",
         "MEX17",
         "MEX18",
+        "MEX19",
         "MEX20"
       ],
-      "missing": [
-        "MEX19"
-      ]
+      "missing": []
     },
     {
       "team_code": "NED",
@@ -1438,8 +1436,8 @@
       "team_code": "USA",
       "country": "Estados Unidos",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "USA01",
         "USA02",
@@ -1448,6 +1446,7 @@
         "USA06",
         "USA07",
         "USA08",
+        "USA09",
         "USA10",
         "USA11",
         "USA12",
@@ -1461,8 +1460,7 @@
         "USA20"
       ],
       "missing": [
-        "USA04",
-        "USA09"
+        "USA04"
       ]
     },
     {

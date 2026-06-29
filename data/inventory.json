@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 952,
+  "owned_count": 956,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1724,7 +1724,7 @@
       "country": "Croácia",
       "sticker_number": 6,
       "sticker_id": "CRO06",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CRO",
@@ -4286,7 +4286,7 @@
       "country": "Marrocos",
       "sticker_number": 12,
       "sticker_id": "MAR12",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "MAR",
@@ -4475,7 +4475,7 @@
       "country": "México",
       "sticker_number": 19,
       "sticker_id": "MEX19",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "MEX",
@@ -6645,7 +6645,7 @@
       "country": "Estados Unidos",
       "sticker_number": 9,
       "sticker_id": "USA09",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "USA",
@@ -6865,18 +6865,14 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-25T00:39:55Z",
-  "missing_count": 28,
-  "last_update_source": "chatgpt-image-confirmation",
+  "last_updated": "2026-06-29T20:47:21Z",
+  "missing_count": 24,
+  "last_update_source": "photo",
   "last_added": [
-    "BRA04",
-    "COL11",
-    "COL16",
-    "CRO02",
-    "MEX18",
-    "POR05",
-    "SWE18",
-    "UZB13"
+    "CRO06",
+    "MAR12",
+    "MEX19",
+    "USA09"
   ],
   "last_removed": []
 }

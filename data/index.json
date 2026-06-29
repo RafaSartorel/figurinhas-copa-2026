@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-25T00:39:55Z",
+  "last_updated": "2026-06-29T20:47:21Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -1477,7 +1477,7 @@
       "team_code": "CRO",
       "country": "Croácia",
       "sticker_number": 6,
-      "owned": false
+      "owned": true
     },
     "CRO07": {
       "team_code": "CRO",
@@ -3673,7 +3673,7 @@
       "team_code": "MAR",
       "country": "Marrocos",
       "sticker_number": 12,
-      "owned": false
+      "owned": true
     },
     "MAR13": {
       "team_code": "MAR",
@@ -3835,7 +3835,7 @@
       "team_code": "MEX",
       "country": "México",
       "sticker_number": 19,
-      "owned": false
+      "owned": true
     },
     "MEX20": {
       "team_code": "MEX",
@@ -5695,7 +5695,7 @@
       "team_code": "USA",
       "country": "Estados Unidos",
       "sticker_number": 9,
-      "owned": false
+      "owned": true
     },
     "USA10": {
       "team_code": "USA",

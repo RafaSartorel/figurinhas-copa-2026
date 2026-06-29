@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-25T00:39:55Z",
+  "last_updated": "2026-06-29T20:47:21Z",
   "stickers": [
     "ALG05",
     "ALG08",
@@ -11,7 +11,6 @@
     "CIV11",
     "COL02",
     "CRO03",
-    "CRO06",
     "CUW01",
     "ENG16",
     "ESP14",
@@ -24,12 +23,9 @@
     "JOR02",
     "JPN17",
     "KSA08",
-    "MAR12",
-    "MEX19",
     "NOR04",
     "NOR17",
     "PAR01",
-    "USA04",
-    "USA09"
+    "USA04"
   ]
 }

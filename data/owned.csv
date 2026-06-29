@@ -236,6 +236,7 @@ CRO01,CRO,Croácia,1,True
 CRO02,CRO,Croácia,2,True
 CRO04,CRO,Croácia,4,True
 CRO05,CRO,Croácia,5,True
+CRO06,CRO,Croácia,6,True
 CRO07,CRO,Croácia,7,True
 CRO08,CRO,Croácia,8,True
 CRO09,CRO,Croácia,9,True
@@ -589,6 +590,7 @@ MAR08,MAR,Marrocos,8,True
 MAR09,MAR,Marrocos,9,True
 MAR10,MAR,Marrocos,10,True
 MAR11,MAR,Marrocos,11,True
+MAR12,MAR,Marrocos,12,True
 MAR13,MAR,Marrocos,13,True
 MAR14,MAR,Marrocos,14,True
 MAR15,MAR,Marrocos,15,True
@@ -615,6 +617,7 @@ MEX15,MEX,México,15,True
 MEX16,MEX,México,16,True
 MEX17,MEX,México,17,True
 MEX18,MEX,México,18,True
+MEX19,MEX,México,19,True
 MEX20,MEX,México,20,True
 NED01,NED,Holanda,1,True
 NED02,NED,Holanda,2,True
@@ -920,6 +923,7 @@ USA05,USA,Estados Unidos,5,True
 USA06,USA,Estados Unidos,6,True
 USA07,USA,Estados Unidos,7,True
 USA08,USA,Estados Unidos,8,True
+USA09,USA,Estados Unidos,9,True
 USA10,USA,Estados Unidos,10,True
 USA11,USA,Estados Unidos,11,True
 USA12,USA,Estados Unidos,12,True
