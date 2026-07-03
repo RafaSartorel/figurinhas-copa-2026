@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-29T20:47:21Z",
+  "last_updated": "2026-07-03T01:37:57Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -556,8 +556,8 @@
       "team_code": "ESP",
       "country": "Espanha",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "ESP01",
         "ESP02",
@@ -572,6 +572,7 @@
         "ESP11",
         "ESP12",
         "ESP13",
+        "ESP14",
         "ESP15",
         "ESP16",
         "ESP17",
@@ -579,7 +580,6 @@
         "ESP20"
       ],
       "missing": [
-        "ESP14",
         "ESP18"
       ]
     },
@@ -710,8 +710,8 @@
       "team_code": "HAI",
       "country": "Haiti",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "HAI02",
         "HAI03",
@@ -724,6 +724,7 @@
         "HAI10",
         "HAI11",
         "HAI12",
+        "HAI13",
         "HAI14",
         "HAI15",
         "HAI16",
@@ -733,8 +734,7 @@
         "HAI20"
       ],
       "missing": [
-        "HAI01",
-        "HAI13"
+        "HAI01"
       ]
     },
     {
@@ -1014,8 +1014,8 @@
       "team_code": "NOR",
       "country": "Noruega",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "NOR01",
         "NOR02",
@@ -1032,13 +1032,13 @@
         "NOR14",
         "NOR15",
         "NOR16",
+        "NOR17",
         "NOR18",
         "NOR19",
         "NOR20"
       ],
       "missing": [
-        "NOR04",
-        "NOR17"
+        "NOR04"
       ]
     },
     {

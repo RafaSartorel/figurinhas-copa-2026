@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-29T20:47:21Z",
+  "last_updated": "2026-07-03T01:37:57Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -2245,7 +2245,7 @@
       "team_code": "ESP",
       "country": "Espanha",
       "sticker_number": 14,
-      "owned": false
+      "owned": true
     },
     "ESP15": {
       "team_code": "ESP",
@@ -2839,7 +2839,7 @@
       "team_code": "HAI",
       "country": "Haiti",
       "sticker_number": 13,
-      "owned": false
+      "owned": true
     },
     "HAI14": {
       "team_code": "HAI",
@@ -4063,7 +4063,7 @@
       "team_code": "NOR",
       "country": "Noruega",
       "sticker_number": 17,
-      "owned": false
+      "owned": true
     },
     "NOR18": {
       "team_code": "NOR",

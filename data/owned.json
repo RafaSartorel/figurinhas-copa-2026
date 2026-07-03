@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-06-29T20:47:21Z",
+  "last_updated": "2026-07-03T01:37:57Z",
   "stickers": [
     "ALG01",
     "ALG02",
@@ -366,6 +366,7 @@
     "ESP11",
     "ESP12",
     "ESP13",
+    "ESP14",
     "ESP15",
     "ESP16",
     "ESP17",
@@ -459,6 +460,7 @@
     "HAI10",
     "HAI11",
     "HAI12",
+    "HAI13",
     "HAI14",
     "HAI15",
     "HAI16",
@@ -658,6 +660,7 @@
     "NOR14",
     "NOR15",
     "NOR16",
+    "NOR17",
     "NOR18",
     "NOR19",
     "NOR20",

@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 956,
+  "owned_count": 959,
   "stickers": [
     {
       "team_code": "ALG",
@@ -2620,7 +2620,7 @@
       "country": "Espanha",
       "sticker_number": 14,
       "sticker_id": "ESP14",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ESP",
@@ -3313,7 +3313,7 @@
       "country": "Haiti",
       "sticker_number": 13,
       "sticker_id": "HAI13",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "HAI",
@@ -4741,7 +4741,7 @@
       "country": "Noruega",
       "sticker_number": 17,
       "sticker_id": "NOR17",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "NOR",
@@ -6865,14 +6865,13 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-06-29T20:47:21Z",
-  "missing_count": 24,
-  "last_update_source": "photo",
+  "last_updated": "2026-07-03T01:37:57Z",
+  "missing_count": 21,
+  "last_update_source": "image",
   "last_added": [
-    "CRO06",
-    "MAR12",
-    "MEX19",
-    "USA09"
+    "ESP14",
+    "HAI13",
+    "NOR17"
   ],
   "last_removed": []
 }
