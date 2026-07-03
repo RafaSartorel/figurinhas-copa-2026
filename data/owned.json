@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-07-03T02:42:47Z",
+  "last_updated": "2026-07-03T22:48:44Z",
   "stickers": [
     "ALG01",
     "ALG02",
@@ -80,6 +80,7 @@
     "AUT18",
     "AUT19",
     "AUT20",
+    "BEL01",
     "BEL02",
     "BEL03",
     "BEL04",
@@ -255,6 +256,7 @@
     "CRO18",
     "CRO19",
     "CRO20",
+    "CUW01",
     "CUW02",
     "CUW03",
     "CUW04",
@@ -387,6 +389,7 @@
     "FRA12",
     "FRA13",
     "FRA14",
+    "FRA15",
     "FRA16",
     "FRA17",
     "FRA18",

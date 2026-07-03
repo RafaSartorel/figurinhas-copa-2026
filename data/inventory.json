@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 960,
+  "owned_count": 963,
   "stickers": [
     {
       "team_code": "ALG",
@@ -569,7 +569,7 @@
       "country": "Bélgica",
       "sticker_number": 1,
       "sticker_id": "BEL01",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "BEL",
@@ -1829,7 +1829,7 @@
       "country": "Curaçao",
       "sticker_number": 1,
       "sticker_id": "CUW01",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CUW",
@@ -2767,7 +2767,7 @@
       "country": "França",
       "sticker_number": 15,
       "sticker_id": "FRA15",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "FRA",
@@ -6865,11 +6865,13 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-07-03T02:42:47Z",
-  "missing_count": 20,
-  "last_update_source": "chat",
+  "last_updated": "2026-07-03T22:48:44Z",
+  "missing_count": 17,
+  "last_update_source": "chat-photo-check",
   "last_added": [
-    "ENG16"
+    "BEL01",
+    "CUW01",
+    "FRA15"
   ],
   "last_removed": []
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-07-03T02:42:47Z",
+  "last_updated": "2026-07-03T22:48:44Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -129,9 +129,10 @@
       "team_code": "BEL",
       "country": "Bélgica",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
+        "BEL01",
         "BEL02",
         "BEL03",
         "BEL04",
@@ -152,9 +153,7 @@
         "BEL19",
         "BEL20"
       ],
-      "missing": [
-        "BEL01"
-      ]
+      "missing": []
     },
     {
       "team_code": "BIH",
@@ -404,9 +403,10 @@
       "team_code": "CUW",
       "country": "Curaçao",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
+        "CUW01",
         "CUW02",
         "CUW03",
         "CUW04",
@@ -427,9 +427,7 @@
         "CUW19",
         "CUW20"
       ],
-      "missing": [
-        "CUW01"
-      ]
+      "missing": []
     },
     {
       "team_code": "CZE",
@@ -586,8 +584,8 @@
       "team_code": "FRA",
       "country": "França",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "FRA01",
         "FRA02",
@@ -603,15 +601,14 @@
         "FRA12",
         "FRA13",
         "FRA14",
+        "FRA15",
         "FRA16",
         "FRA17",
         "FRA18",
         "FRA19",
         "FRA20"
       ],
-      "missing": [
-        "FRA15"
-      ]
+      "missing": []
     },
     {
       "team_code": "FWC",

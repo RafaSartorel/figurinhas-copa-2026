@@ -76,6 +76,7 @@ AUT17,AUT,Áustria,17,True
 AUT18,AUT,Áustria,18,True
 AUT19,AUT,Áustria,19,True
 AUT20,AUT,Áustria,20,True
+BEL01,BEL,Bélgica,1,True
 BEL02,BEL,Bélgica,2,True
 BEL03,BEL,Bélgica,3,True
 BEL04,BEL,Bélgica,4,True
@@ -251,6 +252,7 @@ CRO17,CRO,Croácia,17,True
 CRO18,CRO,Croácia,18,True
 CRO19,CRO,Croácia,19,True
 CRO20,CRO,Croácia,20,True
+CUW01,CUW,Curaçao,1,True
 CUW02,CUW,Curaçao,2,True
 CUW03,CUW,Curaçao,3,True
 CUW04,CUW,Curaçao,4,True
@@ -383,6 +385,7 @@ FRA11,FRA,França,11,True
 FRA12,FRA,França,12,True
 FRA13,FRA,França,13,True
 FRA14,FRA,França,14,True
+FRA15,FRA,França,15,True
 FRA16,FRA,França,16,True
 FRA17,FRA,França,17,True
 FRA18,FRA,França,18,True
