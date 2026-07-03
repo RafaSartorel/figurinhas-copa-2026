@@ -1,25 +1,21 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-07-03T01:37:57Z",
-  "last_update_source": "image",
+  "last_updated": "2026-07-03T02:42:47Z",
+  "last_update_source": "chat",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 959,
-    "missing_total": 21,
-    "progress_percent": 97.86
+    "owned_total": 960,
+    "missing_total": 20,
+    "progress_percent": 97.96
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "ESP14",
-      "HAI13",
-      "NOR17"
+      "ENG16"
     ],
     "added": [
-      "ESP14",
-      "HAI13",
-      "NOR17"
+      "ENG16"
     ],
     "removed": [],
     "already_owned": [],

@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-07-03T01:37:57Z",
+  "last_updated": "2026-07-03T02:42:47Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -525,8 +525,8 @@
       "team_code": "ENG",
       "country": "Inglaterra",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "ENG01",
         "ENG02",
@@ -543,14 +543,13 @@
         "ENG13",
         "ENG14",
         "ENG15",
+        "ENG16",
         "ENG17",
         "ENG18",
         "ENG19",
         "ENG20"
       ],
-      "missing": [
-        "ENG16"
-      ]
+      "missing": []
     },
     {
       "team_code": "ESP",

@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 959,
+  "owned_count": 960,
   "stickers": [
     {
       "team_code": "ALG",
@@ -2494,7 +2494,7 @@
       "country": "Inglaterra",
       "sticker_number": 16,
       "sticker_id": "ENG16",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ENG",
@@ -6865,13 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-07-03T01:37:57Z",
-  "missing_count": 21,
-  "last_update_source": "image",
+  "last_updated": "2026-07-03T02:42:47Z",
+  "missing_count": 20,
+  "last_update_source": "chat",
   "last_added": [
-    "ESP14",
-    "HAI13",
-    "NOR17"
+    "ENG16"
   ],
   "last_removed": []
 }
