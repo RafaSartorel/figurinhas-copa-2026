@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-07-03T22:48:44Z",
+  "last_updated": "2026-07-06T21:33:04Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -31,7 +31,7 @@
       "team_code": "ALG",
       "country": "Argélia",
       "sticker_number": 5,
-      "owned": false
+      "owned": true
     },
     "ALG06": {
       "team_code": "ALG",
@@ -1459,7 +1459,7 @@
       "team_code": "CRO",
       "country": "Croácia",
       "sticker_number": 3,
-      "owned": false
+      "owned": true
     },
     "CRO04": {
       "team_code": "CRO",

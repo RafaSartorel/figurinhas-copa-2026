@@ -1,19 +1,20 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-07-03T22:48:44Z",
+  "last_updated": "2026-07-06T21:33:04Z",
   "teams": [
     {
       "team_code": "ALG",
       "country": "Argélia",
       "stickers_total": 20,
-      "owned_total": 18,
-      "missing_total": 2,
+      "owned_total": 19,
+      "missing_total": 1,
       "owned": [
         "ALG01",
         "ALG02",
         "ALG03",
         "ALG04",
+        "ALG05",
         "ALG06",
         "ALG07",
         "ALG09",
@@ -30,7 +31,6 @@
         "ALG20"
       ],
       "missing": [
-        "ALG05",
         "ALG08"
       ]
     },
@@ -372,11 +372,12 @@
       "team_code": "CRO",
       "country": "Croácia",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "CRO01",
         "CRO02",
+        "CRO03",
         "CRO04",
         "CRO05",
         "CRO06",
@@ -395,9 +396,7 @@
         "CRO19",
         "CRO20"
       ],
-      "missing": [
-        "CRO03"
-      ]
+      "missing": []
     },
     {
       "team_code": "CUW",

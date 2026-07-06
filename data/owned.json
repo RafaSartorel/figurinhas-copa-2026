@@ -1,12 +1,13 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-07-03T22:48:44Z",
+  "last_updated": "2026-07-06T21:33:04Z",
   "stickers": [
     "ALG01",
     "ALG02",
     "ALG03",
     "ALG04",
+    "ALG05",
     "ALG06",
     "ALG07",
     "ALG09",
@@ -239,6 +240,7 @@
     "CPV20",
     "CRO01",
     "CRO02",
+    "CRO03",
     "CRO04",
     "CRO05",
     "CRO06",

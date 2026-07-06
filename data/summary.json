@@ -1,25 +1,23 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-07-03T22:48:44Z",
-  "last_update_source": "chat-photo-check",
+  "last_updated": "2026-07-06T21:33:04Z",
+  "last_update_source": "chat-photo-add",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 963,
-    "missing_total": 17,
-    "progress_percent": 98.27
+    "owned_total": 965,
+    "missing_total": 15,
+    "progress_percent": 98.47
   },
   "last_update_result": {
     "operation": "add",
     "requested": [
-      "BEL01",
-      "CUW01",
-      "FRA15"
+      "ALG05",
+      "CRO03"
     ],
     "added": [
-      "BEL01",
-      "CUW01",
-      "FRA15"
+      "ALG05",
+      "CRO03"
     ],
     "removed": [],
     "already_owned": [],
