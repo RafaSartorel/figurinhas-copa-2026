@@ -1,27 +1,23 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-07-07T11:32:12Z",
+  "last_updated": "2026-07-07T14:27:05Z",
   "last_update_source": "chatgpt",
   "totals": {
     "stickers_total": 980,
-    "owned_total": 968,
-    "missing_total": 12,
-    "progress_percent": 98.78
+    "owned_total": 967,
+    "missing_total": 13,
+    "progress_percent": 98.67
   },
   "last_update_result": {
-    "operation": "add",
+    "operation": "remove",
     "requested": [
-      "ALG08",
-      "AUS16",
-      "JOR02"
+      "AUS16"
     ],
-    "added": [
-      "ALG08",
-      "AUS16",
-      "JOR02"
+    "added": [],
+    "removed": [
+      "AUS16"
     ],
-    "removed": [],
     "already_owned": [],
     "already_missing": [],
     "not_found": [],

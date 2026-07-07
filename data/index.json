@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-07-07T11:32:12Z",
+  "last_updated": "2026-07-07T14:27:05Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -337,7 +337,7 @@
       "team_code": "AUS",
       "country": "Austrália",
       "sticker_number": 16,
-      "owned": true
+      "owned": false
     },
     "AUS17": {
       "team_code": "AUS",
