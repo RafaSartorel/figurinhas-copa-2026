@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-07-06T21:33:04Z",
+  "last_updated": "2026-07-07T11:32:12Z",
   "stickers": [
     "ALG01",
     "ALG02",
@@ -10,6 +10,7 @@
     "ALG05",
     "ALG06",
     "ALG07",
+    "ALG08",
     "ALG09",
     "ALG10",
     "ALG11",
@@ -57,6 +58,7 @@
     "AUS13",
     "AUS14",
     "AUS15",
+    "AUS16",
     "AUS17",
     "AUS18",
     "AUS19",
@@ -515,6 +517,7 @@
     "IRQ19",
     "IRQ20",
     "JOR01",
+    "JOR02",
     "JOR03",
     "JOR04",
     "JOR05",

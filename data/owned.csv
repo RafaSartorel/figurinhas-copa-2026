@@ -6,6 +6,7 @@ ALG04,ALG,Argélia,4,True
 ALG05,ALG,Argélia,5,True
 ALG06,ALG,Argélia,6,True
 ALG07,ALG,Argélia,7,True
+ALG08,ALG,Argélia,8,True
 ALG09,ALG,Argélia,9,True
 ALG10,ALG,Argélia,10,True
 ALG11,ALG,Argélia,11,True
@@ -53,6 +54,7 @@ AUS12,AUS,Austrália,12,True
 AUS13,AUS,Austrália,13,True
 AUS14,AUS,Austrália,14,True
 AUS15,AUS,Austrália,15,True
+AUS16,AUS,Austrália,16,True
 AUS17,AUS,Austrália,17,True
 AUS18,AUS,Austrália,18,True
 AUS19,AUS,Austrália,19,True
@@ -511,6 +513,7 @@ IRQ18,IRQ,Iraque,18,True
 IRQ19,IRQ,Iraque,19,True
 IRQ20,IRQ,Iraque,20,True
 JOR01,JOR,Jordânia,1,True
+JOR02,JOR,Jordânia,2,True
 JOR03,JOR,Jordânia,3,True
 JOR04,JOR,Jordânia,4,True
 JOR05,JOR,Jordânia,5,True

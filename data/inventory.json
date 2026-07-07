@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 965,
+  "owned_count": 968,
   "stickers": [
     {
       "team_code": "ALG",
@@ -58,7 +58,7 @@
       "country": "Argélia",
       "sticker_number": 8,
       "sticker_id": "ALG08",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "ALG",
@@ -394,7 +394,7 @@
       "country": "Austrália",
       "sticker_number": 16,
       "sticker_id": "AUS16",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "AUS",
@@ -3656,7 +3656,7 @@
       "country": "Jordânia",
       "sticker_number": 2,
       "sticker_id": "JOR02",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "JOR",
@@ -6865,12 +6865,13 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-07-06T21:33:04Z",
-  "missing_count": 15,
-  "last_update_source": "chat-photo-add",
+  "last_updated": "2026-07-07T11:32:12Z",
+  "missing_count": 12,
+  "last_update_source": "chatgpt",
   "last_added": [
-    "ALG05",
-    "CRO03"
+    "ALG08",
+    "AUS16",
+    "JOR02"
   ],
   "last_removed": []
 }

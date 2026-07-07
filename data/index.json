@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-07-06T21:33:04Z",
+  "last_updated": "2026-07-07T11:32:12Z",
   "stickers": {
     "ALG01": {
       "team_code": "ALG",
@@ -49,7 +49,7 @@
       "team_code": "ALG",
       "country": "Argélia",
       "sticker_number": 8,
-      "owned": false
+      "owned": true
     },
     "ALG09": {
       "team_code": "ALG",
@@ -337,7 +337,7 @@
       "team_code": "AUS",
       "country": "Austrália",
       "sticker_number": 16,
-      "owned": false
+      "owned": true
     },
     "AUS17": {
       "team_code": "AUS",
@@ -3133,7 +3133,7 @@
       "team_code": "JOR",
       "country": "Jordânia",
       "sticker_number": 2,
-      "owned": false
+      "owned": true
     },
     "JOR03": {
       "team_code": "JOR",

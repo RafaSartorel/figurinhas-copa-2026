@@ -1,6 +1,4 @@
 sticker_id,team_code,country,sticker_number,owned
-ALG08,ALG,Argélia,8,False
-AUS16,AUS,Austrália,16,False
 BRA08,BRA,Brasil,8,False
 CIV11,CIV,Costa do Marfim,11,False
 COL02,COL,Colômbia,2,False
@@ -8,7 +6,6 @@ ESP18,ESP,Espanha,18,False
 FWC06,FWC,FIFA World Cup,6,False
 GER14,GER,Alemanha,14,False
 HAI01,HAI,Haiti,1,False
-JOR02,JOR,Jordânia,2,False
 JPN17,JPN,Japão,17,False
 KSA08,KSA,Arábia Saudita,8,False
 NOR04,NOR,Noruega,4,False

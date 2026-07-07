@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-07-06T21:33:04Z",
+  "last_updated": "2026-07-07T11:32:12Z",
   "teams": [
     {
       "team_code": "ALG",
       "country": "Argélia",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "ALG01",
         "ALG02",
@@ -17,6 +17,7 @@
         "ALG05",
         "ALG06",
         "ALG07",
+        "ALG08",
         "ALG09",
         "ALG10",
         "ALG11",
@@ -30,9 +31,7 @@
         "ALG19",
         "ALG20"
       ],
-      "missing": [
-        "ALG08"
-      ]
+      "missing": []
     },
     {
       "team_code": "ARG",
@@ -68,8 +67,8 @@
       "team_code": "AUS",
       "country": "Austrália",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "AUS01",
         "AUS02",
@@ -86,14 +85,13 @@
         "AUS13",
         "AUS14",
         "AUS15",
+        "AUS16",
         "AUS17",
         "AUS18",
         "AUS19",
         "AUS20"
       ],
-      "missing": [
-        "AUS16"
-      ]
+      "missing": []
     },
     {
       "team_code": "AUT",
@@ -796,10 +794,11 @@
       "team_code": "JOR",
       "country": "Jordânia",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "JOR01",
+        "JOR02",
         "JOR03",
         "JOR04",
         "JOR05",
@@ -819,9 +818,7 @@
         "JOR19",
         "JOR20"
       ],
-      "missing": [
-        "JOR02"
-      ]
+      "missing": []
     },
     {
       "team_code": "JPN",
