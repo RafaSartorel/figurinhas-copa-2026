@@ -167,6 +167,7 @@ CIV07,CIV,Costa do Marfim,7,True
 CIV08,CIV,Costa do Marfim,8,True
 CIV09,CIV,Costa do Marfim,9,True
 CIV10,CIV,Costa do Marfim,10,True
+CIV11,CIV,Costa do Marfim,11,True
 CIV12,CIV,Costa do Marfim,12,True
 CIV13,CIV,Costa do Marfim,13,True
 CIV14,CIV,Costa do Marfim,14,True
@@ -452,6 +453,7 @@ GHA17,GHA,Gana,17,True
 GHA18,GHA,Gana,18,True
 GHA19,GHA,Gana,19,True
 GHA20,GHA,Gana,20,True
+HAI01,HAI,Haiti,1,True
 HAI02,HAI,Haiti,2,True
 HAI03,HAI,Haiti,3,True
 HAI04,HAI,Haiti,4,True
@@ -547,6 +549,7 @@ JPN13,JPN,Japão,13,True
 JPN14,JPN,Japão,14,True
 JPN15,JPN,Japão,15,True
 JPN16,JPN,Japão,16,True
+JPN17,JPN,Japão,17,True
 JPN18,JPN,Japão,18,True
 JPN19,JPN,Japão,19,True
 JPN20,JPN,Japão,20,True
@@ -930,6 +933,7 @@ URU20,URU,Uruguai,20,True
 USA01,USA,Estados Unidos,1,True
 USA02,USA,Estados Unidos,2,True
 USA03,USA,Estados Unidos,3,True
+USA04,USA,Estados Unidos,4,True
 USA05,USA,Estados Unidos,5,True
 USA06,USA,Estados Unidos,6,True
 USA07,USA,Estados Unidos,7,True

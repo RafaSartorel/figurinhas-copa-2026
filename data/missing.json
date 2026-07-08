@@ -1,20 +1,16 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-07-07T14:27:05Z",
+  "last_updated": "2026-07-08T23:44:31Z",
   "stickers": [
     "AUS16",
     "BRA08",
-    "CIV11",
     "COL02",
     "ESP18",
     "FWC06",
     "GER14",
-    "HAI01",
-    "JPN17",
     "KSA08",
     "NOR04",
-    "PAR01",
-    "USA04"
+    "PAR01"
   ]
 }

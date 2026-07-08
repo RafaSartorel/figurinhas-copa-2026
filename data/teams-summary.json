@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "source": "github",
-  "last_updated": "2026-07-07T14:27:05Z",
+  "last_updated": "2026-07-08T23:44:31Z",
   "teams": [
     {
       "team_code": "ALG",
@@ -249,8 +249,8 @@
       "team_code": "CIV",
       "country": "Costa do Marfim",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "CIV01",
         "CIV02",
@@ -262,6 +262,7 @@
         "CIV08",
         "CIV09",
         "CIV10",
+        "CIV11",
         "CIV12",
         "CIV13",
         "CIV14",
@@ -272,9 +273,7 @@
         "CIV19",
         "CIV20"
       ],
-      "missing": [
-        "CIV11"
-      ]
+      "missing": []
     },
     {
       "team_code": "COD",
@@ -704,9 +703,10 @@
       "team_code": "HAI",
       "country": "Haiti",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
+        "HAI01",
         "HAI02",
         "HAI03",
         "HAI04",
@@ -727,9 +727,7 @@
         "HAI19",
         "HAI20"
       ],
-      "missing": [
-        "HAI01"
-      ]
+      "missing": []
     },
     {
       "team_code": "IRN",
@@ -825,8 +823,8 @@
       "team_code": "JPN",
       "country": "Japão",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "JPN01",
         "JPN02",
@@ -844,13 +842,12 @@
         "JPN14",
         "JPN15",
         "JPN16",
+        "JPN17",
         "JPN18",
         "JPN19",
         "JPN20"
       ],
-      "missing": [
-        "JPN17"
-      ]
+      "missing": []
     },
     {
       "team_code": "KOR",
@@ -1429,12 +1426,13 @@
       "team_code": "USA",
       "country": "Estados Unidos",
       "stickers_total": 20,
-      "owned_total": 19,
-      "missing_total": 1,
+      "owned_total": 20,
+      "missing_total": 0,
       "owned": [
         "USA01",
         "USA02",
         "USA03",
+        "USA04",
         "USA05",
         "USA06",
         "USA07",
@@ -1452,9 +1450,7 @@
         "USA19",
         "USA20"
       ],
-      "missing": [
-        "USA04"
-      ]
+      "missing": []
     },
     {
       "team_code": "UZB",

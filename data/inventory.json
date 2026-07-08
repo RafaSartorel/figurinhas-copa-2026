@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 967,
+  "owned_count": 971,
   "stickers": [
     {
       "team_code": "ALG",
@@ -1199,7 +1199,7 @@
       "country": "Costa do Marfim",
       "sticker_number": 11,
       "sticker_id": "CIV11",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "CIV",
@@ -3229,7 +3229,7 @@
       "country": "Haiti",
       "sticker_number": 1,
       "sticker_id": "HAI01",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "HAI",
@@ -3901,7 +3901,7 @@
       "country": "Japão",
       "sticker_number": 17,
       "sticker_id": "JPN17",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "JPN",
@@ -6610,7 +6610,7 @@
       "country": "Estados Unidos",
       "sticker_number": 4,
       "sticker_id": "USA04",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "USA",
@@ -6865,11 +6865,14 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-07-07T14:27:05Z",
-  "missing_count": 13,
-  "last_update_source": "chatgpt",
-  "last_added": [],
-  "last_removed": [
-    "AUS16"
-  ]
+  "last_updated": "2026-07-08T23:44:31Z",
+  "missing_count": 9,
+  "last_update_source": "chatgpt:image",
+  "last_added": [
+    "CIV11",
+    "HAI01",
+    "JPN17",
+    "USA04"
+  ],
+  "last_removed": []
 }
