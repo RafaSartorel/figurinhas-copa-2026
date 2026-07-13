@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "id_format": "<TEAM_CODE><2_DIGIT_NUMBER>",
   "total_stickers": 980,
-  "owned_count": 971,
+  "owned_count": 972,
   "stickers": [
     {
       "team_code": "ALG",
@@ -3040,7 +3040,7 @@
       "country": "Alemanha",
       "sticker_number": 14,
       "sticker_id": "GER14",
-      "owned": false
+      "owned": true
     },
     {
       "team_code": "GER",
@@ -6865,14 +6865,11 @@
       "owned": true
     }
   ],
-  "last_updated": "2026-07-08T23:44:31Z",
-  "missing_count": 9,
-  "last_update_source": "chatgpt:image",
+  "last_updated": "2026-07-13T13:49:46Z",
+  "missing_count": 8,
+  "last_update_source": "chatgpt",
   "last_added": [
-    "CIV11",
-    "HAI01",
-    "JPN17",
-    "USA04"
+    "GER14"
   ],
   "last_removed": []
 }
